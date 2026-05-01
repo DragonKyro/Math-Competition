@@ -6,7 +6,6 @@ Problems tagged `complex-numbers`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-bash, trig-identities |
 | AMC 12 | 2001 | [#23](../problems/amc12/2001.md#problem-23) | polynomial-division, quadratic-formula, vietas-formulas |
 | AMC 12 A | 2003 | [#25](../problems/amc12/2003A.md#problem-25) | — |
 | AMC 12 B | 2005 | [#22](../problems/amc12/2005B.md#problem-22) | induction, modular-arithmetic, recursion |

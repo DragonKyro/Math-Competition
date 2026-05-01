@@ -6,6 +6,7 @@ Problems tagged `arithmetic-sequence`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2016 | [#10](../problems/amc10/2016A.md#problem-10) | area-reasoning |
 | AMC 10 A | 2019 | [#15](../problems/amc10/2019A.md#problem-15) | reciprocal-sequence |
 
 <!-- AUTOGEN-END -->

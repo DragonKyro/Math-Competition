@@ -12,8 +12,6 @@ Problems tagged `rotation`.
 | AMC 10 A | 2012 | [#25](../problems/amc10/2012A.md#problem-25) | geometric-probability |
 | AMC 10 A | 2015 | [#14](../problems/amc10/2015A.md#problem-14) | — |
 | AMC 10 B | 2015 | [#19](../problems/amc10/2015B.md#problem-19) | pythagorean-theorem |
-| AMC 10 A | 2016 | [#16](../problems/amc10/2016A.md#problem-16) | reflection |
-| AMC 10 A | 2016 | [#18](../problems/amc10/2016A.md#problem-18) | casework |
 | AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | reflection, inverse-transformations |
 | AMC 10 A | 2023 | [#19](../problems/amc10/2023A.md#problem-19) | perpendicular-bisector |
 | AMC 12 | 2000 | [#25](../problems/amc12/2000.md#problem-25) | — |

@@ -6,6 +6,9 @@ Problems tagged `coordinate-geometry`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2016 | [#11](../problems/amc10/2016A.md#problem-11) | shoelace-theorem |
+| AMC 10 A | 2016 | [#16](../problems/amc10/2016A.md#problem-16) | transformations |
+| AMC 10 A | 2016 | [#21](../problems/amc10/2016A.md#problem-21) | tangent-circles, shoelace-theorem |
 | AMC 10 B | 2018 | [#10](../problems/amc10/2018B.md#problem-10) | pyramid-volume |
 | AMC 10 A | 2022 | [#23](../problems/amc10/2022A.md#problem-23) | distance-formula |
 | AIME I | 2021 | [#6](../problems/aime/2021I.md#problem-6) | cube-geometry |

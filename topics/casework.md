@@ -71,10 +71,6 @@ Problems tagged `casework`.
 | AMC 10 A | 2015 | [#22](../problems/amc10/2015A.md#problem-22) | complementary-counting, recursion, stars-and-bars |
 | AMC 10 B | 2015 | [#21](../problems/amc10/2015B.md#problem-21) | modular-arithmetic |
 | AMC 10 B | 2015 | [#25](../problems/amc10/2015B.md#problem-25) | — |
-| AMC 10 A | 2016 | [#13](../problems/amc10/2016A.md#problem-13) | — |
-| AMC 10 A | 2016 | [#18](../problems/amc10/2016A.md#problem-18) | rotation |
-| AMC 10 A | 2016 | [#20](../problems/amc10/2016A.md#problem-20) | hockey-stick-identity, stars-and-bars |
-| AMC 10 A | 2016 | [#25](../problems/amc10/2016A.md#problem-25) | prime-factorization |
 | AMC 10 B | 2016 | [#12](../problems/amc10/2016B.md#problem-12) | complementary-counting |
 | AMC 10 B | 2016 | [#14](../problems/amc10/2016B.md#problem-14) | floor-function |
 | AMC 10 B | 2016 | [#21](../problems/amc10/2016B.md#problem-21) | — |

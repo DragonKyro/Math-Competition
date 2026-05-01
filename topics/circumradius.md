@@ -11,7 +11,6 @@ Problems tagged `circumradius`.
 | AMC 10 B | 2004 | [#22](../problems/amc10/2004B.md#problem-22) | angle-bisector-theorem, coordinate-bash, diophantine-equations, inradius, pythagorean-theorem |
 | AMC 10 B | 2004 | [#24](../problems/amc10/2004B.md#problem-24) | angle-bisector-theorem, ptolemys-theorem, similar-triangles |
 | AMC 10 A | 2007 | [#14](../problems/amc10/2007A.md#problem-14) | diophantine-equations, pythagorean-theorem |
-| AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-bash, trig-identities |
 | AMC 12 A | 2004 | [#22](../problems/amc12/2004A.md#problem-22) | pythagorean-theorem |
 | AMC 12 B | 2005 | [#18](../problems/amc12/2005B.md#problem-18) | — |
 | AMC 12 A | 2007 | [#10](../problems/amc12/2007A.md#problem-10) | diophantine-equations, pythagorean-theorem |

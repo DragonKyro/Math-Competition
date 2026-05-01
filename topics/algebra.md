@@ -610,13 +610,6 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 B | 2015 | [#8](../problems/amc10/2015B.md#problem-8) | — |
 | AMC 10 B | 2015 | [#13](../problems/amc10/2015B.md#problem-13) | geometry |
 | AMC 10 B | 2015 | [#15](../problems/amc10/2015B.md#problem-15) | — |
-| AMC 10 A | 2016 | [#2](../problems/amc10/2016A.md#problem-2) | — |
-| AMC 10 A | 2016 | [#3](../problems/amc10/2016A.md#problem-3) | — |
-| AMC 10 A | 2016 | [#6](../problems/amc10/2016A.md#problem-6) | — |
-| AMC 10 A | 2016 | [#7](../problems/amc10/2016A.md#problem-7) | — |
-| AMC 10 A | 2016 | [#8](../problems/amc10/2016A.md#problem-8) | — |
-| AMC 10 A | 2016 | [#17](../problems/amc10/2016A.md#problem-17) | probability |
-| AMC 10 A | 2016 | [#23](../problems/amc10/2016A.md#problem-23) | — |
 | AMC 10 B | 2016 | [#1](../problems/amc10/2016B.md#problem-1) | — |
 | AMC 10 B | 2016 | [#2](../problems/amc10/2016B.md#problem-2) | — |
 | AMC 10 B | 2016 | [#3](../problems/amc10/2016B.md#problem-3) | — |

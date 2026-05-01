@@ -7,7 +7,6 @@ Problems tagged `reflection`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 B | 2009 | [#24](../problems/amc10/2009B.md#problem-24) | — |
-| AMC 10 A | 2016 | [#16](../problems/amc10/2016A.md#problem-16) | rotation |
 | AMC 10 B | 2017 | [#8](../problems/amc10/2017B.md#problem-8) | coordinates, isosceles-triangle |
 | AMC 10 B | 2019 | [#5](../problems/amc10/2019B.md#problem-5) | slopes |
 | AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | rotation, inverse-transformations |

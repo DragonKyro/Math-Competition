@@ -8,7 +8,6 @@ Problems tagged `trig-identities`.
 |-------------|------|---------|-----------|
 | AMC 10 B | 2008 | [#24](../problems/amc10/2008B.md#problem-24) | angle-chasing, double-angle-identities |
 | AMC 10 A | 2009 | [#10](../problems/amc10/2009A.md#problem-10) | power-of-a-point, pythagorean-theorem |
-| AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-bash |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | double-angle-identities, law-of-cosines, law-of-sines, pythagorean-theorem |
 | AMC 12 A | 2007 | [#17](../problems/amc12/2007A.md#problem-17) | pythagorean-theorem |
 | AMC 12 A | 2009 | [#19](../problems/amc12/2009A.md#problem-19) | pythagorean-theorem |

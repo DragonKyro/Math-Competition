@@ -33,7 +33,6 @@ Problems tagged `arithmetic-series`.
 | AMC 10 A | 2013 | [#4](../problems/amc10/2013A.md#problem-4) | — |
 | AMC 10 B | 2013 | [#19](../problems/amc10/2013B.md#problem-19) | vietas-formulas |
 | AMC 10 A | 2015 | [#7](../problems/amc10/2015A.md#problem-7) | — |
-| AMC 10 A | 2016 | [#10](../problems/amc10/2016A.md#problem-10) | — |
 | AMC 10 B | 2016 | [#18](../problems/amc10/2016B.md#problem-18) | parity |
 | AMC 10 B | 2016 | [#24](../problems/amc10/2016B.md#problem-24) | casework |
 | AMC 10 A | 2019 | [#23](../problems/amc10/2019A.md#problem-23) | round-robin-counting |

@@ -32,8 +32,7 @@ Problems tagged `prime-factorization`.
 | AMC 10 B | 2013 | [#20](../problems/amc10/2013B.md#problem-20) | — |
 | AMC 10 B | 2013 | [#24](../problems/amc10/2013B.md#problem-24) | casework, factoring |
 | AMC 10 B | 2015 | [#23](../problems/amc10/2015B.md#problem-23) | floor-function, legendres-formula |
-| AMC 10 A | 2016 | [#22](../problems/amc10/2016A.md#problem-22) | — |
-| AMC 10 A | 2016 | [#25](../problems/amc10/2016A.md#problem-25) | casework |
+| AMC 10 A | 2016 | [#22](../problems/amc10/2016A.md#problem-22) | divisor-counting |
 | AMC 10 A | 2018 | [#22](../problems/amc10/2018A.md#problem-22) | gcd-constraints |
 | AMC 10 A | 2020 | [#15](../problems/amc10/2020A.md#problem-15) | perfect-square-divisors |
 | AMC 10 A | 2021 | [#18](../problems/amc10/2021A.md#problem-18) | functional-equation |

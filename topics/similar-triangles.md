@@ -31,8 +31,7 @@ Problems tagged `similar-triangles`.
 | AMC 10 A | 2014 | [#16](../problems/amc10/2014A.md#problem-16) | — |
 | AMC 10 A | 2014 | [#19](../problems/amc10/2014A.md#problem-19) | coordinate-bash, pythagorean-theorem |
 | AMC 10 B | 2015 | [#22](../problems/amc10/2015B.md#problem-22) | angle-chasing, double-angle-identities, law-of-cosines, law-of-sines |
-| AMC 10 A | 2016 | [#19](../problems/amc10/2016A.md#problem-19) | coordinate-bash, mass-point-geometry, pythagorean-theorem |
-| AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, trig-bash, trig-identities |
+| AMC 10 A | 2016 | [#19](../problems/amc10/2016A.md#problem-19) | coordinate-bash |
 | AMC 10 B | 2016 | [#10](../problems/amc10/2016B.md#problem-10) | — |
 | AMC 10 B | 2016 | [#19](../problems/amc10/2016B.md#problem-19) | coordinate-bash |
 | AMC 10 B | 2016 | [#23](../problems/amc10/2016B.md#problem-23) | — |
