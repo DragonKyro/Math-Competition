@@ -1,0 +1,11 @@
+# bayes
+
+Problems tagged `bayes`.
+
+<!-- AUTOGEN-START -->
+
+| Competition | Year | Problem | Subtopics |
+|-------------|------|---------|-----------|
+| AMC 10 B | 2017 | [#11](../problems/amc10/2017B.md#problem-11) | conditional-probability |
+
+<!-- AUTOGEN-END -->

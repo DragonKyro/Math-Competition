@@ -63,9 +63,7 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 B | 2016 | [#8](../problems/amc10/2016B.md#problem-8) | — |
 | AMC 10 B | 2016 | [#22](../problems/amc10/2016B.md#problem-22) | casework |
 | AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | casework, divisibility-rules |
-| AMC 10 B | 2017 | [#14](../problems/amc10/2017B.md#problem-14) | casework, fermats-little-theorem |
-| AMC 10 B | 2017 | [#23](../problems/amc10/2017B.md#problem-23) | chinese-remainder-theorem, divisibility-rules |
-| AMC 10 B | 2017 | [#25](../problems/amc10/2017B.md#problem-25) | chinese-remainder-theorem |
+| AMC 10 B | 2017 | [#14](../problems/amc10/2017B.md#problem-14) | fermats-little-theorem |
 | AMC 10 B | 2018 | [#11](../problems/amc10/2018B.md#problem-11) | always-composite |
 | AMC 10 B | 2018 | [#16](../problems/amc10/2018B.md#problem-16) | cubes-mod |
 | AMC 10 B | 2020 | [#15](../problems/amc10/2020B.md#problem-15) | periodic-deletion |

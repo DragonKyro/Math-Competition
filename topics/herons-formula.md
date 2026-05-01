@@ -20,8 +20,6 @@ Problems tagged `herons-formula`.
 | AMC 10 B | 2014 | [#21](../problems/amc10/2014B.md#problem-21) | pythagorean-theorem |
 | AMC 10 A | 2015 | [#21](../problems/amc10/2015A.md#problem-21) | coordinate-bash, pythagorean-theorem |
 | AMC 10 A | 2016 | [#21](../problems/amc10/2016A.md#problem-21) | pythagorean-theorem, shoelace-theorem |
-| AMC 10 B | 2017 | [#19](../problems/amc10/2017B.md#problem-19) | congruent-triangles, law-of-cosines, mass-point-geometry, pythagorean-theorem, similar-triangles |
-| AMC 10 B | 2017 | [#21](../problems/amc10/2017B.md#problem-21) | inradius, pythagorean-theorem, shoelace-theorem, stewarts-theorem |
 | AMC 12 | 2000 | [#19](../problems/amc12/2000.md#problem-19) | angle-bisector-theorem |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, double-angle-identities, law-of-cosines, law-of-sines, stewarts-theorem |
 | AMC 12 B | 2008 | [#25](../problems/amc12/2008B.md#problem-25) | angle-chasing, factoring, pythagorean-theorem |

@@ -36,9 +36,8 @@ Problems tagged `similar-triangles`.
 | AMC 10 B | 2016 | [#10](../problems/amc10/2016B.md#problem-10) | — |
 | AMC 10 B | 2016 | [#19](../problems/amc10/2016B.md#problem-19) | coordinate-bash |
 | AMC 10 B | 2016 | [#23](../problems/amc10/2016B.md#problem-23) | — |
-| AMC 10 B | 2017 | [#15](../problems/amc10/2017B.md#problem-15) | congruent-triangles |
-| AMC 10 B | 2017 | [#19](../problems/amc10/2017B.md#problem-19) | congruent-triangles, herons-formula, law-of-cosines, mass-point-geometry, pythagorean-theorem |
-| AMC 10 B | 2017 | [#22](../problems/amc10/2017B.md#problem-22) | pythagorean-theorem, quadratic-formula |
+| AMC 10 B | 2017 | [#15](../problems/amc10/2017B.md#problem-15) | altitude-on-hypotenuse |
+| AMC 10 B | 2017 | [#22](../problems/amc10/2017B.md#problem-22) | inscribed-angle |
 | AMC 10 A | 2018 | [#9](../problems/amc10/2018A.md#problem-9) | area-ratio |
 | AMC 10 A | 2018 | [#13](../problems/amc10/2018A.md#problem-13) | paper-fold |
 | AMC 10 A | 2018 | [#15](../problems/amc10/2018A.md#problem-15) | tangent-circles |

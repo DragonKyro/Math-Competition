@@ -6,6 +6,8 @@ Problems tagged `divisibility`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2017 | [#23](../problems/amc10/2017B.md#problem-23) | crt, digit-sums |
+| AMC 10 B | 2017 | [#25](../problems/amc10/2017B.md#problem-25) | distinct-scores, modular-system |
 | AMC 10 A | 2018 | [#17](../problems/amc10/2018A.md#problem-17) | set-selection |
 | AMC 10 B | 2018 | [#13](../problems/amc10/2018B.md#problem-13) | periodicity |
 | AMC 10 B | 2019 | [#7](../problems/amc10/2019B.md#problem-7) | lcm |

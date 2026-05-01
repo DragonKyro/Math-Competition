@@ -8,7 +8,7 @@ Problems tagged `legendres-formula`.
 |-------------|------|---------|-----------|
 | AMC 8 | 2017 | [#19](../problems/amc8/2017.md#problem-19) | factoring, floor-function |
 | AMC 10 B | 2015 | [#23](../problems/amc10/2015B.md#problem-23) | floor-function, prime-factorization |
-| AMC 10 B | 2017 | [#20](../problems/amc10/2017B.md#problem-20) | parity, prime-factorization |
+| AMC 10 B | 2017 | [#20](../problems/amc10/2017B.md#problem-20) | odd-divisors |
 | AMC 10 A | 2019 | [#25](../problems/amc10/2019A.md#problem-25) | factorial-divisibility, wilsons-theorem |
 | AMC 10 B | 2024 | [#22](../problems/amc10/2024B.md#problem-22) | multinomial-coefficients |
 | AMC 12 B | 2017 | [#16](../problems/amc12/2017B.md#problem-16) | floor-function, prime-factorization |

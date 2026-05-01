@@ -22,7 +22,7 @@ Problems tagged `inclusion-exclusion`.
 | AMC 10 A | 2013 | [#25](../problems/amc10/2013A.md#problem-25) | casework |
 | AMC 10 B | 2014 | [#16](../problems/amc10/2014B.md#problem-16) | — |
 | AMC 10 A | 2017 | [#19](../problems/amc10/2017A.md#problem-19) | casework, complementary-counting |
-| AMC 10 B | 2017 | [#13](../problems/amc10/2017B.md#problem-13) | — |
+| AMC 10 B | 2017 | [#13](../problems/amc10/2017B.md#problem-13) | set-counting |
 | AMC 10 A | 2019 | [#11](../problems/amc10/2019A.md#problem-11) | perfect-squares-cubes |
 | AMC 10 B | 2019 | [#19](../problems/amc10/2019B.md#problem-19) | divisor-pairs |
 | AMC 10 B | 2021 | [#22](../problems/amc10/2021B.md#problem-22) | independent-permutations |

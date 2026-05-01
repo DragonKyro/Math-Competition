@@ -11,7 +11,6 @@ Problems tagged `mass-point-geometry`.
 | AMC 10 B | 2006 | [#23](../problems/amc10/2006B.md#problem-23) | — |
 | AMC 10 B | 2013 | [#16](../problems/amc10/2013B.md#problem-16) | diophantine-equations, herons-formula, pythagorean-theorem |
 | AMC 10 A | 2016 | [#19](../problems/amc10/2016A.md#problem-19) | coordinate-bash, pythagorean-theorem, similar-triangles |
-| AMC 10 B | 2017 | [#19](../problems/amc10/2017B.md#problem-19) | congruent-triangles, herons-formula, law-of-cosines, pythagorean-theorem, similar-triangles |
 | AMC 12 A | 2005 | [#15](../problems/amc12/2005A.md#problem-15) | power-of-a-point, pythagorean-theorem, rotation, shoelace-theorem |
 | AMC 12 A | 2011 | [#13](../problems/amc12/2011A.md#problem-13) | angle-bisector-theorem, herons-formula, inradius, menelauss-theorem |
 | AMC 12 A | 2012 | [#18](../problems/amc12/2012A.md#problem-18) | herons-formula, inradius, power-of-a-point, pythagorean-theorem, stewarts-theorem |

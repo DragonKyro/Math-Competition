@@ -86,10 +86,7 @@ Problems tagged `casework`.
 | AMC 10 A | 2017 | [#19](../problems/amc10/2017A.md#problem-19) | complementary-counting, inclusion-exclusion |
 | AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | divisibility-rules, modular-arithmetic |
 | AMC 10 A | 2017 | [#25](../problems/amc10/2017A.md#problem-25) | divisibility-rules |
-| AMC 10 B | 2017 | [#9](../problems/amc10/2017B.md#problem-9) | complementary-counting |
-| AMC 10 B | 2017 | [#14](../problems/amc10/2017B.md#problem-14) | fermats-little-theorem, modular-arithmetic |
-| AMC 10 B | 2017 | [#17](../problems/amc10/2017B.md#problem-17) | — |
-| AMC 10 B | 2017 | [#18](../problems/amc10/2017B.md#problem-18) | burnsides-lemma, reflection |
+| AMC 10 B | 2017 | [#9](../problems/amc10/2017B.md#problem-9) | probability |
 | AMC 10 A | 2019 | [#17](../problems/amc10/2019A.md#problem-17) | multinomial-coefficient |
 | AMC 10 B | 2019 | [#9](../problems/amc10/2019B.md#problem-9) | floor-function, absolute-value |
 | AMC 10 B | 2019 | [#13](../problems/amc10/2019B.md#problem-13) | median-mean |

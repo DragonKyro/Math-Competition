@@ -14,7 +14,6 @@ Problems tagged `divisibility-rules`.
 | AMC 10 B | 2010 | [#21](../problems/amc10/2010B.md#problem-21) | modular-arithmetic |
 | AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | casework, modular-arithmetic |
 | AMC 10 A | 2017 | [#25](../problems/amc10/2017A.md#problem-25) | casework |
-| AMC 10 B | 2017 | [#23](../problems/amc10/2017B.md#problem-23) | chinese-remainder-theorem, modular-arithmetic |
 | AMC 10 B | 2019 | [#14](../problems/amc10/2019B.md#problem-14) | factorial |
 | AMC 10 B | 2020 | [#19](../problems/amc10/2020B.md#problem-19) | units-digit |
 | AMC 10 B | 2021 | [#16](../problems/amc10/2021B.md#problem-16) | subset-counting |

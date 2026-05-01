@@ -630,14 +630,6 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 A | 2017 | [#6](../problems/amc10/2017A.md#problem-6) | — |
 | AMC 10 A | 2017 | [#9](../problems/amc10/2017A.md#problem-9) | — |
 | AMC 10 A | 2017 | [#14](../problems/amc10/2017A.md#problem-14) | — |
-| AMC 10 B | 2017 | [#2](../problems/amc10/2017B.md#problem-2) | — |
-| AMC 10 B | 2017 | [#3](../problems/amc10/2017B.md#problem-3) | — |
-| AMC 10 B | 2017 | [#4](../problems/amc10/2017B.md#problem-4) | — |
-| AMC 10 B | 2017 | [#5](../problems/amc10/2017B.md#problem-5) | — |
-| AMC 10 B | 2017 | [#7](../problems/amc10/2017B.md#problem-7) | — |
-| AMC 10 B | 2017 | [#10](../problems/amc10/2017B.md#problem-10) | geometry |
-| AMC 10 B | 2017 | [#11](../problems/amc10/2017B.md#problem-11) | — |
-| AMC 10 B | 2017 | [#12](../problems/amc10/2017B.md#problem-12) | — |
 | AMC 10 A | 2018 | [#6](../problems/amc10/2018A.md#problem-6) | like-dislike-votes |
 | AMC 10 B | 2018 | [#25](../problems/amc10/2018B.md#problem-25) | — |
 | AMC 10 A | 2020 | [#12](../problems/amc10/2020A.md#problem-12) | — |

@@ -26,7 +26,6 @@ Problems tagged `vietas-formulas`.
 | AMC 10 A | 2015 | [#23](../problems/amc10/2015A.md#problem-23) | simons-favorite-factoring |
 | AMC 10 B | 2015 | [#14](../problems/amc10/2015B.md#problem-14) | factoring |
 | AMC 10 A | 2017 | [#24](../problems/amc10/2017A.md#problem-24) | factoring, polynomial-division |
-| AMC 10 B | 2017 | [#24](../problems/amc10/2017B.md#problem-24) | circumradius, law-of-cosines |
 | AMC 10 A | 2019 | [#24](../problems/amc10/2019A.md#problem-24) | partial-fractions |
 | AMC 10 A | 2021 | [#14](../problems/amc10/2021A.md#problem-14) | elementary-symmetric-polynomial |
 | AMC 10 A | 2022 | [#11](../problems/amc10/2022A.md#problem-11) | exponent-equations |

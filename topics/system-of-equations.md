@@ -6,6 +6,8 @@ Problems tagged `system-of-equations`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2017 | [#5](../problems/amc10/2017B.md#problem-5) | word-problem |
+| AMC 10 B | 2017 | [#10](../problems/amc10/2017B.md#problem-10) | perpendicular-lines |
 | AMC 10 A | 2018 | [#8](../problems/amc10/2018A.md#problem-8) | coins |
 | AMC 10 B | 2018 | [#4](../problems/amc10/2018B.md#problem-4) | face-area |
 | AMC 10 A | 2019 | [#3](../problems/amc10/2019A.md#problem-3) | age-problem |
