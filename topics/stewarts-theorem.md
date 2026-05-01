@@ -7,7 +7,6 @@ Problems tagged `stewarts-theorem`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 B | 2005 | [#10](../problems/amc10/2005B.md#problem-10) | law-of-cosines, pythagorean-theorem |
-| AMC 10 A | 2013 | [#23](../problems/amc10/2013A.md#problem-23) | law-of-cosines, power-of-a-point, pythagorean-theorem, triangle-inequality |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, double-angle-identities, herons-formula, law-of-cosines, law-of-sines |
 | AMC 12 B | 2002 | [#23](../problems/amc12/2002B.md#problem-23) | law-of-cosines, pythagorean-theorem |
 | AMC 12 B | 2005 | [#6](../problems/amc12/2005B.md#problem-6) | law-of-cosines, pythagorean-theorem |

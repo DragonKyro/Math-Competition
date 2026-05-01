@@ -88,8 +88,7 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 A | 2012 | [#15](../problems/amc10/2012A.md#problem-15) | shoelace-theorem, similar-triangles |
 | AMC 10 B | 2012 | [#12](../problems/amc10/2012B.md#problem-12) | — |
 | AMC 10 B | 2012 | [#17](../problems/amc10/2012B.md#problem-17) | — |
-| AMC 10 A | 2013 | [#22](../problems/amc10/2013A.md#problem-22) | — |
-| AMC 10 A | 2013 | [#23](../problems/amc10/2013A.md#problem-23) | law-of-cosines, power-of-a-point, stewarts-theorem, triangle-inequality |
+| AMC 10 A | 2013 | [#22](../problems/amc10/2013A.md#problem-22) | 3d-geometry |
 | AMC 10 B | 2013 | [#16](../problems/amc10/2013B.md#problem-16) | diophantine-equations, herons-formula, mass-point-geometry |
 | AMC 10 B | 2013 | [#23](../problems/amc10/2013B.md#problem-23) | coordinate-bash, diophantine-equations, law-of-cosines, power-of-a-point, ptolemys-theorem, similar-triangles |
 | AMC 10 B | 2014 | [#21](../problems/amc10/2014B.md#problem-21) | trapezoid |

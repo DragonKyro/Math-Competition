@@ -6,6 +6,7 @@ Problems tagged `triangle-altitudes`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2013 | [#15](../problems/amc10/2013A.md#problem-15) | triangle-area |
 | AMC 10 B | 2015 | [#13](../problems/amc10/2015B.md#problem-13) | 5-12-13 |
 
 <!-- AUTOGEN-END -->

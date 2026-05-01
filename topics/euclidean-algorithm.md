@@ -8,7 +8,6 @@ Problems tagged `euclidean-algorithm`.
 |-------------|------|---------|-----------|
 | AMC 10 B | 2008 | [#8](../problems/amc10/2008B.md#problem-8) | diophantine-equations |
 | AMC 10 A | 2012 | [#17](../problems/amc10/2012A.md#problem-17) | factoring, quadratic-formula |
-| AMC 10 A | 2013 | [#8](../problems/amc10/2013A.md#problem-8) | factoring |
 | AMC 10 A | 2020 | [#24](../problems/amc10/2020A.md#problem-24) | gcd, chinese-remainder |
 | AMC 10 B | 2022 | [#25](../problems/amc10/2022B.md#problem-25) | fermats-little-theorem, modular-arithmetic, recursion |
 | AMC 10 B | 2023 | [#18](../problems/amc10/2023B.md#problem-18) | gcd-multiplicativity |

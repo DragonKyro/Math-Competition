@@ -28,7 +28,7 @@ Problems tagged `complementary-counting`.
 | AMC 10 B | 2008 | [#16](../problems/amc10/2008B.md#problem-16) | casework |
 | AMC 10 A | 2011 | [#22](../problems/amc10/2011A.md#problem-22) | casework, expected-value, recursion |
 | AMC 10 B | 2011 | [#13](../problems/amc10/2011B.md#problem-13) | — |
-| AMC 10 A | 2013 | [#7](../problems/amc10/2013A.md#problem-7) | casework |
+| AMC 10 A | 2013 | [#7](../problems/amc10/2013A.md#problem-7) | combinations |
 | AMC 10 B | 2016 | [#12](../problems/amc10/2016B.md#problem-12) | parity |
 | AMC 10 B | 2016 | [#22](../problems/amc10/2016B.md#problem-22) | tournament-counting |
 | AMC 10 A | 2017 | [#23](../problems/amc10/2017A.md#problem-23) | lattice-points |

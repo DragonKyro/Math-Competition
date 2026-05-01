@@ -223,11 +223,6 @@ Problems tagged `geometry`: triangles, circles, polygons, coordinate geometry, 3
 | AMC 10 B | 2012 | [#14](../problems/amc10/2012B.md#problem-14) | — |
 | AMC 10 B | 2012 | [#16](../problems/amc10/2012B.md#problem-16) | — |
 | AMC 10 B | 2012 | [#23](../problems/amc10/2012B.md#problem-23) | — |
-| AMC 10 A | 2013 | [#3](../problems/amc10/2013A.md#problem-3) | — |
-| AMC 10 A | 2013 | [#12](../problems/amc10/2013A.md#problem-12) | — |
-| AMC 10 A | 2013 | [#14](../problems/amc10/2013A.md#problem-14) | — |
-| AMC 10 A | 2013 | [#15](../problems/amc10/2013A.md#problem-15) | — |
-| AMC 10 A | 2013 | [#20](../problems/amc10/2013A.md#problem-20) | — |
 | AMC 10 B | 2013 | [#2](../problems/amc10/2013B.md#problem-2) | — |
 | AMC 10 B | 2013 | [#7](../problems/amc10/2013B.md#problem-7) | — |
 | AMC 10 B | 2013 | [#11](../problems/amc10/2013B.md#problem-11) | — |

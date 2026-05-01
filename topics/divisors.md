@@ -6,6 +6,7 @@ Problems tagged `divisors`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2013 | [#19](../problems/amc10/2013A.md#problem-19) | base-representation |
 | AMC 10 B | 2014 | [#12](../problems/amc10/2014B.md#problem-12) | ranking |
 | AMC 10 B | 2016 | [#18](../problems/amc10/2016B.md#problem-18) | arithmetic-sequence-sum |
 | AMC 10 A | 2017 | [#16](../problems/amc10/2017A.md#problem-16) | lcm |

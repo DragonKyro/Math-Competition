@@ -6,6 +6,7 @@ Problems tagged `logic-puzzle`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2013 | [#6](../problems/amc10/2013A.md#problem-6) | — |
 | AMC 10 B | 2015 | [#5](../problems/amc10/2015B.md#problem-5) | race-positions |
 | AMC 10 B | 2015 | [#6](../problems/amc10/2015B.md#problem-6) | scheduling |
 

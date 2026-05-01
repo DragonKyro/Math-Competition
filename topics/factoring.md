@@ -30,7 +30,7 @@ Problems tagged `factoring`.
 | AMC 10 B | 2011 | [#16](../problems/amc10/2011B.md#problem-16) | geometric-probability |
 | AMC 10 A | 2012 | [#17](../problems/amc10/2012A.md#problem-17) | euclidean-algorithm, quadratic-formula |
 | AMC 10 A | 2012 | [#22](../problems/amc10/2012A.md#problem-22) | quadratic-formula |
-| AMC 10 A | 2013 | [#8](../problems/amc10/2013A.md#problem-8) | euclidean-algorithm |
+| AMC 10 A | 2013 | [#8](../problems/amc10/2013A.md#problem-8) | exponents |
 | AMC 10 B | 2013 | [#5](../problems/amc10/2013B.md#problem-5) | — |
 | AMC 10 B | 2013 | [#14](../problems/amc10/2013B.md#problem-14) | — |
 | AMC 10 B | 2013 | [#24](../problems/amc10/2013B.md#problem-24) | casework, prime-factorization |
