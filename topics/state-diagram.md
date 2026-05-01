@@ -7,7 +7,6 @@ Problems tagged `state-diagram`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 B | 2003 | [#21](../problems/amc10/2003B.md#problem-21) | casework |
-| AMC 10 B | 2015 | [#18](../problems/amc10/2015B.md#problem-18) | expected-value |
 | AMC 10 A | 2021 | [#23](../problems/amc10/2021A.md#problem-23) | markov-chain |
 | AMC 12 A | 2007 | [#25](../problems/amc12/2007A.md#problem-25) | bijection, casework, recursion |
 | AMC 12 B | 2019 | [#19](../problems/amc12/2019B.md#problem-19) | casework |

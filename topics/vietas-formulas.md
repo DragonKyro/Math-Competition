@@ -23,7 +23,7 @@ Problems tagged `vietas-formulas`.
 | AMC 10 A | 2010 | [#21](../problems/amc10/2010A.md#problem-21) | prime-factorization |
 | AMC 10 B | 2013 | [#19](../problems/amc10/2013B.md#problem-19) | arithmetic-series |
 | AMC 10 A | 2015 | [#23](../problems/amc10/2015A.md#problem-23) | simons-favorite-factoring, integer-roots |
-| AMC 10 B | 2015 | [#14](../problems/amc10/2015B.md#problem-14) | factoring |
+| AMC 10 B | 2015 | [#14](../problems/amc10/2015B.md#problem-14) | quadratic-roots |
 | AMC 10 A | 2019 | [#24](../problems/amc10/2019A.md#problem-24) | partial-fractions |
 | AMC 10 A | 2021 | [#14](../problems/amc10/2021A.md#problem-14) | elementary-symmetric-polynomial |
 | AMC 10 A | 2022 | [#11](../problems/amc10/2022A.md#problem-11) | exponent-equations |

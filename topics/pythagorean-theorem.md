@@ -100,7 +100,6 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 B | 2014 | [#21](../problems/amc10/2014B.md#problem-21) | herons-formula |
 | AMC 10 B | 2014 | [#22](../problems/amc10/2014B.md#problem-22) | — |
 | AMC 10 B | 2014 | [#23](../problems/amc10/2014B.md#problem-23) | quadratic-formula |
-| AMC 10 B | 2015 | [#19](../problems/amc10/2015B.md#problem-19) | rotation |
 | AMC 10 B | 2018 | [#17](../problems/amc10/2018B.md#problem-17) | equilateral-octagon |
 | AMC 10 B | 2020 | [#10](../problems/amc10/2020B.md#problem-10) | cone-from-sector |
 | AMC 10 A | 2021 | [#13](../problems/amc10/2021A.md#problem-13) | right-tetrahedron |

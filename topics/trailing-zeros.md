@@ -6,6 +6,7 @@ Problems tagged `trailing-zeros`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2015 | [#23](../problems/amc10/2015B.md#problem-23) | legendres-formula |
 | AMC 10 A | 2019 | [#2](../problems/amc10/2019A.md#problem-2) | factorial |
 
 <!-- AUTOGEN-END -->

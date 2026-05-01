@@ -85,8 +85,6 @@ Problems tagged `number-theory`: divisibility, modular arithmetic, primes, GCD/L
 | AMC 10 A | 2014 | [#10](../problems/amc10/2014A.md#problem-10) | — |
 | AMC 10 B | 2014 | [#12](../problems/amc10/2014B.md#problem-12) | — |
 | AMC 10 B | 2014 | [#14](../problems/amc10/2014B.md#problem-14) | — |
-| AMC 10 B | 2015 | [#11](../problems/amc10/2015B.md#problem-11) | probability |
-| AMC 10 B | 2015 | [#24](../problems/amc10/2015B.md#problem-24) | geometry, sequences-and-series |
 | AMC 12 | 2000 | [#1](../problems/amc12/2000.md#problem-1) | — |
 | AMC 12 | 2000 | [#13](../problems/amc12/2000.md#problem-13) | algebra |
 | AMC 12 A | 2002 | [#17](../problems/amc12/2002A.md#problem-17) | — |

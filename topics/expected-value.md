@@ -11,7 +11,7 @@ Problems tagged `expected-value`.
 | AMC 10 A | 2002 | [#24](../problems/amc10/2002A.md#problem-24) | casework |
 | AMC 10 B | 2005 | [#20](../problems/amc10/2005B.md#problem-20) | — |
 | AMC 10 A | 2011 | [#22](../problems/amc10/2011A.md#problem-22) | casework, complementary-counting, recursion |
-| AMC 10 B | 2015 | [#18](../problems/amc10/2015B.md#problem-18) | state-diagram |
+| AMC 10 B | 2015 | [#18](../problems/amc10/2015B.md#problem-18) | linearity-of-expectation |
 | AMC 12 A | 2002 | [#16](../problems/amc12/2002A.md#problem-16) | casework |
 | AMC 12 A | 2014 | [#15](../problems/amc12/2014A.md#problem-15) | — |
 | AMC 12 B | 2017 | [#25](../problems/amc12/2017B.md#problem-25) | casework, modular-arithmetic |

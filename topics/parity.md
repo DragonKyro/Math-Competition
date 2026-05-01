@@ -6,6 +6,7 @@ Problems tagged `parity`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2015 | [#10](../problems/amc10/2015B.md#problem-10) | units-digit |
 | AMC 10 A | 2016 | [#12](../problems/amc10/2016A.md#problem-12) | probability-without-replacement |
 | AMC 10 B | 2016 | [#12](../problems/amc10/2016B.md#problem-12) | complementary-counting |
 | AMC 10 A | 2020 | [#18](../problems/amc10/2020A.md#problem-18) | counting |

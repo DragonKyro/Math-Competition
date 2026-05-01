@@ -20,7 +20,6 @@ Problems tagged `floor-function`.
 | AMC 10 A | 2007 | [#25](../problems/amc10/2007A.md#problem-25) | casework, modular-arithmetic |
 | AMC 10 A | 2010 | [#24](../problems/amc10/2010A.md#problem-24) | chinese-remainder-theorem, eulers-totient, factoring, modular-arithmetic |
 | AMC 10 A | 2012 | [#14](../problems/amc10/2012A.md#problem-14) | — |
-| AMC 10 B | 2015 | [#23](../problems/amc10/2015B.md#problem-23) | legendres-formula, prime-factorization |
 | AMC 10 A | 2016 | [#4](../problems/amc10/2016A.md#problem-4) | remainder |
 | AMC 10 B | 2016 | [#25](../problems/amc10/2016B.md#problem-25) | eulers-totient |
 | AMC 10 B | 2019 | [#9](../problems/amc10/2019B.md#problem-9) | absolute-value, casework |
