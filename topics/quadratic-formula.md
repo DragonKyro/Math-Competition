@@ -15,8 +15,6 @@ Problems tagged `quadratic-formula`.
 | AMC 10 B | 2008 | [#9](../problems/amc10/2008B.md#problem-9) | vietas-formulas |
 | AMC 10 A | 2012 | [#17](../problems/amc10/2012A.md#problem-17) | euclidean-algorithm, factoring |
 | AMC 10 A | 2012 | [#22](../problems/amc10/2012A.md#problem-22) | factoring |
-| AMC 10 A | 2014 | [#14](../problems/amc10/2014A.md#problem-14) | herons-formula, pythagorean-theorem, similar-triangles |
-| AMC 10 A | 2014 | [#22](../problems/amc10/2014A.md#problem-22) | angle-bisector-theorem, double-angle-identities, factoring, law-of-cosines, pythagorean-theorem |
 | AMC 10 B | 2014 | [#23](../problems/amc10/2014B.md#problem-23) | pythagorean-theorem |
 | AMC 10 B | 2018 | [#8](../problems/amc10/2018B.md#problem-8) | staircase-pattern |
 | AMC 10 B | 2019 | [#6](../problems/amc10/2019B.md#problem-6) | factorial, factoring |

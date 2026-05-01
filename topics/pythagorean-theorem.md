@@ -92,11 +92,6 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 A | 2013 | [#23](../problems/amc10/2013A.md#problem-23) | law-of-cosines, power-of-a-point, stewarts-theorem, triangle-inequality |
 | AMC 10 B | 2013 | [#16](../problems/amc10/2013B.md#problem-16) | diophantine-equations, herons-formula, mass-point-geometry |
 | AMC 10 B | 2013 | [#23](../problems/amc10/2013B.md#problem-23) | coordinate-bash, diophantine-equations, law-of-cosines, power-of-a-point, ptolemys-theorem, similar-triangles |
-| AMC 10 A | 2014 | [#9](../problems/amc10/2014A.md#problem-9) | — |
-| AMC 10 A | 2014 | [#13](../problems/amc10/2014A.md#problem-13) | law-of-cosines |
-| AMC 10 A | 2014 | [#14](../problems/amc10/2014A.md#problem-14) | herons-formula, quadratic-formula, similar-triangles |
-| AMC 10 A | 2014 | [#19](../problems/amc10/2014A.md#problem-19) | coordinate-bash, similar-triangles |
-| AMC 10 A | 2014 | [#22](../problems/amc10/2014A.md#problem-22) | angle-bisector-theorem, double-angle-identities, factoring, law-of-cosines, quadratic-formula |
 | AMC 10 B | 2014 | [#21](../problems/amc10/2014B.md#problem-21) | herons-formula |
 | AMC 10 B | 2014 | [#22](../problems/amc10/2014B.md#problem-22) | — |
 | AMC 10 B | 2014 | [#23](../problems/amc10/2014B.md#problem-23) | quadratic-formula |

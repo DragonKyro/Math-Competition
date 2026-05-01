@@ -27,9 +27,7 @@ Problems tagged `similar-triangles`.
 | AMC 10 B | 2011 | [#9](../problems/amc10/2011B.md#problem-9) | — |
 | AMC 10 A | 2012 | [#15](../problems/amc10/2012A.md#problem-15) | pythagorean-theorem, shoelace-theorem |
 | AMC 10 B | 2013 | [#23](../problems/amc10/2013B.md#problem-23) | coordinate-bash, diophantine-equations, law-of-cosines, power-of-a-point, ptolemys-theorem, pythagorean-theorem |
-| AMC 10 A | 2014 | [#14](../problems/amc10/2014A.md#problem-14) | herons-formula, pythagorean-theorem, quadratic-formula |
-| AMC 10 A | 2014 | [#16](../problems/amc10/2014A.md#problem-16) | — |
-| AMC 10 A | 2014 | [#19](../problems/amc10/2014A.md#problem-19) | coordinate-bash, pythagorean-theorem |
+| AMC 10 A | 2014 | [#19](../problems/amc10/2014A.md#problem-19) | 3d-diagonals |
 | AMC 10 A | 2016 | [#19](../problems/amc10/2016A.md#problem-19) | coordinate-bash |
 | AMC 10 B | 2016 | [#23](../problems/amc10/2016B.md#problem-23) | hexagon-dissection |
 | AMC 10 A | 2017 | [#21](../problems/amc10/2017A.md#problem-21) | inscribed-figures |

@@ -9,7 +9,6 @@ Problems tagged `double-angle-identities`.
 | AMC 10 B | 2007 | [#11](../problems/amc10/2007B.md#problem-11) | herons-formula, law-of-cosines, law-of-sines, power-of-a-point, pythagorean-theorem |
 | AMC 10 B | 2008 | [#24](../problems/amc10/2008B.md#problem-24) | angle-chasing, trig-identities |
 | AMC 10 B | 2009 | [#20](../problems/amc10/2009B.md#problem-20) | angle-bisector-theorem, congruent-triangles, pythagorean-theorem |
-| AMC 10 A | 2014 | [#22](../problems/amc10/2014A.md#problem-22) | angle-bisector-theorem, factoring, law-of-cosines, pythagorean-theorem, quadratic-formula |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | law-of-cosines, law-of-sines, pythagorean-theorem, trig-identities |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, herons-formula, law-of-cosines, law-of-sines, stewarts-theorem |
 | AMC 12 A | 2003 | [#17](../problems/amc12/2003A.md#problem-17) | law-of-cosines, pythagorean-theorem, similar-triangles |

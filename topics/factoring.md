@@ -34,7 +34,6 @@ Problems tagged `factoring`.
 | AMC 10 B | 2013 | [#5](../problems/amc10/2013B.md#problem-5) | — |
 | AMC 10 B | 2013 | [#14](../problems/amc10/2013B.md#problem-14) | — |
 | AMC 10 B | 2013 | [#24](../problems/amc10/2013B.md#problem-24) | casework, prime-factorization |
-| AMC 10 A | 2014 | [#22](../problems/amc10/2014A.md#problem-22) | angle-bisector-theorem, double-angle-identities, law-of-cosines, pythagorean-theorem, quadratic-formula |
 | AMC 10 B | 2014 | [#17](../problems/amc10/2014B.md#problem-17) | modular-arithmetic |
 | AMC 10 B | 2014 | [#20](../problems/amc10/2014B.md#problem-20) | — |
 | AMC 10 B | 2016 | [#17](../problems/amc10/2016B.md#problem-17) | cube-faces, am-gm |
