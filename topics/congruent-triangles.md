@@ -24,8 +24,6 @@ Problems tagged `congruent-triangles`.
 | AMC 10 B | 2010 | [#19](../problems/amc10/2010B.md#problem-19) | law-of-cosines, pythagorean-theorem |
 | AMC 10 B | 2014 | [#13](../problems/amc10/2014B.md#problem-13) | inradius, law-of-cosines |
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-bash, trig-identities |
-| AMC 10 A | 2017 | [#15](../problems/amc10/2017A.md#problem-15) | arithmetic-series, casework, geometric-probability |
-| AMC 10 A | 2017 | [#22](../problems/amc10/2017A.md#problem-22) | — |
 | AMC 12 B | 2004 | [#14](../problems/amc12/2004B.md#problem-14) | — |
 | AMC 12 A | 2009 | [#11](../problems/amc12/2009A.md#problem-11) | — |
 | AMC 12 A | 2010 | [#17](../problems/amc12/2010A.md#problem-17) | law-of-cosines, pythagorean-theorem, vietas-formulas |

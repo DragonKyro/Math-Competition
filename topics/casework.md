@@ -81,11 +81,9 @@ Problems tagged `casework`.
 | AMC 10 B | 2016 | [#22](../problems/amc10/2016B.md#problem-22) | modular-arithmetic |
 | AMC 10 B | 2016 | [#24](../problems/amc10/2016B.md#problem-24) | arithmetic-series |
 | AMC 10 B | 2016 | [#25](../problems/amc10/2016B.md#problem-25) | eulers-totient, floor-function |
-| AMC 10 A | 2017 | [#15](../problems/amc10/2017A.md#problem-15) | arithmetic-series, congruent-triangles, geometric-probability |
-| AMC 10 A | 2017 | [#18](../problems/amc10/2017A.md#problem-18) | factoring, geometric-series |
-| AMC 10 A | 2017 | [#19](../problems/amc10/2017A.md#problem-19) | complementary-counting, inclusion-exclusion |
-| AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | divisibility-rules, modular-arithmetic |
-| AMC 10 A | 2017 | [#25](../problems/amc10/2017A.md#problem-25) | divisibility-rules |
+| AMC 10 A | 2017 | [#12](../problems/amc10/2017A.md#problem-12) | three-equal-rays |
+| AMC 10 A | 2017 | [#19](../problems/amc10/2017A.md#problem-19) | inclusion-exclusion |
+| AMC 10 A | 2017 | [#25](../problems/amc10/2017A.md#problem-25) | divisibility-rules, permutations |
 | AMC 10 B | 2017 | [#9](../problems/amc10/2017B.md#problem-9) | probability |
 | AMC 10 A | 2019 | [#17](../problems/amc10/2019A.md#problem-17) | multinomial-coefficient |
 | AMC 10 B | 2019 | [#9](../problems/amc10/2019B.md#problem-9) | floor-function, absolute-value |

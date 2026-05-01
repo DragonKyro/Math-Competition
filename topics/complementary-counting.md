@@ -32,8 +32,7 @@ Problems tagged `complementary-counting`.
 | AMC 10 A | 2014 | [#4](../problems/amc10/2014A.md#problem-4) | casework |
 | AMC 10 A | 2015 | [#22](../problems/amc10/2015A.md#problem-22) | casework, recursion, stars-and-bars |
 | AMC 10 B | 2016 | [#12](../problems/amc10/2016B.md#problem-12) | casework |
-| AMC 10 A | 2017 | [#8](../problems/amc10/2017A.md#problem-8) | arithmetic-series |
-| AMC 10 A | 2017 | [#19](../problems/amc10/2017A.md#problem-19) | casework, inclusion-exclusion |
+| AMC 10 A | 2017 | [#23](../problems/amc10/2017A.md#problem-23) | lattice-points |
 | AMC 10 B | 2017 | [#16](../problems/amc10/2017B.md#problem-16) | digits |
 | AMC 10 B | 2018 | [#5](../problems/amc10/2018B.md#problem-5) | subsets |
 | AMC 10 B | 2022 | [#3](../problems/amc10/2022B.md#problem-3) | parity |

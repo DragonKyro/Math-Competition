@@ -6,6 +6,7 @@ Problems tagged `digit-sums`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | modular-arithmetic |
 | AMC 10 B | 2017 | [#23](../problems/amc10/2017B.md#problem-23) | divisibility, crt |
 
 <!-- AUTOGEN-END -->

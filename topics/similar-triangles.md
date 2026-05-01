@@ -36,6 +36,7 @@ Problems tagged `similar-triangles`.
 | AMC 10 B | 2016 | [#10](../problems/amc10/2016B.md#problem-10) | — |
 | AMC 10 B | 2016 | [#19](../problems/amc10/2016B.md#problem-19) | coordinate-bash |
 | AMC 10 B | 2016 | [#23](../problems/amc10/2016B.md#problem-23) | — |
+| AMC 10 A | 2017 | [#21](../problems/amc10/2017A.md#problem-21) | inscribed-figures |
 | AMC 10 B | 2017 | [#15](../problems/amc10/2017B.md#problem-15) | altitude-on-hypotenuse |
 | AMC 10 B | 2017 | [#22](../problems/amc10/2017B.md#problem-22) | inscribed-angle |
 | AMC 10 A | 2018 | [#9](../problems/amc10/2018A.md#problem-9) | area-ratio |

@@ -12,8 +12,7 @@ Problems tagged `divisibility-rules`.
 | AMC 10 B | 2006 | [#25](../problems/amc10/2006B.md#problem-25) | — |
 | AMC 10 A | 2009 | [#25](../problems/amc10/2009A.md#problem-25) | factoring, modular-arithmetic, prime-factorization |
 | AMC 10 B | 2010 | [#21](../problems/amc10/2010B.md#problem-21) | modular-arithmetic |
-| AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | casework, modular-arithmetic |
-| AMC 10 A | 2017 | [#25](../problems/amc10/2017A.md#problem-25) | casework |
+| AMC 10 A | 2017 | [#25](../problems/amc10/2017A.md#problem-25) | casework, permutations |
 | AMC 10 B | 2019 | [#14](../problems/amc10/2019B.md#problem-14) | factorial |
 | AMC 10 B | 2020 | [#19](../problems/amc10/2020B.md#problem-19) | units-digit |
 | AMC 10 B | 2021 | [#16](../problems/amc10/2021B.md#problem-16) | subset-counting |

@@ -255,13 +255,7 @@ Problems tagged `geometry`: triangles, circles, polygons, coordinate geometry, 3
 | AMC 10 B | 2016 | [#9](../problems/amc10/2016B.md#problem-9) | — |
 | AMC 10 B | 2016 | [#11](../problems/amc10/2016B.md#problem-11) | — |
 | AMC 10 B | 2016 | [#15](../problems/amc10/2016B.md#problem-15) | — |
-| AMC 10 A | 2017 | [#3](../problems/amc10/2017A.md#problem-3) | — |
-| AMC 10 A | 2017 | [#7](../problems/amc10/2017A.md#problem-7) | — |
-| AMC 10 A | 2017 | [#11](../problems/amc10/2017A.md#problem-11) | — |
-| AMC 10 A | 2017 | [#12](../problems/amc10/2017A.md#problem-12) | — |
-| AMC 10 A | 2017 | [#17](../problems/amc10/2017A.md#problem-17) | number-theory |
-| AMC 10 A | 2017 | [#21](../problems/amc10/2017A.md#problem-21) | — |
-| AMC 10 A | 2017 | [#23](../problems/amc10/2017A.md#problem-23) | — |
+| AMC 10 A | 2017 | [#7](../problems/amc10/2017A.md#problem-7) | square-diagonal |
 | AMC 10 B | 2022 | [#19](../problems/amc10/2022B.md#problem-19) | — |
 | AMC 10 A | 2024 | [#2](../problems/amc10/2024A.md#problem-2) | — |
 | AMC 12 | 2001 | [#8](../problems/amc12/2001.md#problem-8) | — |
