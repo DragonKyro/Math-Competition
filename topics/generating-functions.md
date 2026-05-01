@@ -6,7 +6,6 @@ Problems tagged `generating-functions`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AMC 10 A | 2018 | [#11](../problems/amc10/2018A.md#problem-11) | stars-and-bars |
 | AMC 12 A | 2003 | [#22](../problems/amc12/2003A.md#problem-22) | — |
 | AMC 12 A | 2006 | [#24](../problems/amc12/2006A.md#problem-24) | binomial-theorem, casework, modular-arithmetic, parity, stars-and-bars |
 | AMC 12 A | 2017 | [#25](../problems/amc12/2017A.md#problem-25) | bijection, casework, complex-numbers, modular-arithmetic, roots-of-unity |

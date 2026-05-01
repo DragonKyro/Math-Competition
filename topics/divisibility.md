@@ -6,6 +6,7 @@ Problems tagged `divisibility`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2018 | [#17](../problems/amc10/2018A.md#problem-17) | set-selection |
 | AMC 10 B | 2018 | [#13](../problems/amc10/2018B.md#problem-13) | periodicity |
 | AMC 10 B | 2019 | [#7](../problems/amc10/2019B.md#problem-7) | lcm |
 | AMC 10 B | 2020 | [#7](../problems/amc10/2020B.md#problem-7) | perfect-squares |

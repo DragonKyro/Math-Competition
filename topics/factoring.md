@@ -43,9 +43,6 @@ Problems tagged `factoring`.
 | AMC 10 A | 2016 | [#1](../problems/amc10/2016A.md#problem-1) | — |
 | AMC 10 A | 2017 | [#18](../problems/amc10/2017A.md#problem-18) | casework, geometric-series |
 | AMC 10 A | 2017 | [#24](../problems/amc10/2017A.md#problem-24) | polynomial-division, vietas-formulas |
-| AMC 10 A | 2018 | [#10](../problems/amc10/2018A.md#problem-10) | — |
-| AMC 10 A | 2018 | [#14](../problems/amc10/2018A.md#problem-14) | — |
-| AMC 10 A | 2018 | [#21](../problems/amc10/2018A.md#problem-21) | quadratic-formula |
 | AMC 10 B | 2019 | [#6](../problems/amc10/2019B.md#problem-6) | factorial, quadratic-formula |
 | AMC 10 A | 2021 | [#9](../problems/amc10/2021A.md#problem-9) | algebra, inequality |
 | AMC 10 B | 2021 | [#5](../problems/amc10/2021B.md#problem-5) | casework |

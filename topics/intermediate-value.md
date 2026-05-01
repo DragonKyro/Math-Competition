@@ -1,0 +1,11 @@
+# intermediate value
+
+Problems tagged `intermediate-value`.
+
+<!-- AUTOGEN-START -->
+
+| Competition | Year | Problem | Subtopics |
+|-------------|------|---------|-----------|
+| AMC 10 A | 2018 | [#16](../problems/amc10/2018A.md#problem-16) | integer-segments |
+
+<!-- AUTOGEN-END -->

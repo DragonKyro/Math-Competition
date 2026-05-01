@@ -6,6 +6,7 @@ Problems tagged `difference-of-squares`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2018 | [#10](../problems/amc10/2018A.md#problem-10) | conjugate |
 | AMC 10 A | 2021 | [#10](../problems/amc10/2021A.md#problem-10) | telescoping |
 | AMC 10 B | 2022 | [#5](../problems/amc10/2022B.md#problem-5) | telescoping-product |
 | AMC 10 A | 2023 | [#15](../problems/amc10/2023A.md#problem-15) | arithmetic-series |

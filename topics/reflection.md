@@ -9,7 +9,6 @@ Problems tagged `reflection`.
 | AMC 10 B | 2009 | [#24](../problems/amc10/2009B.md#problem-24) | — |
 | AMC 10 A | 2016 | [#16](../problems/amc10/2016A.md#problem-16) | rotation |
 | AMC 10 B | 2017 | [#18](../problems/amc10/2017B.md#problem-18) | burnsides-lemma, casework |
-| AMC 10 A | 2018 | [#13](../problems/amc10/2018A.md#problem-13) | coordinate-bash, pythagorean-theorem |
 | AMC 10 B | 2019 | [#5](../problems/amc10/2019B.md#problem-5) | slopes |
 | AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | rotation, inverse-transformations |
 | AMC 12 B | 2017 | [#13](../problems/amc12/2017B.md#problem-13) | burnsides-lemma |

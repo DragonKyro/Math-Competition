@@ -22,7 +22,6 @@ Problems tagged `law-of-cosines`.
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-bash, trig-identities |
 | AMC 10 B | 2017 | [#19](../problems/amc10/2017B.md#problem-19) | congruent-triangles, herons-formula, mass-point-geometry, pythagorean-theorem, similar-triangles |
 | AMC 10 B | 2017 | [#24](../problems/amc10/2017B.md#problem-24) | circumradius, vietas-formulas |
-| AMC 10 A | 2018 | [#15](../problems/amc10/2018A.md#problem-15) | — |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | double-angle-identities, law-of-sines, pythagorean-theorem, trig-identities |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, double-angle-identities, herons-formula, law-of-sines, stewarts-theorem |
 | AMC 12 B | 2002 | [#23](../problems/amc12/2002B.md#problem-23) | pythagorean-theorem, stewarts-theorem |

@@ -24,7 +24,6 @@ Problems tagged `floor-function`.
 | AMC 10 A | 2016 | [#4](../problems/amc10/2016A.md#problem-4) | — |
 | AMC 10 B | 2016 | [#14](../problems/amc10/2016B.md#problem-14) | casework |
 | AMC 10 B | 2016 | [#25](../problems/amc10/2016B.md#problem-25) | casework, eulers-totient |
-| AMC 10 A | 2018 | [#18](../problems/amc10/2018A.md#problem-18) | casework, recursion |
 | AMC 10 B | 2019 | [#9](../problems/amc10/2019B.md#problem-9) | absolute-value, casework |
 | AMC 10 A | 2020 | [#22](../problems/amc10/2020A.md#problem-22) | divisors |
 | AMC 10 B | 2021 | [#25](../problems/amc10/2021B.md#problem-25) | lattice-points, stern-brocot |

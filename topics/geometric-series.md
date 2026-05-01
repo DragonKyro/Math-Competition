@@ -17,8 +17,7 @@ Problems tagged `geometric-series`.
 | AMC 10 B | 2011 | [#10](../problems/amc10/2011B.md#problem-10) | base-representations |
 | AMC 10 B | 2016 | [#16](../problems/amc10/2016B.md#problem-16) | am-gm-inequality |
 | AMC 10 A | 2017 | [#18](../problems/amc10/2017A.md#problem-18) | casework, factoring |
-| AMC 10 A | 2018 | [#9](../problems/amc10/2018A.md#problem-9) | — |
-| AMC 10 A | 2018 | [#25](../problems/amc10/2018A.md#problem-25) | — |
+| AMC 10 A | 2018 | [#25](../problems/amc10/2018A.md#problem-25) | repunits |
 | AMC 10 A | 2019 | [#18](../problems/amc10/2019A.md#problem-18) | base-conversion |
 | AMC 10 B | 2019 | [#17](../problems/amc10/2019B.md#problem-17) | symmetry-probability |
 | AMC 10 B | 2019 | [#21](../problems/amc10/2019B.md#problem-21) | coin-flip |

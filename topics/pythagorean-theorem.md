@@ -109,8 +109,6 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 B | 2017 | [#19](../problems/amc10/2017B.md#problem-19) | congruent-triangles, herons-formula, law-of-cosines, mass-point-geometry, similar-triangles |
 | AMC 10 B | 2017 | [#21](../problems/amc10/2017B.md#problem-21) | herons-formula, inradius, shoelace-theorem, stewarts-theorem |
 | AMC 10 B | 2017 | [#22](../problems/amc10/2017B.md#problem-22) | quadratic-formula, similar-triangles |
-| AMC 10 A | 2018 | [#13](../problems/amc10/2018A.md#problem-13) | coordinate-bash, reflection |
-| AMC 10 A | 2018 | [#23](../problems/amc10/2018A.md#problem-23) | coordinate-bash, similar-triangles |
 | AMC 10 B | 2018 | [#17](../problems/amc10/2018B.md#problem-17) | equilateral-octagon |
 | AMC 10 B | 2020 | [#10](../problems/amc10/2020B.md#problem-10) | cone-from-sector |
 | AMC 10 A | 2021 | [#13](../problems/amc10/2021A.md#problem-13) | right-tetrahedron |
