@@ -14,7 +14,6 @@ Problems tagged `picks-theorem`.
 | AMC 8 | 2015 | [#19](../problems/amc8/2015.md#problem-19) | herons-formula, pythagorean-theorem, shoelace-theorem |
 | AMC 8 | 2018 | [#4](../problems/amc8/2018.md#problem-4) | shoelace-theorem |
 | AMC 8 | 2022 | [#1](../problems/amc8/2022.md#problem-1) | shoelace-theorem |
-| AMC 10 A | 2019 | [#7](../problems/amc10/2019A.md#problem-7) | factoring, herons-formula, law-of-cosines, law-of-sines, pythagorean-theorem, shoelace-theorem |
 | AMC 12 B | 2011 | [#23](../problems/amc12/2011B.md#problem-23) | — |
 | AMC 12 A | 2013 | [#13](../problems/amc12/2013A.md#problem-13) | shoelace-theorem |
 | AMC 12 A | 2019 | [#5](../problems/amc12/2019A.md#problem-5) | factoring, herons-formula, law-of-cosines, law-of-sines, pythagorean-theorem, shoelace-theorem |

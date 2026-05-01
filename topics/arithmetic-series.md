@@ -40,8 +40,7 @@ Problems tagged `arithmetic-series`.
 | AMC 10 A | 2017 | [#15](../problems/amc10/2017A.md#problem-15) | casework, congruent-triangles, geometric-probability |
 | AMC 10 B | 2018 | [#13](../problems/amc10/2018B.md#problem-13) | complex-numbers, modular-arithmetic |
 | AMC 10 B | 2018 | [#20](../problems/amc10/2018B.md#problem-20) | complex-numbers, modular-arithmetic, polynomial-division, recursion |
-| AMC 10 A | 2019 | [#15](../problems/amc10/2019A.md#problem-15) | recursion |
-| AMC 10 A | 2019 | [#23](../problems/amc10/2019A.md#problem-23) | modular-arithmetic |
+| AMC 10 A | 2019 | [#23](../problems/amc10/2019A.md#problem-23) | round-robin-counting |
 | AMC 10 A | 2020 | [#7](../problems/amc10/2020A.md#problem-7) | magic-square |
 | AMC 10 A | 2020 | [#8](../problems/amc10/2020A.md#problem-8) | grouping |
 | AMC 10 B | 2020 | [#13](../problems/amc10/2020B.md#problem-13) | spiral-walk |

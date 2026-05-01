@@ -24,7 +24,6 @@ Problems tagged `law-of-cosines`.
 | AMC 10 B | 2017 | [#24](../problems/amc10/2017B.md#problem-24) | circumradius, vietas-formulas |
 | AMC 10 A | 2018 | [#15](../problems/amc10/2018A.md#problem-15) | — |
 | AMC 10 B | 2018 | [#22](../problems/amc10/2018B.md#problem-22) | pythagorean-theorem, triangle-inequality |
-| AMC 10 A | 2019 | [#7](../problems/amc10/2019A.md#problem-7) | factoring, herons-formula, law-of-sines, picks-theorem, pythagorean-theorem, shoelace-theorem |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | double-angle-identities, law-of-sines, pythagorean-theorem, trig-identities |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, double-angle-identities, herons-formula, law-of-sines, stewarts-theorem |
 | AMC 12 B | 2002 | [#23](../problems/amc12/2002B.md#problem-23) | pythagorean-theorem, stewarts-theorem |

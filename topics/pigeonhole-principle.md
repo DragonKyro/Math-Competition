@@ -10,7 +10,6 @@ Problems tagged `pigeonhole-principle`.
 | AMC 10 B | 2010 | [#3](../problems/amc10/2010B.md#problem-3) | — |
 | AMC 10 B | 2011 | [#11](../problems/amc10/2011B.md#problem-11) | — |
 | AMC 10 A | 2019 | [#4](../problems/amc10/2019A.md#problem-4) | — |
-| AMC 10 A | 2019 | [#20](../problems/amc10/2019A.md#problem-20) | parity |
 | AMC 12 A | 2019 | [#3](../problems/amc12/2019A.md#problem-3) | — |
 | AMC 12 A | 2019 | [#16](../problems/amc12/2019A.md#problem-16) | parity |
 | AIME | 1986 | [#12](../problems/aime/1986.md#problem-12) | — |

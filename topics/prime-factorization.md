@@ -38,8 +38,6 @@ Problems tagged `prime-factorization`.
 | AMC 10 A | 2018 | [#22](../problems/amc10/2018A.md#problem-22) | casework |
 | AMC 10 B | 2018 | [#19](../problems/amc10/2018B.md#problem-19) | — |
 | AMC 10 B | 2018 | [#21](../problems/amc10/2018B.md#problem-21) | casework |
-| AMC 10 A | 2019 | [#2](../problems/amc10/2019A.md#problem-2) | modular-arithmetic |
-| AMC 10 A | 2019 | [#11](../problems/amc10/2019A.md#problem-11) | casework, inclusion-exclusion |
 | AMC 10 A | 2020 | [#15](../problems/amc10/2020A.md#problem-15) | perfect-square-divisors |
 | AMC 10 A | 2021 | [#18](../problems/amc10/2021A.md#problem-18) | functional-equation |
 | AMC 10 B | 2021 | [#12](../problems/amc10/2021B.md#problem-12) | sum-of-divisors |

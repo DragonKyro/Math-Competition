@@ -12,7 +12,6 @@ Problems tagged `angle-bisector-theorem`.
 | AMC 10 A | 2010 | [#16](../problems/amc10/2010A.md#problem-16) | factoring, triangle-inequality |
 | AMC 10 A | 2014 | [#22](../problems/amc10/2014A.md#problem-22) | double-angle-identities, factoring, law-of-cosines, pythagorean-theorem, quadratic-formula |
 | AMC 10 A | 2018 | [#24](../problems/amc10/2018A.md#problem-24) | similar-triangles |
-| AMC 10 A | 2019 | [#21](../problems/amc10/2019A.md#problem-21) | diophantine-equations, inradius, pythagorean-theorem, similar-triangles |
 | AMC 10 A | 2022 | [#13](../problems/amc10/2022A.md#problem-13) | similar-triangles, parallelogram |
 | AMC 12 | 2000 | [#17](../problems/amc12/2000.md#problem-17) | law-of-sines |
 | AMC 12 | 2000 | [#19](../problems/amc12/2000.md#problem-19) | herons-formula |

@@ -8,7 +8,6 @@ Problems tagged `parity`.
 |-------------|------|---------|-----------|
 | AMC 10 B | 2016 | [#18](../problems/amc10/2016B.md#problem-18) | arithmetic-series |
 | AMC 10 B | 2017 | [#20](../problems/amc10/2017B.md#problem-20) | legendres-formula, prime-factorization |
-| AMC 10 A | 2019 | [#20](../problems/amc10/2019A.md#problem-20) | pigeonhole-principle |
 | AMC 10 A | 2020 | [#18](../problems/amc10/2020A.md#problem-18) | counting |
 | AMC 10 A | 2020 | [#23](../problems/amc10/2020A.md#problem-23) | composition-of-isometries |
 | AMC 10 B | 2022 | [#3](../problems/amc10/2022B.md#problem-3) | complementary-counting |

@@ -6,6 +6,7 @@ Problems tagged `cyclic-quadrilaterals`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2019 | [#6](../problems/amc10/2019A.md#problem-6) | — |
 | AIME I | 2021 | [#9](../problems/aime/2021I.md#problem-9) | isosceles-trapezoid, similar-triangles |
 | AIME I | 2021 | [#11](../problems/aime/2021I.md#problem-11) | similar-triangles, brahmaguptas-formula |
 | GEOMETRY | 2023 | [#8](../problems/cmimc/geometry/2023.md#problem-8) | inscribed-angle-theorem, angle-chasing, pythagorean-theorem |

@@ -15,7 +15,6 @@ Problems tagged `inradius`.
 | AMC 10 B | 2010 | [#20](../problems/amc10/2010B.md#problem-20) | — |
 | AMC 10 B | 2014 | [#13](../problems/amc10/2014B.md#problem-13) | congruent-triangles, law-of-cosines |
 | AMC 10 B | 2017 | [#21](../problems/amc10/2017B.md#problem-21) | herons-formula, pythagorean-theorem, shoelace-theorem, stewarts-theorem |
-| AMC 10 A | 2019 | [#21](../problems/amc10/2019A.md#problem-21) | angle-bisector-theorem, diophantine-equations, pythagorean-theorem, similar-triangles |
 | AMC 12 B | 2004 | [#19](../problems/amc12/2004B.md#problem-19) | pythagorean-theorem |
 | AMC 12 A | 2008 | [#13](../problems/amc12/2008A.md#problem-13) | — |
 | AMC 12 A | 2008 | [#20](../problems/amc12/2008A.md#problem-20) | angle-bisector-theorem, law-of-sines, stewarts-theorem |

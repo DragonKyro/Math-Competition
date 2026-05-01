@@ -9,7 +9,7 @@ Problems tagged `geometric-probability`.
 | AMC 10 B | 2011 | [#16](../problems/amc10/2011B.md#problem-16) | factoring |
 | AMC 10 A | 2012 | [#25](../problems/amc10/2012A.md#problem-25) | rotation |
 | AMC 10 A | 2017 | [#15](../problems/amc10/2017A.md#problem-15) | arithmetic-series, casework, congruent-triangles |
-| AMC 10 A | 2019 | [#22](../problems/amc10/2019A.md#problem-22) | casework |
+| AMC 10 A | 2019 | [#22](../problems/amc10/2019A.md#problem-22) | coin-flip-casework |
 | AMC 10 A | 2020 | [#16](../problems/amc10/2020A.md#problem-16) | circle-area |
 | AMC 10 B | 2021 | [#23](../problems/amc10/2021B.md#problem-23) | minkowski-sum |
 | AMC 10 B | 2022 | [#23](../problems/amc10/2022B.md#problem-23) | simplex-volume |

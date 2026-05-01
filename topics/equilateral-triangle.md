@@ -6,6 +6,7 @@ Problems tagged `equilateral-triangle`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2019 | [#16](../problems/amc10/2019A.md#problem-16) | circle-packing |
 | AMC 10 B | 2019 | [#8](../problems/amc10/2019B.md#problem-8) | area-decomposition |
 | AMC 10 B | 2020 | [#14](../problems/amc10/2020B.md#problem-14) | hexagon-semicircles |
 | AMC 10 A | 2021 | [#21](../problems/amc10/2021A.md#problem-21) | equiangular-hexagon |

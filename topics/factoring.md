@@ -46,9 +46,6 @@ Problems tagged `factoring`.
 | AMC 10 A | 2018 | [#10](../problems/amc10/2018A.md#problem-10) | — |
 | AMC 10 A | 2018 | [#14](../problems/amc10/2018A.md#problem-14) | — |
 | AMC 10 A | 2018 | [#21](../problems/amc10/2018A.md#problem-21) | quadratic-formula |
-| AMC 10 A | 2019 | [#3](../problems/amc10/2019A.md#problem-3) | — |
-| AMC 10 A | 2019 | [#7](../problems/amc10/2019A.md#problem-7) | herons-formula, law-of-cosines, law-of-sines, picks-theorem, pythagorean-theorem, shoelace-theorem |
-| AMC 10 A | 2019 | [#19](../problems/amc10/2019A.md#problem-19) | — |
 | AMC 10 B | 2019 | [#6](../problems/amc10/2019B.md#problem-6) | factorial, quadratic-formula |
 | AMC 10 A | 2021 | [#9](../problems/amc10/2021A.md#problem-9) | algebra, inequality |
 | AMC 10 B | 2021 | [#5](../problems/amc10/2021B.md#problem-5) | casework |
