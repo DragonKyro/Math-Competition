@@ -234,9 +234,6 @@ Problems tagged `geometry`: triangles, circles, polygons, coordinate geometry, 3
 | AMC 10 B | 2013 | [#13](../problems/amc10/2013B.md#problem-13) | — |
 | AMC 10 B | 2013 | [#15](../problems/amc10/2013B.md#problem-15) | — |
 | AMC 10 B | 2013 | [#22](../problems/amc10/2013B.md#problem-22) | combinatorics, number-theory |
-| AMC 10 B | 2014 | [#5](../problems/amc10/2014B.md#problem-5) | — |
-| AMC 10 B | 2014 | [#15](../problems/amc10/2014B.md#problem-15) | — |
-| AMC 10 B | 2014 | [#19](../problems/amc10/2014B.md#problem-19) | probability |
 | AMC 10 A | 2017 | [#7](../problems/amc10/2017A.md#problem-7) | square-diagonal |
 | AMC 10 B | 2022 | [#19](../problems/amc10/2022B.md#problem-19) | — |
 | AMC 10 A | 2024 | [#2](../problems/amc10/2024A.md#problem-2) | — |

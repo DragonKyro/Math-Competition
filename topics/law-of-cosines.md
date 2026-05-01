@@ -15,7 +15,6 @@ Problems tagged `law-of-cosines`.
 | AMC 10 B | 2011 | [#18](../problems/amc10/2011B.md#problem-18) | pythagorean-theorem |
 | AMC 10 A | 2013 | [#23](../problems/amc10/2013A.md#problem-23) | power-of-a-point, pythagorean-theorem, stewarts-theorem, triangle-inequality |
 | AMC 10 B | 2013 | [#23](../problems/amc10/2013B.md#problem-23) | coordinate-bash, diophantine-equations, power-of-a-point, ptolemys-theorem, pythagorean-theorem, similar-triangles |
-| AMC 10 B | 2014 | [#13](../problems/amc10/2014B.md#problem-13) | congruent-triangles, inradius |
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | inscribed-angle-theorem, triple-angle-formula |
 | AMC 10 B | 2017 | [#19](../problems/amc10/2017B.md#problem-19) | equilateral-triangle |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | double-angle-identities, law-of-sines, pythagorean-theorem, trig-identities |

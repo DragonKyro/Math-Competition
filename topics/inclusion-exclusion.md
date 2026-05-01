@@ -20,7 +20,6 @@ Problems tagged `inclusion-exclusion`.
 | AMC 10 B | 2010 | [#18](../problems/amc10/2010B.md#problem-18) | modular-arithmetic |
 | AMC 10 A | 2012 | [#20](../problems/amc10/2012A.md#problem-20) | casework, rotation |
 | AMC 10 A | 2013 | [#25](../problems/amc10/2013A.md#problem-25) | casework |
-| AMC 10 B | 2014 | [#16](../problems/amc10/2014B.md#problem-16) | — |
 | AMC 10 A | 2017 | [#19](../problems/amc10/2017A.md#problem-19) | casework |
 | AMC 10 B | 2017 | [#13](../problems/amc10/2017B.md#problem-13) | set-counting |
 | AMC 10 A | 2019 | [#11](../problems/amc10/2019A.md#problem-11) | perfect-squares-cubes |

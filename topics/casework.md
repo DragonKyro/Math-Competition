@@ -65,7 +65,8 @@ Problems tagged `casework`.
 | AMC 10 B | 2013 | [#25](../problems/amc10/2013B.md#problem-25) | base-representations, chinese-remainder-theorem, modular-arithmetic |
 | AMC 10 A | 2014 | [#4](../problems/amc10/2014A.md#problem-4) | permutations-with-constraints |
 | AMC 10 A | 2014 | [#17](../problems/amc10/2014A.md#problem-17) | dice-probability |
-| AMC 10 B | 2014 | [#24](../problems/amc10/2014B.md#problem-24) | — |
+| AMC 10 B | 2014 | [#16](../problems/amc10/2014B.md#problem-16) | dice-probability |
+| AMC 10 B | 2014 | [#24](../problems/amc10/2014B.md#problem-24) | circular-arrangements |
 | AMC 10 A | 2015 | [#22](../problems/amc10/2015A.md#problem-22) | circular-arrangements |
 | AMC 10 B | 2015 | [#21](../problems/amc10/2015B.md#problem-21) | ceiling-function |
 | AMC 10 B | 2016 | [#14](../problems/amc10/2016B.md#problem-14) | lattice-squares |

@@ -34,8 +34,7 @@ Problems tagged `factoring`.
 | AMC 10 B | 2013 | [#5](../problems/amc10/2013B.md#problem-5) | — |
 | AMC 10 B | 2013 | [#14](../problems/amc10/2013B.md#problem-14) | — |
 | AMC 10 B | 2013 | [#24](../problems/amc10/2013B.md#problem-24) | casework, prime-factorization |
-| AMC 10 B | 2014 | [#17](../problems/amc10/2014B.md#problem-17) | modular-arithmetic |
-| AMC 10 B | 2014 | [#20](../problems/amc10/2014B.md#problem-20) | — |
+| AMC 10 B | 2014 | [#17](../problems/amc10/2014B.md#problem-17) | 2-adic-valuation |
 | AMC 10 B | 2016 | [#17](../problems/amc10/2016B.md#problem-17) | cube-faces, am-gm |
 | AMC 10 B | 2019 | [#6](../problems/amc10/2019B.md#problem-6) | factorial, quadratic-formula |
 | AMC 10 A | 2021 | [#9](../problems/amc10/2021A.md#problem-9) | algebra, inequality |

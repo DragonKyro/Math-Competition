@@ -16,7 +16,6 @@ Problems tagged `herons-formula`.
 | AMC 10 B | 2007 | [#11](../problems/amc10/2007B.md#problem-11) | double-angle-identities, law-of-cosines, law-of-sines, power-of-a-point, pythagorean-theorem |
 | AMC 10 B | 2010 | [#7](../problems/amc10/2010B.md#problem-7) | — |
 | AMC 10 B | 2013 | [#16](../problems/amc10/2013B.md#problem-16) | diophantine-equations, mass-point-geometry, pythagorean-theorem |
-| AMC 10 B | 2014 | [#21](../problems/amc10/2014B.md#problem-21) | pythagorean-theorem |
 | AMC 12 | 2000 | [#19](../problems/amc12/2000.md#problem-19) | angle-bisector-theorem |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, double-angle-identities, law-of-cosines, law-of-sines, stewarts-theorem |
 | AMC 12 B | 2008 | [#25](../problems/amc12/2008B.md#problem-25) | angle-chasing, factoring, pythagorean-theorem |

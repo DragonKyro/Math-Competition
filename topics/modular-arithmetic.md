@@ -56,7 +56,6 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 A | 2012 | [#16](../problems/amc10/2012A.md#problem-16) | — |
 | AMC 10 A | 2013 | [#19](../problems/amc10/2013A.md#problem-19) | — |
 | AMC 10 B | 2013 | [#25](../problems/amc10/2013B.md#problem-25) | base-representations, casework, chinese-remainder-theorem |
-| AMC 10 B | 2014 | [#17](../problems/amc10/2014B.md#problem-17) | factoring |
 | AMC 10 B | 2016 | [#4](../problems/amc10/2016B.md#problem-4) | calendar |
 | AMC 10 B | 2016 | [#8](../problems/amc10/2016B.md#problem-8) | last-two-digits |
 | AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | digit-sums |
