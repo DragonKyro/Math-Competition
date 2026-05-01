@@ -111,11 +111,7 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 B | 2017 | [#22](../problems/amc10/2017B.md#problem-22) | quadratic-formula, similar-triangles |
 | AMC 10 A | 2018 | [#13](../problems/amc10/2018A.md#problem-13) | coordinate-bash, reflection |
 | AMC 10 A | 2018 | [#23](../problems/amc10/2018A.md#problem-23) | coordinate-bash, similar-triangles |
-| AMC 10 B | 2018 | [#10](../problems/amc10/2018B.md#problem-10) | coordinate-bash |
-| AMC 10 B | 2018 | [#15](../problems/amc10/2018B.md#problem-15) | — |
-| AMC 10 B | 2018 | [#17](../problems/amc10/2018B.md#problem-17) | quadratic-formula |
-| AMC 10 B | 2018 | [#22](../problems/amc10/2018B.md#problem-22) | law-of-cosines, triangle-inequality |
-| AMC 10 B | 2018 | [#24](../problems/amc10/2018B.md#problem-24) | congruent-triangles, coordinate-bash, similar-triangles |
+| AMC 10 B | 2018 | [#17](../problems/amc10/2018B.md#problem-17) | equilateral-octagon |
 | AMC 10 B | 2020 | [#10](../problems/amc10/2020B.md#problem-10) | cone-from-sector |
 | AMC 10 A | 2021 | [#13](../problems/amc10/2021A.md#problem-13) | right-tetrahedron |
 | AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | similar-triangles, diagonal-ratio |

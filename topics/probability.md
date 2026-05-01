@@ -64,7 +64,7 @@ Problems tagged `probability`: discrete and continuous probability, expected val
 | AMC 10 B | 2015 | [#20](../problems/amc10/2015B.md#problem-20) | geometry |
 | AMC 10 A | 2016 | [#12](../problems/amc10/2016A.md#problem-12) | — |
 | AMC 10 A | 2016 | [#17](../problems/amc10/2016A.md#problem-17) | algebra |
-| AMC 10 B | 2018 | [#6](../problems/amc10/2018B.md#problem-6) | — |
+| AMC 10 B | 2018 | [#6](../problems/amc10/2018B.md#problem-6) | sequential-draws |
 | AMC 10 A | 2019 | [#20](../problems/amc10/2019A.md#problem-20) | parity-grid |
 | AMC 10 A | 2020 | [#13](../problems/amc10/2020A.md#problem-13) | symmetry, random-walk |
 | AMC 10 A | 2020 | [#25](../problems/amc10/2020A.md#problem-25) | casework, optimal-strategy |

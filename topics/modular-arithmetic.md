@@ -67,10 +67,8 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 B | 2017 | [#23](../problems/amc10/2017B.md#problem-23) | chinese-remainder-theorem, divisibility-rules |
 | AMC 10 B | 2017 | [#25](../problems/amc10/2017B.md#problem-25) | chinese-remainder-theorem |
 | AMC 10 A | 2018 | [#19](../problems/amc10/2018A.md#problem-19) | casework |
-| AMC 10 B | 2018 | [#11](../problems/amc10/2018B.md#problem-11) | — |
-| AMC 10 B | 2018 | [#13](../problems/amc10/2018B.md#problem-13) | arithmetic-series, complex-numbers |
-| AMC 10 B | 2018 | [#16](../problems/amc10/2018B.md#problem-16) | eulers-totient |
-| AMC 10 B | 2018 | [#20](../problems/amc10/2018B.md#problem-20) | arithmetic-series, complex-numbers, polynomial-division, recursion |
+| AMC 10 B | 2018 | [#11](../problems/amc10/2018B.md#problem-11) | always-composite |
+| AMC 10 B | 2018 | [#16](../problems/amc10/2018B.md#problem-16) | cubes-mod |
 | AMC 10 B | 2020 | [#15](../problems/amc10/2020B.md#problem-15) | periodic-deletion |
 | AMC 10 A | 2021 | [#11](../problems/amc10/2021A.md#problem-11) | base-representations |
 | AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | multinomial-coefficient |

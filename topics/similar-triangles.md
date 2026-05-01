@@ -41,7 +41,6 @@ Problems tagged `similar-triangles`.
 | AMC 10 B | 2017 | [#22](../problems/amc10/2017B.md#problem-22) | pythagorean-theorem, quadratic-formula |
 | AMC 10 A | 2018 | [#23](../problems/amc10/2018A.md#problem-23) | coordinate-bash, pythagorean-theorem |
 | AMC 10 A | 2018 | [#24](../problems/amc10/2018A.md#problem-24) | angle-bisector-theorem |
-| AMC 10 B | 2018 | [#24](../problems/amc10/2018B.md#problem-24) | congruent-triangles, coordinate-bash, pythagorean-theorem |
 | AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | right-triangle, quadratic-formula |
 | AMC 10 B | 2020 | [#21](../problems/amc10/2020B.md#problem-21) | square-fold, isosceles-right-triangle |
 | AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | pythagorean-theorem, diagonal-ratio |

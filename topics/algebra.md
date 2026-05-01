@@ -645,8 +645,6 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 A | 2018 | [#6](../problems/amc10/2018A.md#problem-6) | — |
 | AMC 10 A | 2018 | [#7](../problems/amc10/2018A.md#problem-7) | — |
 | AMC 10 A | 2018 | [#8](../problems/amc10/2018A.md#problem-8) | — |
-| AMC 10 B | 2018 | [#2](../problems/amc10/2018B.md#problem-2) | — |
-| AMC 10 B | 2018 | [#3](../problems/amc10/2018B.md#problem-3) | — |
 | AMC 10 B | 2018 | [#25](../problems/amc10/2018B.md#problem-25) | — |
 | AMC 10 A | 2020 | [#12](../problems/amc10/2020A.md#problem-12) | — |
 | AMC 10 A | 2021 | [#5](../problems/amc10/2021A.md#problem-5) | weighted-average |

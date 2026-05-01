@@ -29,7 +29,6 @@ Problems tagged `congruent-triangles`.
 | AMC 10 B | 2017 | [#8](../problems/amc10/2017B.md#problem-8) | — |
 | AMC 10 B | 2017 | [#15](../problems/amc10/2017B.md#problem-15) | similar-triangles |
 | AMC 10 B | 2017 | [#19](../problems/amc10/2017B.md#problem-19) | herons-formula, law-of-cosines, mass-point-geometry, pythagorean-theorem, similar-triangles |
-| AMC 10 B | 2018 | [#24](../problems/amc10/2018B.md#problem-24) | coordinate-bash, pythagorean-theorem, similar-triangles |
 | AMC 12 B | 2004 | [#14](../problems/amc12/2004B.md#problem-14) | — |
 | AMC 12 A | 2009 | [#11](../problems/amc12/2009A.md#problem-11) | — |
 | AMC 12 A | 2010 | [#17](../problems/amc12/2010A.md#problem-17) | law-of-cosines, pythagorean-theorem, vietas-formulas |

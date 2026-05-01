@@ -21,8 +21,7 @@ Problems tagged `quadratic-formula`.
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, similar-triangles, trig-bash, trig-identities |
 | AMC 10 B | 2017 | [#22](../problems/amc10/2017B.md#problem-22) | pythagorean-theorem, similar-triangles |
 | AMC 10 A | 2018 | [#21](../problems/amc10/2018A.md#problem-21) | factoring |
-| AMC 10 B | 2018 | [#8](../problems/amc10/2018B.md#problem-8) | — |
-| AMC 10 B | 2018 | [#17](../problems/amc10/2018B.md#problem-17) | pythagorean-theorem |
+| AMC 10 B | 2018 | [#8](../problems/amc10/2018B.md#problem-8) | staircase-pattern |
 | AMC 10 B | 2019 | [#6](../problems/amc10/2019B.md#problem-6) | factorial, factoring |
 | AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | right-triangle, similar-triangles |
 | AMC 10 B | 2021 | [#13](../problems/amc10/2021B.md#problem-13) | base-conversion |

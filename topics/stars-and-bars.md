@@ -17,7 +17,7 @@ Problems tagged `stars-and-bars`.
 | AMC 10 A | 2015 | [#22](../problems/amc10/2015A.md#problem-22) | casework, complementary-counting, recursion |
 | AMC 10 A | 2016 | [#20](../problems/amc10/2016A.md#problem-20) | casework, hockey-stick-identity |
 | AMC 10 A | 2018 | [#11](../problems/amc10/2018A.md#problem-11) | generating-functions |
-| AMC 10 B | 2018 | [#9](../problems/amc10/2018B.md#problem-9) | bijection, expected-value |
+| AMC 10 B | 2018 | [#9](../problems/amc10/2018B.md#problem-9) | symmetry-dice |
 | AMC 10 B | 2020 | [#25](../problems/amc10/2020B.md#problem-25) | ordered-factorization |
 | AMC 10 B | 2023 | [#11](../problems/amc10/2023B.md#problem-11) | bijection |
 | AMC 12 A | 2004 | [#3](../problems/amc12/2004A.md#problem-3) | floor-function |

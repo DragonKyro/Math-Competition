@@ -7,7 +7,6 @@ Problems tagged `bijection`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 A | 2003 | [#21](../problems/amc10/2003A.md#problem-21) | casework, stars-and-bars |
-| AMC 10 B | 2018 | [#9](../problems/amc10/2018B.md#problem-9) | expected-value, stars-and-bars |
 | AMC 10 A | 2022 | [#22](../problems/amc10/2022A.md#problem-22) | binomial-sum, counting |
 | AMC 10 B | 2023 | [#11](../problems/amc10/2023B.md#problem-11) | stars-and-bars |
 | AMC 10 B | 2023 | [#16](../problems/amc10/2023B.md#problem-16) | subset-count |
