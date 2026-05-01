@@ -11,7 +11,6 @@ Problems tagged `induction`.
 | AMC 10 B | 2019 | [#24](../problems/amc10/2019B.md#problem-24) | factoring, geometric-series, recursion |
 | AMC 10 A | 2021 | [#10](../problems/amc10/2021A.md#problem-10) | factoring, fermats-little-theorem |
 | AMC 10 A | 2021 | [#18](../problems/amc10/2021A.md#problem-18) | prime-factorization |
-| AMC 10 B | 2021 | [#8](../problems/amc10/2021B.md#problem-8) | — |
 | AMC 12 B | 2004 | [#12](../problems/amc12/2004B.md#problem-12) | — |
 | AMC 12 B | 2005 | [#22](../problems/amc12/2005B.md#problem-22) | complex-numbers, modular-arithmetic, recursion |
 | AMC 12 B | 2011 | [#17](../problems/amc12/2011B.md#problem-17) | logarithms |

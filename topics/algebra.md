@@ -667,11 +667,6 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 A | 2021 | [#5](../problems/amc10/2021A.md#problem-5) | — |
 | AMC 10 A | 2021 | [#7](../problems/amc10/2021A.md#problem-7) | — |
 | AMC 10 A | 2021 | [#9](../problems/amc10/2021A.md#problem-9) | — |
-| AMC 10 B | 2021 | [#3](../problems/amc10/2021B.md#problem-3) | number-theory |
-| AMC 10 B | 2021 | [#4](../problems/amc10/2021B.md#problem-4) | — |
-| AMC 10 B | 2021 | [#5](../problems/amc10/2021B.md#problem-5) | — |
-| AMC 10 B | 2021 | [#6](../problems/amc10/2021B.md#problem-6) | — |
-| AMC 10 B | 2021 | [#17](../problems/amc10/2021B.md#problem-17) | — |
 | AMC 10 A | 2023 | [#1](../problems/amc10/2023A.md#problem-1) | — |
 | AMC 10 A | 2023 | [#2](../problems/amc10/2023A.md#problem-2) | — |
 | AMC 10 A | 2023 | [#3](../problems/amc10/2023A.md#problem-3) | — |

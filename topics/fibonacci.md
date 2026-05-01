@@ -8,7 +8,6 @@ Problems tagged `fibonacci`.
 |-------------|------|---------|-----------|
 | AMC 8 | 2013 | [#16](../problems/amc8/2013.md#problem-16) | — |
 | AMC 10 | 2000 | [#6](../problems/amc10/2000.md#problem-6) | — |
-| AMC 10 B | 2021 | [#15](../problems/amc10/2021B.md#problem-15) | arithmetic-series, factoring, quadratic-formula |
 | AMC 12 | 2000 | [#4](../problems/amc12/2000.md#problem-4) | — |
 | AMC 12 B | 2009 | [#21](../problems/amc12/2009B.md#problem-21) | casework, recursion |
 | AMC 12 B | 2022 | [#11](../problems/amc12/2022B.md#problem-11) | complex-numbers, de-moivres-theorem, recurrence-relations, recursion, roots-of-unity |

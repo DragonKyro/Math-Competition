@@ -14,7 +14,6 @@ Problems tagged `double-angle-identities`.
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-bash, trig-identities |
 | AMC 10 B | 2019 | [#16](../problems/amc10/2019B.md#problem-16) | diophantine-equations, law-of-cosines, pythagorean-theorem |
 | AMC 10 B | 2019 | [#23](../problems/amc10/2019B.md#problem-23) | coordinate-bash, power-of-a-point, ptolemys-theorem, pythagorean-theorem |
-| AMC 10 B | 2021 | [#21](../problems/amc10/2021B.md#problem-21) | pythagorean-theorem, reflection, similar-triangles |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | law-of-cosines, law-of-sines, pythagorean-theorem, trig-identities |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, herons-formula, law-of-cosines, law-of-sines, stewarts-theorem |
 | AMC 12 A | 2003 | [#17](../problems/amc12/2003A.md#problem-17) | law-of-cosines, pythagorean-theorem, similar-triangles |

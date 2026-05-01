@@ -23,7 +23,6 @@ Problems tagged `recursion`.
 | AMC 10 B | 2019 | [#24](../problems/amc10/2019B.md#problem-24) | factoring, geometric-series, induction |
 | AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | casework, diophantine-equations, modular-arithmetic, path-counting |
 | AMC 10 B | 2020 | [#25](../problems/amc10/2020B.md#problem-25) | casework, stars-and-bars |
-| AMC 10 B | 2021 | [#22](../problems/amc10/2021B.md#problem-22) | complementary-counting, derangements, inclusion-exclusion |
 | AMC 10 B | 2022 | [#25](../problems/amc10/2022B.md#problem-25) | euclidean-algorithm, fermats-little-theorem, modular-arithmetic |
 | AMC 10 B | 2023 | [#21](../problems/amc10/2023B.md#problem-21) | markov-chain, parity-distribution |
 | AMC 12 | 2000 | [#8](../problems/amc12/2000.md#problem-8) | arithmetic-series |

@@ -17,7 +17,7 @@ Problems tagged `divisibility-rules`.
 | AMC 10 B | 2017 | [#23](../problems/amc10/2017B.md#problem-23) | chinese-remainder-theorem, modular-arithmetic |
 | AMC 10 B | 2019 | [#14](../problems/amc10/2019B.md#problem-14) | modular-arithmetic, prime-factorization |
 | AMC 10 B | 2020 | [#19](../problems/amc10/2020B.md#problem-19) | chinese-remainder-theorem, modular-arithmetic |
-| AMC 10 B | 2021 | [#16](../problems/amc10/2021B.md#problem-16) | casework, modular-arithmetic |
+| AMC 10 B | 2021 | [#16](../problems/amc10/2021B.md#problem-16) | subset-counting |
 | AMC 10 A | 2023 | [#12](../problems/amc10/2023A.md#problem-12) | digit-constraints |
 | AMC 12 A | 2003 | [#18](../problems/amc12/2003A.md#problem-18) | floor-function, modular-arithmetic |
 | AMC 12 B | 2006 | [#19](../problems/amc12/2006B.md#problem-19) | — |

@@ -9,12 +9,12 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [3d geometry](3d-geometry.md) — 1
 - [45 45 90 triangle](45-45-90-triangle.md) — 3
 - [5 region partition](5-region-partition.md) — 1
-- [absolute value](absolute-value.md) — 2
+- [absolute value](absolute-value.md) — 4
 - [absolute value bounds](absolute-value-bounds.md) — 1
 - [absolute value inequality](absolute-value-inequality.md) — 1
 - [absolute value operation](absolute-value-operation.md) — 1
 - [absolute value transformations](absolute-value-transformations.md) — 1
-- [algebra](algebra.md) — 1180
+- [algebra](algebra.md) — 1175
 - [algebraic manipulation](algebraic-manipulation.md) — 1
 - [am gm inequality](am-gm-inequality.md) — 32
 - [angle addition formulas](angle-addition-formulas.md) — 14
@@ -24,16 +24,18 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [antichain](antichain.md) — 1
 - [approximation](approximation.md) — 1
 - [arctan identities](arctan-identities.md) — 1
+- [area optimization](area-optimization.md) — 1
 - [area ratio](area-ratio.md) — 1
 - [arithmetic plus geometric](arithmetic-plus-geometric.md) — 1
 - [arithmetic progression](arithmetic-progression.md) — 1
-- [arithmetic series](arithmetic-series.md) — 105
+- [arithmetic series](arithmetic-series.md) — 104
 - [arithmetic sum](arithmetic-sum.md) — 1
 - [arithmetic sum formula](arithmetic-sum-formula.md) — 1
 - [aspect ratio](aspect-ratio.md) — 1
 - [average equation](average-equation.md) — 1
 - [averaging](averaging.md) — 1
-- [base representations](base-representations.md) — 46
+- [base conversion](base-conversion.md) — 1
+- [base representations](base-representations.md) — 45
 - [base times height](base-times-height.md) — 1
 - [bijection](bijection.md) — 33
 - [binomial coefficients](binomial-coefficients.md) — 6
@@ -45,7 +47,7 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [brahmaguptas formula](brahmaguptas-formula.md) — 7
 - [burnsides lemma](burnsides-lemma.md) — 6
 - [carnot theorem](carnot-theorem.md) — 1
-- [casework](casework.md) — 404
+- [casework](casework.md) — 402
 - [casework by first roll](casework-by-first-roll.md) — 1
 - [catalan numbers](catalan-numbers.md) — 2
 - [cauchy schwarz inequality](cauchy-schwarz-inequality.md) — 5
@@ -56,14 +58,14 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [circles](circles.md) — 1
 - [circumradius](circumradius.md) — 49
 - [combinatorial bijection](combinatorial-bijection.md) — 1
-- [combinatorial game](combinatorial-game.md) — 1
+- [combinatorial game](combinatorial-game.md) — 2
 - [combinatorics](combinatorics.md) — 33
 - [common tangent](common-tangent.md) — 1
 - [complement probability](complement-probability.md) — 1
-- [complementary counting](complementary-counting.md) — 81
+- [complementary counting](complementary-counting.md) — 79
 - [complementary probability](complementary-probability.md) — 2
 - [complex bash](complex-bash.md) — 3
-- [complex numbers](complex-numbers.md) — 109
+- [complex numbers](complex-numbers.md) — 108
 - [conditional probability](conditional-probability.md) — 6
 - [congruent triangles](congruent-triangles.md) — 51
 - [consecutive factors](consecutive-factors.md) — 1
@@ -78,6 +80,8 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [coordinate geometry](coordinate-geometry.md) — 2
 - [counting](counting.md) — 2
 - [counting digits](counting-digits.md) — 1
+- [counting integers](counting-integers.md) — 1
+- [counting pairs](counting-pairs.md) — 1
 - [covering argument](covering-argument.md) — 1
 - [cube geometry](cube-geometry.md) — 2
 - [cube incidence counting](cube-incidence-counting.md) — 1
@@ -87,7 +91,8 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [cyclic quadrilaterals](cyclic-quadrilaterals.md) — 4
 - [cyclotomic polynomials](cyclotomic-polynomials.md) — 1
 - [de moivres theorem](de-moivres-theorem.md) — 26
-- [derangements](derangements.md) — 3
+- [deduction](deduction.md) — 1
+- [derangements](derangements.md) — 2
 - [descartes circle theorem](descartes-circle-theorem.md) — 2
 - [difference of cubes](difference-of-cubes.md) — 1
 - [difference of squares](difference-of-squares.md) — 7
@@ -106,11 +111,12 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [divisor pairs](divisor-pairs.md) — 1
 - [divisor structure](divisor-structure.md) — 2
 - [divisor sum](divisor-sum.md) — 1
-- [double angle identities](double-angle-identities.md) — 43
+- [double angle identities](double-angle-identities.md) — 42
 - [elapsed time](elapsed-time.md) — 1
 - [ellipses](ellipses.md) — 1
 - [equal tangent segments](equal-tangent-segments.md) — 1
 - [equalizing shares](equalizing-shares.md) — 1
+- [equidistant chords](equidistant-chords.md) — 1
 - [equilateral triangle](equilateral-triangle.md) — 1
 - [euclidean algorithm](euclidean-algorithm.md) — 25
 - [eulers formula](eulers-formula.md) — 1
@@ -121,9 +127,9 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [factor theorem](factor-theorem.md) — 1
 - [factorial identity](factorial-identity.md) — 1
 - [factorial manipulation](factorial-manipulation.md) — 1
-- [factoring](factoring.md) — 146
+- [factoring](factoring.md) — 145
 - [fermats little theorem](fermats-little-theorem.md) — 15
-- [fibonacci](fibonacci.md) — 14
+- [fibonacci](fibonacci.md) — 13
 - [fibonacci identities](fibonacci-identities.md) — 1
 - [floor function](floor-function.md) — 133
 - [floor function equation](floor-function-equation.md) — 1
@@ -133,10 +139,10 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [generalized triangle inequality](generalized-triangle-inequality.md) — 1
 - [generating functions](generating-functions.md) — 27
 - [geometric mean](geometric-mean.md) — 1
-- [geometric probability](geometric-probability.md) — 18
+- [geometric probability](geometric-probability.md) — 19
 - [geometric sequence](geometric-sequence.md) — 1
-- [geometric series](geometric-series.md) — 95
-- [geometry](geometry.md) — 522
+- [geometric series](geometric-series.md) — 94
+- [geometry](geometry.md) — 519
 - [golden ratio](golden-ratio.md) — 1
 - [graph coloring](graph-coloring.md) — 1
 - [graph walks](graph-walks.md) — 1
@@ -152,8 +158,9 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [hexagonal tiling](hexagonal-tiling.md) — 1
 - [hockey stick identity](hockey-stick-identity.md) — 13
 - [icosahedron structure](icosahedron-structure.md) — 1
-- [inclusion exclusion](inclusion-exclusion.md) — 70
-- [induction](induction.md) — 32
+- [inclusion exclusion](inclusion-exclusion.md) — 69
+- [independent permutations](independent-permutations.md) — 1
+- [induction](induction.md) — 31
 - [inequalities](inequalities.md) — 1
 - [inradius](inradius.md) — 47
 - [inscribed angle](inscribed-angle.md) — 1
@@ -164,12 +171,13 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [integer systems](integer-systems.md) — 1
 - [interval casework](interval-casework.md) — 1
 - [invariants](invariants.md) — 1
+- [inverse transformations](inverse-transformations.md) — 1
 - [inversion](inversion.md) — 1
 - [inversions](inversions.md) — 1
 - [isosceles trapezoid](isosceles-trapezoid.md) — 1
 - [isosceles triangle](isosceles-triangle.md) — 1
 - [jensens inequality](jensens-inequality.md) — 1
-- [lattice points](lattice-points.md) — 2
+- [lattice points](lattice-points.md) — 3
 - [law of cosines](law-of-cosines.md) — 172
 - [law of sines](law-of-sines.md) — 73
 - [lcm gcd](lcm-gcd.md) — 1
@@ -187,9 +195,11 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [maximize opposite side](maximize-opposite-side.md) — 1
 - [mean data set](mean-data-set.md) — 1
 - [mean median mode](mean-median-mode.md) — 1
+- [mean sum](mean-sum.md) — 1
 - [median to hypotenuse](median-to-hypotenuse.md) — 1
 - [menelauss theorem](menelauss-theorem.md) — 7
-- [modular arithmetic](modular-arithmetic.md) — 315
+- [minkowski sum](minkowski-sum.md) — 1
+- [modular arithmetic](modular-arithmetic.md) — 313
 - [monovariant](monovariant.md) — 1
 - [multinomial coefficient](multinomial-coefficient.md) — 1
 - [multinomial coefficients](multinomial-coefficients.md) — 2
@@ -198,12 +208,15 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [multiplicity parity](multiplicity-parity.md) — 1
 - [nested arithmetic](nested-arithmetic.md) — 1
 - [newtons identity](newtons-identity.md) — 1
-- [number theory](number-theory.md) — 184
+- [number theory](number-theory.md) — 183
 - [octagon in square](octagon-in-square.md) — 1
+- [odd squares corners](odd-squares-corners.md) — 1
 - [optimization bounds](optimization-bounds.md) — 2
 - [order of operations](order-of-operations.md) — 1
 - [overcounting](overcounting.md) — 2
 - [overlapping squares](overlapping-squares.md) — 1
+- [pair constraints](pair-constraints.md) — 1
+- [paper fold](paper-fold.md) — 1
 - [parabolas](parabolas.md) — 1
 - [parallelogram](parallelogram.md) — 1
 - [parallelogram area](parallelogram-area.md) — 1
@@ -215,12 +228,13 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [path counting](path-counting.md) — 3
 - [pattern recognition](pattern-recognition.md) — 1
 - [percent calculations](percent-calculations.md) — 1
+- [percentages](percentages.md) — 1
 - [perfect square](perfect-square.md) — 1
 - [perfect squares](perfect-squares.md) — 1
 - [periodic patterns](periodic-patterns.md) — 1
 - [periodicity](periodicity.md) — 1
 - [perpendicular bisector](perpendicular-bisector.md) — 1
-- [picks theorem](picks-theorem.md) — 17
+- [picks theorem](picks-theorem.md) — 16
 - [pigeonhole](pigeonhole.md) — 1
 - [pigeonhole principle](pigeonhole-principle.md) — 19
 - [polar coordinates](polar-coordinates.md) — 1
@@ -230,16 +244,17 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [polynomial shift](polynomial-shift.md) — 1
 - [positive integer constraints](positive-integer-constraints.md) — 1
 - [power of a point](power-of-a-point.md) — 64
-- [prime factorization](prime-factorization.md) — 123
+- [power sum](power-sum.md) — 1
+- [prime factorization](prime-factorization.md) — 122
 - [prime factorization parity](prime-factorization-parity.md) — 1
 - [probability](probability.md) — 114
 - [product of divisors](product-of-divisors.md) — 1
 - [product to sum](product-to-sum.md) — 7
 - [ptolemys theorem](ptolemys-theorem.md) — 36
-- [pythagorean theorem](pythagorean-theorem.md) — 407
+- [pythagorean theorem](pythagorean-theorem.md) — 406
 - [pythagorean triple](pythagorean-triple.md) — 1
 - [pythagorean triples](pythagorean-triples.md) — 1
-- [quadratic formula](quadratic-formula.md) — 117
+- [quadratic formula](quadratic-formula.md) — 116
 - [radical axis](radical-axis.md) — 11
 - [range mean median constraints](range-mean-median-constraints.md) — 1
 - [rate time](rate-time.md) — 1
@@ -247,8 +262,8 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [rectangle diagonal](rectangle-diagonal.md) — 1
 - [recurrence mod](recurrence-mod.md) — 1
 - [recurrence relations](recurrence-relations.md) — 15
-- [recursion](recursion.md) — 127
-- [reflection](reflection.md) — 26
+- [recursion](recursion.md) — 126
+- [reflection](reflection.md) — 25
 - [reflection symmetry](reflection-symmetry.md) — 1
 - [regular pentagon](regular-pentagon.md) — 1
 - [repeating decimals](repeating-decimals.md) — 1
@@ -259,14 +274,14 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [roots of unity](roots-of-unity.md) — 35
 - [roots of unity filter](roots-of-unity-filter.md) — 1
 - [rotated square](rotated-square.md) — 1
-- [rotation](rotation.md) — 52
+- [rotation](rotation.md) — 53
 - [rotations reflections](rotations-reflections.md) — 1
 - [self referential equation](self-referential-equation.md) — 1
 - [sequence pattern](sequence-pattern.md) — 1
-- [sequences and series](sequences-and-series.md) — 74
+- [sequences and series](sequences-and-series.md) — 73
 - [shoelace theorem](shoelace-theorem.md) — 58
 - [side length scaling](side-length-scaling.md) — 1
-- [sign analysis](sign-analysis.md) — 1
+- [sign analysis](sign-analysis.md) — 2
 - [sign of polynomial](sign-of-polynomial.md) — 1
 - [signed factoring](signed-factoring.md) — 1
 - [similar figures](similar-figures.md) — 2
@@ -280,23 +295,30 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [space diagonal](space-diagonal.md) — 1
 - [sphere geometry](sphere-geometry.md) — 1
 - [spherical geometry](spherical-geometry.md) — 1
+- [spiral grid](spiral-grid.md) — 1
 - [spiral similarity](spiral-similarity.md) — 4
 - [stars and bars](stars-and-bars.md) — 52
 - [state diagram](state-diagram.md) — 13
-- [stewarts theorem](stewarts-theorem.md) — 46
+- [stern brocot](stern-brocot.md) — 1
+- [stewarts theorem](stewarts-theorem.md) — 45
 - [subset count](subset-count.md) — 1
+- [subset counting](subset-counting.md) — 1
 - [substitution](substitution.md) — 2
 - [sum free set](sum-free-set.md) — 1
+- [sum of divisors](sum-of-divisors.md) — 1
 - [sum of odds](sum-of-odds.md) — 2
 - [sum to product](sum-to-product.md) — 14
 - [symmedian](symmedian.md) — 1
 - [symmetric functions](symmetric-functions.md) — 2
+- [symmetric polynomial](symmetric-polynomial.md) — 1
 - [symmetric polynomials](symmetric-polynomials.md) — 1
 - [symmetric sums](symmetric-sums.md) — 1
 - [symmetry](symmetry.md) — 5
+- [symmetry argument](symmetry-argument.md) — 1
+- [symmetry strategy](symmetry-strategy.md) — 1
 - [system of constraints](system-of-constraints.md) — 1
-- [system of equations](system-of-equations.md) — 5
-- [tangent circles](tangent-circles.md) — 3
+- [system of equations](system-of-equations.md) — 7
+- [tangent circles](tangent-circles.md) — 4
 - [tangent lines](tangent-lines.md) — 2
 - [taxicab diamond](taxicab-diamond.md) — 1
 - [telescoping product](telescoping-product.md) — 2
@@ -308,6 +330,7 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [tiling](tiling.md) — 1
 - [torus grid](torus-grid.md) — 1
 - [transformations](transformations.md) — 1
+- [triangle decomposition](triangle-decomposition.md) — 1
 - [triangle inequality](triangle-inequality.md) — 51
 - [triangular numbers](triangular-numbers.md) — 2
 - [trig bash](trig-bash.md) — 13
@@ -320,6 +343,9 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [vector sum](vector-sum.md) — 1
 - [vietas formulas](vietas-formulas.md) — 127
 - [vivianis theorem](vivianis-theorem.md) — 1
+- [volume cone](volume-cone.md) — 1
+- [volume cylinder](volume-cylinder.md) — 1
+- [weighted average](weighted-average.md) — 1
 - [wilsons theorem](wilsons-theorem.md) — 2
 - [work rate](work-rate.md) — 1
 

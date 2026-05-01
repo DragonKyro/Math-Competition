@@ -129,10 +129,9 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 B | 2020 | [#10](../problems/amc10/2020B.md#problem-10) | — |
 | AMC 10 A | 2021 | [#13](../problems/amc10/2021A.md#problem-13) | — |
 | AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | angle-chasing, coordinate-bash, law-of-sines, similar-triangles |
-| AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | complex-numbers, modular-arithmetic, reflection |
-| AMC 10 B | 2021 | [#14](../problems/amc10/2021B.md#problem-14) | stewarts-theorem |
-| AMC 10 B | 2021 | [#20](../problems/amc10/2021B.md#problem-20) | — |
-| AMC 10 B | 2021 | [#21](../problems/amc10/2021B.md#problem-21) | double-angle-identities, reflection, similar-triangles |
+| AMC 10 B | 2021 | [#14](../problems/amc10/2021B.md#problem-14) | equidistant-chords |
+| AMC 10 B | 2021 | [#20](../problems/amc10/2021B.md#problem-20) | triangle-decomposition |
+| AMC 10 B | 2021 | [#21](../problems/amc10/2021B.md#problem-21) | paper-fold, similar-triangles |
 | AMC 10 B | 2022 | [#2](../problems/amc10/2022B.md#problem-2) | rhombus |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, coordinate-bash, diophantine-equations, similar-triangles |
 | AMC 10 A | 2023 | [#11](../problems/amc10/2023A.md#problem-11) | vietas-formulas |

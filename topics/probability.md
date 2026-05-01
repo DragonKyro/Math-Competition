@@ -67,7 +67,7 @@ Problems tagged `probability`: discrete and continuous probability, expected val
 | AMC 10 B | 2018 | [#6](../problems/amc10/2018B.md#problem-6) | — |
 | AMC 10 A | 2020 | [#16](../problems/amc10/2020A.md#problem-16) | geometry |
 | AMC 10 B | 2020 | [#11](../problems/amc10/2020B.md#problem-11) | — |
-| AMC 10 B | 2021 | [#23](../problems/amc10/2021B.md#problem-23) | geometry |
+| AMC 10 B | 2021 | [#18](../problems/amc10/2021B.md#problem-18) | symmetry-argument |
 | AMC 10 A | 2023 | [#7](../problems/amc10/2023A.md#problem-7) | casework-by-first-roll |
 | AMC 10 A | 2024 | [#17](../problems/amc10/2024A.md#problem-17) | casework, quadratic-formula |
 | AMC 12 | 2001 | [#11](../problems/amc12/2001.md#problem-11) | — |

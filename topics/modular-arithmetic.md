@@ -88,8 +88,6 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 A | 2021 | [#4](../problems/amc10/2021A.md#problem-4) | arithmetic-series |
 | AMC 10 A | 2021 | [#8](../problems/amc10/2021A.md#problem-8) | — |
 | AMC 10 A | 2021 | [#11](../problems/amc10/2021A.md#problem-11) | — |
-| AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | complex-numbers, pythagorean-theorem, reflection |
-| AMC 10 B | 2021 | [#16](../problems/amc10/2021B.md#problem-16) | casework, divisibility-rules |
 | AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | multinomial-coefficient |
 | AMC 10 A | 2022 | [#25](../problems/amc10/2022A.md#problem-25) | lattice-points, diophantine-equation, perfect-square |
 | AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | cyclic-powers |

@@ -47,7 +47,7 @@ Problems tagged `similar-triangles`.
 | AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | angle-bisector-theorem, angle-chasing, law-of-cosines, law-of-sines, power-of-a-point, pythagorean-theorem, quadratic-formula |
 | AMC 10 A | 2021 | [#12](../problems/amc10/2021A.md#problem-12) | — |
 | AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | angle-chasing, coordinate-bash, law-of-sines, pythagorean-theorem |
-| AMC 10 B | 2021 | [#21](../problems/amc10/2021B.md#problem-21) | double-angle-identities, pythagorean-theorem, reflection |
+| AMC 10 B | 2021 | [#21](../problems/amc10/2021B.md#problem-21) | paper-fold, pythagorean-theorem |
 | AMC 10 A | 2022 | [#13](../problems/amc10/2022A.md#problem-13) | angle-bisector-theorem, parallelogram |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, coordinate-bash, diophantine-equations, pythagorean-theorem |
 | AMC 10 B | 2024 | [#10](../problems/amc10/2024B.md#problem-10) | parallelogram-area |
