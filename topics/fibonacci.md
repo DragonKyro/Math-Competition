@@ -20,5 +20,6 @@ Problems tagged `fibonacci`.
 | AIME | 1998 | [#8](../problems/aime/1998.md#problem-8) | modular-arithmetic |
 | AIME II | 2001 | [#5](../problems/aime/2001II.md#problem-5) | triangle-inequality |
 | AIME I | 2023 | [#11](../problems/aime/2023I.md#problem-11) | casework, induction, pigeonhole-principle, recursion, stars-and-bars |
+| ALGEBRA-A | 2024 | [#7](../problems/pumac/algebra-a/2024.md#problem-7) | arctan-identities, telescoping-sums |
 
 <!-- AUTOGEN-END -->

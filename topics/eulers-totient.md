@@ -29,5 +29,8 @@ Problems tagged `eulers-totient`.
 | AIME I | 2020 | [#12](../problems/aime/2020I.md#problem-12) | binomial-theorem, modular-arithmetic |
 | AIME II | 2021 | [#13](../problems/aime/2021II.md#problem-13) | binomial-theorem, chinese-remainder-theorem, euclidean-algorithm, fermats-little-theorem, modular-arithmetic |
 | AIME I | 2022 | [#13](../problems/aime/2022I.md#problem-13) | casework, floor-function, inclusion-exclusion, modular-arithmetic |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#3](../problems/cmimc/algebra-and-number-theory/2023.md#problem-3) | modular-arithmetic, chinese-remainder-theorem |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#7](../problems/cmimc/algebra-and-number-theory/2023.md#problem-7) | prime-factorization |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#10](../problems/cmimc/algebra-and-number-theory/2023.md#problem-10) | euclidean-algorithm, recursion |
 
 <!-- AUTOGEN-END -->

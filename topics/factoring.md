@@ -157,5 +157,9 @@ Problems tagged `factoring`.
 | AIME I | 2022 | [#11](../problems/aime/2022I.md#problem-11) | inradius, law-of-cosines, power-of-a-point, ptolemys-theorem, pythagorean-theorem |
 | AIME I | 2023 | [#5](../problems/aime/2023I.md#problem-5) | angle-chasing, inscribed-angle-theorem, law-of-cosines, law-of-sines, ptolemys-theorem, pythagorean-theorem, similar-triangles, trig-identities |
 | AIME II | 2023 | [#8](../problems/aime/2023II.md#problem-8) | geometric-series, modular-arithmetic, roots-of-unity, vietas-formulas |
+| ALGEBRA-A | 2024 | [#1](../problems/pumac/algebra-a/2024.md#problem-1) | — |
+| ALGEBRA-A | 2024 | [#5](../problems/pumac/algebra-a/2024.md#problem-5) | symmetric-functions |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#8](../problems/cmimc/algebra-and-number-theory/2023.md#problem-8) | divisibility-rules |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#9](../problems/cmimc/algebra-and-number-theory/2023.md#problem-9) | modular-arithmetic, diophantine-equations |
 
 <!-- AUTOGEN-END -->

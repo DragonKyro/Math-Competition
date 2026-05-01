@@ -31,5 +31,6 @@ Problems tagged `euclidean-algorithm`.
 | AIME II | 2021 | [#9](../problems/aime/2021II.md#problem-9) | casework, modular-arithmetic |
 | AIME II | 2021 | [#13](../problems/aime/2021II.md#problem-13) | binomial-theorem, chinese-remainder-theorem, eulers-totient, fermats-little-theorem, modular-arithmetic |
 | AIME I | 2024 | [#13](../problems/aime/2024I.md#problem-13) | binomial-theorem, fermats-little-theorem, modular-arithmetic |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#10](../problems/cmimc/algebra-and-number-theory/2023.md#problem-10) | eulers-totient, recursion |
 
 <!-- AUTOGEN-END -->

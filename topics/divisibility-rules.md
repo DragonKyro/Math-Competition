@@ -26,5 +26,6 @@ Problems tagged `divisibility-rules`.
 | AMC 12 B | 2018 | [#15](../problems/amc12/2018B.md#problem-15) | casework, inclusion-exclusion, modular-arithmetic |
 | AIME I | 2011 | [#11](../problems/aime/2011I.md#problem-11) | chinese-remainder-theorem, eulers-totient, modular-arithmetic |
 | AIME I | 2022 | [#2](../problems/aime/2022I.md#problem-2) | base-representations, modular-arithmetic |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#8](../problems/cmimc/algebra-and-number-theory/2023.md#problem-8) | factoring |
 
 <!-- AUTOGEN-END -->

@@ -67,5 +67,7 @@ Problems tagged `diophantine-equations`.
 | AIME I | 2018 | [#12](../problems/aime/2018I.md#problem-12) | casework, generating-functions, modular-arithmetic, recursion, roots-of-unity |
 | AIME II | 2019 | [#1](../problems/aime/2019II.md#problem-1) | congruent-triangles, herons-formula, law-of-cosines, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AIME I | 2022 | [#14](../problems/aime/2022I.md#problem-14) | complex-numbers, law-of-cosines, menelauss-theorem, modular-arithmetic |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#6](../problems/cmimc/algebra-and-number-theory/2023.md#problem-6) | casework |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#9](../problems/cmimc/algebra-and-number-theory/2023.md#problem-9) | modular-arithmetic, factoring |
 
 <!-- AUTOGEN-END -->

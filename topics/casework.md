@@ -422,5 +422,8 @@ Problems tagged `casework`.
 | AIME II | 2024 | [#9](../problems/aime/2024II.md#problem-9) | — |
 | AIME II | 2024 | [#11](../problems/aime/2024II.md#problem-11) | polynomial-division, stars-and-bars, vietas-formulas |
 | AIME II | 2024 | [#15](../problems/aime/2024II.md#problem-15) | inclusion-exclusion |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#1](../problems/cmimc/algebra-and-number-theory/2023.md#problem-1) | prime-factorization |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#4](../problems/cmimc/algebra-and-number-theory/2023.md#problem-4) | prime-factorization |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#6](../problems/cmimc/algebra-and-number-theory/2023.md#problem-6) | diophantine-equations |
 
 <!-- AUTOGEN-END -->

@@ -339,5 +339,7 @@ Problems tagged `modular-arithmetic`.
 | AIME I | 2024 | [#13](../problems/aime/2024I.md#problem-13) | binomial-theorem, euclidean-algorithm, fermats-little-theorem |
 | AIME II | 2024 | [#7](../problems/aime/2024II.md#problem-7) | casework |
 | AIME II | 2024 | [#13](../problems/aime/2024II.md#problem-13) | complex-numbers, law-of-cosines, roots-of-unity, vietas-formulas |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#3](../problems/cmimc/algebra-and-number-theory/2023.md#problem-3) | chinese-remainder-theorem, eulers-totient |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#9](../problems/cmimc/algebra-and-number-theory/2023.md#problem-9) | diophantine-equations, factoring |
 
 <!-- AUTOGEN-END -->

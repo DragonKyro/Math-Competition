@@ -5,41 +5,44 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 ## Index
 
 - [algebra](algebra.md) — 1211
-- [am gm inequality](am-gm-inequality.md) — 33
+- [am gm inequality](am-gm-inequality.md) — 34
 - [angle addition formulas](angle-addition-formulas.md) — 14
 - [angle bisector theorem](angle-bisector-theorem.md) — 46
 - [angle chasing](angle-chasing.md) — 57
+- [arctan identities](arctan-identities.md) — 1
 - [arithmetic series](arithmetic-series.md) — 110
 - [base representations](base-representations.md) — 46
 - [bijection](bijection.md) — 34
 - [binomial theorem](binomial-theorem.md) — 37
 - [brahmaguptas formula](brahmaguptas-formula.md) — 8
 - [burnsides lemma](burnsides-lemma.md) — 6
-- [casework](casework.md) — 416
+- [casework](casework.md) — 419
 - [catalan numbers](catalan-numbers.md) — 2
 - [cauchy schwarz inequality](cauchy-schwarz-inequality.md) — 5
 - [cevas theorem](cevas-theorem.md) — 7
-- [chinese remainder theorem](chinese-remainder-theorem.md) — 33
+- [chinese remainder theorem](chinese-remainder-theorem.md) — 34
 - [circumradius](circumradius.md) — 52
 - [combinatorics](combinatorics.md) — 34
 - [complementary counting](complementary-counting.md) — 80
 - [complementary probability](complementary-probability.md) — 2
 - [complex bash](complex-bash.md) — 5
-- [complex numbers](complex-numbers.md) — 113
+- [complex numbers](complex-numbers.md) — 114
 - [conditional probability](conditional-probability.md) — 5
 - [congruent triangles](congruent-triangles.md) — 53
 - [coordinate bash](coordinate-bash.md) — 70
+- [cyclotomic polynomials](cyclotomic-polynomials.md) — 1
 - [de moivres theorem](de-moivres-theorem.md) — 26
 - [derangements](derangements.md) — 3
-- [diophantine equations](diophantine-equations.md) — 61
-- [divisibility rules](divisibility-rules.md) — 20
+- [diophantine equations](diophantine-equations.md) — 63
+- [dirichlet kernel](dirichlet-kernel.md) — 1
+- [divisibility rules](divisibility-rules.md) — 21
 - [double angle identities](double-angle-identities.md) — 43
-- [euclidean algorithm](euclidean-algorithm.md) — 25
-- [eulers totient](eulers-totient.md) — 23
+- [euclidean algorithm](euclidean-algorithm.md) — 26
+- [eulers totient](eulers-totient.md) — 26
 - [expected value](expected-value.md) — 24
-- [factoring](factoring.md) — 151
+- [factoring](factoring.md) — 155
 - [fermats little theorem](fermats-little-theorem.md) — 17
-- [fibonacci](fibonacci.md) — 14
+- [fibonacci](fibonacci.md) — 15
 - [floor function](floor-function.md) — 145
 - [generating functions](generating-functions.md) — 28
 - [geometric probability](geometric-probability.md) — 16
@@ -55,10 +58,10 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [law of cosines](law-of-cosines.md) — 180
 - [law of sines](law-of-sines.md) — 74
 - [legendres formula](legendres-formula.md) — 11
-- [logarithms](logarithms.md) — 93
+- [logarithms](logarithms.md) — 94
 - [mass point geometry](mass-point-geometry.md) — 21
 - [menelauss theorem](menelauss-theorem.md) — 7
-- [modular arithmetic](modular-arithmetic.md) — 333
+- [modular arithmetic](modular-arithmetic.md) — 335
 - [number theory](number-theory.md) — 185
 - [parity](parity.md) — 20
 - [path counting](path-counting.md) — 2
@@ -66,7 +69,7 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [pigeonhole principle](pigeonhole-principle.md) — 22
 - [polynomial division](polynomial-division.md) — 27
 - [power of a point](power-of-a-point.md) — 61
-- [prime factorization](prime-factorization.md) — 124
+- [prime factorization](prime-factorization.md) — 127
 - [probability](probability.md) — 114
 - [product to sum](product-to-sum.md) — 7
 - [ptolemys theorem](ptolemys-theorem.md) — 40
@@ -74,10 +77,10 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [quadratic formula](quadratic-formula.md) — 123
 - [radical axis](radical-axis.md) — 10
 - [rational root theorem](rational-root-theorem.md) — 11
-- [recurrence relations](recurrence-relations.md) — 15
-- [recursion](recursion.md) — 128
+- [recurrence relations](recurrence-relations.md) — 16
+- [recursion](recursion.md) — 130
 - [reflection](reflection.md) — 29
-- [roots of unity](roots-of-unity.md) — 35
+- [roots of unity](roots-of-unity.md) — 36
 - [rotation](rotation.md) — 51
 - [sequences and series](sequences-and-series.md) — 76
 - [shoelace theorem](shoelace-theorem.md) — 60
@@ -88,12 +91,13 @@ Each topic page lists every problem tagged with that technique / theorem / area 
 - [state diagram](state-diagram.md) — 13
 - [stewarts theorem](stewarts-theorem.md) — 47
 - [sum to product](sum-to-product.md) — 15
-- [telescoping sums](telescoping-sums.md) — 25
-- [triangle inequality](triangle-inequality.md) — 50
+- [symmetric functions](symmetric-functions.md) — 2
+- [telescoping sums](telescoping-sums.md) — 26
+- [triangle inequality](triangle-inequality.md) — 51
 - [trig bash](trig-bash.md) — 15
-- [trig identities](trig-identities.md) — 38
+- [trig identities](trig-identities.md) — 39
 - [trigonometry](trigonometry.md) — 40
-- [vietas formulas](vietas-formulas.md) — 127
+- [vietas formulas](vietas-formulas.md) — 128
 - [wilsons theorem](wilsons-theorem.md) — 3
 
 ## Tag conventions

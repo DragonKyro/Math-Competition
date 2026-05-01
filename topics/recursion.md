@@ -134,5 +134,7 @@ Problems tagged `recursion`.
 | AIME I | 2023 | [#6](../problems/aime/2023I.md#problem-6) | casework, expected-value |
 | AIME I | 2023 | [#11](../problems/aime/2023I.md#problem-11) | casework, fibonacci, induction, pigeonhole-principle, stars-and-bars |
 | AIME II | 2023 | [#15](../problems/aime/2023II.md#problem-15) | modular-arithmetic |
+| ALGEBRA-A | 2024 | [#3](../problems/pumac/algebra-a/2024.md#problem-3) | complex-numbers |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#10](../problems/cmimc/algebra-and-number-theory/2023.md#problem-10) | eulers-totient, euclidean-algorithm |
 
 <!-- AUTOGEN-END -->

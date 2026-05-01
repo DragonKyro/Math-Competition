@@ -119,5 +119,6 @@ Problems tagged `complex-numbers`.
 | AIME I | 2023 | [#15](../problems/aime/2023I.md#problem-15) | modular-arithmetic, triangle-inequality |
 | AIME I | 2024 | [#7](../problems/aime/2024I.md#problem-7) | am-gm-inequality, angle-addition-formulas, cauchy-schwarz-inequality, pythagorean-theorem, similar-triangles, trig-identities |
 | AIME II | 2024 | [#13](../problems/aime/2024II.md#problem-13) | law-of-cosines, modular-arithmetic, roots-of-unity, vietas-formulas |
+| ALGEBRA-A | 2024 | [#3](../problems/pumac/algebra-a/2024.md#problem-3) | recursion |
 
 <!-- AUTOGEN-END -->

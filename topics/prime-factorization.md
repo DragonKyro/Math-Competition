@@ -130,5 +130,8 @@ Problems tagged `prime-factorization`.
 | AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | binomial-theorem, casework, chinese-remainder-theorem, fermats-little-theorem, geometric-series, modular-arithmetic |
 | AIME I | 2023 | [#4](../problems/aime/2023I.md#problem-4) | — |
 | AIME II | 2024 | [#14](../problems/aime/2024II.md#problem-14) | — |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#1](../problems/cmimc/algebra-and-number-theory/2023.md#problem-1) | casework |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#4](../problems/cmimc/algebra-and-number-theory/2023.md#problem-4) | casework |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#7](../problems/cmimc/algebra-and-number-theory/2023.md#problem-7) | eulers-totient |
 
 <!-- AUTOGEN-END -->

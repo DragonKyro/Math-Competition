@@ -21,5 +21,6 @@ Problems tagged `recurrence-relations`.
 | AIME I | 2007 | [#14](../problems/aime/2007I.md#problem-14) | floor-function, induction, recursion, telescoping-sums |
 | AIME II | 2011 | [#11](../problems/aime/2011II.md#problem-11) | geometric-series, recursion |
 | AIME II | 2016 | [#12](../problems/aime/2016II.md#problem-12) | binomial-theorem, casework, complementary-counting, expected-value, generating-functions, inclusion-exclusion, modular-arithmetic, recursion, stars-and-bars |
+| ALGEBRA-A | 2024 | [#6](../problems/pumac/algebra-a/2024.md#problem-6) | vietas-formulas, symmetric-functions |
 
 <!-- AUTOGEN-END -->

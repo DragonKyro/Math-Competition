@@ -133,5 +133,6 @@ Problems tagged `vietas-formulas`.
 | AIME I | 2024 | [#15](../problems/aime/2024I.md#problem-15) | polynomial-division, pythagorean-theorem, quadratic-formula, rational-root-theorem |
 | AIME II | 2024 | [#11](../problems/aime/2024II.md#problem-11) | casework, polynomial-division, stars-and-bars |
 | AIME II | 2024 | [#13](../problems/aime/2024II.md#problem-13) | complex-numbers, law-of-cosines, modular-arithmetic, roots-of-unity |
+| ALGEBRA-A | 2024 | [#6](../problems/pumac/algebra-a/2024.md#problem-6) | recurrence-relations, symmetric-functions |
 
 <!-- AUTOGEN-END -->

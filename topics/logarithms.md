@@ -99,5 +99,6 @@ Problems tagged `logarithms`.
 | AIME I | 2023 | [#2](../problems/aime/2023I.md#problem-2) | — |
 | AIME I | 2024 | [#2](../problems/aime/2024I.md#problem-2) | — |
 | AIME II | 2024 | [#4](../problems/aime/2024II.md#problem-4) | — |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#2](../problems/cmimc/algebra-and-number-theory/2023.md#problem-2) | am-gm-inequality |
 
 <!-- AUTOGEN-END -->

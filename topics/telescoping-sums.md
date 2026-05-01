@@ -31,5 +31,6 @@ Problems tagged `telescoping-sums`.
 | AIME II | 2015 | [#13](../problems/aime/2015II.md#problem-13) | complex-numbers, floor-function, geometric-series, modular-arithmetic, product-to-sum, sum-to-product |
 | AIME II | 2022 | [#8](../problems/aime/2022II.md#problem-8) | casework, chinese-remainder-theorem, floor-function, modular-arithmetic, recursion |
 | AIME II | 2022 | [#10](../problems/aime/2022II.md#problem-10) | hockey-stick-identity, modular-arithmetic |
+| ALGEBRA-A | 2024 | [#7](../problems/pumac/algebra-a/2024.md#problem-7) | fibonacci, arctan-identities |
 
 <!-- AUTOGEN-END -->

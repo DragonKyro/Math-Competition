@@ -44,5 +44,6 @@ Problems tagged `trig-identities`.
 | AIME I | 2023 | [#5](../problems/aime/2023I.md#problem-5) | angle-chasing, factoring, inscribed-angle-theorem, law-of-cosines, law-of-sines, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AIME I | 2024 | [#7](../problems/aime/2024I.md#problem-7) | am-gm-inequality, angle-addition-formulas, cauchy-schwarz-inequality, complex-numbers, pythagorean-theorem, similar-triangles |
 | AIME II | 2024 | [#12](../problems/aime/2024II.md#problem-12) | coordinate-bash, polynomial-division, pythagorean-theorem |
+| ALGEBRA-A | 2024 | [#4](../problems/pumac/algebra-a/2024.md#problem-4) | dirichlet-kernel |
 
 <!-- AUTOGEN-END -->

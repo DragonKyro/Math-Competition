@@ -41,5 +41,6 @@ Problems tagged `roots-of-unity`.
 | AIME II | 2019 | [#8](../problems/aime/2019II.md#problem-8) | modular-arithmetic, quadratic-formula |
 | AIME II | 2023 | [#8](../problems/aime/2023II.md#problem-8) | factoring, geometric-series, modular-arithmetic, vietas-formulas |
 | AIME II | 2024 | [#13](../problems/aime/2024II.md#problem-13) | complex-numbers, law-of-cosines, modular-arithmetic, vietas-formulas |
+| ALGEBRA-A | 2024 | [#8](../problems/pumac/algebra-a/2024.md#problem-8) | cyclotomic-polynomials |
 
 <!-- AUTOGEN-END -->

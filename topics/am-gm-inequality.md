@@ -39,5 +39,6 @@ Problems tagged `am-gm-inequality`.
 | AIME II | 2016 | [#7](../problems/aime/2016II.md#problem-7) | geometric-series |
 | AIME I | 2019 | [#8](../problems/aime/2019I.md#problem-8) | binomial-theorem, double-angle-identities, pythagorean-theorem, quadratic-formula, recursion, vietas-formulas |
 | AIME I | 2024 | [#7](../problems/aime/2024I.md#problem-7) | angle-addition-formulas, cauchy-schwarz-inequality, complex-numbers, pythagorean-theorem, similar-triangles, trig-identities |
+| ALGEBRA-AND-NUMBER-THEORY | 2023 | [#2](../problems/cmimc/algebra-and-number-theory/2023.md#problem-2) | logarithms |
 
 <!-- AUTOGEN-END -->

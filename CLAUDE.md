@@ -65,6 +65,8 @@ The full current list is indexed in [topics/README.md](topics/README.md), which 
 
 ## Competition directory conventions
 
+### AoPS-sourced contests (flat: `problems/<comp>/<year>[variant].md`)
+
 | Competition | Directory | Filename | Problems per exam | Variant history |
 |---|---|---|---|---|
 | AMC 8 | `problems/amc8/` | `<year>.md` (e.g. `2023.md`) | 25 | Never had variants |
@@ -73,6 +75,37 @@ The full current list is indexed in [topics/README.md](topics/README.md), which 
 | AIME | `problems/aime/` | `<year>[I\|II].md` | 15 | 1983–1999 single (`1985.md`); 2000+ I/II (`2023I.md`, `2023II.md`) |
 
 The filename stem (`2023A`, `1985`, `2023I`, etc.) is what `build_topic_indices.py` parses via `^(\d{4})([A-Za-z]*)$` to extract year and variant. Keep the pattern.
+
+### Round-based contests (nested: `problems/<comp>/<round-slug>/<year>.md`)
+
+HMMT, PUMaC, and CMIMC release **separate tests per round** (Algebra, Geometry, Team, Power, etc.), and the set of rounds varies year to year. Each round gets its own subdirectory:
+
+| Competition | Directory | Example | Source |
+|---|---|---|---|
+| PUMaC | `problems/pumac/<round>/<year>.md` | `problems/pumac/algebra-a/2024.md` | [squarespace archive](https://jason-shi-f9dm.squarespace.com/archives) (PDFs; problems only for many years — solutions often missing) |
+| CMIMC | `problems/cmimc/<round>/<year>.md` | `problems/cmimc/algebra-and-number-theory/2023.md` | [Google Sites archive](https://cmimc.math.cmu.edu/math/past-problems) (Google Drive PDFs per year) |
+| HMMT | `problems/hmmt/<round>/<year>.md` | _(none yet — hmmt.org blocks scripted access)_ | [hmmt.org/archive](https://www.hmmt.org/www/archive/problems) |
+
+**Round slug rules:**
+- Lowercase, hyphenated
+- Use the exact round name as published in that year (CMIMC 2023 had an "Algebra and Number Theory" round → slug `algebra-and-number-theory`)
+- If a round is renamed or split across years, use different slugs per era. Don't try to merge — e.g. if CMIMC 2018 had separate `algebra` and `number-theory` rounds, keep those slugs distinct from `algebra-and-number-theory` used in 2023+.
+
+**Filename:** `<year>.md` only — no variant suffix, since variant information lives in the round-slug directory.
+
+### Transcription workflow for round-based contests
+
+Source PDFs don't parse cleanly to LaTeX — math becomes garbled text, diagrams are lost. The workflow is **manual transcription by reading the PDF**:
+
+1. Download PDFs into `.scratch/` (gitignored). For PUMaC these are direct URLs; for CMIMC they're Google Drive file IDs extractable from the year page HTML.
+2. Read each PDF with the `Read` tool.
+3. Manually transcribe problems and solutions into `problems/<comp>/<round>/<year>.md`, writing math in LaTeX `$...$` / `$$...$$`.
+4. Tag inline by hand. Use narrow technique tags (same rules as AoPS-sourced files).
+5. Run `python scripts/build_topic_indices.py` to refresh topic tables.
+
+**Don't run `retag.py` on these files.** `retag.py` only knows the keyword patterns tuned for AoPS solutions and may overwrite good manual tags with broad-area fallbacks.
+
+**Beginner-friendly solutions are the bar.** When transcribing, expand any official solution that skips steps. Explain "WLOG" and "by symmetry" moves. Give the motivation for clever substitutions before doing them. See `problems/cmimc/algebra-and-number-theory/2023.md` for the style.
 
 ## Scripts (`scripts/`)
 
