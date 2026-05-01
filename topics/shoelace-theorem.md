@@ -23,7 +23,6 @@ Problems tagged `shoelace-theorem`.
 | AMC 10 A | 2016 | [#21](../problems/amc10/2016A.md#problem-21) | herons-formula, pythagorean-theorem |
 | AMC 10 B | 2017 | [#21](../problems/amc10/2017B.md#problem-21) | herons-formula, inradius, pythagorean-theorem, stewarts-theorem |
 | AMC 10 A | 2019 | [#7](../problems/amc10/2019A.md#problem-7) | factoring, herons-formula, law-of-cosines, law-of-sines, picks-theorem, pythagorean-theorem |
-| AMC 10 A | 2021 | [#24](../problems/amc10/2021A.md#problem-24) | — |
 | AMC 12 A | 2005 | [#15](../problems/amc12/2005A.md#problem-15) | mass-point-geometry, power-of-a-point, pythagorean-theorem, rotation |
 | AMC 12 A | 2007 | [#19](../problems/amc12/2007A.md#problem-19) | — |
 | AMC 12 B | 2009 | [#9](../problems/amc12/2009B.md#problem-9) | — |

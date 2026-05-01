@@ -85,9 +85,7 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 B | 2020 | [#22](../problems/amc10/2020B.md#problem-22) | factoring, polynomial-division |
 | AMC 10 B | 2020 | [#23](../problems/amc10/2020B.md#problem-23) | generating-functions, reflection, rotation |
 | AMC 10 B | 2020 | [#24](../problems/amc10/2020B.md#problem-24) | floor-function, quadratic-formula |
-| AMC 10 A | 2021 | [#4](../problems/amc10/2021A.md#problem-4) | arithmetic-series |
-| AMC 10 A | 2021 | [#8](../problems/amc10/2021A.md#problem-8) | — |
-| AMC 10 A | 2021 | [#11](../problems/amc10/2021A.md#problem-11) | — |
+| AMC 10 A | 2021 | [#11](../problems/amc10/2021A.md#problem-11) | base-representations |
 | AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | multinomial-coefficient |
 | AMC 10 A | 2022 | [#25](../problems/amc10/2022A.md#problem-25) | lattice-points, diophantine-equation, perfect-square |
 | AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | cyclic-powers |

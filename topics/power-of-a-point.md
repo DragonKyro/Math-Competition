@@ -16,7 +16,6 @@ Problems tagged `power-of-a-point`.
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-bash, trig-identities |
 | AMC 10 B | 2019 | [#23](../problems/amc10/2019B.md#problem-23) | coordinate-bash, double-angle-identities, ptolemys-theorem, pythagorean-theorem |
 | AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | angle-bisector-theorem, angle-chasing, law-of-cosines, law-of-sines, pythagorean-theorem, quadratic-formula, similar-triangles |
-| AMC 10 A | 2021 | [#20](../problems/amc10/2021A.md#problem-20) | casework, complementary-counting, inclusion-exclusion |
 | AMC 12 A | 2005 | [#15](../problems/amc12/2005A.md#problem-15) | mass-point-geometry, pythagorean-theorem, rotation, shoelace-theorem |
 | AMC 12 A | 2006 | [#17](../problems/amc12/2006A.md#problem-17) | law-of-cosines, pythagorean-theorem, similar-triangles |
 | AMC 12 A | 2008 | [#24](../problems/amc12/2008A.md#problem-24) | am-gm-inequality |

@@ -13,7 +13,6 @@ Problems tagged `law-of-sines`.
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-bash, trig-identities |
 | AMC 10 A | 2019 | [#7](../problems/amc10/2019A.md#problem-7) | factoring, herons-formula, law-of-cosines, picks-theorem, pythagorean-theorem, shoelace-theorem |
 | AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | angle-bisector-theorem, angle-chasing, law-of-cosines, power-of-a-point, pythagorean-theorem, quadratic-formula, similar-triangles |
-| AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | angle-chasing, coordinate-bash, pythagorean-theorem, similar-triangles |
 | AMC 10 A | 2023 | [#13](../problems/amc10/2023A.md#problem-13) | maximize-opposite-side |
 | AMC 12 | 2000 | [#17](../problems/amc12/2000.md#problem-17) | angle-bisector-theorem |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | double-angle-identities, law-of-cosines, pythagorean-theorem, trig-identities |

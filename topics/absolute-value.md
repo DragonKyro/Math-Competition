@@ -6,6 +6,7 @@ Problems tagged `absolute-value`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2021 | [#19](../problems/amc10/2021A.md#problem-19) | casework, circles |
 | AMC 10 B | 2021 | [#1](../problems/amc10/2021B.md#problem-1) | counting-integers |
 | AMC 10 B | 2021 | [#2](../problems/amc10/2021B.md#problem-2) | sign-analysis |
 | AMC 10 A | 2022 | [#6](../problems/amc10/2022A.md#problem-6) | sign-analysis |

@@ -116,11 +116,8 @@ Problems tagged `casework`.
 | AMC 10 B | 2020 | [#17](../problems/amc10/2020B.md#problem-17) | — |
 | AMC 10 B | 2020 | [#18](../problems/amc10/2020B.md#problem-18) | — |
 | AMC 10 B | 2020 | [#25](../problems/amc10/2020B.md#problem-25) | recursion, stars-and-bars |
-| AMC 10 A | 2021 | [#14](../problems/amc10/2021A.md#problem-14) | vietas-formulas |
-| AMC 10 A | 2021 | [#19](../problems/amc10/2021A.md#problem-19) | — |
-| AMC 10 A | 2021 | [#20](../problems/amc10/2021A.md#problem-20) | complementary-counting, inclusion-exclusion, power-of-a-point |
-| AMC 10 A | 2021 | [#23](../problems/amc10/2021A.md#problem-23) | complementary-counting, state-diagram |
-| AMC 10 A | 2021 | [#25](../problems/amc10/2021A.md#problem-25) | derangements, inclusion-exclusion, rotation |
+| AMC 10 A | 2021 | [#19](../problems/amc10/2021A.md#problem-19) | absolute-value, circles |
+| AMC 10 A | 2021 | [#25](../problems/amc10/2021A.md#problem-25) | derangements, grid-coloring |
 | AMC 10 B | 2021 | [#5](../problems/amc10/2021B.md#problem-5) | factoring |
 | AMC 10 A | 2022 | [#8](../problems/amc10/2022A.md#problem-8) | mean-data-set |
 | AMC 10 A | 2022 | [#20](../problems/amc10/2022A.md#problem-20) | arithmetic-plus-geometric, system-of-equations |

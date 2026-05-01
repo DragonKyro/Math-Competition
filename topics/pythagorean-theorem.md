@@ -127,8 +127,8 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | angle-bisector-theorem, angle-chasing, law-of-cosines, law-of-sines, power-of-a-point, quadratic-formula, similar-triangles |
 | AMC 10 B | 2020 | [#8](../problems/amc10/2020B.md#problem-8) | casework, inscribed-angle-theorem |
 | AMC 10 B | 2020 | [#10](../problems/amc10/2020B.md#problem-10) | — |
-| AMC 10 A | 2021 | [#13](../problems/amc10/2021A.md#problem-13) | — |
-| AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | angle-chasing, coordinate-bash, law-of-sines, similar-triangles |
+| AMC 10 A | 2021 | [#13](../problems/amc10/2021A.md#problem-13) | right-tetrahedron |
+| AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | similar-triangles, diagonal-ratio |
 | AMC 10 B | 2021 | [#14](../problems/amc10/2021B.md#problem-14) | equidistant-chords |
 | AMC 10 B | 2021 | [#20](../problems/amc10/2021B.md#problem-20) | triangle-decomposition |
 | AMC 10 B | 2021 | [#21](../problems/amc10/2021B.md#problem-21) | paper-fold, similar-triangles |

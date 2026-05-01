@@ -18,7 +18,6 @@ Problems tagged `rotation`.
 | AMC 10 B | 2019 | [#10](../problems/amc10/2019B.md#problem-10) | herons-formula, pythagorean-theorem, quadratic-formula |
 | AMC 10 A | 2020 | [#23](../problems/amc10/2020A.md#problem-23) | casework, modular-arithmetic, reflection |
 | AMC 10 B | 2020 | [#23](../problems/amc10/2020B.md#problem-23) | generating-functions, modular-arithmetic, reflection |
-| AMC 10 A | 2021 | [#25](../problems/amc10/2021A.md#problem-25) | casework, derangements, inclusion-exclusion |
 | AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | reflection, inverse-transformations |
 | AMC 10 A | 2023 | [#19](../problems/amc10/2023A.md#problem-19) | perpendicular-bisector |
 | AMC 12 | 2000 | [#25](../problems/amc12/2000.md#problem-25) | — |

@@ -54,9 +54,7 @@ Problems tagged `factoring`.
 | AMC 10 B | 2019 | [#24](../problems/amc10/2019B.md#problem-24) | geometric-series, induction, recursion |
 | AMC 10 B | 2020 | [#9](../problems/amc10/2020B.md#problem-9) | casework, quadratic-formula |
 | AMC 10 B | 2020 | [#22](../problems/amc10/2020B.md#problem-22) | modular-arithmetic, polynomial-division |
-| AMC 10 A | 2021 | [#1](../problems/amc10/2021A.md#problem-1) | — |
-| AMC 10 A | 2021 | [#10](../problems/amc10/2021A.md#problem-10) | fermats-little-theorem, induction |
-| AMC 10 A | 2021 | [#22](../problems/amc10/2021A.md#problem-22) | arithmetic-series, prime-factorization |
+| AMC 10 A | 2021 | [#9](../problems/amc10/2021A.md#problem-9) | algebra, inequality |
 | AMC 10 B | 2021 | [#5](../problems/amc10/2021B.md#problem-5) | casework |
 | AMC 10 A | 2023 | [#23](../problems/amc10/2023A.md#problem-23) | difference-of-squares |
 | AMC 10 B | 2024 | [#7](../problems/amc10/2024B.md#problem-7) | modular-arithmetic |

@@ -8,7 +8,6 @@ Problems tagged `fermats-little-theorem`.
 |-------------|------|---------|-----------|
 | AMC 8 | 1999 | [#24](../problems/amc8/1999.md#problem-24) | binomial-theorem, modular-arithmetic |
 | AMC 10 B | 2017 | [#14](../problems/amc10/2017B.md#problem-14) | casework, modular-arithmetic |
-| AMC 10 A | 2021 | [#10](../problems/amc10/2021A.md#problem-10) | factoring, induction |
 | AMC 10 B | 2022 | [#25](../problems/amc10/2022B.md#problem-25) | euclidean-algorithm, modular-arithmetic, recursion |
 | AMC 12 B | 2016 | [#25](../problems/amc12/2016B.md#problem-25) | logarithms, modular-arithmetic, recursion, telescoping-sums |
 | AMC 12 A | 2021 | [#9](../problems/amc12/2021A.md#problem-9) | factoring, induction |

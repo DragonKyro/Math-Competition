@@ -24,7 +24,6 @@ Problems tagged `coordinate-bash`.
 | AMC 10 B | 2018 | [#10](../problems/amc10/2018B.md#problem-10) | pythagorean-theorem |
 | AMC 10 B | 2018 | [#24](../problems/amc10/2018B.md#problem-24) | congruent-triangles, pythagorean-theorem, similar-triangles |
 | AMC 10 B | 2019 | [#23](../problems/amc10/2019B.md#problem-23) | double-angle-identities, power-of-a-point, ptolemys-theorem, pythagorean-theorem |
-| AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | angle-chasing, law-of-sines, pythagorean-theorem, similar-triangles |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, diophantine-equations, pythagorean-theorem, similar-triangles |
 | AMC 10 B | 2024 | [#11](../problems/amc10/2024B.md#problem-11) | right-angle-constraint |
 | AMC 12 B | 2006 | [#23](../problems/amc12/2006B.md#problem-23) | law-of-cosines, pythagorean-theorem, rotation |
