@@ -26,8 +26,7 @@ Problems tagged `coordinate-bash`.
 | AMC 10 B | 2019 | [#23](../problems/amc10/2019B.md#problem-23) | double-angle-identities, power-of-a-point, ptolemys-theorem, pythagorean-theorem |
 | AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | angle-chasing, law-of-sines, pythagorean-theorem, similar-triangles |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, diophantine-equations, pythagorean-theorem, similar-triangles |
-| AMC 10 A | 2023 | [#19](../problems/amc10/2023A.md#problem-19) | complex-bash, complex-numbers |
-| AMC 10 A | 2024 | [#22](../problems/amc10/2024A.md#problem-22) | inscribed-angle-theorem, law-of-cosines, pythagorean-theorem, shoelace-theorem, trig-bash |
+| AMC 10 B | 2024 | [#11](../problems/amc10/2024B.md#problem-11) | right-angle-constraint |
 | AMC 12 B | 2006 | [#23](../problems/amc12/2006B.md#problem-23) | law-of-cosines, pythagorean-theorem, rotation |
 | AMC 12 B | 2011 | [#20](../problems/amc12/2011B.md#problem-20) | angle-bisector-theorem, circumradius, diophantine-equations, law-of-cosines, law-of-sines, pythagorean-theorem |
 | AMC 12 A | 2013 | [#25](../problems/amc12/2013A.md#problem-25) | complementary-counting, complex-numbers, quadratic-formula, trig-identities |

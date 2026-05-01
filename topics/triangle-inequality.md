@@ -18,7 +18,6 @@ Problems tagged `triangle-inequality`.
 | AMC 10 A | 2013 | [#23](../problems/amc10/2013A.md#problem-23) | law-of-cosines, power-of-a-point, pythagorean-theorem, stewarts-theorem |
 | AMC 10 A | 2017 | [#10](../problems/amc10/2017A.md#problem-10) | — |
 | AMC 10 B | 2018 | [#22](../problems/amc10/2018B.md#problem-22) | law-of-cosines, pythagorean-theorem |
-| AMC 10 A | 2023 | [#4](../problems/amc10/2023A.md#problem-4) | — |
 | AMC 10 | 2024 | [#15](../problems/amc10/2024.md#problem-15) | diophantine-equations, pythagorean-theorem |
 | AMC 12 B | 2002 | [#24](../problems/amc12/2002B.md#problem-24) | diophantine-equations, pythagorean-theorem |
 | AMC 12 A | 2003 | [#7](../problems/amc12/2003A.md#problem-7) | — |

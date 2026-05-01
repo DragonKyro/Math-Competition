@@ -11,7 +11,6 @@ Problems tagged `fermats-little-theorem`.
 | AMC 10 A | 2021 | [#10](../problems/amc10/2021A.md#problem-10) | factoring, induction |
 | AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | eulers-totient, factoring, modular-arithmetic |
 | AMC 10 B | 2022 | [#25](../problems/amc10/2022B.md#problem-25) | euclidean-algorithm, modular-arithmetic, recursion |
-| AMC 10 B | 2024 | [#7](../problems/amc10/2024B.md#problem-7) | modular-arithmetic |
 | AMC 12 B | 2016 | [#25](../problems/amc12/2016B.md#problem-25) | logarithms, modular-arithmetic, recursion, telescoping-sums |
 | AMC 12 A | 2021 | [#9](../problems/amc12/2021A.md#problem-9) | factoring, induction |
 | AMC 12 B | 2022 | [#15](../problems/amc12/2022B.md#problem-15) | eulers-totient, factoring, modular-arithmetic |

@@ -27,9 +27,7 @@ Problems tagged `recursion`.
 | AMC 10 A | 2022 | [#22](../problems/amc10/2022A.md#problem-22) | bijection, casework, hockey-stick-identity |
 | AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | casework, complementary-counting, modular-arithmetic |
 | AMC 10 B | 2022 | [#25](../problems/amc10/2022B.md#problem-25) | euclidean-algorithm, fermats-little-theorem, modular-arithmetic |
-| AMC 10 B | 2023 | [#21](../problems/amc10/2023B.md#problem-21) | casework, floor-function, generating-functions, geometric-series, parity, stars-and-bars |
-| AMC 10 A | 2024 | [#6](../problems/amc10/2024A.md#problem-6) | — |
-| AMC 10 B | 2024 | [#23](../problems/amc10/2024B.md#problem-23) | fibonacci, geometric-series, induction, recurrence-relations |
+| AMC 10 B | 2023 | [#21](../problems/amc10/2023B.md#problem-21) | markov-chain, parity-distribution |
 | AMC 12 | 2000 | [#8](../problems/amc12/2000.md#problem-8) | arithmetic-series |
 | AMC 12 A | 2002 | [#3](../problems/amc12/2002A.md#problem-3) | — |
 | AMC 12 B | 2005 | [#22](../problems/amc12/2005B.md#problem-22) | complex-numbers, induction, modular-arithmetic |

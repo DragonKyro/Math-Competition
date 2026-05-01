@@ -12,9 +12,8 @@ Problems tagged `bijection`.
 | AMC 10 A | 2021 | [#15](../problems/amc10/2021A.md#problem-15) | — |
 | AMC 10 A | 2022 | [#22](../problems/amc10/2022A.md#problem-22) | casework, hockey-stick-identity, recursion |
 | AMC 10 B | 2022 | [#3](../problems/amc10/2022B.md#problem-3) | casework |
-| AMC 10 A | 2023 | [#16](../problems/amc10/2023A.md#problem-16) | casework |
-| AMC 10 B | 2023 | [#11](../problems/amc10/2023B.md#problem-11) | casework, generating-functions, stars-and-bars |
-| AMC 10 B | 2023 | [#16](../problems/amc10/2023B.md#problem-16) | casework |
+| AMC 10 B | 2023 | [#11](../problems/amc10/2023B.md#problem-11) | stars-and-bars |
+| AMC 10 B | 2023 | [#16](../problems/amc10/2023B.md#problem-16) | subset-count |
 | AMC 12 A | 2006 | [#25](../problems/amc12/2006A.md#problem-25) | casework, stars-and-bars |
 | AMC 12 A | 2007 | [#25](../problems/amc12/2007A.md#problem-25) | casework, recursion, state-diagram |
 | AMC 12 B | 2008 | [#22](../problems/amc12/2008B.md#problem-22) | stars-and-bars |

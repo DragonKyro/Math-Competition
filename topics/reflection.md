@@ -16,8 +16,6 @@ Problems tagged `reflection`.
 | AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | complex-numbers, modular-arithmetic, pythagorean-theorem |
 | AMC 10 B | 2021 | [#21](../problems/amc10/2021B.md#problem-21) | double-angle-identities, pythagorean-theorem, similar-triangles |
 | AMC 10 A | 2022 | [#18](../problems/amc10/2022A.md#problem-18) | complex-numbers |
-| AMC 10 B | 2023 | [#13](../problems/amc10/2023B.md#problem-13) | — |
-| AMC 10 A | 2024 | [#13](../problems/amc10/2024A.md#problem-13) | — |
 | AMC 12 B | 2017 | [#13](../problems/amc12/2017B.md#problem-13) | burnsides-lemma |
 | AMC 12 A | 2018 | [#11](../problems/amc12/2018A.md#problem-11) | coordinate-bash, pythagorean-theorem |
 | AMC 12 A | 2019 | [#6](../problems/amc12/2019A.md#problem-6) | rotation |

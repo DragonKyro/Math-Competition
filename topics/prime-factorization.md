@@ -49,14 +49,9 @@ Problems tagged `prime-factorization`.
 | AMC 10 A | 2021 | [#22](../problems/amc10/2021A.md#problem-22) | arithmetic-series, factoring |
 | AMC 10 B | 2021 | [#12](../problems/amc10/2021B.md#problem-12) | — |
 | AMC 10 B | 2021 | [#13](../problems/amc10/2021B.md#problem-13) | base-representations, quadratic-formula |
-| AMC 10 A | 2023 | [#5](../problems/amc10/2023A.md#problem-5) | — |
-| AMC 10 A | 2023 | [#14](../problems/amc10/2023A.md#problem-14) | casework, floor-function |
-| AMC 10 B | 2023 | [#15](../problems/amc10/2023B.md#problem-15) | casework, legendres-formula, modular-arithmetic |
+| AMC 10 A | 2023 | [#5](../problems/amc10/2023A.md#problem-5) | counting-digits |
+| AMC 10 A | 2024 | [#3](../problems/amc10/2024A.md#problem-3) | parity |
 | AMC 10 A | 2024 | [#5](../problems/amc10/2024A.md#problem-5) | — |
-| AMC 10 A | 2024 | [#19](../problems/amc10/2024A.md#problem-19) | geometric-series |
-| AMC 10 B | 2024 | [#6](../problems/amc10/2024B.md#problem-6) | am-gm-inequality, factoring |
-| AMC 10 B | 2024 | [#12](../problems/amc10/2024B.md#problem-12) | pigeonhole-principle |
-| AMC 10 B | 2024 | [#13](../problems/amc10/2024B.md#problem-13) | am-gm-inequality, factoring |
 | AMC 12 | 2001 | [#7](../problems/amc12/2001.md#problem-7) | diophantine-equations, factoring |
 | AMC 12 A | 2003 | [#8](../problems/amc12/2003A.md#problem-8) | — |
 | AMC 12 A | 2003 | [#23](../problems/amc12/2003A.md#problem-23) | — |

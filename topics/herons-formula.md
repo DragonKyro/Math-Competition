@@ -25,7 +25,6 @@ Problems tagged `herons-formula`.
 | AMC 10 A | 2019 | [#7](../problems/amc10/2019A.md#problem-7) | factoring, law-of-cosines, law-of-sines, picks-theorem, pythagorean-theorem, shoelace-theorem |
 | AMC 10 B | 2019 | [#10](../problems/amc10/2019B.md#problem-10) | pythagorean-theorem, quadratic-formula, rotation |
 | AMC 10 A | 2022 | [#13](../problems/amc10/2022A.md#problem-13) | angle-bisector-theorem, similar-triangles |
-| AMC 10 A | 2024 | [#14](../problems/amc10/2024A.md#problem-14) | congruent-triangles, parity |
 | AMC 12 | 2000 | [#19](../problems/amc12/2000.md#problem-19) | angle-bisector-theorem |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, double-angle-identities, law-of-cosines, law-of-sines, stewarts-theorem |
 | AMC 12 B | 2008 | [#25](../problems/amc12/2008B.md#problem-25) | angle-chasing, factoring, pythagorean-theorem |

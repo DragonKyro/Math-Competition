@@ -284,12 +284,7 @@ Problems tagged `geometry`: triangles, circles, polygons, coordinate geometry, 3
 | AMC 10 B | 2021 | [#10](../problems/amc10/2021B.md#problem-10) | — |
 | AMC 10 B | 2021 | [#23](../problems/amc10/2021B.md#problem-23) | probability |
 | AMC 10 B | 2022 | [#19](../problems/amc10/2022B.md#problem-19) | — |
-| AMC 10 A | 2023 | [#6](../problems/amc10/2023A.md#problem-6) | — |
-| AMC 10 B | 2023 | [#3](../problems/amc10/2023B.md#problem-3) | — |
-| AMC 10 B | 2023 | [#10](../problems/amc10/2023B.md#problem-10) | — |
 | AMC 10 A | 2024 | [#2](../problems/amc10/2024A.md#problem-2) | — |
-| AMC 10 A | 2024 | [#16](../problems/amc10/2024A.md#problem-16) | algebra |
-| AMC 10 B | 2024 | [#14](../problems/amc10/2024B.md#problem-14) | algebra, probability, trigonometry |
 | AMC 12 | 2001 | [#8](../problems/amc12/2001.md#problem-8) | — |
 | AMC 12 | 2001 | [#10](../problems/amc12/2001.md#problem-10) | — |
 | AMC 12 | 2001 | [#14](../problems/amc12/2001.md#problem-14) | combinatorics |

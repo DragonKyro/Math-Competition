@@ -1,0 +1,11 @@
+# averaging
+
+Problems tagged `averaging`.
+
+<!-- AUTOGEN-START -->
+
+| Competition | Year | Problem | Subtopics |
+|-------------|------|---------|-----------|
+| AMC 10 B | 2023 | [#1](../problems/amc10/2023B.md#problem-1) | equalizing-shares |
+
+<!-- AUTOGEN-END -->

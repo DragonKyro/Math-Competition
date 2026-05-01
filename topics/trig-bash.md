@@ -7,7 +7,6 @@ Problems tagged `trig-bash`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-identities |
-| AMC 10 A | 2024 | [#22](../problems/amc10/2024A.md#problem-22) | coordinate-bash, inscribed-angle-theorem, law-of-cosines, pythagorean-theorem, shoelace-theorem |
 | AMC 12 A | 2016 | [#21](../problems/amc12/2016A.md#problem-21) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, quadratic-formula, similar-triangles, trig-identities |
 | AMC 12 A | 2020 | [#24](../problems/amc12/2020A.md#problem-24) | herons-formula, law-of-cosines, law-of-sines, pythagorean-theorem |
 | AMC 12 A | 2023 | [#15](../problems/amc12/2023A.md#problem-15) | pythagorean-theorem, similar-triangles |

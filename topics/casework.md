@@ -133,26 +133,12 @@ Problems tagged `casework`.
 | AMC 10 B | 2022 | [#8](../problems/amc10/2022B.md#problem-8) | floor-function, modular-arithmetic |
 | AMC 10 B | 2022 | [#18](../problems/amc10/2022B.md#problem-18) | complementary-counting |
 | AMC 10 B | 2022 | [#22](../problems/amc10/2022B.md#problem-22) | — |
-| AMC 10 A | 2023 | [#7](../problems/amc10/2023A.md#problem-7) | — |
-| AMC 10 A | 2023 | [#9](../problems/amc10/2023A.md#problem-9) | — |
-| AMC 10 A | 2023 | [#14](../problems/amc10/2023A.md#problem-14) | floor-function, prime-factorization |
-| AMC 10 A | 2023 | [#16](../problems/amc10/2023A.md#problem-16) | bijection |
-| AMC 10 A | 2023 | [#20](../problems/amc10/2023A.md#problem-20) | — |
-| AMC 10 A | 2023 | [#25](../problems/amc10/2023A.md#problem-25) | rotation |
-| AMC 10 B | 2023 | [#11](../problems/amc10/2023B.md#problem-11) | bijection, generating-functions, stars-and-bars |
-| AMC 10 B | 2023 | [#14](../problems/amc10/2023B.md#problem-14) | modular-arithmetic, simons-favorite-factoring |
-| AMC 10 B | 2023 | [#15](../problems/amc10/2023B.md#problem-15) | legendres-formula, modular-arithmetic, prime-factorization |
-| AMC 10 B | 2023 | [#16](../problems/amc10/2023B.md#problem-16) | bijection |
-| AMC 10 B | 2023 | [#19](../problems/amc10/2023B.md#problem-19) | expected-value |
-| AMC 10 B | 2023 | [#21](../problems/amc10/2023B.md#problem-21) | floor-function, generating-functions, geometric-series, parity, recursion, stars-and-bars |
-| AMC 10 B | 2023 | [#22](../problems/amc10/2023B.md#problem-22) | floor-function |
-| AMC 10 B | 2023 | [#23](../problems/amc10/2023B.md#problem-23) | arithmetic-series, modular-arithmetic |
-| AMC 10 B | 2023 | [#24](../problems/amc10/2023B.md#problem-24) | pythagorean-theorem |
+| AMC 10 A | 2023 | [#9](../problems/amc10/2023A.md#problem-9) | digit-counting |
+| AMC 10 A | 2024 | [#17](../problems/amc10/2024A.md#problem-17) | probability, quadratic-formula |
+| AMC 10 A | 2024 | [#18](../problems/amc10/2024A.md#problem-18) | base-representations, modular-arithmetic |
 | AMC 10 A | 2024 | [#25](../problems/amc10/2024A.md#problem-25) | — |
-| AMC 10 B | 2024 | [#3](../problems/amc10/2024B.md#problem-3) | — |
-| AMC 10 B | 2024 | [#15](../problems/amc10/2024B.md#problem-15) | — |
-| AMC 10 B | 2024 | [#17](../problems/amc10/2024B.md#problem-17) | expected-value |
-| AMC 10 B | 2024 | [#20](../problems/amc10/2024B.md#problem-20) | — |
+| AMC 10 B | 2024 | [#15](../problems/amc10/2024B.md#problem-15) | range-mean-median-constraints |
+| AMC 10 B | 2024 | [#17](../problems/amc10/2024B.md#problem-17) | tied-orderings |
 | AMC 12 | 2000 | [#9](../problems/amc12/2000.md#problem-9) | modular-arithmetic |
 | AMC 12 | 2000 | [#14](../problems/amc12/2000.md#problem-14) | arithmetic-series |
 | AMC 12 | 2001 | [#6](../problems/amc12/2001.md#problem-6) | — |

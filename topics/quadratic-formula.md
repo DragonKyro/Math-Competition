@@ -36,8 +36,7 @@ Problems tagged `quadratic-formula`.
 | AMC 10 A | 2022 | [#10](../problems/amc10/2022A.md#problem-10) | factoring |
 | AMC 10 A | 2022 | [#16](../problems/amc10/2022A.md#problem-16) | polynomial-division, rational-root-theorem, vietas-formulas |
 | AMC 10 B | 2022 | [#7](../problems/amc10/2022B.md#problem-7) | diophantine-equations, pythagorean-theorem, vietas-formulas |
-| AMC 10 A | 2023 | [#11](../problems/amc10/2023A.md#problem-11) | congruent-triangles, pythagorean-theorem, vietas-formulas |
-| AMC 10 B | 2023 | [#25](../problems/amc10/2023B.md#problem-25) | circumradius, similar-triangles |
+| AMC 10 A | 2024 | [#17](../problems/amc10/2024A.md#problem-17) | probability, casework |
 | AMC 12 | 2001 | [#23](../problems/amc12/2001.md#problem-23) | complex-numbers, polynomial-division, vietas-formulas |
 | AMC 12 A | 2004 | [#14](../problems/amc12/2004A.md#problem-14) | arithmetic-series, geometric-series |
 | AMC 12 B | 2004 | [#23](../problems/amc12/2004B.md#problem-23) | vietas-formulas |

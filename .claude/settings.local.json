@@ -5,7 +5,8 @@
       "Skill(update-config:*)",
       "Bash(python *)",
       "WebFetch(domain:cmimc.math.cmu.edu)",
-      "WebFetch(domain:jason-shi-f9dm.squarespace.com)"
+      "WebFetch(domain:jason-shi-f9dm.squarespace.com)",
+      "WebFetch(domain:artofproblemsolving.com)"
     ],
     "additionalDirectories": [
       "C:\\Users\\klui\\.claude"

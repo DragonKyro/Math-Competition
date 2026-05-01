@@ -35,14 +35,6 @@ Problems tagged `floor-function`.
 | AMC 10 A | 2022 | [#14](../problems/amc10/2022A.md#problem-14) | — |
 | AMC 10 B | 2022 | [#8](../problems/amc10/2022B.md#problem-8) | casework, modular-arithmetic |
 | AMC 10 B | 2022 | [#14](../problems/amc10/2022B.md#problem-14) | pigeonhole-principle |
-| AMC 10 A | 2023 | [#14](../problems/amc10/2023A.md#problem-14) | casework, prime-factorization |
-| AMC 10 B | 2023 | [#6](../problems/amc10/2023B.md#problem-6) | — |
-| AMC 10 B | 2023 | [#9](../problems/amc10/2023B.md#problem-9) | factoring |
-| AMC 10 B | 2023 | [#21](../problems/amc10/2023B.md#problem-21) | casework, generating-functions, geometric-series, parity, recursion, stars-and-bars |
-| AMC 10 B | 2023 | [#22](../problems/amc10/2023B.md#problem-22) | casework |
-| AMC 10 A | 2024 | [#18](../problems/amc10/2024A.md#problem-18) | base-representations, modular-arithmetic |
-| AMC 10 B | 2024 | [#16](../problems/amc10/2024B.md#problem-16) | expected-value, modular-arithmetic |
-| AMC 10 B | 2024 | [#22](../problems/amc10/2024B.md#problem-22) | legendres-formula |
 | AMC 12 | 2001 | [#12](../problems/amc12/2001.md#problem-12) | inclusion-exclusion |
 | AMC 12 A | 2002 | [#21](../problems/amc12/2002A.md#problem-21) | — |
 | AMC 12 A | 2003 | [#18](../problems/amc12/2003A.md#problem-18) | divisibility-rules, modular-arithmetic |

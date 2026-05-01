@@ -6,6 +6,7 @@ Problems tagged `markov-chain`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2023 | [#21](../problems/amc10/2023B.md#problem-21) | recursion, parity-distribution |
 | AIME I | 2021 | [#12](../problems/aime/2021I.md#problem-12) | expected-value, state-diagram |
 
 <!-- AUTOGEN-END -->

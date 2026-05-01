@@ -141,18 +141,8 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 B | 2022 | [#7](../problems/amc10/2022B.md#problem-7) | diophantine-equations, quadratic-formula, vietas-formulas |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, coordinate-bash, diophantine-equations, similar-triangles |
 | AMC 10 B | 2022 | [#20](../problems/amc10/2022B.md#problem-20) | angle-chasing, law-of-cosines, similar-triangles |
-| AMC 10 A | 2023 | [#11](../problems/amc10/2023A.md#problem-11) | congruent-triangles, quadratic-formula, vietas-formulas |
-| AMC 10 A | 2023 | [#17](../problems/amc10/2023A.md#problem-17) | diophantine-equations |
-| AMC 10 A | 2023 | [#22](../problems/amc10/2023A.md#problem-22) | inradius |
-| AMC 10 B | 2023 | [#7](../problems/amc10/2023B.md#problem-7) | complex-bash |
-| AMC 10 B | 2023 | [#17](../problems/amc10/2023B.md#problem-17) | polynomial-division, vietas-formulas |
-| AMC 10 B | 2023 | [#20](../problems/amc10/2023B.md#problem-20) | — |
-| AMC 10 B | 2023 | [#24](../problems/amc10/2023B.md#problem-24) | casework |
+| AMC 10 A | 2023 | [#11](../problems/amc10/2023A.md#problem-11) | vietas-formulas |
 | AMC 10 | 2024 | [#15](../problems/amc10/2024.md#problem-15) | diophantine-equations, triangle-inequality |
-| AMC 10 A | 2024 | [#11](../problems/amc10/2024A.md#problem-11) | diophantine-equations, factoring |
-| AMC 10 A | 2024 | [#22](../problems/amc10/2024A.md#problem-22) | coordinate-bash, inscribed-angle-theorem, law-of-cosines, shoelace-theorem, trig-bash |
-| AMC 10 B | 2024 | [#11](../problems/amc10/2024B.md#problem-11) | similar-triangles |
-| AMC 10 B | 2024 | [#21](../problems/amc10/2024B.md#problem-21) | — |
 | AMC 12 | 2000 | [#24](../problems/amc12/2000.md#problem-24) | — |
 | AMC 12 | 2001 | [#17](../problems/amc12/2001.md#problem-17) | inscribed-angle-theorem |
 | AMC 12 | 2001 | [#18](../problems/amc12/2001.md#problem-18) | diophantine-equations |

@@ -12,7 +12,6 @@ Problems tagged `binomial-theorem`.
 | AMC 10 B | 2012 | [#22](../problems/amc10/2012B.md#problem-22) | casework, induction, recursion |
 | AMC 10 A | 2020 | [#14](../problems/amc10/2020A.md#problem-14) | quadratic-formula, vietas-formulas |
 | AMC 10 B | 2022 | [#13](../problems/amc10/2022B.md#problem-13) | factoring |
-| AMC 10 B | 2024 | [#18](../problems/amc10/2024B.md#problem-18) | eulers-totient, modular-arithmetic |
 | AMC 12 A | 2004 | [#25](../problems/amc12/2004A.md#problem-25) | geometric-series, telescoping-sums |
 | AMC 12 A | 2006 | [#24](../problems/amc12/2006A.md#problem-24) | casework, generating-functions, modular-arithmetic, parity, stars-and-bars |
 | AMC 12 A | 2021 | [#13](../problems/amc12/2021A.md#problem-13) | complex-numbers, de-moivres-theorem |

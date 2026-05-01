@@ -11,6 +11,8 @@ Problems tagged `geometric-probability`.
 | AMC 10 A | 2017 | [#15](../problems/amc10/2017A.md#problem-15) | arithmetic-series, casework, congruent-triangles |
 | AMC 10 A | 2019 | [#22](../problems/amc10/2019A.md#problem-22) | casework |
 | AMC 10 B | 2022 | [#23](../problems/amc10/2022B.md#problem-23) | — |
+| AMC 10 B | 2023 | [#19](../problems/amc10/2023B.md#problem-19) | continuous-uniform |
+| AMC 10 B | 2024 | [#14](../problems/amc10/2024B.md#problem-14) | annulus-area, taxicab-diamond |
 | AMC 12 A | 2003 | [#16](../problems/amc12/2003A.md#problem-16) | pythagorean-theorem |
 | AMC 12 B | 2003 | [#21](../problems/amc12/2003B.md#problem-21) | law-of-cosines, triangle-inequality |
 | AMC 12 B | 2003 | [#25](../problems/amc12/2003B.md#problem-25) | — |

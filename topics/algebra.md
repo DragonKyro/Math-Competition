@@ -686,14 +686,6 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 A | 2023 | [#1](../problems/amc10/2023A.md#problem-1) | — |
 | AMC 10 A | 2023 | [#2](../problems/amc10/2023A.md#problem-2) | — |
 | AMC 10 A | 2023 | [#3](../problems/amc10/2023A.md#problem-3) | — |
-| AMC 10 A | 2023 | [#8](../problems/amc10/2023A.md#problem-8) | — |
-| AMC 10 A | 2023 | [#10](../problems/amc10/2023A.md#problem-10) | — |
-| AMC 10 A | 2023 | [#21](../problems/amc10/2023A.md#problem-21) | — |
-| AMC 10 B | 2023 | [#1](../problems/amc10/2023B.md#problem-1) | — |
-| AMC 10 B | 2023 | [#2](../problems/amc10/2023B.md#problem-2) | — |
-| AMC 10 B | 2023 | [#4](../problems/amc10/2023B.md#problem-4) | — |
-| AMC 10 B | 2023 | [#5](../problems/amc10/2023B.md#problem-5) | — |
-| AMC 10 B | 2023 | [#12](../problems/amc10/2023B.md#problem-12) | — |
 | AMC 10 | 2024 | [#1](../problems/amc10/2024.md#problem-1) | — |
 | AMC 10 | 2024 | [#2](../problems/amc10/2024.md#problem-2) | — |
 | AMC 10 | 2024 | [#3](../problems/amc10/2024.md#problem-3) | — |
@@ -718,17 +710,7 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 | 2024 | [#23](../problems/amc10/2024.md#problem-23) | — |
 | AMC 10 | 2024 | [#24](../problems/amc10/2024.md#problem-24) | — |
 | AMC 10 | 2024 | [#25](../problems/amc10/2024.md#problem-25) | — |
-| AMC 10 A | 2024 | [#4](../problems/amc10/2024A.md#problem-4) | — |
-| AMC 10 A | 2024 | [#7](../problems/amc10/2024A.md#problem-7) | — |
-| AMC 10 A | 2024 | [#8](../problems/amc10/2024A.md#problem-8) | — |
 | AMC 10 A | 2024 | [#12](../problems/amc10/2024A.md#problem-12) | — |
-| AMC 10 A | 2024 | [#16](../problems/amc10/2024A.md#problem-16) | geometry |
-| AMC 10 A | 2024 | [#23](../problems/amc10/2024A.md#problem-23) | — |
-| AMC 10 B | 2024 | [#1](../problems/amc10/2024B.md#problem-1) | — |
-| AMC 10 B | 2024 | [#5](../problems/amc10/2024B.md#problem-5) | sequences-and-series |
-| AMC 10 B | 2024 | [#9](../problems/amc10/2024B.md#problem-9) | — |
-| AMC 10 B | 2024 | [#14](../problems/amc10/2024B.md#problem-14) | geometry, probability, trigonometry |
-| AMC 10 B | 2024 | [#19](../problems/amc10/2024B.md#problem-19) | — |
 | AMC 12 | 2000 | [#2](../problems/amc12/2000.md#problem-2) | — |
 | AMC 12 | 2000 | [#3](../problems/amc12/2000.md#problem-3) | — |
 | AMC 12 | 2000 | [#5](../problems/amc12/2000.md#problem-5) | — |

@@ -20,8 +20,7 @@ Problems tagged `stars-and-bars`.
 | AMC 10 B | 2018 | [#9](../problems/amc10/2018B.md#problem-9) | bijection, expected-value |
 | AMC 10 A | 2020 | [#25](../problems/amc10/2020A.md#problem-25) | casework |
 | AMC 10 B | 2020 | [#25](../problems/amc10/2020B.md#problem-25) | casework, recursion |
-| AMC 10 B | 2023 | [#11](../problems/amc10/2023B.md#problem-11) | bijection, casework, generating-functions |
-| AMC 10 B | 2023 | [#21](../problems/amc10/2023B.md#problem-21) | casework, floor-function, generating-functions, geometric-series, parity, recursion |
+| AMC 10 B | 2023 | [#11](../problems/amc10/2023B.md#problem-11) | bijection |
 | AMC 12 A | 2004 | [#3](../problems/amc12/2004A.md#problem-3) | floor-function |
 | AMC 12 A | 2006 | [#24](../problems/amc12/2006A.md#problem-24) | binomial-theorem, casework, generating-functions, modular-arithmetic, parity |
 | AMC 12 A | 2006 | [#25](../problems/amc12/2006A.md#problem-25) | bijection, casework |

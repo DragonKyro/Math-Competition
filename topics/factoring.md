@@ -63,13 +63,8 @@ Problems tagged `factoring`.
 | AMC 10 B | 2022 | [#5](../problems/amc10/2022B.md#problem-5) | — |
 | AMC 10 B | 2022 | [#13](../problems/amc10/2022B.md#problem-13) | binomial-theorem |
 | AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | eulers-totient, fermats-little-theorem, modular-arithmetic |
-| AMC 10 A | 2023 | [#15](../problems/amc10/2023A.md#problem-15) | arithmetic-series |
-| AMC 10 B | 2023 | [#9](../problems/amc10/2023B.md#problem-9) | floor-function |
-| AMC 10 A | 2024 | [#11](../problems/amc10/2024A.md#problem-11) | diophantine-equations, pythagorean-theorem |
-| AMC 10 A | 2024 | [#15](../problems/amc10/2024A.md#problem-15) | modular-arithmetic, parity |
-| AMC 10 B | 2024 | [#2](../problems/amc10/2024B.md#problem-2) | — |
-| AMC 10 B | 2024 | [#6](../problems/amc10/2024B.md#problem-6) | am-gm-inequality, prime-factorization |
-| AMC 10 B | 2024 | [#13](../problems/amc10/2024B.md#problem-13) | am-gm-inequality, prime-factorization |
+| AMC 10 A | 2023 | [#23](../problems/amc10/2023A.md#problem-23) | difference-of-squares |
+| AMC 10 B | 2024 | [#7](../problems/amc10/2024B.md#problem-7) | modular-arithmetic |
 | AMC 12 | 2001 | [#7](../problems/amc12/2001.md#problem-7) | diophantine-equations, prime-factorization |
 | AMC 12 A | 2002 | [#12](../problems/amc12/2002A.md#problem-12) | vietas-formulas |
 | AMC 12 B | 2005 | [#19](../problems/amc12/2005B.md#problem-19) | — |

@@ -11,7 +11,6 @@ Problems tagged `trigonometry`: trig identities, law of sines/cosines, trig equa
 | AMC 10 B | 2002 | [#17](../problems/amc10/2002B.md#problem-17) | geometry |
 | AMC 10 A | 2005 | [#25](../problems/amc10/2005A.md#problem-25) | geometry |
 | AMC 10 A | 2015 | [#17](../problems/amc10/2015A.md#problem-17) | geometry |
-| AMC 10 B | 2024 | [#14](../problems/amc10/2024B.md#problem-14) | algebra, geometry, probability |
 | AMC 12 B | 2003 | [#23](../problems/amc12/2003B.md#problem-23) | algebra |
 | AMC 12 B | 2004 | [#16](../problems/amc12/2004B.md#problem-16) | geometry |
 | AMC 12 A | 2006 | [#15](../problems/amc12/2006A.md#problem-15) | — |

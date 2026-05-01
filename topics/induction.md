@@ -13,8 +13,6 @@ Problems tagged `induction`.
 | AMC 10 A | 2021 | [#18](../problems/amc10/2021A.md#problem-18) | prime-factorization |
 | AMC 10 B | 2021 | [#8](../problems/amc10/2021B.md#problem-8) | — |
 | AMC 10 B | 2022 | [#15](../problems/amc10/2022B.md#problem-15) | arithmetic-series |
-| AMC 10 A | 2024 | [#20](../problems/amc10/2024A.md#problem-20) | — |
-| AMC 10 B | 2024 | [#23](../problems/amc10/2024B.md#problem-23) | fibonacci, geometric-series, recurrence-relations, recursion |
 | AMC 12 B | 2004 | [#12](../problems/amc12/2004B.md#problem-12) | — |
 | AMC 12 B | 2005 | [#22](../problems/amc12/2005B.md#problem-22) | complex-numbers, modular-arithmetic, recursion |
 | AMC 12 B | 2011 | [#17](../problems/amc12/2011B.md#problem-17) | logarithms |

@@ -6,7 +6,6 @@ Problems tagged `roots-of-unity`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AMC 10 A | 2024 | [#24](../problems/amc10/2024A.md#problem-24) | expected-value, inclusion-exclusion, modular-arithmetic, rotation |
 | AMC 12 A | 2002 | [#24](../problems/amc12/2002A.md#problem-24) | de-moivres-theorem |
 | AMC 12 B | 2012 | [#23](../problems/amc12/2012B.md#problem-23) | casework, complex-numbers, polynomial-division, triangle-inequality |
 | AMC 12 A | 2017 | [#17](../problems/amc12/2017A.md#problem-17) | complex-numbers, de-moivres-theorem |

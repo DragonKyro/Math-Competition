@@ -6,7 +6,6 @@ Problems tagged `recurrence-relations`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AMC 10 B | 2024 | [#23](../problems/amc10/2024B.md#problem-23) | fibonacci, geometric-series, induction, recursion |
 | AMC 12 A | 2009 | [#25](../problems/amc12/2009A.md#problem-25) | modular-arithmetic, recursion |
 | AMC 12 A | 2019 | [#25](../problems/amc12/2019A.md#problem-25) | angle-chasing, geometric-series, induction, recursion |
 | AMC 12 B | 2022 | [#11](../problems/amc12/2022B.md#problem-11) | complex-numbers, de-moivres-theorem, fibonacci, recursion, roots-of-unity |

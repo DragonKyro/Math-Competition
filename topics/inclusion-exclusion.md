@@ -30,7 +30,7 @@ Problems tagged `inclusion-exclusion`.
 | AMC 10 A | 2021 | [#25](../problems/amc10/2021A.md#problem-25) | casework, derangements, rotation |
 | AMC 10 B | 2021 | [#18](../problems/amc10/2021B.md#problem-18) | complementary-counting, geometric-series |
 | AMC 10 B | 2021 | [#22](../problems/amc10/2021B.md#problem-22) | complementary-counting, derangements, recursion |
-| AMC 10 A | 2024 | [#24](../problems/amc10/2024A.md#problem-24) | expected-value, modular-arithmetic, roots-of-unity, rotation |
+| AMC 10 A | 2024 | [#24](../problems/amc10/2024A.md#problem-24) | graph-walks, cube-geometry |
 | AMC 12 | 2001 | [#12](../problems/amc12/2001.md#problem-12) | floor-function |
 | AMC 12 B | 2002 | [#16](../problems/amc12/2002B.md#problem-16) | complementary-counting |
 | AMC 12 A | 2005 | [#18](../problems/amc12/2005A.md#problem-18) | complementary-counting |

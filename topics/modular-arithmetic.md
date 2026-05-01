@@ -98,26 +98,12 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | eulers-totient, factoring, fermats-little-theorem |
 | AMC 10 B | 2022 | [#21](../problems/amc10/2022B.md#problem-21) | chinese-remainder-theorem, euclidean-algorithm |
 | AMC 10 B | 2022 | [#25](../problems/amc10/2022B.md#problem-25) | euclidean-algorithm, fermats-little-theorem, recursion |
-| AMC 10 A | 2023 | [#12](../problems/amc10/2023A.md#problem-12) | — |
-| AMC 10 A | 2023 | [#18](../problems/amc10/2023A.md#problem-18) | — |
-| AMC 10 A | 2023 | [#23](../problems/amc10/2023A.md#problem-23) | am-gm-inequality |
-| AMC 10 B | 2023 | [#8](../problems/amc10/2023B.md#problem-8) | — |
-| AMC 10 B | 2023 | [#14](../problems/amc10/2023B.md#problem-14) | casework, simons-favorite-factoring |
-| AMC 10 B | 2023 | [#15](../problems/amc10/2023B.md#problem-15) | casework, legendres-formula, prime-factorization |
-| AMC 10 B | 2023 | [#18](../problems/amc10/2023B.md#problem-18) | euclidean-algorithm |
-| AMC 10 B | 2023 | [#23](../problems/amc10/2023B.md#problem-23) | arithmetic-series, casework |
-| AMC 10 A | 2024 | [#1](../problems/amc10/2024A.md#problem-1) | — |
-| AMC 10 A | 2024 | [#10](../problems/amc10/2024A.md#problem-10) | — |
-| AMC 10 A | 2024 | [#15](../problems/amc10/2024A.md#problem-15) | factoring, parity |
-| AMC 10 A | 2024 | [#18](../problems/amc10/2024A.md#problem-18) | base-representations, floor-function |
-| AMC 10 A | 2024 | [#24](../problems/amc10/2024A.md#problem-24) | expected-value, inclusion-exclusion, roots-of-unity, rotation |
-| AMC 10 B | 2024 | [#4](../problems/amc10/2024B.md#problem-4) | — |
-| AMC 10 B | 2024 | [#7](../problems/amc10/2024B.md#problem-7) | fermats-little-theorem |
-| AMC 10 B | 2024 | [#8](../problems/amc10/2024B.md#problem-8) | — |
-| AMC 10 B | 2024 | [#16](../problems/amc10/2024B.md#problem-16) | expected-value, floor-function |
-| AMC 10 B | 2024 | [#18](../problems/amc10/2024B.md#problem-18) | binomial-theorem, eulers-totient |
-| AMC 10 B | 2024 | [#24](../problems/amc10/2024B.md#problem-24) | divisibility-rules |
-| AMC 10 B | 2024 | [#25](../problems/amc10/2024B.md#problem-25) | — |
+| AMC 10 A | 2024 | [#10](../problems/amc10/2024A.md#problem-10) | cycle-detection |
+| AMC 10 A | 2024 | [#18](../problems/amc10/2024A.md#problem-18) | base-representations, casework |
+| AMC 10 B | 2024 | [#4](../problems/amc10/2024B.md#problem-4) | triangular-numbers |
+| AMC 10 B | 2024 | [#7](../problems/amc10/2024B.md#problem-7) | factoring |
+| AMC 10 B | 2024 | [#18](../problems/amc10/2024B.md#problem-18) | eulers-totient |
+| AMC 10 B | 2024 | [#24](../problems/amc10/2024B.md#problem-24) | parity-casework |
 | AMC 12 | 2000 | [#9](../problems/amc12/2000.md#problem-9) | casework |
 | AMC 12 | 2000 | [#18](../problems/amc12/2000.md#problem-18) | — |
 | AMC 12 B | 2002 | [#13](../problems/amc12/2002B.md#problem-13) | — |

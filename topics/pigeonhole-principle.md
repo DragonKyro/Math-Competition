@@ -12,7 +12,6 @@ Problems tagged `pigeonhole-principle`.
 | AMC 10 A | 2019 | [#4](../problems/amc10/2019A.md#problem-4) | — |
 | AMC 10 A | 2019 | [#20](../problems/amc10/2019A.md#problem-20) | parity |
 | AMC 10 B | 2022 | [#14](../problems/amc10/2022B.md#problem-14) | floor-function |
-| AMC 10 B | 2024 | [#12](../problems/amc10/2024B.md#problem-12) | prime-factorization |
 | AMC 12 A | 2019 | [#3](../problems/amc12/2019A.md#problem-3) | — |
 | AMC 12 A | 2019 | [#16](../problems/amc12/2019A.md#problem-16) | parity |
 | AIME | 1986 | [#12](../problems/aime/1986.md#problem-12) | — |

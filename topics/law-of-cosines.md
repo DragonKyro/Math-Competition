@@ -30,7 +30,6 @@ Problems tagged `law-of-cosines`.
 | AMC 10 A | 2022 | [#15](../problems/amc10/2022A.md#problem-15) | brahmaguptas-formula, circumradius, diophantine-equations, inscribed-angle-theorem, pythagorean-theorem |
 | AMC 10 A | 2022 | [#23](../problems/amc10/2022A.md#problem-23) | ptolemys-theorem, pythagorean-theorem, similar-triangles, stewarts-theorem, sum-to-product |
 | AMC 10 B | 2022 | [#20](../problems/amc10/2022B.md#problem-20) | angle-chasing, pythagorean-theorem, similar-triangles |
-| AMC 10 A | 2024 | [#22](../problems/amc10/2024A.md#problem-22) | coordinate-bash, inscribed-angle-theorem, pythagorean-theorem, shoelace-theorem, trig-bash |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | double-angle-identities, law-of-sines, pythagorean-theorem, trig-identities |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, double-angle-identities, herons-formula, law-of-sines, stewarts-theorem |
 | AMC 12 B | 2002 | [#23](../problems/amc12/2002B.md#problem-23) | pythagorean-theorem, stewarts-theorem |

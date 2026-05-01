@@ -15,7 +15,6 @@ Problems tagged `inscribed-angle-theorem`.
 | AMC 10 B | 2018 | [#12](../problems/amc10/2018B.md#problem-12) | — |
 | AMC 10 B | 2020 | [#8](../problems/amc10/2020B.md#problem-8) | casework, pythagorean-theorem |
 | AMC 10 A | 2022 | [#15](../problems/amc10/2022A.md#problem-15) | brahmaguptas-formula, circumradius, diophantine-equations, law-of-cosines, pythagorean-theorem |
-| AMC 10 A | 2024 | [#22](../problems/amc10/2024A.md#problem-22) | coordinate-bash, law-of-cosines, pythagorean-theorem, shoelace-theorem, trig-bash |
 | AMC 12 | 2001 | [#17](../problems/amc12/2001.md#problem-17) | pythagorean-theorem |
 | AMC 12 A | 2007 | [#8](../problems/amc12/2007A.md#problem-8) | — |
 | AMC 12 A | 2011 | [#25](../problems/amc12/2011A.md#problem-25) | angle-chasing, circumradius, jensens-inequality |

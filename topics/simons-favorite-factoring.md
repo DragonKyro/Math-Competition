@@ -13,7 +13,7 @@ Problems tagged `simons-favorite-factoring`.
 | AMC 10 A | 2015 | [#23](../problems/amc10/2015A.md#problem-23) | vietas-formulas |
 | AMC 10 B | 2018 | [#23](../problems/amc10/2018B.md#problem-23) | — |
 | AMC 10 B | 2021 | [#11](../problems/amc10/2021B.md#problem-11) | — |
-| AMC 10 B | 2023 | [#14](../problems/amc10/2023B.md#problem-14) | casework, modular-arithmetic |
+| AMC 10 B | 2023 | [#14](../problems/amc10/2023B.md#problem-14) | consecutive-integers-not-square |
 | AMC 12 | 2000 | [#6](../problems/amc12/2000.md#problem-6) | — |
 | AMC 12 | 2001 | [#21](../problems/amc12/2001.md#problem-21) | — |
 | AMC 12 A | 2002 | [#6](../problems/amc12/2002A.md#problem-6) | — |

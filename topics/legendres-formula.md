@@ -10,8 +10,7 @@ Problems tagged `legendres-formula`.
 | AMC 10 B | 2015 | [#23](../problems/amc10/2015B.md#problem-23) | floor-function, prime-factorization |
 | AMC 10 B | 2017 | [#20](../problems/amc10/2017B.md#problem-20) | parity, prime-factorization |
 | AMC 10 A | 2019 | [#25](../problems/amc10/2019A.md#problem-25) | floor-function, wilsons-theorem |
-| AMC 10 B | 2023 | [#15](../problems/amc10/2023B.md#problem-15) | casework, modular-arithmetic, prime-factorization |
-| AMC 10 B | 2024 | [#22](../problems/amc10/2024B.md#problem-22) | floor-function |
+| AMC 10 B | 2024 | [#22](../problems/amc10/2024B.md#problem-22) | multinomial-coefficients |
 | AMC 12 B | 2017 | [#16](../problems/amc12/2017B.md#problem-16) | floor-function, prime-factorization |
 | AMC 12 A | 2019 | [#24](../problems/amc12/2019A.md#problem-24) | floor-function, wilsons-theorem |
 | AMC 12 B | 2024 | [#16](../problems/amc12/2024B.md#problem-16) | floor-function |

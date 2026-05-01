@@ -9,9 +9,7 @@ Problems tagged `am-gm-inequality`.
 | AMC 10 | 2000 | [#20](../problems/amc10/2000.md#problem-20) | rotation |
 | AMC 10 B | 2016 | [#16](../problems/amc10/2016B.md#problem-16) | geometric-series |
 | AMC 10 B | 2016 | [#17](../problems/amc10/2016B.md#problem-17) | — |
-| AMC 10 A | 2023 | [#23](../problems/amc10/2023A.md#problem-23) | modular-arithmetic |
-| AMC 10 B | 2024 | [#6](../problems/amc10/2024B.md#problem-6) | factoring, prime-factorization |
-| AMC 10 B | 2024 | [#13](../problems/amc10/2024B.md#problem-13) | factoring, prime-factorization |
+| AMC 10 B | 2024 | [#13](../problems/amc10/2024B.md#problem-13) | simplifying-radicals |
 | AMC 12 | 2000 | [#12](../problems/amc12/2000.md#problem-12) | — |
 | AMC 12 A | 2003 | [#24](../problems/amc12/2003A.md#problem-24) | logarithms |
 | AMC 12 A | 2008 | [#24](../problems/amc12/2008A.md#problem-24) | power-of-a-point |

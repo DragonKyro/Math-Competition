@@ -52,8 +52,7 @@ Problems tagged `similar-triangles`.
 | AMC 10 A | 2022 | [#23](../problems/amc10/2022A.md#problem-23) | law-of-cosines, ptolemys-theorem, pythagorean-theorem, stewarts-theorem, sum-to-product |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, coordinate-bash, diophantine-equations, pythagorean-theorem |
 | AMC 10 B | 2022 | [#20](../problems/amc10/2022B.md#problem-20) | angle-chasing, law-of-cosines, pythagorean-theorem |
-| AMC 10 B | 2023 | [#25](../problems/amc10/2023B.md#problem-25) | circumradius, quadratic-formula |
-| AMC 10 B | 2024 | [#11](../problems/amc10/2024B.md#problem-11) | pythagorean-theorem |
+| AMC 10 B | 2024 | [#10](../problems/amc10/2024B.md#problem-10) | parallelogram-area |
 | AMC 12 | 2000 | [#21](../problems/amc12/2000.md#problem-21) | angle-chasing |
 | AMC 12 A | 2003 | [#17](../problems/amc12/2003A.md#problem-17) | double-angle-identities, law-of-cosines, pythagorean-theorem |
 | AMC 12 A | 2004 | [#18](../problems/amc12/2004A.md#problem-18) | arithmetic-series, pythagorean-theorem |

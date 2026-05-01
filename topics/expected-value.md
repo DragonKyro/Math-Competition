@@ -13,10 +13,6 @@ Problems tagged `expected-value`.
 | AMC 10 A | 2011 | [#22](../problems/amc10/2011A.md#problem-22) | casework, complementary-counting, recursion |
 | AMC 10 B | 2015 | [#18](../problems/amc10/2015B.md#problem-18) | state-diagram |
 | AMC 10 B | 2018 | [#9](../problems/amc10/2018B.md#problem-9) | bijection, stars-and-bars |
-| AMC 10 B | 2023 | [#19](../problems/amc10/2023B.md#problem-19) | casework |
-| AMC 10 A | 2024 | [#24](../problems/amc10/2024A.md#problem-24) | inclusion-exclusion, modular-arithmetic, roots-of-unity, rotation |
-| AMC 10 B | 2024 | [#16](../problems/amc10/2024B.md#problem-16) | floor-function, modular-arithmetic |
-| AMC 10 B | 2024 | [#17](../problems/amc10/2024B.md#problem-17) | casework |
 | AMC 12 A | 2002 | [#16](../problems/amc12/2002A.md#problem-16) | casework |
 | AMC 12 A | 2014 | [#15](../problems/amc12/2014A.md#problem-15) | — |
 | AMC 12 B | 2017 | [#25](../problems/amc12/2017B.md#problem-25) | casework, modular-arithmetic |

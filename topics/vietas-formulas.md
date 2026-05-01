@@ -34,8 +34,8 @@ Problems tagged `vietas-formulas`.
 | AMC 10 A | 2022 | [#11](../problems/amc10/2022A.md#problem-11) | logarithms |
 | AMC 10 A | 2022 | [#16](../problems/amc10/2022A.md#problem-16) | polynomial-division, quadratic-formula, rational-root-theorem |
 | AMC 10 B | 2022 | [#7](../problems/amc10/2022B.md#problem-7) | diophantine-equations, pythagorean-theorem, quadratic-formula |
-| AMC 10 A | 2023 | [#11](../problems/amc10/2023A.md#problem-11) | congruent-triangles, pythagorean-theorem, quadratic-formula |
-| AMC 10 B | 2023 | [#17](../problems/amc10/2023B.md#problem-17) | polynomial-division, pythagorean-theorem |
+| AMC 10 A | 2023 | [#11](../problems/amc10/2023A.md#problem-11) | pythagorean-theorem |
+| AMC 10 B | 2023 | [#17](../problems/amc10/2023B.md#problem-17) | symmetric-sums, space-diagonal |
 | AMC 12 | 2000 | [#15](../problems/amc12/2000.md#problem-15) | — |
 | AMC 12 | 2000 | [#22](../problems/amc12/2000.md#problem-22) | — |
 | AMC 12 | 2001 | [#19](../problems/amc12/2001.md#problem-19) | — |

@@ -106,7 +106,6 @@ Problems tagged `number-theory`: divisibility, modular arithmetic, primes, GCD/L
 | AMC 10 B | 2021 | [#3](../problems/amc10/2021B.md#problem-3) | algebra |
 | AMC 10 A | 2022 | [#7](../problems/amc10/2022A.md#problem-7) | — |
 | AMC 10 B | 2022 | [#6](../problems/amc10/2022B.md#problem-6) | sequences-and-series |
-| AMC 10 A | 2024 | [#3](../problems/amc10/2024A.md#problem-3) | — |
 | AMC 12 | 2000 | [#1](../problems/amc12/2000.md#problem-1) | — |
 | AMC 12 | 2000 | [#13](../problems/amc12/2000.md#problem-13) | algebra |
 | AMC 12 A | 2002 | [#17](../problems/amc12/2002A.md#problem-17) | — |
