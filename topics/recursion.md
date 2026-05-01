@@ -126,15 +126,16 @@ Problems tagged `recursion`.
 | AIME II | 2020 | [#6](../problems/aime/2020II.md#problem-6) | modular-arithmetic |
 | AIME II | 2020 | [#8](../problems/aime/2020II.md#problem-8) | arithmetic-series, induction |
 | AIME II | 2020 | [#9](../problems/aime/2020II.md#problem-9) | casework, inclusion-exclusion |
-| AIME I | 2021 | [#10](../problems/aime/2021I.md#problem-10) | euclidean-algorithm, simons-favorite-factoring |
+| AIME I | 2021 | [#10](../problems/aime/2021I.md#problem-10) | euclidean-algorithm, number-theory |
 | AIME II | 2021 | [#8](../problems/aime/2021II.md#problem-8) | casework, state-diagram |
 | AIME II | 2021 | [#15](../problems/aime/2021II.md#problem-15) | casework, factoring, modular-arithmetic, quadratic-formula |
 | AIME II | 2022 | [#8](../problems/aime/2022II.md#problem-8) | casework, chinese-remainder-theorem, floor-function, modular-arithmetic, telescoping-sums |
 | AIME II | 2022 | [#9](../problems/aime/2022II.md#problem-9) | casework, complementary-counting |
 | AIME I | 2023 | [#6](../problems/aime/2023I.md#problem-6) | casework, expected-value |
-| AIME I | 2023 | [#11](../problems/aime/2023I.md#problem-11) | casework, fibonacci, induction, pigeonhole-principle, stars-and-bars |
+| AIME I | 2023 | [#11](../problems/aime/2023I.md#problem-11) | casework, fibonacci |
 | AIME II | 2023 | [#15](../problems/aime/2023II.md#problem-15) | modular-arithmetic |
 | ALGEBRA-A | 2024 | [#3](../problems/pumac/algebra-a/2024.md#problem-3) | complex-numbers |
 | ALGEBRA-AND-NUMBER-THEORY | 2023 | [#10](../problems/cmimc/algebra-and-number-theory/2023.md#problem-10) | eulers-totient, euclidean-algorithm |
+| COMBINATORICS | 2023 | [#5](../problems/cmimc/combinatorics/2023.md#problem-5) | linear-recurrence |
 
 <!-- AUTOGEN-END -->

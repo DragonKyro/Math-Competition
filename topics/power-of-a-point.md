@@ -57,15 +57,18 @@ Problems tagged `power-of-a-point`.
 | AIME I | 2019 | [#15](../problems/aime/2019I.md#problem-15) | radical-axis |
 | AIME II | 2019 | [#15](../problems/aime/2019II.md#problem-15) | law-of-cosines, pythagorean-theorem |
 | AIME I | 2020 | [#15](../problems/aime/2020I.md#problem-15) | circumradius, law-of-cosines, law-of-sines, pythagorean-theorem, radical-axis, stewarts-theorem |
+| AIME I | 2021 | [#13](../problems/aime/2021I.md#problem-13) | radical-axis, circle-geometry |
 | AIME I | 2022 | [#8](../problems/aime/2022I.md#problem-8) | circumradius, coordinate-bash, inradius, law-of-cosines, pythagorean-theorem |
 | AIME I | 2022 | [#11](../problems/aime/2022I.md#problem-11) | factoring, inradius, law-of-cosines, ptolemys-theorem, pythagorean-theorem |
 | AIME II | 2022 | [#3](../problems/aime/2022II.md#problem-3) | coordinate-bash, pythagorean-theorem |
 | AIME II | 2022 | [#15](../problems/aime/2022II.md#problem-15) | brahmaguptas-formula, complex-numbers, congruent-triangles, inradius, law-of-cosines, law-of-sines, ptolemys-theorem, reflection |
-| AIME I | 2023 | [#8](../problems/aime/2023I.md#problem-8) | complex-numbers, pythagorean-theorem, similar-triangles |
+| AIME I | 2023 | [#8](../problems/aime/2023I.md#problem-8) | pythagorean-theorem, similar-triangles |
 | AIME II | 2023 | [#9](../problems/aime/2023II.md#problem-9) | pythagorean-theorem, radical-axis |
 | AIME II | 2023 | [#12](../problems/aime/2023II.md#problem-12) | angle-addition-formulas, angle-chasing, inscribed-angle-theorem, law-of-cosines, law-of-sines, pythagorean-theorem, similar-triangles, stewarts-theorem |
 | AIME I | 2024 | [#5](../problems/aime/2024I.md#problem-5) | circumradius, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AIME I | 2024 | [#10](../problems/aime/2024I.md#problem-10) | angle-chasing, circumradius, law-of-cosines, law-of-sines, ptolemys-theorem, radical-axis, similar-triangles, stewarts-theorem |
 | AIME II | 2024 | [#10](../problems/aime/2024II.md#problem-10) | angle-bisector-theorem, angle-chasing, circumradius, double-angle-identities, inradius, law-of-sines, ptolemys-theorem, pythagorean-theorem, similar-triangles |
+| GEOMETRY | 2023 | [#9](../problems/cmimc/geometry/2023.md#problem-9) | radical-axis, inversion, symmedian |
+| GEOMETRY | 2023 | [#10](../problems/cmimc/geometry/2023.md#problem-10) | rotation, spiral-similarity, cyclic-quadrilaterals, pythagorean-theorem |
 
 <!-- AUTOGEN-END -->

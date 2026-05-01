@@ -75,7 +75,6 @@ Problems tagged `law-of-sines`.
 | AIME I | 2022 | [#15](../problems/aime/2022I.md#problem-15) | circumradius |
 | AIME II | 2022 | [#15](../problems/aime/2022II.md#problem-15) | brahmaguptas-formula, complex-numbers, congruent-triangles, inradius, law-of-cosines, power-of-a-point, ptolemys-theorem, reflection |
 | AIME I | 2023 | [#5](../problems/aime/2023I.md#problem-5) | angle-chasing, factoring, inscribed-angle-theorem, law-of-cosines, ptolemys-theorem, pythagorean-theorem, similar-triangles, trig-identities |
-| AIME I | 2023 | [#12](../problems/aime/2023I.md#problem-12) | angle-chasing, complex-numbers, herons-formula, law-of-cosines, ptolemys-theorem |
 | AIME II | 2023 | [#3](../problems/aime/2023II.md#problem-3) | angle-chasing, cevas-theorem, law-of-cosines, pythagorean-theorem, similar-triangles |
 | AIME II | 2023 | [#12](../problems/aime/2023II.md#problem-12) | angle-addition-formulas, angle-chasing, inscribed-angle-theorem, law-of-cosines, power-of-a-point, pythagorean-theorem, similar-triangles, stewarts-theorem |
 | AIME I | 2024 | [#10](../problems/aime/2024I.md#problem-10) | angle-chasing, circumradius, law-of-cosines, power-of-a-point, ptolemys-theorem, radical-axis, similar-triangles, stewarts-theorem |

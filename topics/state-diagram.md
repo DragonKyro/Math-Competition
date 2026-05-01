@@ -17,7 +17,7 @@ Problems tagged `state-diagram`.
 | AIME | 1993 | [#11](../problems/aime/1993.md#problem-11) | bijection, casework, modular-arithmetic, recurrence-relations, recursion |
 | AIME II | 2003 | [#13](../problems/aime/2003II.md#problem-13) | generating-functions, modular-arithmetic, recursion |
 | AIME II | 2018 | [#13](../problems/aime/2018II.md#problem-13) | conditional-probability, factoring, recursion |
-| AIME I | 2021 | [#12](../problems/aime/2021I.md#problem-12) | expected-value |
+| AIME I | 2021 | [#12](../problems/aime/2021I.md#problem-12) | expected-value, markov-chain |
 | AIME II | 2021 | [#8](../problems/aime/2021II.md#problem-8) | casework, recursion |
 
 <!-- AUTOGEN-END -->

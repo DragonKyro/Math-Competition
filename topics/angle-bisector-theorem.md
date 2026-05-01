@@ -52,5 +52,6 @@ Problems tagged `angle-bisector-theorem`.
 | AIME I | 2019 | [#11](../problems/aime/2019I.md#problem-11) | factoring, herons-formula, inradius, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AIME I | 2020 | [#13](../problems/aime/2020I.md#problem-13) | angle-chasing, circumradius, coordinate-bash, herons-formula, inradius, law-of-cosines, law-of-sines, pythagorean-theorem, shoelace-theorem, stewarts-theorem, trig-bash, trig-identities |
 | AIME II | 2024 | [#10](../problems/aime/2024II.md#problem-10) | angle-chasing, circumradius, double-angle-identities, inradius, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, similar-triangles |
+| GEOMETRY | 2023 | [#5](../problems/cmimc/geometry/2023.md#problem-5) | pythagorean-theorem, angle-chasing, similar-triangles |
 
 <!-- AUTOGEN-END -->

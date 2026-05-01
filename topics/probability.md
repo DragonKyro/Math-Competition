@@ -120,7 +120,8 @@ Problems tagged `probability`: discrete and continuous probability, expected val
 | AIME II | 2016 | [#2](../problems/aime/2016II.md#problem-2) | — |
 | AIME I | 2019 | [#2](../problems/aime/2019I.md#problem-2) | combinatorics, geometry |
 | AIME II | 2020 | [#2](../problems/aime/2020II.md#problem-2) | geometry |
+| AIME I | 2021 | [#1](../problems/aime/2021I.md#problem-1) | casework |
 | AIME I | 2022 | [#9](../problems/aime/2022I.md#problem-9) | — |
-| AIME I | 2023 | [#1](../problems/aime/2023I.md#problem-1) | combinatorics, geometry |
+| AIME I | 2023 | [#1](../problems/aime/2023I.md#problem-1) | casework, binomial-coefficients |
 
 <!-- AUTOGEN-END -->

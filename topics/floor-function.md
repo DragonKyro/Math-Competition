@@ -144,7 +144,6 @@ Problems tagged `floor-function`.
 | AIME I | 2019 | [#1](../problems/aime/2019I.md#problem-1) | — |
 | AIME II | 2019 | [#10](../problems/aime/2019II.md#problem-10) | base-representations, geometric-series, modular-arithmetic |
 | AIME II | 2020 | [#14](../problems/aime/2020II.md#problem-14) | hockey-stick-identity, modular-arithmetic |
-| AIME I | 2021 | [#15](../problems/aime/2021I.md#problem-15) | rational-root-theorem |
 | AIME I | 2022 | [#13](../problems/aime/2022I.md#problem-13) | casework, eulers-totient, inclusion-exclusion, modular-arithmetic |
 | AIME II | 2022 | [#8](../problems/aime/2022II.md#problem-8) | casework, chinese-remainder-theorem, modular-arithmetic, recursion, telescoping-sums |
 | AIME II | 2022 | [#14](../problems/aime/2022II.md#problem-14) | — |

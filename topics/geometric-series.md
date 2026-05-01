@@ -103,7 +103,6 @@ Problems tagged `geometric-series`.
 | AIME II | 2019 | [#10](../problems/aime/2019II.md#problem-10) | base-representations, floor-function, modular-arithmetic |
 | AIME I | 2020 | [#2](../problems/aime/2020I.md#problem-2) | logarithms |
 | AIME I | 2020 | [#8](../problems/aime/2020I.md#problem-8) | pythagorean-theorem |
-| AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | binomial-theorem, casework, chinese-remainder-theorem, fermats-little-theorem, modular-arithmetic, prime-factorization |
 | AIME II | 2023 | [#8](../problems/aime/2023II.md#problem-8) | factoring, modular-arithmetic, roots-of-unity, vietas-formulas |
 
 <!-- AUTOGEN-END -->

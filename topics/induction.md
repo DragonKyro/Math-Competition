@@ -39,7 +39,7 @@ Problems tagged `induction`.
 | AIME I | 2012 | [#11](../problems/aime/2012I.md#problem-11) | floor-function, modular-arithmetic, parity |
 | AIME I | 2016 | [#10](../problems/aime/2016I.md#problem-10) | geometric-series, modular-arithmetic, prime-factorization |
 | AIME II | 2020 | [#8](../problems/aime/2020II.md#problem-8) | arithmetic-series, recursion |
-| AIME I | 2023 | [#11](../problems/aime/2023I.md#problem-11) | casework, fibonacci, pigeonhole-principle, recursion, stars-and-bars |
 | AIME I | 2024 | [#3](../problems/aime/2024I.md#problem-3) | casework, floor-function, modular-arithmetic |
+| COMBINATORICS | 2023 | [#4](../problems/cmimc/combinatorics/2023.md#problem-4) | bitwise-xor, pattern-recognition |
 
 <!-- AUTOGEN-END -->

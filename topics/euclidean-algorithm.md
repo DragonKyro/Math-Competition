@@ -27,7 +27,7 @@ Problems tagged `euclidean-algorithm`.
 | AIME II | 2005 | [#3](../problems/aime/2005II.md#problem-3) | geometric-series |
 | AIME I | 2013 | [#11](../problems/aime/2013I.md#problem-11) | chinese-remainder-theorem, modular-arithmetic, prime-factorization |
 | AIME II | 2015 | [#3](../problems/aime/2015II.md#problem-3) | base-representations, casework, chinese-remainder-theorem, modular-arithmetic |
-| AIME I | 2021 | [#10](../problems/aime/2021I.md#problem-10) | recursion, simons-favorite-factoring |
+| AIME I | 2021 | [#10](../problems/aime/2021I.md#problem-10) | recursion, number-theory |
 | AIME II | 2021 | [#9](../problems/aime/2021II.md#problem-9) | casework, modular-arithmetic |
 | AIME II | 2021 | [#13](../problems/aime/2021II.md#problem-13) | binomial-theorem, chinese-remainder-theorem, eulers-totient, fermats-little-theorem, modular-arithmetic |
 | AIME I | 2024 | [#13](../problems/aime/2024I.md#problem-13) | binomial-theorem, fermats-little-theorem, modular-arithmetic |

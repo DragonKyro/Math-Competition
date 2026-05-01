@@ -385,10 +385,9 @@ Problems tagged `casework`.
 | AIME I | 2020 | [#11](../problems/aime/2020I.md#problem-11) | vietas-formulas |
 | AIME I | 2020 | [#14](../problems/aime/2020I.md#problem-14) | vietas-formulas |
 | AIME II | 2020 | [#9](../problems/aime/2020II.md#problem-9) | inclusion-exclusion, recursion |
-| AIME I | 2021 | [#1](../problems/aime/2021I.md#problem-1) | — |
-| AIME I | 2021 | [#3](../problems/aime/2021I.md#problem-3) | base-representations |
-| AIME I | 2021 | [#7](../problems/aime/2021I.md#problem-7) | modular-arithmetic |
-| AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | binomial-theorem, chinese-remainder-theorem, fermats-little-theorem, geometric-series, modular-arithmetic, prime-factorization |
+| AIME I | 2021 | [#1](../problems/aime/2021I.md#problem-1) | probability |
+| AIME I | 2021 | [#4](../problems/aime/2021I.md#problem-4) | — |
+| AIME I | 2021 | [#7](../problems/aime/2021I.md#problem-7) | modular-arithmetic, trigonometry |
 | AIME II | 2021 | [#3](../problems/aime/2021II.md#problem-3) | modular-arithmetic |
 | AIME II | 2021 | [#5](../problems/aime/2021II.md#problem-5) | inscribed-angle-theorem, law-of-cosines, pythagorean-theorem, triangle-inequality |
 | AIME II | 2021 | [#6](../problems/aime/2021II.md#problem-6) | binomial-theorem, complementary-counting, inclusion-exclusion, simons-favorite-factoring |
@@ -404,11 +403,11 @@ Problems tagged `casework`.
 | AIME II | 2022 | [#5](../problems/aime/2022II.md#problem-5) | — |
 | AIME II | 2022 | [#8](../problems/aime/2022II.md#problem-8) | chinese-remainder-theorem, floor-function, modular-arithmetic, recursion, telescoping-sums |
 | AIME II | 2022 | [#9](../problems/aime/2022II.md#problem-9) | complementary-counting, recursion |
+| AIME I | 2023 | [#1](../problems/aime/2023I.md#problem-1) | probability, binomial-coefficients |
 | AIME I | 2023 | [#6](../problems/aime/2023I.md#problem-6) | expected-value, recursion |
 | AIME I | 2023 | [#7](../problems/aime/2023I.md#problem-7) | chinese-remainder-theorem, modular-arithmetic |
-| AIME I | 2023 | [#9](../problems/aime/2023I.md#problem-9) | quadratic-formula, vietas-formulas |
-| AIME I | 2023 | [#11](../problems/aime/2023I.md#problem-11) | fibonacci, induction, pigeonhole-principle, recursion, stars-and-bars |
-| AIME I | 2023 | [#13](../problems/aime/2023I.md#problem-13) | law-of-cosines, pythagorean-theorem |
+| AIME I | 2023 | [#9](../problems/aime/2023I.md#problem-9) | polynomial-factoring, rational-root-theorem |
+| AIME I | 2023 | [#11](../problems/aime/2023I.md#problem-11) | fibonacci, recursion |
 | AIME II | 2023 | [#4](../problems/aime/2023II.md#problem-4) | polynomial-division, quadratic-formula, rational-root-theorem, vietas-formulas |
 | AIME II | 2023 | [#5](../problems/aime/2023II.md#problem-5) | — |
 | AIME II | 2023 | [#6](../problems/aime/2023II.md#problem-6) | geometric-probability |
@@ -425,5 +424,10 @@ Problems tagged `casework`.
 | ALGEBRA-AND-NUMBER-THEORY | 2023 | [#1](../problems/cmimc/algebra-and-number-theory/2023.md#problem-1) | prime-factorization |
 | ALGEBRA-AND-NUMBER-THEORY | 2023 | [#4](../problems/cmimc/algebra-and-number-theory/2023.md#problem-4) | prime-factorization |
 | ALGEBRA-AND-NUMBER-THEORY | 2023 | [#6](../problems/cmimc/algebra-and-number-theory/2023.md#problem-6) | diophantine-equations |
+| COMBINATORICS | 2023 | [#1](../problems/cmimc/combinatorics/2023.md#problem-1) | complementary-counting |
+| COMBINATORICS | 2023 | [#2](../problems/cmimc/combinatorics/2023.md#problem-2) | self-referential-equation |
+| COMBINATORICS | 2023 | [#6](../problems/cmimc/combinatorics/2023.md#problem-6) | binomial-coefficients, complementary-counting |
+| COMBINATORICS | 2023 | [#8](../problems/cmimc/combinatorics/2023.md#problem-8) | modular-arithmetic, functional-equations |
+| COMBINATORICS | 2023 | [#9](../problems/cmimc/combinatorics/2023.md#problem-9) | divisor-structure, prime-factorization |
 
 <!-- AUTOGEN-END -->

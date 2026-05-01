@@ -36,7 +36,6 @@ Problems tagged `simons-favorite-factoring`.
 | AIME | 1997 | [#6](../problems/aime/1997.md#problem-6) | — |
 | AIME I | 2000 | [#9](../problems/aime/2000I.md#problem-9) | base-representations, logarithms |
 | AIME II | 2015 | [#8](../problems/aime/2015II.md#problem-8) | — |
-| AIME I | 2021 | [#10](../problems/aime/2021I.md#problem-10) | euclidean-algorithm, recursion |
 | AIME II | 2021 | [#6](../problems/aime/2021II.md#problem-6) | binomial-theorem, casework, complementary-counting, inclusion-exclusion |
 
 <!-- AUTOGEN-END -->

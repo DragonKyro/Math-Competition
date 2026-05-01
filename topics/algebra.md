@@ -1210,13 +1210,11 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AIME I | 2018 | [#15](../problems/aime/2018I.md#problem-15) | — |
 | AIME II | 2018 | [#1](../problems/aime/2018II.md#problem-1) | — |
 | AIME II | 2018 | [#7](../problems/aime/2018II.md#problem-7) | — |
-| AIME I | 2021 | [#8](../problems/aime/2021I.md#problem-8) | — |
+| AIME I | 2021 | [#5](../problems/aime/2021I.md#problem-5) | diophantine-equations |
 | AIME II | 2021 | [#1](../problems/aime/2021II.md#problem-1) | — |
 | AIME II | 2021 | [#7](../problems/aime/2021II.md#problem-7) | geometry |
 | AIME I | 2022 | [#1](../problems/aime/2022I.md#problem-1) | number-theory |
 | AIME II | 2022 | [#6](../problems/aime/2022II.md#problem-6) | — |
-| AIME II | 2022 | [#12](../problems/aime/2022II.md#problem-12) | — |
-| AIME I | 2023 | [#3](../problems/aime/2023I.md#problem-3) | — |
 | AIME I | 2024 | [#1](../problems/aime/2024I.md#problem-1) | — |
 | AIME II | 2024 | [#1](../problems/aime/2024II.md#problem-1) | — |
 

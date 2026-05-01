@@ -57,5 +57,7 @@ Problems tagged `rotation`.
 | AIME II | 2020 | [#4](../problems/aime/2020II.md#problem-4) | complex-numbers, pythagorean-theorem |
 | AIME I | 2024 | [#11](../problems/aime/2024I.md#problem-11) | casework, pigeonhole-principle |
 | AIME I | 2024 | [#14](../problems/aime/2024I.md#problem-14) | congruent-triangles, herons-formula, inradius, law-of-cosines, pythagorean-theorem, stewarts-theorem |
+| GEOMETRY | 2023 | [#4](../problems/cmimc/geometry/2023.md#problem-4) | symmetry, similar-triangles |
+| GEOMETRY | 2023 | [#10](../problems/cmimc/geometry/2023.md#problem-10) | spiral-similarity, power-of-a-point, cyclic-quadrilaterals, pythagorean-theorem |
 
 <!-- AUTOGEN-END -->

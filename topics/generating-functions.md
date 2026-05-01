@@ -32,7 +32,8 @@ Problems tagged `generating-functions`.
 | AIME I | 2018 | [#10](../problems/aime/2018I.md#problem-10) | bijection, casework, modular-arithmetic, recursion, roots-of-unity, stars-and-bars |
 | AIME I | 2018 | [#12](../problems/aime/2018I.md#problem-12) | casework, diophantine-equations, modular-arithmetic, recursion, roots-of-unity |
 | AIME II | 2019 | [#4](../problems/aime/2019II.md#problem-4) | casework, parity, prime-factorization, recursion, roots-of-unity |
-| AIME I | 2021 | [#4](../problems/aime/2021I.md#problem-4) | complementary-counting, stars-and-bars |
 | AIME II | 2022 | [#13](../problems/aime/2022II.md#problem-13) | modular-arithmetic, stars-and-bars |
+| COMBINATORICS | 2023 | [#7](../problems/cmimc/combinatorics/2023.md#problem-7) | roots-of-unity-filter, telescoping-product |
+| COMBINATORICS | 2023 | [#10](../problems/cmimc/combinatorics/2023.md#problem-10) | expected-value, binomial-coefficients, 2-adic-valuation |
 
 <!-- AUTOGEN-END -->

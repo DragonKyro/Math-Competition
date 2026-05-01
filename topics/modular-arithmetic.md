@@ -308,10 +308,7 @@ Problems tagged `modular-arithmetic`.
 | AIME II | 2020 | [#6](../problems/aime/2020II.md#problem-6) | recursion |
 | AIME II | 2020 | [#10](../problems/aime/2020II.md#problem-10) | — |
 | AIME II | 2020 | [#14](../problems/aime/2020II.md#problem-14) | floor-function, hockey-stick-identity |
-| AIME I | 2021 | [#5](../problems/aime/2021I.md#problem-5) | arithmetic-series, polynomial-division, quadratic-formula |
-| AIME I | 2021 | [#7](../problems/aime/2021I.md#problem-7) | casework |
-| AIME I | 2021 | [#13](../problems/aime/2021I.md#problem-13) | law-of-cosines, pythagorean-theorem, radical-axis, similar-triangles |
-| AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | binomial-theorem, casework, chinese-remainder-theorem, fermats-little-theorem, geometric-series, prime-factorization |
+| AIME I | 2021 | [#7](../problems/aime/2021I.md#problem-7) | casework, trigonometry |
 | AIME II | 2021 | [#3](../problems/aime/2021II.md#problem-3) | casework |
 | AIME II | 2021 | [#4](../problems/aime/2021II.md#problem-4) | polynomial-division, quadratic-formula, vietas-formulas |
 | AIME II | 2021 | [#9](../problems/aime/2021II.md#problem-9) | casework, euclidean-algorithm |
@@ -329,7 +326,7 @@ Problems tagged `modular-arithmetic`.
 | AIME II | 2022 | [#13](../problems/aime/2022II.md#problem-13) | generating-functions, stars-and-bars |
 | AIME I | 2023 | [#7](../problems/aime/2023I.md#problem-7) | casework, chinese-remainder-theorem |
 | AIME I | 2023 | [#10](../problems/aime/2023I.md#problem-10) | floor-function |
-| AIME I | 2023 | [#14](../problems/aime/2023I.md#problem-14) | — |
+| AIME I | 2023 | [#14](../problems/aime/2023I.md#problem-14) | hamiltonian-cycles, torus-grid, binomial-coefficients |
 | AIME I | 2023 | [#15](../problems/aime/2023I.md#problem-15) | complex-numbers, triangle-inequality |
 | AIME II | 2023 | [#8](../problems/aime/2023II.md#problem-8) | factoring, geometric-series, roots-of-unity, vietas-formulas |
 | AIME II | 2023 | [#10](../problems/aime/2023II.md#problem-10) | — |
@@ -341,5 +338,6 @@ Problems tagged `modular-arithmetic`.
 | AIME II | 2024 | [#13](../problems/aime/2024II.md#problem-13) | complex-numbers, law-of-cosines, roots-of-unity, vietas-formulas |
 | ALGEBRA-AND-NUMBER-THEORY | 2023 | [#3](../problems/cmimc/algebra-and-number-theory/2023.md#problem-3) | chinese-remainder-theorem, eulers-totient |
 | ALGEBRA-AND-NUMBER-THEORY | 2023 | [#9](../problems/cmimc/algebra-and-number-theory/2023.md#problem-9) | diophantine-equations, factoring |
+| COMBINATORICS | 2023 | [#8](../problems/cmimc/combinatorics/2023.md#problem-8) | casework, functional-equations |
 
 <!-- AUTOGEN-END -->

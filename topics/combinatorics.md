@@ -41,6 +41,6 @@ Problems tagged `combinatorics`: counting, permutations, combinations, pigeonhol
 | AIME II | 2005 | [#2](../problems/aime/2005II.md#problem-2) | probability |
 | AIME II | 2007 | [#1](../problems/aime/2007II.md#problem-1) | sequences-and-series |
 | AIME I | 2019 | [#2](../problems/aime/2019I.md#problem-2) | geometry, probability |
-| AIME I | 2023 | [#1](../problems/aime/2023I.md#problem-1) | geometry, probability |
+| AIME I | 2021 | [#3](../problems/aime/2021I.md#problem-3) | base-representations |
 
 <!-- AUTOGEN-END -->

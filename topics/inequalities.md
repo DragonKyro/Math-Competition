@@ -1,0 +1,11 @@
+# inequalities
+
+Problems tagged `inequalities`.
+
+<!-- AUTOGEN-START -->
+
+| Competition | Year | Problem | Subtopics |
+|-------------|------|---------|-----------|
+| AIME I | 2021 | [#15](../problems/aime/2021I.md#problem-15) | circles, parabolas |
+
+<!-- AUTOGEN-END -->

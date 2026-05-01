@@ -168,9 +168,6 @@ Problems tagged `law-of-cosines`.
 | AIME I | 2020 | [#15](../problems/aime/2020I.md#problem-15) | circumradius, law-of-sines, power-of-a-point, pythagorean-theorem, radical-axis, stewarts-theorem |
 | AIME II | 2020 | [#13](../problems/aime/2020II.md#problem-13) | complex-bash, complex-numbers, inradius, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AIME II | 2020 | [#15](../problems/aime/2020II.md#problem-15) | law-of-sines, ptolemys-theorem, pythagorean-theorem, stewarts-theorem |
-| AIME I | 2021 | [#9](../problems/aime/2021I.md#problem-9) | angle-chasing, herons-formula, ptolemys-theorem, pythagorean-theorem, similar-triangles, trig-bash |
-| AIME I | 2021 | [#11](../problems/aime/2021I.md#problem-11) | brahmaguptas-formula, inscribed-angle-theorem, ptolemys-theorem, pythagorean-theorem, similar-triangles |
-| AIME I | 2021 | [#13](../problems/aime/2021I.md#problem-13) | modular-arithmetic, pythagorean-theorem, radical-axis, similar-triangles |
 | AIME II | 2021 | [#5](../problems/aime/2021II.md#problem-5) | casework, inscribed-angle-theorem, pythagorean-theorem, triangle-inequality |
 | AIME II | 2021 | [#12](../problems/aime/2021II.md#problem-12) | pythagorean-theorem |
 | AIME I | 2022 | [#8](../problems/aime/2022I.md#problem-8) | circumradius, coordinate-bash, inradius, power-of-a-point, pythagorean-theorem |
@@ -179,12 +176,11 @@ Problems tagged `law-of-cosines`.
 | AIME II | 2022 | [#11](../problems/aime/2022II.md#problem-11) | angle-chasing, herons-formula, inradius |
 | AIME II | 2022 | [#15](../problems/aime/2022II.md#problem-15) | brahmaguptas-formula, complex-numbers, congruent-triangles, inradius, law-of-sines, power-of-a-point, ptolemys-theorem, reflection |
 | AIME I | 2023 | [#5](../problems/aime/2023I.md#problem-5) | angle-chasing, factoring, inscribed-angle-theorem, law-of-sines, ptolemys-theorem, pythagorean-theorem, similar-triangles, trig-identities |
-| AIME I | 2023 | [#12](../problems/aime/2023I.md#problem-12) | angle-chasing, complex-numbers, herons-formula, law-of-sines, ptolemys-theorem |
-| AIME I | 2023 | [#13](../problems/aime/2023I.md#problem-13) | casework, pythagorean-theorem |
 | AIME II | 2023 | [#3](../problems/aime/2023II.md#problem-3) | angle-chasing, cevas-theorem, law-of-sines, pythagorean-theorem, similar-triangles |
 | AIME II | 2023 | [#12](../problems/aime/2023II.md#problem-12) | angle-addition-formulas, angle-chasing, inscribed-angle-theorem, law-of-sines, power-of-a-point, pythagorean-theorem, similar-triangles, stewarts-theorem |
 | AIME I | 2024 | [#10](../problems/aime/2024I.md#problem-10) | angle-chasing, circumradius, law-of-sines, power-of-a-point, ptolemys-theorem, radical-axis, similar-triangles, stewarts-theorem |
 | AIME I | 2024 | [#14](../problems/aime/2024I.md#problem-14) | congruent-triangles, herons-formula, inradius, pythagorean-theorem, rotation, stewarts-theorem |
 | AIME II | 2024 | [#13](../problems/aime/2024II.md#problem-13) | complex-numbers, modular-arithmetic, roots-of-unity, vietas-formulas |
+| GEOMETRY | 2023 | [#6](../problems/cmimc/geometry/2023.md#problem-6) | tetrahedron-volume, symmetry |
 
 <!-- AUTOGEN-END -->

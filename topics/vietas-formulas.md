@@ -127,7 +127,6 @@ Problems tagged `vietas-formulas`.
 | AIME I | 2020 | [#14](../problems/aime/2020I.md#problem-14) | casework |
 | AIME II | 2020 | [#11](../problems/aime/2020II.md#problem-11) | — |
 | AIME II | 2021 | [#4](../problems/aime/2021II.md#problem-4) | modular-arithmetic, polynomial-division, quadratic-formula |
-| AIME I | 2023 | [#9](../problems/aime/2023I.md#problem-9) | casework, quadratic-formula |
 | AIME II | 2023 | [#4](../problems/aime/2023II.md#problem-4) | casework, polynomial-division, quadratic-formula, rational-root-theorem |
 | AIME II | 2023 | [#8](../problems/aime/2023II.md#problem-8) | factoring, geometric-series, modular-arithmetic, roots-of-unity |
 | AIME I | 2024 | [#15](../problems/aime/2024I.md#problem-15) | polynomial-division, pythagorean-theorem, quadratic-formula, rational-root-theorem |

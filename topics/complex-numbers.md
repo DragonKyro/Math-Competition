@@ -114,8 +114,6 @@ Problems tagged `complex-numbers`.
 | AIME I | 2022 | [#4](../problems/aime/2022I.md#problem-4) | casework, de-moivres-theorem, modular-arithmetic |
 | AIME I | 2022 | [#14](../problems/aime/2022I.md#problem-14) | diophantine-equations, law-of-cosines, menelauss-theorem, modular-arithmetic |
 | AIME II | 2022 | [#15](../problems/aime/2022II.md#problem-15) | brahmaguptas-formula, congruent-triangles, inradius, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, reflection |
-| AIME I | 2023 | [#8](../problems/aime/2023I.md#problem-8) | power-of-a-point, pythagorean-theorem, similar-triangles |
-| AIME I | 2023 | [#12](../problems/aime/2023I.md#problem-12) | angle-chasing, herons-formula, law-of-cosines, law-of-sines, ptolemys-theorem |
 | AIME I | 2023 | [#15](../problems/aime/2023I.md#problem-15) | modular-arithmetic, triangle-inequality |
 | AIME I | 2024 | [#7](../problems/aime/2024I.md#problem-7) | am-gm-inequality, angle-addition-formulas, cauchy-schwarz-inequality, pythagorean-theorem, similar-triangles, trig-identities |
 | AIME II | 2024 | [#13](../problems/aime/2024II.md#problem-13) | law-of-cosines, modular-arithmetic, roots-of-unity, vietas-formulas |

@@ -27,7 +27,6 @@ Problems tagged `polynomial-division`.
 | AIME II | 2004 | [#9](../problems/aime/2004II.md#problem-9) | arithmetic-series, geometric-series, modular-arithmetic, quadratic-formula |
 | AIME I | 2005 | [#6](../problems/aime/2005I.md#problem-6) | de-moivres-theorem, factoring, floor-function, vietas-formulas |
 | AIME I | 2016 | [#6](../problems/aime/2016I.md#problem-6) | angle-bisector-theorem, circumradius, inradius, mass-point-geometry, power-of-a-point, ptolemys-theorem, pythagorean-theorem, similar-triangles |
-| AIME I | 2021 | [#5](../problems/aime/2021I.md#problem-5) | arithmetic-series, modular-arithmetic, quadratic-formula |
 | AIME II | 2021 | [#4](../problems/aime/2021II.md#problem-4) | modular-arithmetic, quadratic-formula, vietas-formulas |
 | AIME II | 2023 | [#4](../problems/aime/2023II.md#problem-4) | casework, quadratic-formula, rational-root-theorem, vietas-formulas |
 | AIME I | 2024 | [#15](../problems/aime/2024I.md#problem-15) | pythagorean-theorem, quadratic-formula, rational-root-theorem, vietas-formulas |

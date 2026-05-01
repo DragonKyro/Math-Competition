@@ -40,5 +40,6 @@ Problems tagged `bijection`.
 | AIME I | 2018 | [#10](../problems/aime/2018I.md#problem-10) | casework, generating-functions, modular-arithmetic, recursion, roots-of-unity, stars-and-bars |
 | AIME II | 2019 | [#5](../problems/aime/2019II.md#problem-5) | inclusion-exclusion, modular-arithmetic |
 | AIME I | 2020 | [#7](../problems/aime/2020I.md#problem-7) | casework, recursion |
+| COMBINATORICS | 2023 | [#3](../problems/cmimc/combinatorics/2023.md#problem-3) | path-counting |
 
 <!-- AUTOGEN-END -->

@@ -48,7 +48,7 @@ Problems tagged `base-representations`.
 | AIME I | 2020 | [#3](../problems/aime/2020I.md#problem-3) | — |
 | AIME II | 2020 | [#3](../problems/aime/2020II.md#problem-3) | logarithms |
 | AIME II | 2020 | [#5](../problems/aime/2020II.md#problem-5) | modular-arithmetic |
-| AIME I | 2021 | [#3](../problems/aime/2021I.md#problem-3) | casework |
+| AIME I | 2021 | [#3](../problems/aime/2021I.md#problem-3) | combinatorics |
 | AIME I | 2022 | [#2](../problems/aime/2022I.md#problem-2) | divisibility-rules, modular-arithmetic |
 | AIME II | 2023 | [#2](../problems/aime/2023II.md#problem-2) | — |
 | AIME II | 2024 | [#6](../problems/aime/2024II.md#problem-6) | — |

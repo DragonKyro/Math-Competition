@@ -85,9 +85,7 @@ Problems tagged `herons-formula`.
 | AIME I | 2019 | [#11](../problems/aime/2019I.md#problem-11) | angle-bisector-theorem, factoring, inradius, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AIME II | 2019 | [#1](../problems/aime/2019II.md#problem-1) | congruent-triangles, diophantine-equations, law-of-cosines, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AIME I | 2020 | [#13](../problems/aime/2020I.md#problem-13) | angle-bisector-theorem, angle-chasing, circumradius, coordinate-bash, inradius, law-of-cosines, law-of-sines, pythagorean-theorem, shoelace-theorem, stewarts-theorem, trig-bash, trig-identities |
-| AIME I | 2021 | [#9](../problems/aime/2021I.md#problem-9) | angle-chasing, law-of-cosines, ptolemys-theorem, pythagorean-theorem, similar-triangles, trig-bash |
 | AIME II | 2022 | [#11](../problems/aime/2022II.md#problem-11) | angle-chasing, inradius, law-of-cosines |
-| AIME I | 2023 | [#12](../problems/aime/2023I.md#problem-12) | angle-chasing, complex-numbers, law-of-cosines, law-of-sines, ptolemys-theorem |
 | AIME I | 2024 | [#14](../problems/aime/2024I.md#problem-14) | congruent-triangles, inradius, law-of-cosines, pythagorean-theorem, rotation, stewarts-theorem |
 
 <!-- AUTOGEN-END -->

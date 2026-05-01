@@ -25,7 +25,6 @@ Problems tagged `pigeonhole-principle`.
 | AIME II | 2015 | [#12](../problems/aime/2015II.md#problem-12) | binomial-theorem, generating-functions, recursion |
 | AIME II | 2017 | [#9](../problems/aime/2017II.md#problem-9) | — |
 | AIME II | 2017 | [#14](../problems/aime/2017II.md#problem-14) | casework |
-| AIME I | 2023 | [#11](../problems/aime/2023I.md#problem-11) | casework, fibonacci, induction, recursion, stars-and-bars |
 | AIME II | 2023 | [#11](../problems/aime/2023II.md#problem-11) | casework |
 | AIME I | 2024 | [#11](../problems/aime/2024I.md#problem-11) | casework, rotation |
 

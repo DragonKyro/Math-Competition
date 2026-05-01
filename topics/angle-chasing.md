@@ -54,14 +54,15 @@ Problems tagged `angle-chasing`.
 | AIME II | 2019 | [#11](../problems/aime/2019II.md#problem-11) | factoring, law-of-cosines, law-of-sines, pythagorean-theorem, radical-axis, stewarts-theorem, trig-bash, vietas-formulas |
 | AIME I | 2020 | [#1](../problems/aime/2020I.md#problem-1) | — |
 | AIME I | 2020 | [#13](../problems/aime/2020I.md#problem-13) | angle-bisector-theorem, circumradius, coordinate-bash, herons-formula, inradius, law-of-cosines, law-of-sines, pythagorean-theorem, shoelace-theorem, stewarts-theorem, trig-bash, trig-identities |
-| AIME I | 2021 | [#9](../problems/aime/2021I.md#problem-9) | herons-formula, law-of-cosines, ptolemys-theorem, pythagorean-theorem, similar-triangles, trig-bash |
 | AIME II | 2021 | [#2](../problems/aime/2021II.md#problem-2) | similar-triangles |
 | AIME II | 2022 | [#11](../problems/aime/2022II.md#problem-11) | herons-formula, inradius, law-of-cosines |
 | AIME I | 2023 | [#5](../problems/aime/2023I.md#problem-5) | factoring, inscribed-angle-theorem, law-of-cosines, law-of-sines, ptolemys-theorem, pythagorean-theorem, similar-triangles, trig-identities |
-| AIME I | 2023 | [#12](../problems/aime/2023I.md#problem-12) | complex-numbers, herons-formula, law-of-cosines, law-of-sines, ptolemys-theorem |
 | AIME II | 2023 | [#3](../problems/aime/2023II.md#problem-3) | cevas-theorem, law-of-cosines, law-of-sines, pythagorean-theorem, similar-triangles |
 | AIME II | 2023 | [#12](../problems/aime/2023II.md#problem-12) | angle-addition-formulas, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, pythagorean-theorem, similar-triangles, stewarts-theorem |
 | AIME I | 2024 | [#10](../problems/aime/2024I.md#problem-10) | circumradius, law-of-cosines, law-of-sines, power-of-a-point, ptolemys-theorem, radical-axis, similar-triangles, stewarts-theorem |
 | AIME II | 2024 | [#10](../problems/aime/2024II.md#problem-10) | angle-bisector-theorem, circumradius, double-angle-identities, inradius, law-of-sines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, similar-triangles |
+| GEOMETRY | 2023 | [#1](../problems/cmimc/geometry/2023.md#problem-1) | symmetry |
+| GEOMETRY | 2023 | [#5](../problems/cmimc/geometry/2023.md#problem-5) | angle-bisector-theorem, pythagorean-theorem, similar-triangles |
+| GEOMETRY | 2023 | [#8](../problems/cmimc/geometry/2023.md#problem-8) | inscribed-angle-theorem, cyclic-quadrilaterals, pythagorean-theorem |
 
 <!-- AUTOGEN-END -->

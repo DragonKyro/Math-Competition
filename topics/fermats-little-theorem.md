@@ -20,7 +20,7 @@ Problems tagged `fermats-little-theorem`.
 | AIME I | 2002 | [#7](../problems/aime/2002I.md#problem-7) | floor-function, modular-arithmetic |
 | AIME I | 2018 | [#11](../problems/aime/2018I.md#problem-11) | binomial-theorem, chinese-remainder-theorem, eulers-totient, modular-arithmetic |
 | AIME I | 2019 | [#14](../problems/aime/2019I.md#problem-14) | eulers-totient, modular-arithmetic |
-| AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | binomial-theorem, casework, chinese-remainder-theorem, geometric-series, modular-arithmetic, prime-factorization |
+| AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | number-theory, chinese-remainder-theorem, divisor-sum |
 | AIME II | 2021 | [#13](../problems/aime/2021II.md#problem-13) | binomial-theorem, chinese-remainder-theorem, euclidean-algorithm, eulers-totient, modular-arithmetic |
 | AIME I | 2024 | [#13](../problems/aime/2024I.md#problem-13) | binomial-theorem, euclidean-algorithm, modular-arithmetic |
 

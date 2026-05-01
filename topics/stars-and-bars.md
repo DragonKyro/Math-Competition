@@ -55,9 +55,7 @@ Problems tagged `stars-and-bars`.
 | AIME I | 2018 | [#10](../problems/aime/2018I.md#problem-10) | bijection, casework, generating-functions, modular-arithmetic, recursion, roots-of-unity |
 | AIME II | 2018 | [#15](../problems/aime/2018II.md#problem-15) | casework, inclusion-exclusion |
 | AIME I | 2020 | [#9](../problems/aime/2020I.md#problem-9) | hockey-stick-identity, prime-factorization |
-| AIME I | 2021 | [#4](../problems/aime/2021I.md#problem-4) | complementary-counting, generating-functions |
 | AIME II | 2022 | [#13](../problems/aime/2022II.md#problem-13) | generating-functions, modular-arithmetic |
-| AIME I | 2023 | [#11](../problems/aime/2023I.md#problem-11) | casework, fibonacci, induction, pigeonhole-principle, recursion |
 | AIME I | 2024 | [#6](../problems/aime/2024I.md#problem-6) | — |
 | AIME II | 2024 | [#3](../problems/aime/2024II.md#problem-3) | — |
 | AIME II | 2024 | [#11](../problems/aime/2024II.md#problem-11) | casework, polynomial-division, vietas-formulas |

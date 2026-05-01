@@ -55,6 +55,7 @@ Problems tagged `triangle-inequality`.
 | AIME I | 2008 | [#10](../problems/aime/2008I.md#problem-10) | angle-chasing, law-of-cosines, law-of-sines |
 | AIME I | 2015 | [#11](../problems/aime/2015I.md#problem-11) | angle-bisector-theorem, congruent-triangles, double-angle-identities, factoring, inradius, pythagorean-theorem, trig-bash |
 | AIME II | 2021 | [#5](../problems/aime/2021II.md#problem-5) | casework, inscribed-angle-theorem, law-of-cosines, pythagorean-theorem |
+| AIME II | 2022 | [#12](../problems/aime/2022II.md#problem-12) | ellipses |
 | AIME I | 2023 | [#15](../problems/aime/2023I.md#problem-15) | complex-numbers, modular-arithmetic |
 | ALGEBRA-AND-NUMBER-THEORY | 2023 | [#5](../problems/cmimc/algebra-and-number-theory/2023.md#problem-5) | — |
 

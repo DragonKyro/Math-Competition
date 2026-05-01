@@ -39,7 +39,6 @@ Problems tagged `binomial-theorem`.
 | AIME I | 2018 | [#11](../problems/aime/2018I.md#problem-11) | chinese-remainder-theorem, eulers-totient, fermats-little-theorem, modular-arithmetic |
 | AIME I | 2019 | [#8](../problems/aime/2019I.md#problem-8) | am-gm-inequality, double-angle-identities, pythagorean-theorem, quadratic-formula, recursion, vietas-formulas |
 | AIME I | 2020 | [#12](../problems/aime/2020I.md#problem-12) | eulers-totient, modular-arithmetic |
-| AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | casework, chinese-remainder-theorem, fermats-little-theorem, geometric-series, modular-arithmetic, prime-factorization |
 | AIME II | 2021 | [#6](../problems/aime/2021II.md#problem-6) | casework, complementary-counting, inclusion-exclusion, simons-favorite-factoring |
 | AIME II | 2021 | [#13](../problems/aime/2021II.md#problem-13) | chinese-remainder-theorem, euclidean-algorithm, eulers-totient, fermats-little-theorem, modular-arithmetic |
 | AIME I | 2024 | [#13](../problems/aime/2024I.md#problem-13) | euclidean-algorithm, fermats-little-theorem, modular-arithmetic |

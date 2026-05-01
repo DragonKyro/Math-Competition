@@ -9,5 +9,6 @@ Problems tagged `spiral-similarity`.
 | AMC 12 A | 2018 | [#23](../problems/amc12/2018A.md#problem-23) | angle-bisector-theorem, sum-to-product |
 | AIME I | 2015 | [#4](../problems/aime/2015I.md#problem-4) | law-of-cosines, pythagorean-theorem, rotation, shoelace-theorem, similar-triangles, stewarts-theorem |
 | AIME II | 2021 | [#14](../problems/aime/2021II.md#problem-14) | angle-addition-formulas, inscribed-angle-theorem |
+| GEOMETRY | 2023 | [#10](../problems/cmimc/geometry/2023.md#problem-10) | rotation, power-of-a-point, cyclic-quadrilaterals, pythagorean-theorem |
 
 <!-- AUTOGEN-END -->

@@ -34,7 +34,7 @@ Problems tagged `chinese-remainder-theorem`.
 | AIME II | 2015 | [#3](../problems/aime/2015II.md#problem-3) | base-representations, casework, euclidean-algorithm, modular-arithmetic |
 | AIME II | 2017 | [#8](../problems/aime/2017II.md#problem-8) | floor-function, modular-arithmetic, prime-factorization |
 | AIME I | 2018 | [#11](../problems/aime/2018I.md#problem-11) | binomial-theorem, eulers-totient, fermats-little-theorem, modular-arithmetic |
-| AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | binomial-theorem, casework, fermats-little-theorem, geometric-series, modular-arithmetic, prime-factorization |
+| AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | number-theory, fermats-little-theorem, divisor-sum |
 | AIME II | 2021 | [#11](../problems/aime/2021II.md#problem-11) | casework, modular-arithmetic |
 | AIME II | 2021 | [#13](../problems/aime/2021II.md#problem-13) | binomial-theorem, euclidean-algorithm, eulers-totient, fermats-little-theorem, modular-arithmetic |
 | AIME II | 2022 | [#8](../problems/aime/2022II.md#problem-8) | casework, floor-function, modular-arithmetic, recursion, telescoping-sums |

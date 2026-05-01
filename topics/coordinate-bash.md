@@ -72,7 +72,6 @@ Problems tagged `coordinate-bash`.
 | AIME II | 2018 | [#4](../problems/aime/2018II.md#problem-4) | similar-triangles |
 | AIME I | 2020 | [#13](../problems/aime/2020I.md#problem-13) | angle-bisector-theorem, angle-chasing, circumradius, herons-formula, inradius, law-of-cosines, law-of-sines, pythagorean-theorem, shoelace-theorem, stewarts-theorem, trig-bash, trig-identities |
 | AIME II | 2020 | [#7](../problems/aime/2020II.md#problem-7) | inradius |
-| AIME I | 2021 | [#2](../problems/aime/2021I.md#problem-2) | pythagorean-theorem, similar-triangles |
 | AIME I | 2022 | [#8](../problems/aime/2022I.md#problem-8) | circumradius, inradius, law-of-cosines, power-of-a-point, pythagorean-theorem |
 | AIME II | 2022 | [#3](../problems/aime/2022II.md#problem-3) | power-of-a-point, pythagorean-theorem |
 | AIME II | 2024 | [#12](../problems/aime/2024II.md#problem-12) | polynomial-division, pythagorean-theorem, trig-identities |

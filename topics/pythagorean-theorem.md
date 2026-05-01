@@ -401,10 +401,7 @@ Problems tagged `pythagorean-theorem`.
 | AIME II | 2020 | [#4](../problems/aime/2020II.md#problem-4) | complex-numbers, rotation |
 | AIME II | 2020 | [#13](../problems/aime/2020II.md#problem-13) | complex-bash, complex-numbers, inradius, law-of-cosines, ptolemys-theorem, similar-triangles |
 | AIME II | 2020 | [#15](../problems/aime/2020II.md#problem-15) | law-of-cosines, law-of-sines, ptolemys-theorem, stewarts-theorem |
-| AIME I | 2021 | [#2](../problems/aime/2021I.md#problem-2) | coordinate-bash, similar-triangles |
-| AIME I | 2021 | [#9](../problems/aime/2021I.md#problem-9) | angle-chasing, herons-formula, law-of-cosines, ptolemys-theorem, similar-triangles, trig-bash |
-| AIME I | 2021 | [#11](../problems/aime/2021I.md#problem-11) | brahmaguptas-formula, inscribed-angle-theorem, law-of-cosines, ptolemys-theorem, similar-triangles |
-| AIME I | 2021 | [#13](../problems/aime/2021I.md#problem-13) | law-of-cosines, modular-arithmetic, radical-axis, similar-triangles |
+| AIME I | 2021 | [#2](../problems/aime/2021I.md#problem-2) | similar-triangles |
 | AIME II | 2021 | [#5](../problems/aime/2021II.md#problem-5) | casework, inscribed-angle-theorem, law-of-cosines, triangle-inequality |
 | AIME II | 2021 | [#10](../problems/aime/2021II.md#problem-10) | similar-triangles |
 | AIME II | 2021 | [#12](../problems/aime/2021II.md#problem-12) | law-of-cosines |
@@ -416,8 +413,8 @@ Problems tagged `pythagorean-theorem`.
 | AIME II | 2022 | [#3](../problems/aime/2022II.md#problem-3) | coordinate-bash, power-of-a-point |
 | AIME II | 2022 | [#7](../problems/aime/2022II.md#problem-7) | circumradius, radical-axis, shoelace-theorem, similar-triangles |
 | AIME I | 2023 | [#5](../problems/aime/2023I.md#problem-5) | angle-chasing, factoring, inscribed-angle-theorem, law-of-cosines, law-of-sines, ptolemys-theorem, similar-triangles, trig-identities |
-| AIME I | 2023 | [#8](../problems/aime/2023I.md#problem-8) | complex-numbers, power-of-a-point, similar-triangles |
-| AIME I | 2023 | [#13](../problems/aime/2023I.md#problem-13) | casework, law-of-cosines |
+| AIME I | 2023 | [#8](../problems/aime/2023I.md#problem-8) | power-of-a-point, similar-triangles |
+| AIME I | 2023 | [#13](../problems/aime/2023I.md#problem-13) | 3d-geometry, tetrahedron-volume |
 | AIME II | 2023 | [#3](../problems/aime/2023II.md#problem-3) | angle-chasing, cevas-theorem, law-of-cosines, law-of-sines, similar-triangles |
 | AIME II | 2023 | [#9](../problems/aime/2023II.md#problem-9) | power-of-a-point, radical-axis |
 | AIME II | 2023 | [#12](../problems/aime/2023II.md#problem-12) | angle-addition-formulas, angle-chasing, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, similar-triangles, stewarts-theorem |
@@ -427,5 +424,10 @@ Problems tagged `pythagorean-theorem`.
 | AIME I | 2024 | [#15](../problems/aime/2024I.md#problem-15) | polynomial-division, quadratic-formula, rational-root-theorem, vietas-formulas |
 | AIME II | 2024 | [#10](../problems/aime/2024II.md#problem-10) | angle-bisector-theorem, angle-chasing, circumradius, double-angle-identities, inradius, law-of-sines, power-of-a-point, ptolemys-theorem, similar-triangles |
 | AIME II | 2024 | [#12](../problems/aime/2024II.md#problem-12) | coordinate-bash, polynomial-division, trig-identities |
+| GEOMETRY | 2023 | [#3](../problems/cmimc/geometry/2023.md#problem-3) | symmetry |
+| GEOMETRY | 2023 | [#5](../problems/cmimc/geometry/2023.md#problem-5) | angle-bisector-theorem, angle-chasing, similar-triangles |
+| GEOMETRY | 2023 | [#7](../problems/cmimc/geometry/2023.md#problem-7) | symmetry, tangent-lines, spherical-geometry |
+| GEOMETRY | 2023 | [#8](../problems/cmimc/geometry/2023.md#problem-8) | inscribed-angle-theorem, angle-chasing, cyclic-quadrilaterals |
+| GEOMETRY | 2023 | [#10](../problems/cmimc/geometry/2023.md#problem-10) | rotation, spiral-similarity, power-of-a-point, cyclic-quadrilaterals |
 
 <!-- AUTOGEN-END -->

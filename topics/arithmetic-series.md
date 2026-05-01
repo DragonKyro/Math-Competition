@@ -113,7 +113,6 @@ Problems tagged `arithmetic-series`.
 | AIME II | 2016 | [#1](../problems/aime/2016II.md#problem-1) | geometric-series, quadratic-formula |
 | AIME II | 2016 | [#9](../problems/aime/2016II.md#problem-9) | casework, geometric-series |
 | AIME II | 2020 | [#8](../problems/aime/2020II.md#problem-8) | induction, recursion |
-| AIME I | 2021 | [#5](../problems/aime/2021I.md#problem-5) | modular-arithmetic, polynomial-division, quadratic-formula |
 | AIME I | 2022 | [#6](../problems/aime/2022I.md#problem-6) | casework |
 | AIME II | 2023 | [#1](../problems/aime/2023II.md#problem-1) | — |
 

@@ -37,12 +37,9 @@ Problems tagged `ptolemys-theorem`.
 | AIME II | 2019 | [#1](../problems/aime/2019II.md#problem-1) | congruent-triangles, diophantine-equations, herons-formula, law-of-cosines, pythagorean-theorem, similar-triangles |
 | AIME II | 2020 | [#13](../problems/aime/2020II.md#problem-13) | complex-bash, complex-numbers, inradius, law-of-cosines, pythagorean-theorem, similar-triangles |
 | AIME II | 2020 | [#15](../problems/aime/2020II.md#problem-15) | law-of-cosines, law-of-sines, pythagorean-theorem, stewarts-theorem |
-| AIME I | 2021 | [#9](../problems/aime/2021I.md#problem-9) | angle-chasing, herons-formula, law-of-cosines, pythagorean-theorem, similar-triangles, trig-bash |
-| AIME I | 2021 | [#11](../problems/aime/2021I.md#problem-11) | brahmaguptas-formula, inscribed-angle-theorem, law-of-cosines, pythagorean-theorem, similar-triangles |
 | AIME I | 2022 | [#11](../problems/aime/2022I.md#problem-11) | factoring, inradius, law-of-cosines, power-of-a-point, pythagorean-theorem |
 | AIME II | 2022 | [#15](../problems/aime/2022II.md#problem-15) | brahmaguptas-formula, complex-numbers, congruent-triangles, inradius, law-of-cosines, law-of-sines, power-of-a-point, reflection |
 | AIME I | 2023 | [#5](../problems/aime/2023I.md#problem-5) | angle-chasing, factoring, inscribed-angle-theorem, law-of-cosines, law-of-sines, pythagorean-theorem, similar-triangles, trig-identities |
-| AIME I | 2023 | [#12](../problems/aime/2023I.md#problem-12) | angle-chasing, complex-numbers, herons-formula, law-of-cosines, law-of-sines |
 | AIME I | 2024 | [#5](../problems/aime/2024I.md#problem-5) | circumradius, power-of-a-point, pythagorean-theorem, similar-triangles |
 | AIME I | 2024 | [#10](../problems/aime/2024I.md#problem-10) | angle-chasing, circumradius, law-of-cosines, law-of-sines, power-of-a-point, radical-axis, similar-triangles, stewarts-theorem |
 | AIME II | 2024 | [#10](../problems/aime/2024II.md#problem-10) | angle-bisector-theorem, angle-chasing, circumradius, double-angle-identities, inradius, law-of-sines, power-of-a-point, pythagorean-theorem, similar-triangles |

@@ -529,9 +529,7 @@ Problems tagged `geometry`: triangles, circles, polygons, coordinate geometry, 3
 | AIME I | 2019 | [#2](../problems/aime/2019I.md#problem-2) | combinatorics, probability |
 | AIME II | 2020 | [#2](../problems/aime/2020II.md#problem-2) | probability |
 | AIME II | 2020 | [#12](../problems/aime/2020II.md#problem-12) | — |
-| AIME I | 2021 | [#6](../problems/aime/2021I.md#problem-6) | — |
 | AIME II | 2021 | [#7](../problems/aime/2021II.md#problem-7) | algebra |
-| AIME I | 2023 | [#1](../problems/aime/2023I.md#problem-1) | combinatorics, probability |
 | AIME II | 2023 | [#14](../problems/aime/2023II.md#problem-14) | trigonometry |
 | AIME I | 2024 | [#9](../problems/aime/2024I.md#problem-9) | — |
 | AIME I | 2024 | [#12](../problems/aime/2024I.md#problem-12) | trigonometry |

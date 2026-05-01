@@ -20,6 +20,5 @@ Problems tagged `trig-bash`.
 | AIME I | 2015 | [#11](../problems/aime/2015I.md#problem-11) | angle-bisector-theorem, congruent-triangles, double-angle-identities, factoring, inradius, pythagorean-theorem, triangle-inequality |
 | AIME II | 2019 | [#11](../problems/aime/2019II.md#problem-11) | angle-chasing, factoring, law-of-cosines, law-of-sines, pythagorean-theorem, radical-axis, stewarts-theorem, vietas-formulas |
 | AIME I | 2020 | [#13](../problems/aime/2020I.md#problem-13) | angle-bisector-theorem, angle-chasing, circumradius, coordinate-bash, herons-formula, inradius, law-of-cosines, law-of-sines, pythagorean-theorem, shoelace-theorem, stewarts-theorem, trig-identities |
-| AIME I | 2021 | [#9](../problems/aime/2021I.md#problem-9) | angle-chasing, herons-formula, law-of-cosines, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 
 <!-- AUTOGEN-END -->

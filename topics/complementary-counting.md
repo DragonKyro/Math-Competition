@@ -83,8 +83,9 @@ Problems tagged `complementary-counting`.
 | AIME II | 2017 | [#1](../problems/aime/2017II.md#problem-1) | — |
 | AIME II | 2017 | [#11](../problems/aime/2017II.md#problem-11) | inclusion-exclusion |
 | AIME II | 2018 | [#11](../problems/aime/2018II.md#problem-11) | casework, inclusion-exclusion, recursion |
-| AIME I | 2021 | [#4](../problems/aime/2021I.md#problem-4) | generating-functions, stars-and-bars |
 | AIME II | 2021 | [#6](../problems/aime/2021II.md#problem-6) | binomial-theorem, casework, inclusion-exclusion, simons-favorite-factoring |
 | AIME II | 2022 | [#9](../problems/aime/2022II.md#problem-9) | casework, recursion |
+| COMBINATORICS | 2023 | [#1](../problems/cmimc/combinatorics/2023.md#problem-1) | casework |
+| COMBINATORICS | 2023 | [#6](../problems/cmimc/combinatorics/2023.md#problem-6) | casework, binomial-coefficients |
 
 <!-- AUTOGEN-END -->

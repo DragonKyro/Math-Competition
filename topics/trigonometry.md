@@ -46,6 +46,7 @@ Problems tagged `trigonometry`: trig identities, law of sines/cosines, trig equa
 | AIME I | 2001 | [#9](../problems/aime/2001I.md#problem-9) | algebra, geometry |
 | AIME II | 2002 | [#10](../problems/aime/2002II.md#problem-10) | — |
 | AIME I | 2010 | [#13](../problems/aime/2010I.md#problem-13) | geometry, number-theory |
+| AIME I | 2021 | [#7](../problems/aime/2021I.md#problem-7) | casework, modular-arithmetic |
 | AIME II | 2023 | [#14](../problems/aime/2023II.md#problem-14) | geometry |
 | AIME I | 2024 | [#12](../problems/aime/2024I.md#problem-12) | geometry |
 

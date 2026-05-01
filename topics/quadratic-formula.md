@@ -123,10 +123,8 @@ Problems tagged `quadratic-formula`.
 | AIME I | 2019 | [#8](../problems/aime/2019I.md#problem-8) | am-gm-inequality, binomial-theorem, double-angle-identities, pythagorean-theorem, recursion, vietas-formulas |
 | AIME I | 2019 | [#12](../problems/aime/2019I.md#problem-12) | complex-numbers |
 | AIME II | 2019 | [#8](../problems/aime/2019II.md#problem-8) | modular-arithmetic, roots-of-unity |
-| AIME I | 2021 | [#5](../problems/aime/2021I.md#problem-5) | arithmetic-series, modular-arithmetic, polynomial-division |
 | AIME II | 2021 | [#4](../problems/aime/2021II.md#problem-4) | modular-arithmetic, polynomial-division, vietas-formulas |
 | AIME II | 2021 | [#15](../problems/aime/2021II.md#problem-15) | casework, factoring, modular-arithmetic, recursion |
-| AIME I | 2023 | [#9](../problems/aime/2023I.md#problem-9) | casework, vietas-formulas |
 | AIME II | 2023 | [#4](../problems/aime/2023II.md#problem-4) | casework, polynomial-division, rational-root-theorem, vietas-formulas |
 | AIME I | 2024 | [#15](../problems/aime/2024I.md#problem-15) | polynomial-division, pythagorean-theorem, rational-root-theorem, vietas-formulas |
 

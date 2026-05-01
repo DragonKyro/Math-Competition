@@ -190,6 +190,8 @@ Problems tagged `number-theory`: divisibility, modular arithmetic, primes, GCD/L
 | AIME II | 2015 | [#1](../problems/aime/2015II.md#problem-1) | — |
 | AIME I | 2020 | [#10](../problems/aime/2020I.md#problem-10) | — |
 | AIME II | 2020 | [#1](../problems/aime/2020II.md#problem-1) | — |
+| AIME I | 2021 | [#10](../problems/aime/2021I.md#problem-10) | euclidean-algorithm, recursion |
+| AIME I | 2021 | [#14](../problems/aime/2021I.md#problem-14) | fermats-little-theorem, chinese-remainder-theorem, divisor-sum |
 | AIME I | 2022 | [#1](../problems/aime/2022I.md#problem-1) | algebra |
 | AIME I | 2022 | [#7](../problems/aime/2022I.md#problem-7) | — |
 | AIME II | 2024 | [#5](../problems/aime/2024II.md#problem-5) | geometry |

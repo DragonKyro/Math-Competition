@@ -30,10 +30,10 @@ Problems tagged `inscribed-angle-theorem`.
 | AIME I | 2011 | [#10](../problems/aime/2011I.md#problem-10) | casework, floor-function, modular-arithmetic |
 | AIME I | 2016 | [#15](../problems/aime/2016I.md#problem-15) | angle-chasing, circumradius, modular-arithmetic, power-of-a-point, radical-axis, similar-triangles, stewarts-theorem |
 | AIME II | 2016 | [#10](../problems/aime/2016II.md#problem-10) | law-of-sines, power-of-a-point, ptolemys-theorem, similar-triangles, stewarts-theorem |
-| AIME I | 2021 | [#11](../problems/aime/2021I.md#problem-11) | brahmaguptas-formula, law-of-cosines, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AIME II | 2021 | [#5](../problems/aime/2021II.md#problem-5) | casework, law-of-cosines, pythagorean-theorem, triangle-inequality |
 | AIME II | 2021 | [#14](../problems/aime/2021II.md#problem-14) | angle-addition-formulas, spiral-similarity |
 | AIME I | 2023 | [#5](../problems/aime/2023I.md#problem-5) | angle-chasing, factoring, law-of-cosines, law-of-sines, ptolemys-theorem, pythagorean-theorem, similar-triangles, trig-identities |
 | AIME II | 2023 | [#12](../problems/aime/2023II.md#problem-12) | angle-addition-formulas, angle-chasing, law-of-cosines, law-of-sines, power-of-a-point, pythagorean-theorem, similar-triangles, stewarts-theorem |
+| GEOMETRY | 2023 | [#8](../problems/cmimc/geometry/2023.md#problem-8) | angle-chasing, cyclic-quadrilaterals, pythagorean-theorem |
 
 <!-- AUTOGEN-END -->
