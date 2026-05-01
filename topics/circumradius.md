@@ -15,8 +15,6 @@ Problems tagged `circumradius`.
 | AMC 10 B | 2017 | [#24](../problems/amc10/2017B.md#problem-24) | law-of-cosines, vietas-formulas |
 | AMC 10 A | 2019 | [#6](../problems/amc10/2019A.md#problem-6) | — |
 | AMC 10 A | 2019 | [#16](../problems/amc10/2019A.md#problem-16) | — |
-| AMC 10 A | 2022 | [#15](../problems/amc10/2022A.md#problem-15) | brahmaguptas-formula, diophantine-equations, inscribed-angle-theorem, law-of-cosines, pythagorean-theorem |
-| AMC 10 A | 2022 | [#21](../problems/amc10/2022A.md#problem-21) | pythagorean-theorem |
 | AMC 12 A | 2004 | [#22](../problems/amc12/2004A.md#problem-22) | pythagorean-theorem |
 | AMC 12 B | 2005 | [#18](../problems/amc12/2005B.md#problem-18) | — |
 | AMC 12 A | 2007 | [#10](../problems/amc12/2007A.md#problem-10) | diophantine-equations, pythagorean-theorem |

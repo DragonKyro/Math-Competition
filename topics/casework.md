@@ -124,11 +124,8 @@ Problems tagged `casework`.
 | AMC 10 B | 2021 | [#1](../problems/amc10/2021B.md#problem-1) | — |
 | AMC 10 B | 2021 | [#16](../problems/amc10/2021B.md#problem-16) | divisibility-rules, modular-arithmetic |
 | AMC 10 B | 2021 | [#24](../problems/amc10/2021B.md#problem-24) | — |
-| AMC 10 A | 2022 | [#8](../problems/amc10/2022A.md#problem-8) | — |
-| AMC 10 A | 2022 | [#9](../problems/amc10/2022A.md#problem-9) | — |
-| AMC 10 A | 2022 | [#20](../problems/amc10/2022A.md#problem-20) | arithmetic-series, geometric-series |
-| AMC 10 A | 2022 | [#22](../problems/amc10/2022A.md#problem-22) | bijection, hockey-stick-identity, recursion |
-| AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | complementary-counting, modular-arithmetic, recursion |
+| AMC 10 A | 2022 | [#8](../problems/amc10/2022A.md#problem-8) | mean-data-set |
+| AMC 10 A | 2022 | [#20](../problems/amc10/2022A.md#problem-20) | arithmetic-plus-geometric, system-of-equations |
 | AMC 10 B | 2022 | [#18](../problems/amc10/2022B.md#problem-18) | complementary-counting |
 | AMC 10 B | 2022 | [#22](../problems/amc10/2022B.md#problem-22) | — |
 | AMC 10 A | 2023 | [#9](../problems/amc10/2023A.md#problem-9) | digit-counting |

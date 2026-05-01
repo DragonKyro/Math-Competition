@@ -6,6 +6,8 @@ Problems tagged `45-45-90-triangle`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2022 | [#5](../problems/amc10/2022A.md#problem-5) | hexagon-in-square |
+| AMC 10 A | 2022 | [#21](../problems/amc10/2022A.md#problem-21) | octagon-in-square |
 | AMC 10 B | 2023 | [#20](../problems/amc10/2023B.md#problem-20) | sphere-geometry, great-vs-small-circles |
 
 <!-- AUTOGEN-END -->

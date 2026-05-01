@@ -133,10 +133,6 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 B | 2021 | [#14](../problems/amc10/2021B.md#problem-14) | stewarts-theorem |
 | AMC 10 B | 2021 | [#20](../problems/amc10/2021B.md#problem-20) | — |
 | AMC 10 B | 2021 | [#21](../problems/amc10/2021B.md#problem-21) | double-angle-identities, reflection, similar-triangles |
-| AMC 10 A | 2022 | [#5](../problems/amc10/2022A.md#problem-5) | quadratic-formula |
-| AMC 10 A | 2022 | [#15](../problems/amc10/2022A.md#problem-15) | brahmaguptas-formula, circumradius, diophantine-equations, inscribed-angle-theorem, law-of-cosines |
-| AMC 10 A | 2022 | [#21](../problems/amc10/2022A.md#problem-21) | circumradius |
-| AMC 10 A | 2022 | [#23](../problems/amc10/2022A.md#problem-23) | law-of-cosines, ptolemys-theorem, similar-triangles, stewarts-theorem, sum-to-product |
 | AMC 10 B | 2022 | [#2](../problems/amc10/2022B.md#problem-2) | rhombus |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, coordinate-bash, diophantine-equations, similar-triangles |
 | AMC 10 A | 2023 | [#11](../problems/amc10/2023A.md#problem-11) | vietas-formulas |

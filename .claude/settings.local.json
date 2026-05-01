@@ -6,7 +6,9 @@
       "Bash(python *)",
       "WebFetch(domain:cmimc.math.cmu.edu)",
       "WebFetch(domain:jason-shi-f9dm.squarespace.com)",
-      "WebFetch(domain:artofproblemsolving.com)"
+      "WebFetch(domain:artofproblemsolving.com)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ],
     "additionalDirectories": [
       "C:\\Users\\klui\\.claude"

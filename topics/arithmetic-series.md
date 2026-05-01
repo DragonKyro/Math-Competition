@@ -49,7 +49,6 @@ Problems tagged `arithmetic-series`.
 | AMC 10 A | 2021 | [#4](../problems/amc10/2021A.md#problem-4) | modular-arithmetic |
 | AMC 10 A | 2021 | [#22](../problems/amc10/2021A.md#problem-22) | factoring, prime-factorization |
 | AMC 10 B | 2021 | [#15](../problems/amc10/2021B.md#problem-15) | factoring, fibonacci, quadratic-formula |
-| AMC 10 A | 2022 | [#20](../problems/amc10/2022A.md#problem-20) | casework, geometric-series |
 | AMC 10 A | 2023 | [#15](../problems/amc10/2023A.md#problem-15) | difference-of-squares |
 | AMC 12 | 2000 | [#8](../problems/amc12/2000.md#problem-8) | recursion |
 | AMC 12 | 2000 | [#14](../problems/amc12/2000.md#problem-14) | casework |

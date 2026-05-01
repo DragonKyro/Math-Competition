@@ -7,7 +7,6 @@ Problems tagged `hockey-stick-identity`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 A | 2016 | [#20](../problems/amc10/2016A.md#problem-20) | casework, stars-and-bars |
-| AMC 10 A | 2022 | [#22](../problems/amc10/2022A.md#problem-22) | bijection, casework, recursion |
 | AMC 12 A | 2010 | [#25](../problems/amc12/2010A.md#problem-25) | burnsides-lemma, rotation, triangle-inequality |
 | AMC 12 A | 2013 | [#22](../problems/amc12/2013A.md#problem-22) | base-representations, casework |
 | AMC 12 A | 2022 | [#19](../problems/amc12/2022A.md#problem-19) | bijection, casework, recursion |

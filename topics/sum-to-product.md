@@ -6,7 +6,6 @@ Problems tagged `sum-to-product`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AMC 10 A | 2022 | [#23](../problems/amc10/2022A.md#problem-23) | law-of-cosines, ptolemys-theorem, pythagorean-theorem, similar-triangles, stewarts-theorem |
 | AMC 12 A | 2008 | [#23](../problems/amc12/2008A.md#problem-23) | complex-numbers, rotation |
 | AMC 12 A | 2018 | [#9](../problems/amc12/2018A.md#problem-9) | — |
 | AMC 12 A | 2018 | [#23](../problems/amc12/2018A.md#problem-23) | angle-bisector-theorem, spiral-similarity |

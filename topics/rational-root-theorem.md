@@ -6,7 +6,6 @@ Problems tagged `rational-root-theorem`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AMC 10 A | 2022 | [#16](../problems/amc10/2022A.md#problem-16) | polynomial-division, quadratic-formula, vietas-formulas |
 | AMC 12 B | 2014 | [#21](../problems/amc12/2014B.md#problem-21) | pythagorean-theorem, similar-triangles |
 | AMC 12 A | 2022 | [#15](../problems/amc12/2022A.md#problem-15) | polynomial-division, quadratic-formula, vietas-formulas |
 | AIME | 1983 | [#5](../problems/aime/1983.md#problem-5) | complex-numbers, polynomial-division, vietas-formulas |

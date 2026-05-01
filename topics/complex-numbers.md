@@ -10,7 +10,6 @@ Problems tagged `complex-numbers`.
 | AMC 10 B | 2018 | [#13](../problems/amc10/2018B.md#problem-13) | arithmetic-series, modular-arithmetic |
 | AMC 10 B | 2018 | [#20](../problems/amc10/2018B.md#problem-20) | arithmetic-series, modular-arithmetic, polynomial-division, recursion |
 | AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | modular-arithmetic, pythagorean-theorem, reflection |
-| AMC 10 A | 2022 | [#18](../problems/amc10/2022A.md#problem-18) | reflection |
 | AMC 12 | 2001 | [#23](../problems/amc12/2001.md#problem-23) | polynomial-division, quadratic-formula, vietas-formulas |
 | AMC 12 A | 2003 | [#25](../problems/amc12/2003A.md#problem-25) | — |
 | AMC 12 B | 2005 | [#22](../problems/amc12/2005B.md#problem-22) | induction, modular-arithmetic, recursion |

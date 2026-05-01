@@ -90,9 +90,8 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 A | 2021 | [#11](../problems/amc10/2021A.md#problem-11) | — |
 | AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | complex-numbers, pythagorean-theorem, reflection |
 | AMC 10 B | 2021 | [#16](../problems/amc10/2021B.md#problem-16) | casework, divisibility-rules |
-| AMC 10 A | 2022 | [#19](../problems/amc10/2022A.md#problem-19) | wilsons-theorem |
-| AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | casework, complementary-counting, recursion |
-| AMC 10 A | 2022 | [#25](../problems/amc10/2022A.md#problem-25) | — |
+| AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | multinomial-coefficient |
+| AMC 10 A | 2022 | [#25](../problems/amc10/2022A.md#problem-25) | lattice-points, diophantine-equation, perfect-square |
 | AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | cyclic-powers |
 | AMC 10 B | 2022 | [#25](../problems/amc10/2022B.md#problem-25) | euclidean-algorithm, fermats-little-theorem, recursion |
 | AMC 10 A | 2024 | [#10](../problems/amc10/2024A.md#problem-10) | cycle-detection |

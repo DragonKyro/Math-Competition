@@ -26,8 +26,6 @@ Problems tagged `diophantine-equations`.
 | AMC 10 B | 2019 | [#16](../problems/amc10/2019B.md#problem-16) | double-angle-identities, law-of-cosines, pythagorean-theorem |
 | AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | casework, modular-arithmetic, path-counting, recursion |
 | AMC 10 A | 2020 | [#24](../problems/amc10/2020A.md#problem-24) | chinese-remainder-theorem, euclidean-algorithm, modular-arithmetic |
-| AMC 10 A | 2022 | [#1](../problems/amc10/2022A.md#problem-1) | — |
-| AMC 10 A | 2022 | [#15](../problems/amc10/2022A.md#problem-15) | brahmaguptas-formula, circumradius, inscribed-angle-theorem, law-of-cosines, pythagorean-theorem |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, coordinate-bash, pythagorean-theorem, similar-triangles |
 | AMC 10 | 2024 | [#15](../problems/amc10/2024.md#problem-15) | pythagorean-theorem, triangle-inequality |
 | AMC 10 A | 2024 | [#11](../problems/amc10/2024A.md#problem-11) | difference-of-squares |

@@ -31,8 +31,8 @@ Problems tagged `vietas-formulas`.
 | AMC 10 A | 2020 | [#5](../problems/amc10/2020A.md#problem-5) | casework |
 | AMC 10 A | 2020 | [#14](../problems/amc10/2020A.md#problem-14) | binomial-theorem, quadratic-formula |
 | AMC 10 A | 2021 | [#14](../problems/amc10/2021A.md#problem-14) | casework |
-| AMC 10 A | 2022 | [#11](../problems/amc10/2022A.md#problem-11) | logarithms |
-| AMC 10 A | 2022 | [#16](../problems/amc10/2022A.md#problem-16) | polynomial-division, quadratic-formula, rational-root-theorem |
+| AMC 10 A | 2022 | [#11](../problems/amc10/2022A.md#problem-11) | exponent-equations |
+| AMC 10 A | 2022 | [#16](../problems/amc10/2022A.md#problem-16) | polynomial-shift, evaluation-at-point |
 | AMC 10 B | 2022 | [#7](../problems/amc10/2022B.md#problem-7) | divisor-pairs |
 | AMC 10 A | 2023 | [#11](../problems/amc10/2023A.md#problem-11) | pythagorean-theorem |
 | AMC 10 B | 2023 | [#17](../problems/amc10/2023B.md#problem-17) | symmetric-sums, space-diagonal |

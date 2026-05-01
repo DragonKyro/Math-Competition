@@ -27,8 +27,6 @@ Problems tagged `law-of-cosines`.
 | AMC 10 A | 2019 | [#7](../problems/amc10/2019A.md#problem-7) | factoring, herons-formula, law-of-sines, picks-theorem, pythagorean-theorem, shoelace-theorem |
 | AMC 10 B | 2019 | [#16](../problems/amc10/2019B.md#problem-16) | diophantine-equations, double-angle-identities, pythagorean-theorem |
 | AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | angle-bisector-theorem, angle-chasing, law-of-sines, power-of-a-point, pythagorean-theorem, quadratic-formula, similar-triangles |
-| AMC 10 A | 2022 | [#15](../problems/amc10/2022A.md#problem-15) | brahmaguptas-formula, circumradius, diophantine-equations, inscribed-angle-theorem, pythagorean-theorem |
-| AMC 10 A | 2022 | [#23](../problems/amc10/2022A.md#problem-23) | ptolemys-theorem, pythagorean-theorem, similar-triangles, stewarts-theorem, sum-to-product |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | double-angle-identities, law-of-sines, pythagorean-theorem, trig-identities |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, double-angle-identities, herons-formula, law-of-sines, stewarts-theorem |
 | AMC 12 B | 2002 | [#23](../problems/amc12/2002B.md#problem-23) | pythagorean-theorem, stewarts-theorem |
