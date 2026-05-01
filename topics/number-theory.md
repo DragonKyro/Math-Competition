@@ -77,7 +77,6 @@ Problems tagged `number-theory`: divisibility, modular arithmetic, primes, GCD/L
 | AMC 10 B | 2010 | [#8](../problems/amc10/2010B.md#problem-8) | — |
 | AMC 10 B | 2010 | [#25](../problems/amc10/2010B.md#problem-25) | algebra |
 | AMC 10 A | 2011 | [#25](../problems/amc10/2011A.md#problem-25) | geometry |
-| AMC 10 A | 2012 | [#24](../problems/amc10/2012A.md#problem-24) | — |
 | AMC 10 A | 2013 | [#21](../problems/amc10/2013A.md#problem-21) | recursive-product |
 | AMC 12 | 2000 | [#1](../problems/amc12/2000.md#problem-1) | — |
 | AMC 12 | 2000 | [#13](../problems/amc12/2000.md#problem-13) | algebra |

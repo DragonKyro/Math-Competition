@@ -6,6 +6,7 @@ Problems tagged `coordinate-geometry`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2012 | [#15](../problems/amc10/2012A.md#problem-15) | triangle-area |
 | AMC 10 A | 2014 | [#16](../problems/amc10/2014A.md#problem-16) | kite-area |
 | AMC 10 A | 2014 | [#18](../problems/amc10/2014A.md#problem-18) | tilted-square |
 | AMC 10 A | 2015 | [#17](../problems/amc10/2015A.md#problem-17) | equilateral-triangle |

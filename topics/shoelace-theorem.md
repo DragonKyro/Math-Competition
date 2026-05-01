@@ -16,7 +16,6 @@ Problems tagged `shoelace-theorem`.
 | AMC 10 A | 2007 | [#18](../problems/amc10/2007A.md#problem-18) | — |
 | AMC 10 B | 2009 | [#17](../problems/amc10/2009B.md#problem-17) | — |
 | AMC 10 B | 2009 | [#18](../problems/amc10/2009B.md#problem-18) | coordinate-bash, pythagorean-theorem |
-| AMC 10 A | 2012 | [#15](../problems/amc10/2012A.md#problem-15) | pythagorean-theorem, similar-triangles |
 | AMC 10 B | 2012 | [#19](../problems/amc10/2012B.md#problem-19) | coordinate-bash |
 | AMC 10 A | 2016 | [#11](../problems/amc10/2016A.md#problem-11) | coordinate-geometry |
 | AMC 10 A | 2016 | [#21](../problems/amc10/2016A.md#problem-21) | tangent-circles, coordinate-geometry |

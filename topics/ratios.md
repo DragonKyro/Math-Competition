@@ -6,6 +6,7 @@ Problems tagged `ratios`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2012 | [#7](../problems/amc10/2012A.md#problem-7) | — |
 | AMC 10 B | 2014 | [#4](../problems/amc10/2014B.md#problem-4) | system-of-equations |
 | AMC 10 A | 2015 | [#4](../problems/amc10/2015A.md#problem-4) | equal-sharing |
 | AMC 10 A | 2015 | [#6](../problems/amc10/2015A.md#problem-6) | — |

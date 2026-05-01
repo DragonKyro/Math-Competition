@@ -531,14 +531,6 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 B | 2011 | [#8](../problems/amc10/2011B.md#problem-8) | — |
 | AMC 10 B | 2011 | [#15](../problems/amc10/2011B.md#problem-15) | — |
 | AMC 10 B | 2011 | [#21](../problems/amc10/2011B.md#problem-21) | — |
-| AMC 10 A | 2012 | [#1](../problems/amc10/2012A.md#problem-1) | — |
-| AMC 10 A | 2012 | [#3](../problems/amc10/2012A.md#problem-3) | — |
-| AMC 10 A | 2012 | [#4](../problems/amc10/2012A.md#problem-4) | — |
-| AMC 10 A | 2012 | [#5](../problems/amc10/2012A.md#problem-5) | — |
-| AMC 10 A | 2012 | [#6](../problems/amc10/2012A.md#problem-6) | — |
-| AMC 10 A | 2012 | [#7](../problems/amc10/2012A.md#problem-7) | — |
-| AMC 10 A | 2012 | [#8](../problems/amc10/2012A.md#problem-8) | — |
-| AMC 10 A | 2012 | [#13](../problems/amc10/2012A.md#problem-13) | — |
 | AMC 10 A | 2012 | [#18](../problems/amc10/2012A.md#problem-18) | — |
 | AMC 10 A | 2012 | [#19](../problems/amc10/2012A.md#problem-19) | — |
 | AMC 10 B | 2012 | [#1](../problems/amc10/2012B.md#problem-1) | — |

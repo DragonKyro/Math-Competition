@@ -8,8 +8,7 @@ Problems tagged `rotation`.
 |-------------|------|---------|-----------|
 | AMC 10 | 2000 | [#20](../problems/amc10/2000.md#problem-20) | am-gm-inequality |
 | AMC 10 A | 2007 | [#21](../problems/amc10/2007A.md#problem-21) | pythagorean-theorem |
-| AMC 10 A | 2012 | [#20](../problems/amc10/2012A.md#problem-20) | casework, inclusion-exclusion |
-| AMC 10 A | 2012 | [#25](../problems/amc10/2012A.md#problem-25) | geometric-probability |
+| AMC 10 A | 2012 | [#20](../problems/amc10/2012A.md#problem-20) | casework |
 | AMC 10 A | 2013 | [#20](../problems/amc10/2013A.md#problem-20) | area-swept |
 | AMC 10 B | 2021 | [#9](../problems/amc10/2021B.md#problem-9) | reflection, inverse-transformations |
 | AMC 10 A | 2023 | [#19](../problems/amc10/2023A.md#problem-19) | perpendicular-bisector |

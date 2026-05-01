@@ -6,6 +6,7 @@ Problems tagged `lcm`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2012 | [#16](../problems/amc10/2012A.md#problem-16) | modular-arithmetic |
 | AMC 10 A | 2013 | [#17](../problems/amc10/2013A.md#problem-17) | inclusion-exclusion |
 | AMC 10 A | 2016 | [#25](../problems/amc10/2016A.md#problem-25) | prime-factorization-casework |
 | AMC 10 A | 2017 | [#16](../problems/amc10/2017A.md#problem-16) | divisors |

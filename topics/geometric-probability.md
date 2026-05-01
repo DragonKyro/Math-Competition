@@ -7,7 +7,7 @@ Problems tagged `geometric-probability`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 B | 2011 | [#16](../problems/amc10/2011B.md#problem-16) | factoring |
-| AMC 10 A | 2012 | [#25](../problems/amc10/2012A.md#problem-25) | rotation |
+| AMC 10 A | 2012 | [#25](../problems/amc10/2012A.md#problem-25) | spacing |
 | AMC 10 B | 2014 | [#19](../problems/amc10/2014B.md#problem-19) | chord-circle |
 | AMC 10 A | 2017 | [#15](../problems/amc10/2017A.md#problem-15) | — |
 | AMC 10 B | 2018 | [#22](../problems/amc10/2018B.md#problem-22) | obtuse-triangle |

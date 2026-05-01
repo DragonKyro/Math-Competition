@@ -6,6 +6,7 @@ Problems tagged `perfect-squares`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2012 | [#24](../problems/amc10/2012A.md#problem-24) | diophantine-system |
 | AMC 10 A | 2014 | [#8](../problems/amc10/2014A.md#problem-8) | factorial-manipulation |
 | AMC 10 A | 2020 | [#11](../problems/amc10/2020A.md#problem-11) | median |
 | AMC 10 B | 2020 | [#7](../problems/amc10/2020B.md#problem-7) | divisibility |
