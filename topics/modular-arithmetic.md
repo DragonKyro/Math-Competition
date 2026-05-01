@@ -77,12 +77,7 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 B | 2019 | [#14](../problems/amc10/2019B.md#problem-14) | divisibility-rules, prime-factorization |
 | AMC 10 B | 2019 | [#19](../problems/amc10/2019B.md#problem-19) | prime-factorization |
 | AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | casework, diophantine-equations, path-counting, recursion |
-| AMC 10 B | 2020 | [#12](../problems/amc10/2020B.md#problem-12) | floor-function |
-| AMC 10 B | 2020 | [#15](../problems/amc10/2020B.md#problem-15) | — |
-| AMC 10 B | 2020 | [#19](../problems/amc10/2020B.md#problem-19) | chinese-remainder-theorem, divisibility-rules |
-| AMC 10 B | 2020 | [#22](../problems/amc10/2020B.md#problem-22) | factoring, polynomial-division |
-| AMC 10 B | 2020 | [#23](../problems/amc10/2020B.md#problem-23) | generating-functions, reflection, rotation |
-| AMC 10 B | 2020 | [#24](../problems/amc10/2020B.md#problem-24) | floor-function, quadratic-formula |
+| AMC 10 B | 2020 | [#15](../problems/amc10/2020B.md#problem-15) | periodic-deletion |
 | AMC 10 A | 2021 | [#11](../problems/amc10/2021A.md#problem-11) | base-representations |
 | AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | multinomial-coefficient |
 | AMC 10 A | 2022 | [#25](../problems/amc10/2022A.md#problem-25) | lattice-points, diophantine-equation, perfect-square |

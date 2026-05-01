@@ -11,7 +11,6 @@ Problems tagged `parity`.
 | AMC 10 A | 2019 | [#20](../problems/amc10/2019A.md#problem-20) | pigeonhole-principle |
 | AMC 10 A | 2020 | [#18](../problems/amc10/2020A.md#problem-18) | counting |
 | AMC 10 A | 2020 | [#23](../problems/amc10/2020A.md#problem-23) | composition-of-isometries |
-| AMC 10 B | 2020 | [#16](../problems/amc10/2020B.md#problem-16) | — |
 | AMC 10 B | 2022 | [#3](../problems/amc10/2022B.md#problem-3) | complementary-counting |
 | AMC 10 A | 2024 | [#3](../problems/amc10/2024A.md#problem-3) | prime-factorization |
 | AMC 10 A | 2024 | [#15](../problems/amc10/2024A.md#problem-15) | difference-of-squares |

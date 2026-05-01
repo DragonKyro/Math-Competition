@@ -105,11 +105,7 @@ Problems tagged `casework`.
 | AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | diophantine-equations, modular-arithmetic, path-counting, recursion |
 | AMC 10 A | 2020 | [#5](../problems/amc10/2020A.md#problem-5) | absolute-value, quadratic |
 | AMC 10 A | 2020 | [#25](../problems/amc10/2020A.md#problem-25) | optimal-strategy, probability |
-| AMC 10 B | 2020 | [#8](../problems/amc10/2020B.md#problem-8) | inscribed-angle-theorem, pythagorean-theorem |
-| AMC 10 B | 2020 | [#9](../problems/amc10/2020B.md#problem-9) | factoring, quadratic-formula |
-| AMC 10 B | 2020 | [#17](../problems/amc10/2020B.md#problem-17) | — |
-| AMC 10 B | 2020 | [#18](../problems/amc10/2020B.md#problem-18) | — |
-| AMC 10 B | 2020 | [#25](../problems/amc10/2020B.md#problem-25) | recursion, stars-and-bars |
+| AMC 10 B | 2020 | [#17](../problems/amc10/2020B.md#problem-17) | matching, graph-pairings |
 | AMC 10 A | 2021 | [#19](../problems/amc10/2021A.md#problem-19) | absolute-value, circles |
 | AMC 10 A | 2021 | [#25](../problems/amc10/2021A.md#problem-25) | derangements, grid-coloring |
 | AMC 10 B | 2021 | [#5](../problems/amc10/2021B.md#problem-5) | factoring |

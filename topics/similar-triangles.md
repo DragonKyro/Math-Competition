@@ -45,6 +45,7 @@ Problems tagged `similar-triangles`.
 | AMC 10 A | 2019 | [#13](../problems/amc10/2019A.md#problem-13) | — |
 | AMC 10 A | 2019 | [#21](../problems/amc10/2019A.md#problem-21) | angle-bisector-theorem, diophantine-equations, inradius, pythagorean-theorem |
 | AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | right-triangle, quadratic-formula |
+| AMC 10 B | 2020 | [#21](../problems/amc10/2020B.md#problem-21) | square-fold, isosceles-right-triangle |
 | AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | pythagorean-theorem, diagonal-ratio |
 | AMC 10 B | 2021 | [#21](../problems/amc10/2021B.md#problem-21) | paper-fold, pythagorean-theorem |
 | AMC 10 A | 2022 | [#13](../problems/amc10/2022A.md#problem-13) | angle-bisector-theorem, parallelogram |

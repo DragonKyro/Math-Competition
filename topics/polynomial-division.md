@@ -9,7 +9,7 @@ Problems tagged `polynomial-division`.
 | AMC 10 A | 2015 | [#16](../problems/amc10/2015A.md#problem-16) | factoring, vietas-formulas |
 | AMC 10 A | 2017 | [#24](../problems/amc10/2017A.md#problem-24) | factoring, vietas-formulas |
 | AMC 10 B | 2018 | [#20](../problems/amc10/2018B.md#problem-20) | arithmetic-series, complex-numbers, modular-arithmetic, recursion |
-| AMC 10 B | 2020 | [#22](../problems/amc10/2020B.md#problem-22) | factoring, modular-arithmetic |
+| AMC 10 B | 2020 | [#22](../problems/amc10/2020B.md#problem-22) | sophie-germain-identity |
 | AMC 10 B | 2022 | [#21](../problems/amc10/2022B.md#problem-21) | chinese-remainder-theorem-polynomials |
 | AMC 12 | 2001 | [#23](../problems/amc12/2001.md#problem-23) | complex-numbers, quadratic-formula, vietas-formulas |
 | AMC 12 B | 2012 | [#23](../problems/amc12/2012B.md#problem-23) | casework, complex-numbers, roots-of-unity, triangle-inequality |
