@@ -97,11 +97,12 @@ HMMT, PUMaC, and CMIMC release **separate tests per round** (Algebra, Geometry, 
 
 Source PDFs don't parse cleanly to LaTeX — math becomes garbled text, diagrams are lost. The workflow is **manual transcription by reading the PDF**:
 
-1. Download PDFs into `.scratch/` (gitignored). For PUMaC these are direct URLs; for CMIMC they're Google Drive file IDs extractable from the year page HTML.
-2. Read each PDF with the `Read` tool.
-3. Manually transcribe problems and solutions into `problems/<comp>/<round>/<year>.md`, writing math in LaTeX `$...$` / `$$...$$`.
-4. Tag inline by hand. Use narrow technique tags (same rules as AoPS-sourced files).
-5. Run `python scripts/build_topic_indices.py` to refresh topic tables.
+1. Run `python scripts/fetch_round_contests.py --comp all --all` once to populate `.scratch/<comp>/` with every PDF and scaffold skeleton `.md` files under `problems/<comp>/<round>/`. Idempotent: skips already-downloaded PDFs and never overwrites existing exam files.
+2. Open the skeleton file for the exam you want to transcribe. It starts with a header, source PDF links, and a `_Problems and solutions not yet transcribed._` placeholder.
+3. Read the linked PDFs with the `Read` tool (they live in `.scratch/pumac/` or `.scratch/cmimc/`).
+4. Replace the placeholder with `## Problem N` / `*Tags:*` / solution blocks. Write math in LaTeX `$...$` / `$$...$$`. Tag inline by hand with narrow technique tags (same rules as AoPS-sourced files).
+5. When the exam's PDF has no solution (PUMaC 2007, 2024, 2025, parts of 2011/2014/2021/2022), transcribe the problem only and omit the `<details><summary>Solution</summary>...</details>` block — don't invent a solution.
+6. Run `python scripts/build_topic_indices.py` to refresh topic tables.
 
 **Don't run `retag.py` on these files.** `retag.py` only knows the keyword patterns tuned for AoPS solutions and may overwrite good manual tags with broad-area fallbacks.
 
@@ -111,6 +112,7 @@ Source PDFs don't parse cleanly to LaTeX — math becomes garbled text, diagrams
 
 - **`fetch_exams.py`** — scrapes AoPS wiki, writes exam .md files. Uses Python stdlib only (no deps). Rate-limited at 0.5 s per request. Probes Problem 1 before a full exam fetch and silently skips exams that don't exist on AoPS (so `--years 1985-2024` is safe on any competition). Default variants include `""` for competitions with a pre-split era (AMC 10/12 before 2002, AIME before 2000). Initial tag assignment uses keyword heuristics on the **problem** text and is coarse — follow with `retag.py`.
 - **`retag.py`** — rewrites every problem's `*Tags:*` line based on regex patterns in `TAG_PATTERNS` applied to **solution** text. This is where narrow technique tags come from. Scans solutions because authors explicitly name techniques in solutions ("By Vieta's...", "Applying the law of cosines...") but almost never in problem statements. Falls back to broad-area tags when no narrow match.
+- **`fetch_round_contests.py`** — discovers, downloads, and scaffolds round-based contests (PUMaC, CMIMC). Three phases: `--discover` scrapes archive pages into `.scratch/<comp>_inventory.json`; `--download` fetches every PDF into `.scratch/<comp>/`; `--skeletons` writes a stub `problems/<comp>/<round-slug>/<year>.md` for each (year, round) with only the header + source PDF links. All three phases are idempotent — existing exam files are never touched, so partially-transcribed exams are safe from re-running.
 - **`build_topic_indices.py`** — globs `problems/**/*.md`, extracts tags, rewrites topic tables between AUTOGEN markers, and regenerates `topics/README.md` as an alphabetical index of all topic pages.
 
 **AoPS API endpoint used:**

@@ -3,7 +3,12 @@
     "allow": [
       "Skill(update-config)",
       "Skill(update-config:*)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "WebFetch(domain:cmimc.math.cmu.edu)",
+      "WebFetch(domain:jason-shi-f9dm.squarespace.com)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\klui\\.claude"
     ]
   }
 }
