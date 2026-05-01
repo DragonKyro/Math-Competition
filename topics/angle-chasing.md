@@ -20,7 +20,6 @@ Problems tagged `angle-chasing`.
 | AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | coordinate-bash, law-of-sines, pythagorean-theorem, similar-triangles |
 | AMC 10 A | 2021 | [#21](../problems/amc10/2021A.md#problem-21) | — |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | coordinate-bash, diophantine-equations, pythagorean-theorem, similar-triangles |
-| AMC 10 B | 2022 | [#20](../problems/amc10/2022B.md#problem-20) | law-of-cosines, pythagorean-theorem, similar-triangles |
 | AMC 12 | 2000 | [#21](../problems/amc12/2000.md#problem-21) | similar-triangles |
 | AMC 12 A | 2003 | [#14](../problems/amc12/2003A.md#problem-14) | law-of-cosines |
 | AMC 12 A | 2007 | [#6](../problems/amc12/2007A.md#problem-6) | — |

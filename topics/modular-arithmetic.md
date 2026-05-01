@@ -93,10 +93,7 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 A | 2022 | [#19](../problems/amc10/2022A.md#problem-19) | wilsons-theorem |
 | AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | casework, complementary-counting, recursion |
 | AMC 10 A | 2022 | [#25](../problems/amc10/2022A.md#problem-25) | — |
-| AMC 10 B | 2022 | [#4](../problems/amc10/2022B.md#problem-4) | — |
-| AMC 10 B | 2022 | [#8](../problems/amc10/2022B.md#problem-8) | casework, floor-function |
-| AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | eulers-totient, factoring, fermats-little-theorem |
-| AMC 10 B | 2022 | [#21](../problems/amc10/2022B.md#problem-21) | chinese-remainder-theorem, euclidean-algorithm |
+| AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | cyclic-powers |
 | AMC 10 B | 2022 | [#25](../problems/amc10/2022B.md#problem-25) | euclidean-algorithm, fermats-little-theorem, recursion |
 | AMC 10 A | 2024 | [#10](../problems/amc10/2024A.md#problem-10) | cycle-detection |
 | AMC 10 A | 2024 | [#18](../problems/amc10/2024A.md#problem-18) | base-representations, casework |

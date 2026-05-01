@@ -6,6 +6,7 @@ Problems tagged `sum-of-odds`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2022 | [#15](../problems/amc10/2022B.md#problem-15) | arithmetic-sum-formula |
 | AMC 10 B | 2024 | [#5](../problems/amc10/2024B.md#problem-5) | greedy-sign-flip |
 
 <!-- AUTOGEN-END -->

@@ -33,8 +33,6 @@ Problems tagged `floor-function`.
 | AMC 10 B | 2020 | [#24](../problems/amc10/2020B.md#problem-24) | modular-arithmetic, quadratic-formula |
 | AMC 10 B | 2021 | [#25](../problems/amc10/2021B.md#problem-25) | picks-theorem |
 | AMC 10 A | 2022 | [#14](../problems/amc10/2022A.md#problem-14) | — |
-| AMC 10 B | 2022 | [#8](../problems/amc10/2022B.md#problem-8) | casework, modular-arithmetic |
-| AMC 10 B | 2022 | [#14](../problems/amc10/2022B.md#problem-14) | pigeonhole-principle |
 | AMC 12 | 2001 | [#12](../problems/amc12/2001.md#problem-12) | inclusion-exclusion |
 | AMC 12 A | 2002 | [#21](../problems/amc12/2002A.md#problem-21) | — |
 | AMC 12 A | 2003 | [#18](../problems/amc12/2003A.md#problem-18) | divisibility-rules, modular-arithmetic |

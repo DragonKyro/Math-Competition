@@ -137,10 +137,8 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 A | 2022 | [#15](../problems/amc10/2022A.md#problem-15) | brahmaguptas-formula, circumradius, diophantine-equations, inscribed-angle-theorem, law-of-cosines |
 | AMC 10 A | 2022 | [#21](../problems/amc10/2022A.md#problem-21) | circumradius |
 | AMC 10 A | 2022 | [#23](../problems/amc10/2022A.md#problem-23) | law-of-cosines, ptolemys-theorem, similar-triangles, stewarts-theorem, sum-to-product |
-| AMC 10 B | 2022 | [#2](../problems/amc10/2022B.md#problem-2) | — |
-| AMC 10 B | 2022 | [#7](../problems/amc10/2022B.md#problem-7) | diophantine-equations, quadratic-formula, vietas-formulas |
+| AMC 10 B | 2022 | [#2](../problems/amc10/2022B.md#problem-2) | rhombus |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, coordinate-bash, diophantine-equations, similar-triangles |
-| AMC 10 B | 2022 | [#20](../problems/amc10/2022B.md#problem-20) | angle-chasing, law-of-cosines, similar-triangles |
 | AMC 10 A | 2023 | [#11](../problems/amc10/2023A.md#problem-11) | vietas-formulas |
 | AMC 10 | 2024 | [#15](../problems/amc10/2024.md#problem-15) | diophantine-equations, triangle-inequality |
 | AMC 12 | 2000 | [#24](../problems/amc12/2000.md#problem-24) | — |

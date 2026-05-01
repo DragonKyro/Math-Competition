@@ -11,7 +11,6 @@ Problems tagged `eulers-totient`.
 | AMC 10 B | 2011 | [#23](../problems/amc10/2011B.md#problem-23) | binomial-theorem, chinese-remainder-theorem, modular-arithmetic |
 | AMC 10 B | 2016 | [#25](../problems/amc10/2016B.md#problem-25) | casework, floor-function |
 | AMC 10 B | 2018 | [#16](../problems/amc10/2018B.md#problem-16) | modular-arithmetic |
-| AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | factoring, fermats-little-theorem, modular-arithmetic |
 | AMC 10 B | 2024 | [#18](../problems/amc10/2024B.md#problem-18) | modular-arithmetic |
 | AMC 12 B | 2006 | [#25](../problems/amc12/2006B.md#problem-25) | casework, floor-function, inclusion-exclusion, modular-arithmetic, recursion |
 | AMC 12 A | 2010 | [#23](../problems/amc12/2010A.md#problem-23) | chinese-remainder-theorem, factoring, floor-function, modular-arithmetic |

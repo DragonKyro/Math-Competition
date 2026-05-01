@@ -10,6 +10,7 @@ Problems tagged `parity`.
 | AMC 10 B | 2017 | [#20](../problems/amc10/2017B.md#problem-20) | legendres-formula, prime-factorization |
 | AMC 10 A | 2019 | [#20](../problems/amc10/2019A.md#problem-20) | pigeonhole-principle |
 | AMC 10 B | 2020 | [#16](../problems/amc10/2020B.md#problem-16) | — |
+| AMC 10 B | 2022 | [#3](../problems/amc10/2022B.md#problem-3) | complementary-counting |
 | AMC 10 A | 2024 | [#3](../problems/amc10/2024A.md#problem-3) | prime-factorization |
 | AMC 10 A | 2024 | [#15](../problems/amc10/2024A.md#problem-15) | difference-of-squares |
 | AMC 10 B | 2024 | [#16](../problems/amc10/2024B.md#problem-16) | invariants, monovariant |

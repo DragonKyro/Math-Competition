@@ -43,6 +43,7 @@ Problems tagged `complementary-counting`.
 | AMC 10 B | 2021 | [#18](../problems/amc10/2021B.md#problem-18) | geometric-series, inclusion-exclusion |
 | AMC 10 B | 2021 | [#22](../problems/amc10/2021B.md#problem-22) | derangements, inclusion-exclusion, recursion |
 | AMC 10 A | 2022 | [#24](../problems/amc10/2022A.md#problem-24) | casework, modular-arithmetic, recursion |
+| AMC 10 B | 2022 | [#3](../problems/amc10/2022B.md#problem-3) | parity |
 | AMC 10 B | 2022 | [#18](../problems/amc10/2022B.md#problem-18) | casework |
 | AMC 12 B | 2002 | [#16](../problems/amc12/2002B.md#problem-16) | inclusion-exclusion |
 | AMC 12 B | 2004 | [#4](../problems/amc12/2004B.md#problem-4) | — |

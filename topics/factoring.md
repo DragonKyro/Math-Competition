@@ -60,9 +60,6 @@ Problems tagged `factoring`.
 | AMC 10 B | 2021 | [#2](../problems/amc10/2021B.md#problem-2) | — |
 | AMC 10 B | 2021 | [#15](../problems/amc10/2021B.md#problem-15) | arithmetic-series, fibonacci, quadratic-formula |
 | AMC 10 A | 2022 | [#10](../problems/amc10/2022A.md#problem-10) | quadratic-formula |
-| AMC 10 B | 2022 | [#5](../problems/amc10/2022B.md#problem-5) | — |
-| AMC 10 B | 2022 | [#13](../problems/amc10/2022B.md#problem-13) | binomial-theorem |
-| AMC 10 B | 2022 | [#17](../problems/amc10/2022B.md#problem-17) | eulers-totient, fermats-little-theorem, modular-arithmetic |
 | AMC 10 A | 2023 | [#23](../problems/amc10/2023A.md#problem-23) | difference-of-squares |
 | AMC 10 B | 2024 | [#7](../problems/amc10/2024B.md#problem-7) | modular-arithmetic |
 | AMC 12 | 2001 | [#7](../problems/amc12/2001.md#problem-7) | diophantine-equations, prime-factorization |
