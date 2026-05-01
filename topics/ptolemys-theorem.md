@@ -9,7 +9,6 @@ Problems tagged `ptolemys-theorem`.
 | AMC 10 B | 2004 | [#24](../problems/amc10/2004B.md#problem-24) | angle-bisector-theorem, circumradius, similar-triangles |
 | AMC 10 B | 2013 | [#23](../problems/amc10/2013B.md#problem-23) | coordinate-bash, diophantine-equations, law-of-cosines, power-of-a-point, pythagorean-theorem, similar-triangles |
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | angle-chasing, brahmaguptas-formula, circumradius, complex-numbers, congruent-triangles, double-angle-identities, inscribed-angle-theorem, law-of-cosines, law-of-sines, power-of-a-point, pythagorean-theorem, quadratic-formula, similar-triangles, trig-bash, trig-identities |
-| AMC 10 B | 2019 | [#23](../problems/amc10/2019B.md#problem-23) | coordinate-bash, double-angle-identities, power-of-a-point, pythagorean-theorem |
 | AMC 12 A | 2012 | [#16](../problems/amc12/2012A.md#problem-16) | circumradius, herons-formula, law-of-cosines, law-of-sines, pythagorean-theorem, similar-triangles, triangle-inequality |
 | AMC 12 B | 2013 | [#19](../problems/amc12/2013B.md#problem-19) | coordinate-bash, diophantine-equations, law-of-cosines, power-of-a-point, pythagorean-theorem, similar-triangles |
 | AMC 12 B | 2014 | [#24](../problems/amc12/2014B.md#problem-24) | law-of-cosines |

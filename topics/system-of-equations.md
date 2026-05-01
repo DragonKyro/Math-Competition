@@ -6,6 +6,8 @@ Problems tagged `system-of-equations`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2019 | [#3](../problems/amc10/2019B.md#problem-3) | percentages |
+| AMC 10 B | 2019 | [#15](../problems/amc10/2019B.md#problem-15) | right-triangle |
 | AMC 10 A | 2021 | [#2](../problems/amc10/2021A.md#problem-2) | — |
 | AMC 10 B | 2021 | [#3](../problems/amc10/2021B.md#problem-3) | percentages |
 | AMC 10 B | 2021 | [#19](../problems/amc10/2021B.md#problem-19) | mean-sum |

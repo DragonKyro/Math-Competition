@@ -270,8 +270,6 @@ Problems tagged `geometry`: triangles, circles, polygons, coordinate geometry, 3
 | AMC 10 B | 2018 | [#4](../problems/amc10/2018B.md#problem-4) | number-theory |
 | AMC 10 B | 2018 | [#7](../problems/amc10/2018B.md#problem-7) | — |
 | AMC 10 A | 2019 | [#10](../problems/amc10/2019A.md#problem-10) | number-theory |
-| AMC 10 B | 2019 | [#1](../problems/amc10/2019B.md#problem-1) | — |
-| AMC 10 B | 2019 | [#5](../problems/amc10/2019B.md#problem-5) | — |
 | AMC 10 B | 2022 | [#19](../problems/amc10/2022B.md#problem-19) | — |
 | AMC 10 A | 2024 | [#2](../problems/amc10/2024A.md#problem-2) | — |
 | AMC 12 | 2001 | [#8](../problems/amc12/2001.md#problem-8) | — |

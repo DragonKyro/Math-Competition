@@ -7,6 +7,7 @@ Problems tagged `logarithms`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 B | 2005 | [#17](../problems/amc10/2005B.md#problem-17) | — |
+| AMC 10 B | 2019 | [#24](../problems/amc10/2019B.md#problem-24) | recursion, approximation |
 | AMC 10 B | 2020 | [#12](../problems/amc10/2020B.md#problem-12) | decimal-places |
 | AMC 12 | 2000 | [#7](../problems/amc12/2000.md#problem-7) | — |
 | AMC 12 A | 2002 | [#14](../problems/amc12/2002A.md#problem-14) | — |

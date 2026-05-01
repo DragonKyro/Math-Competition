@@ -19,9 +19,8 @@ Problems tagged `recursion`.
 | AMC 10 A | 2018 | [#18](../problems/amc10/2018A.md#problem-18) | casework, floor-function |
 | AMC 10 B | 2018 | [#20](../problems/amc10/2018B.md#problem-20) | arithmetic-series, complex-numbers, modular-arithmetic, polynomial-division |
 | AMC 10 A | 2019 | [#15](../problems/amc10/2019A.md#problem-15) | arithmetic-series |
-| AMC 10 B | 2019 | [#18](../problems/amc10/2019B.md#problem-18) | — |
-| AMC 10 B | 2019 | [#24](../problems/amc10/2019B.md#problem-24) | factoring, geometric-series, induction |
-| AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | casework, diophantine-equations, modular-arithmetic, path-counting |
+| AMC 10 B | 2019 | [#24](../problems/amc10/2019B.md#problem-24) | approximation, logarithms |
+| AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | binary-strings, fibonacci-like |
 | AMC 10 B | 2022 | [#25](../problems/amc10/2022B.md#problem-25) | euclidean-algorithm, fermats-little-theorem, modular-arithmetic |
 | AMC 10 B | 2023 | [#21](../problems/amc10/2023B.md#problem-21) | markov-chain, parity-distribution |
 | AMC 12 | 2000 | [#8](../problems/amc12/2000.md#problem-8) | arithmetic-series |

@@ -100,9 +100,8 @@ Problems tagged `casework`.
 | AMC 10 A | 2019 | [#11](../problems/amc10/2019A.md#problem-11) | inclusion-exclusion, prime-factorization |
 | AMC 10 A | 2019 | [#17](../problems/amc10/2019A.md#problem-17) | bijection |
 | AMC 10 A | 2019 | [#22](../problems/amc10/2019A.md#problem-22) | geometric-probability |
-| AMC 10 B | 2019 | [#9](../problems/amc10/2019B.md#problem-9) | floor-function |
-| AMC 10 B | 2019 | [#22](../problems/amc10/2019B.md#problem-22) | state-diagram |
-| AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | diophantine-equations, modular-arithmetic, path-counting, recursion |
+| AMC 10 B | 2019 | [#9](../problems/amc10/2019B.md#problem-9) | floor-function, absolute-value |
+| AMC 10 B | 2019 | [#13](../problems/amc10/2019B.md#problem-13) | median-mean |
 | AMC 10 A | 2020 | [#5](../problems/amc10/2020A.md#problem-5) | absolute-value, quadratic |
 | AMC 10 A | 2020 | [#25](../problems/amc10/2020A.md#problem-25) | optimal-strategy, probability |
 | AMC 10 B | 2020 | [#17](../problems/amc10/2020B.md#problem-17) | matching, graph-pairings |

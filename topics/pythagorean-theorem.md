@@ -118,12 +118,6 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 B | 2018 | [#24](../problems/amc10/2018B.md#problem-24) | congruent-triangles, coordinate-bash, similar-triangles |
 | AMC 10 A | 2019 | [#7](../problems/amc10/2019A.md#problem-7) | factoring, herons-formula, law-of-cosines, law-of-sines, picks-theorem, shoelace-theorem |
 | AMC 10 A | 2019 | [#21](../problems/amc10/2019A.md#problem-21) | angle-bisector-theorem, diophantine-equations, inradius, similar-triangles |
-| AMC 10 B | 2019 | [#8](../problems/amc10/2019B.md#problem-8) | — |
-| AMC 10 B | 2019 | [#10](../problems/amc10/2019B.md#problem-10) | herons-formula, quadratic-formula, rotation |
-| AMC 10 B | 2019 | [#15](../problems/amc10/2019B.md#problem-15) | — |
-| AMC 10 B | 2019 | [#16](../problems/amc10/2019B.md#problem-16) | diophantine-equations, double-angle-identities, law-of-cosines |
-| AMC 10 B | 2019 | [#20](../problems/amc10/2019B.md#problem-20) | — |
-| AMC 10 B | 2019 | [#23](../problems/amc10/2019B.md#problem-23) | coordinate-bash, double-angle-identities, power-of-a-point, ptolemys-theorem |
 | AMC 10 B | 2020 | [#10](../problems/amc10/2020B.md#problem-10) | cone-from-sector |
 | AMC 10 A | 2021 | [#13](../problems/amc10/2021A.md#problem-13) | right-tetrahedron |
 | AMC 10 A | 2021 | [#17](../problems/amc10/2021A.md#problem-17) | similar-triangles, diagonal-ratio |
