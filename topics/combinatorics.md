@@ -6,6 +6,41 @@ Problems tagged `combinatorics`: counting, permutations, combinations, pigeonhol
 
 <!-- AUTOGEN-START -->
 
-_(no problems yet — run `python scripts/build_topic_indices.py` after adding some)_
+| Competition | Year | Problem | Subtopics |
+|-------------|------|---------|-----------|
+| AMC 8 | 2001 | [#14](../problems/amc8/2001.md#problem-14) | — |
+| AMC 8 | 2004 | [#4](../problems/amc8/2004.md#problem-4) | — |
+| AMC 8 | 2007 | [#4](../problems/amc8/2007.md#problem-4) | — |
+| AMC 8 | 2011 | [#24](../problems/amc8/2011.md#problem-24) | number-theory |
+| AMC 8 | 2015 | [#13](../problems/amc8/2015.md#problem-13) | — |
+| AMC 8 | 2017 | [#15](../problems/amc8/2017.md#problem-15) | geometry |
+| AMC 8 | 2018 | [#11](../problems/amc8/2018.md#problem-11) | probability |
+| AMC 8 | 2018 | [#16](../problems/amc8/2018.md#problem-16) | — |
+| AMC 8 | 2022 | [#14](../problems/amc8/2022.md#problem-14) | — |
+| AMC 10 | 2000 | [#13](../problems/amc10/2000.md#problem-13) | — |
+| AMC 10 A | 2006 | [#18](../problems/amc10/2006A.md#problem-18) | — |
+| AMC 10 B | 2007 | [#20](../problems/amc10/2007B.md#problem-20) | — |
+| AMC 10 A | 2011 | [#21](../problems/amc10/2011A.md#problem-21) | probability |
+| AMC 10 A | 2013 | [#11](../problems/amc10/2013A.md#problem-11) | — |
+| AMC 10 B | 2013 | [#22](../problems/amc10/2013B.md#problem-22) | geometry, number-theory |
+| AMC 10 B | 2020 | [#5](../problems/amc10/2020B.md#problem-5) | — |
+| AMC 10 A | 2024 | [#9](../problems/amc10/2024A.md#problem-9) | — |
+| AMC 12 | 2001 | [#14](../problems/amc12/2001.md#problem-14) | geometry |
+| AMC 12 | 2001 | [#16](../problems/amc12/2001.md#problem-16) | probability, sequences-and-series |
+| AMC 12 A | 2004 | [#13](../problems/amc12/2004A.md#problem-13) | — |
+| AMC 12 B | 2010 | [#15](../problems/amc12/2010B.md#problem-15) | — |
+| AMC 12 A | 2017 | [#14](../problems/amc12/2017A.md#problem-14) | — |
+| AIME | 1989 | [#2](../problems/aime/1989.md#problem-2) | geometry |
+| AIME | 1995 | [#3](../problems/aime/1995.md#problem-3) | probability, sequences-and-series |
+| AIME | 1998 | [#4](../problems/aime/1998.md#problem-4) | probability, sequences-and-series |
+| AIME II | 2000 | [#5](../problems/aime/2000II.md#problem-5) | — |
+| AIME I | 2002 | [#3](../problems/aime/2002I.md#problem-3) | — |
+| AIME I | 2002 | [#5](../problems/aime/2002I.md#problem-5) | geometry |
+| AIME II | 2002 | [#1](../problems/aime/2002II.md#problem-1) | — |
+| AIME I | 2005 | [#5](../problems/aime/2005I.md#problem-5) | sequences-and-series |
+| AIME II | 2005 | [#2](../problems/aime/2005II.md#problem-2) | probability |
+| AIME II | 2007 | [#1](../problems/aime/2007II.md#problem-1) | sequences-and-series |
+| AIME I | 2019 | [#2](../problems/aime/2019I.md#problem-2) | geometry, probability |
+| AIME I | 2023 | [#1](../problems/aime/2023I.md#problem-1) | geometry, probability |
 
 <!-- AUTOGEN-END -->

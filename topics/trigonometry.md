@@ -8,6 +8,45 @@ Problems tagged `trigonometry`: trig identities, law of sines/cosines, trig equa
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AIME I | 2023 | [#12](../problems/aime/2023I.md#problem-12) | geometry |
+| AMC 10 B | 2002 | [#17](../problems/amc10/2002B.md#problem-17) | geometry |
+| AMC 10 A | 2005 | [#25](../problems/amc10/2005A.md#problem-25) | geometry |
+| AMC 10 A | 2015 | [#17](../problems/amc10/2015A.md#problem-17) | geometry |
+| AMC 10 B | 2024 | [#14](../problems/amc10/2024B.md#problem-14) | algebra, geometry, probability |
+| AMC 12 B | 2003 | [#23](../problems/amc12/2003B.md#problem-23) | algebra |
+| AMC 12 B | 2004 | [#16](../problems/amc12/2004B.md#problem-16) | geometry |
+| AMC 12 A | 2006 | [#15](../problems/amc12/2006A.md#problem-15) | — |
+| AMC 12 A | 2006 | [#19](../problems/amc12/2006A.md#problem-19) | geometry |
+| AMC 12 A | 2006 | [#22](../problems/amc12/2006A.md#problem-22) | geometry, probability |
+| AMC 12 B | 2006 | [#24](../problems/amc12/2006B.md#problem-24) | geometry |
+| AMC 12 B | 2007 | [#19](../problems/amc12/2007B.md#problem-19) | geometry |
+| AMC 12 B | 2008 | [#15](../problems/amc12/2008B.md#problem-15) | geometry |
+| AMC 12 B | 2009 | [#24](../problems/amc12/2009B.md#problem-24) | algebra, geometry |
+| AMC 12 B | 2010 | [#13](../problems/amc12/2010B.md#problem-13) | geometry |
+| AMC 12 A | 2012 | [#10](../problems/amc12/2012A.md#problem-10) | geometry |
+| AMC 12 B | 2012 | [#17](../problems/amc12/2012B.md#problem-17) | geometry |
+| AMC 12 B | 2013 | [#20](../problems/amc12/2013B.md#problem-20) | algebra, geometry |
+| AMC 12 A | 2017 | [#15](../problems/amc12/2017A.md#problem-15) | — |
+| AMC 12 B | 2017 | [#7](../problems/amc12/2017B.md#problem-7) | geometry |
+| AMC 12 A | 2020 | [#9](../problems/amc12/2020A.md#problem-9) | — |
+| AMC 12 B | 2021 | [#13](../problems/amc12/2021B.md#problem-13) | — |
+| AMC 12 A | 2024 | [#8](../problems/amc12/2024A.md#problem-8) | algebra |
+| AMC 12 A | 2024 | [#13](../problems/amc12/2024A.md#problem-13) | algebra |
+| AMC 12 A | 2024 | [#20](../problems/amc12/2024A.md#problem-20) | algebra, geometry, probability |
+| AMC 12 B | 2024 | [#9](../problems/amc12/2024B.md#problem-9) | algebra, geometry, probability |
+| AIME | 1984 | [#9](../problems/aime/1984.md#problem-9) | geometry |
+| AIME | 1984 | [#13](../problems/aime/1984.md#problem-13) | geometry |
+| AIME | 1988 | [#7](../problems/aime/1988.md#problem-7) | geometry |
+| AIME | 1991 | [#11](../problems/aime/1991.md#problem-11) | geometry, number-theory |
+| AIME | 1991 | [#15](../problems/aime/1991.md#problem-15) | algebra, geometry, sequences-and-series |
+| AIME | 1992 | [#7](../problems/aime/1992.md#problem-7) | geometry |
+| AIME | 1994 | [#15](../problems/aime/1994.md#problem-15) | geometry, number-theory |
+| AIME | 1995 | [#7](../problems/aime/1995.md#problem-7) | geometry |
+| AIME | 1998 | [#5](../problems/aime/1998.md#problem-5) | — |
+| AIME II | 2000 | [#10](../problems/aime/2000II.md#problem-10) | algebra, geometry, number-theory |
+| AIME I | 2001 | [#9](../problems/aime/2001I.md#problem-9) | algebra, geometry |
+| AIME II | 2002 | [#10](../problems/aime/2002II.md#problem-10) | — |
+| AIME I | 2010 | [#13](../problems/aime/2010I.md#problem-13) | geometry, number-theory |
+| AIME II | 2023 | [#14](../problems/aime/2023II.md#problem-14) | geometry |
+| AIME I | 2024 | [#12](../problems/aime/2024I.md#problem-12) | geometry |
 
 <!-- AUTOGEN-END -->

@@ -1,25 +1,103 @@
 # Topics
 
-Each topic page is a table of problems tagged with that topic across all competitions. Click any row to jump into the problem inside its exam file.
+Each topic page lists every problem tagged with that technique / theorem / area across all competitions. Click any row to jump into the problem inside its exam file.
 
 ## Index
 
-- [Algebra](algebra.md)
-- [Geometry](geometry.md)
-- [Number Theory](number-theory.md)
-- [Combinatorics](combinatorics.md)
-- [Probability](probability.md)
-- [Trigonometry](trigonometry.md)
-- [Sequences & Series](sequences-and-series.md)
-
-## Adding a new topic
-
-1. Create `topics/<slug>.md` following the format of the existing topic pages.
-2. Add it to the index above.
-3. Start using the tag in exam files under `problems/`.
+- [algebra](algebra.md) — 1211
+- [am gm inequality](am-gm-inequality.md) — 33
+- [angle addition formulas](angle-addition-formulas.md) — 14
+- [angle bisector theorem](angle-bisector-theorem.md) — 46
+- [angle chasing](angle-chasing.md) — 57
+- [arithmetic series](arithmetic-series.md) — 110
+- [base representations](base-representations.md) — 46
+- [bijection](bijection.md) — 34
+- [binomial theorem](binomial-theorem.md) — 37
+- [brahmaguptas formula](brahmaguptas-formula.md) — 8
+- [burnsides lemma](burnsides-lemma.md) — 6
+- [casework](casework.md) — 416
+- [catalan numbers](catalan-numbers.md) — 2
+- [cauchy schwarz inequality](cauchy-schwarz-inequality.md) — 5
+- [cevas theorem](cevas-theorem.md) — 7
+- [chinese remainder theorem](chinese-remainder-theorem.md) — 33
+- [circumradius](circumradius.md) — 52
+- [combinatorics](combinatorics.md) — 34
+- [complementary counting](complementary-counting.md) — 80
+- [complementary probability](complementary-probability.md) — 2
+- [complex bash](complex-bash.md) — 5
+- [complex numbers](complex-numbers.md) — 113
+- [conditional probability](conditional-probability.md) — 5
+- [congruent triangles](congruent-triangles.md) — 53
+- [coordinate bash](coordinate-bash.md) — 70
+- [de moivres theorem](de-moivres-theorem.md) — 26
+- [derangements](derangements.md) — 3
+- [diophantine equations](diophantine-equations.md) — 61
+- [divisibility rules](divisibility-rules.md) — 20
+- [double angle identities](double-angle-identities.md) — 43
+- [euclidean algorithm](euclidean-algorithm.md) — 25
+- [eulers totient](eulers-totient.md) — 23
+- [expected value](expected-value.md) — 24
+- [factoring](factoring.md) — 151
+- [fermats little theorem](fermats-little-theorem.md) — 17
+- [fibonacci](fibonacci.md) — 14
+- [floor function](floor-function.md) — 145
+- [generating functions](generating-functions.md) — 28
+- [geometric probability](geometric-probability.md) — 16
+- [geometric series](geometric-series.md) — 99
+- [geometry](geometry.md) — 529
+- [herons formula](herons-formula.md) — 83
+- [hockey stick identity](hockey-stick-identity.md) — 14
+- [inclusion exclusion](inclusion-exclusion.md) — 69
+- [induction](induction.md) — 35
+- [inradius](inradius.md) — 48
+- [inscribed angle theorem](inscribed-angle-theorem.md) — 29
+- [jensens inequality](jensens-inequality.md) — 1
+- [law of cosines](law-of-cosines.md) — 180
+- [law of sines](law-of-sines.md) — 74
+- [legendres formula](legendres-formula.md) — 11
+- [logarithms](logarithms.md) — 93
+- [mass point geometry](mass-point-geometry.md) — 21
+- [menelauss theorem](menelauss-theorem.md) — 7
+- [modular arithmetic](modular-arithmetic.md) — 333
+- [number theory](number-theory.md) — 185
+- [parity](parity.md) — 20
+- [path counting](path-counting.md) — 2
+- [picks theorem](picks-theorem.md) — 17
+- [pigeonhole principle](pigeonhole-principle.md) — 22
+- [polynomial division](polynomial-division.md) — 27
+- [power of a point](power-of-a-point.md) — 61
+- [prime factorization](prime-factorization.md) — 124
+- [probability](probability.md) — 114
+- [product to sum](product-to-sum.md) — 7
+- [ptolemys theorem](ptolemys-theorem.md) — 40
+- [pythagorean theorem](pythagorean-theorem.md) — 421
+- [quadratic formula](quadratic-formula.md) — 123
+- [radical axis](radical-axis.md) — 10
+- [rational root theorem](rational-root-theorem.md) — 11
+- [recurrence relations](recurrence-relations.md) — 15
+- [recursion](recursion.md) — 128
+- [reflection](reflection.md) — 29
+- [roots of unity](roots-of-unity.md) — 35
+- [rotation](rotation.md) — 51
+- [sequences and series](sequences-and-series.md) — 76
+- [shoelace theorem](shoelace-theorem.md) — 60
+- [similar triangles](similar-triangles.md) — 161
+- [simons favorite factoring](simons-favorite-factoring.md) — 32
+- [spiral similarity](spiral-similarity.md) — 3
+- [stars and bars](stars-and-bars.md) — 55
+- [state diagram](state-diagram.md) — 13
+- [stewarts theorem](stewarts-theorem.md) — 47
+- [sum to product](sum-to-product.md) — 15
+- [telescoping sums](telescoping-sums.md) — 25
+- [triangle inequality](triangle-inequality.md) — 50
+- [trig bash](trig-bash.md) — 15
+- [trig identities](trig-identities.md) — 38
+- [trigonometry](trigonometry.md) — 40
+- [vietas formulas](vietas-formulas.md) — 127
+- [wilsons theorem](wilsons-theorem.md) — 3
 
 ## Tag conventions
 
-- Lowercase, hyphenated (e.g. `number-theory`, not `Number Theory`).
-- Pick the broadest applicable topic as the primary tag; add subtopics as extra tags on the same line (e.g. `*Tags: algebra, polynomials, Vieta's*`).
-- Prefer reusing existing tags over creating new ones.
+- Lowercase, hyphenated, apostrophes stripped (e.g. `vietas-formulas`, not `Vieta's Formulas`).
+- Prefer narrow techniques / formulas / theorems over broad areas. Broad tags (`algebra`, `geometry`, `number-theory`, `combinatorics`, `probability`, `sequences-and-series`, `trigonometry`) are fallbacks when no narrow tag matches.
+- Tags are assigned by `scripts/retag.py` scanning solution text. Edit the `*Tags:*` line inside each exam file under `problems/` and rerun `scripts/build_topic_indices.py` to refresh these tables.

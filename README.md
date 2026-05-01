@@ -38,9 +38,10 @@ python scripts/fetch_exams.py aime  --years 2023
 python scripts/fetch_exams.py amc8  --years 2022,2023,2024
 ```
 
-Then rebuild the topic indices:
+Then retag based on solution text (the fetch assigns coarse broad-area tags; `retag.py` replaces them with narrow technique tags like `vietas-formulas`, `power-of-a-point`, `modular-arithmetic` by scanning solutions):
 
 ```bash
+python scripts/retag.py
 python scripts/build_topic_indices.py
 ```
 

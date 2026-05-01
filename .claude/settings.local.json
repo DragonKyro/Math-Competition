@@ -3,9 +3,7 @@
     "allow": [
       "Skill(update-config)",
       "Skill(update-config:*)",
-      "Bash(python -c *)",
-      "Bash(python scripts/fetch_exams.py *)",
-      "Bash(python scripts/build_topic_indices.py)"
+      "Bash(python *)"
     ]
   }
 }

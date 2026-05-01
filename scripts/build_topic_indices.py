@@ -92,6 +92,32 @@ def rewrite_topic(path: pathlib.Path, block: str) -> None:
     path.write_text(updated, encoding="utf-8")
 
 
+def rewrite_topics_readme(by_topic: dict) -> None:
+    """Regenerate topics/README.md as a sorted index of every topic page."""
+    lines = [
+        "# Topics",
+        "",
+        "Each topic page lists every problem tagged with that technique / theorem / area across all competitions. Click any row to jump into the problem inside its exam file.",
+        "",
+        "## Index",
+        "",
+    ]
+    for topic in sorted(by_topic.keys()):
+        count = len(by_topic[topic])
+        display = topic.replace("-", " ")
+        lines.append(f"- [{display}]({topic}.md) — {count}")
+    lines += [
+        "",
+        "## Tag conventions",
+        "",
+        "- Lowercase, hyphenated, apostrophes stripped (e.g. `vietas-formulas`, not `Vieta's Formulas`).",
+        "- Prefer narrow techniques / formulas / theorems over broad areas. Broad tags (`algebra`, `geometry`, `number-theory`, `combinatorics`, `probability`, `sequences-and-series`, `trigonometry`) are fallbacks when no narrow tag matches.",
+        "- Tags are assigned by `scripts/retag.py` scanning solution text. Edit the `*Tags:*` line inside each exam file under `problems/` and rerun `scripts/build_topic_indices.py` to refresh these tables.",
+        "",
+    ]
+    (TOPICS_DIR / "README.md").write_text("\n".join(lines), encoding="utf-8")
+
+
 def main() -> int:
     by_topic = collect_entries()
     if not by_topic:
@@ -102,13 +128,13 @@ def main() -> int:
     for topic, entries in by_topic.items():
         topic_path = TOPICS_DIR / f"{topic}.md"
         if not topic_path.exists():
-            print(f"[warn] topic '{topic}' used in exam files but topics/{topic}.md does not exist. Creating it.")
-            topic_path.write_text(f"# {topic.replace('-', ' ').title()}\n\n", encoding="utf-8")
+            display = topic.replace("-", " ")
+            topic_path.write_text(f"# {display}\n\nProblems tagged `{topic}`.\n", encoding="utf-8")
         table = build_table(entries, topic)
         rewrite_topic(topic_path, table)
-        print(f"[update] topics/{topic}.md — {len(entries)} problem(s)")
         written += 1
-    print(f"done. updated {written} topic file(s).")
+    rewrite_topics_readme(by_topic)
+    print(f"done. updated {written} topic file(s) and topics/README.md.")
     return 0
 
 

@@ -8,10 +8,1216 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AIME I | 2023 | [#2](../problems/aime/2023I.md#problem-2) | — |
+| AMC 8 | 1999 | [#1](../problems/amc8/1999.md#problem-1) | — |
+| AMC 8 | 1999 | [#3](../problems/amc8/1999.md#problem-3) | — |
+| AMC 8 | 1999 | [#4](../problems/amc8/1999.md#problem-4) | — |
+| AMC 8 | 1999 | [#6](../problems/amc8/1999.md#problem-6) | — |
+| AMC 8 | 1999 | [#7](../problems/amc8/1999.md#problem-7) | — |
+| AMC 8 | 1999 | [#9](../problems/amc8/1999.md#problem-9) | — |
+| AMC 8 | 1999 | [#11](../problems/amc8/1999.md#problem-11) | — |
+| AMC 8 | 1999 | [#12](../problems/amc8/1999.md#problem-12) | — |
+| AMC 8 | 1999 | [#13](../problems/amc8/1999.md#problem-13) | — |
+| AMC 8 | 1999 | [#16](../problems/amc8/1999.md#problem-16) | — |
+| AMC 8 | 1999 | [#17](../problems/amc8/1999.md#problem-17) | — |
+| AMC 8 | 1999 | [#18](../problems/amc8/1999.md#problem-18) | — |
+| AMC 8 | 1999 | [#19](../problems/amc8/1999.md#problem-19) | — |
+| AMC 8 | 1999 | [#22](../problems/amc8/1999.md#problem-22) | — |
+| AMC 8 | 2000 | [#1](../problems/amc8/2000.md#problem-1) | — |
+| AMC 8 | 2000 | [#2](../problems/amc8/2000.md#problem-2) | — |
+| AMC 8 | 2000 | [#3](../problems/amc8/2000.md#problem-3) | — |
+| AMC 8 | 2000 | [#4](../problems/amc8/2000.md#problem-4) | — |
+| AMC 8 | 2000 | [#5](../problems/amc8/2000.md#problem-5) | — |
+| AMC 8 | 2000 | [#7](../problems/amc8/2000.md#problem-7) | — |
+| AMC 8 | 2000 | [#8](../problems/amc8/2000.md#problem-8) | — |
+| AMC 8 | 2000 | [#9](../problems/amc8/2000.md#problem-9) | — |
+| AMC 8 | 2000 | [#10](../problems/amc8/2000.md#problem-10) | — |
+| AMC 8 | 2000 | [#12](../problems/amc8/2000.md#problem-12) | — |
+| AMC 8 | 2000 | [#17](../problems/amc8/2000.md#problem-17) | — |
+| AMC 8 | 2000 | [#20](../problems/amc8/2000.md#problem-20) | — |
+| AMC 8 | 2000 | [#23](../problems/amc8/2000.md#problem-23) | — |
+| AMC 8 | 2001 | [#1](../problems/amc8/2001.md#problem-1) | — |
+| AMC 8 | 2001 | [#3](../problems/amc8/2001.md#problem-3) | — |
+| AMC 8 | 2001 | [#4](../problems/amc8/2001.md#problem-4) | — |
+| AMC 8 | 2001 | [#5](../problems/amc8/2001.md#problem-5) | — |
+| AMC 8 | 2001 | [#6](../problems/amc8/2001.md#problem-6) | — |
+| AMC 8 | 2001 | [#8](../problems/amc8/2001.md#problem-8) | — |
+| AMC 8 | 2001 | [#10](../problems/amc8/2001.md#problem-10) | — |
+| AMC 8 | 2001 | [#12](../problems/amc8/2001.md#problem-12) | — |
+| AMC 8 | 2001 | [#15](../problems/amc8/2001.md#problem-15) | — |
+| AMC 8 | 2001 | [#17](../problems/amc8/2001.md#problem-17) | — |
+| AMC 8 | 2001 | [#19](../problems/amc8/2001.md#problem-19) | — |
+| AMC 8 | 2001 | [#20](../problems/amc8/2001.md#problem-20) | — |
+| AMC 8 | 2001 | [#21](../problems/amc8/2001.md#problem-21) | — |
+| AMC 8 | 2001 | [#22](../problems/amc8/2001.md#problem-22) | — |
+| AMC 8 | 2001 | [#25](../problems/amc8/2001.md#problem-25) | — |
+| AMC 8 | 2002 | [#2](../problems/amc8/2002.md#problem-2) | — |
+| AMC 8 | 2002 | [#3](../problems/amc8/2002.md#problem-3) | — |
+| AMC 8 | 2002 | [#4](../problems/amc8/2002.md#problem-4) | — |
+| AMC 8 | 2002 | [#5](../problems/amc8/2002.md#problem-5) | — |
+| AMC 8 | 2002 | [#7](../problems/amc8/2002.md#problem-7) | — |
+| AMC 8 | 2002 | [#8](../problems/amc8/2002.md#problem-8) | — |
+| AMC 8 | 2002 | [#9](../problems/amc8/2002.md#problem-9) | — |
+| AMC 8 | 2002 | [#10](../problems/amc8/2002.md#problem-10) | — |
+| AMC 8 | 2002 | [#14](../problems/amc8/2002.md#problem-14) | — |
+| AMC 8 | 2002 | [#17](../problems/amc8/2002.md#problem-17) | — |
+| AMC 8 | 2002 | [#18](../problems/amc8/2002.md#problem-18) | — |
+| AMC 8 | 2002 | [#23](../problems/amc8/2002.md#problem-23) | — |
+| AMC 8 | 2002 | [#25](../problems/amc8/2002.md#problem-25) | — |
+| AMC 8 | 2003 | [#1](../problems/amc8/2003.md#problem-1) | — |
+| AMC 8 | 2003 | [#3](../problems/amc8/2003.md#problem-3) | — |
+| AMC 8 | 2003 | [#4](../problems/amc8/2003.md#problem-4) | — |
+| AMC 8 | 2003 | [#5](../problems/amc8/2003.md#problem-5) | — |
+| AMC 8 | 2003 | [#7](../problems/amc8/2003.md#problem-7) | — |
+| AMC 8 | 2003 | [#11](../problems/amc8/2003.md#problem-11) | — |
+| AMC 8 | 2003 | [#14](../problems/amc8/2003.md#problem-14) | — |
+| AMC 8 | 2003 | [#16](../problems/amc8/2003.md#problem-16) | — |
+| AMC 8 | 2003 | [#17](../problems/amc8/2003.md#problem-17) | — |
+| AMC 8 | 2003 | [#18](../problems/amc8/2003.md#problem-18) | — |
+| AMC 8 | 2003 | [#23](../problems/amc8/2003.md#problem-23) | — |
+| AMC 8 | 2004 | [#1](../problems/amc8/2004.md#problem-1) | — |
+| AMC 8 | 2004 | [#2](../problems/amc8/2004.md#problem-2) | — |
+| AMC 8 | 2004 | [#3](../problems/amc8/2004.md#problem-3) | — |
+| AMC 8 | 2004 | [#5](../problems/amc8/2004.md#problem-5) | — |
+| AMC 8 | 2004 | [#6](../problems/amc8/2004.md#problem-6) | — |
+| AMC 8 | 2004 | [#7](../problems/amc8/2004.md#problem-7) | — |
+| AMC 8 | 2004 | [#8](../problems/amc8/2004.md#problem-8) | — |
+| AMC 8 | 2004 | [#9](../problems/amc8/2004.md#problem-9) | — |
+| AMC 8 | 2004 | [#10](../problems/amc8/2004.md#problem-10) | — |
+| AMC 8 | 2004 | [#11](../problems/amc8/2004.md#problem-11) | — |
+| AMC 8 | 2004 | [#12](../problems/amc8/2004.md#problem-12) | — |
+| AMC 8 | 2004 | [#13](../problems/amc8/2004.md#problem-13) | — |
+| AMC 8 | 2004 | [#16](../problems/amc8/2004.md#problem-16) | — |
+| AMC 8 | 2004 | [#18](../problems/amc8/2004.md#problem-18) | — |
+| AMC 8 | 2004 | [#20](../problems/amc8/2004.md#problem-20) | — |
+| AMC 8 | 2005 | [#1](../problems/amc8/2005.md#problem-1) | — |
+| AMC 8 | 2005 | [#2](../problems/amc8/2005.md#problem-2) | — |
+| AMC 8 | 2005 | [#5](../problems/amc8/2005.md#problem-5) | — |
+| AMC 8 | 2005 | [#6](../problems/amc8/2005.md#problem-6) | — |
+| AMC 8 | 2005 | [#8](../problems/amc8/2005.md#problem-8) | — |
+| AMC 8 | 2005 | [#10](../problems/amc8/2005.md#problem-10) | — |
+| AMC 8 | 2005 | [#11](../problems/amc8/2005.md#problem-11) | — |
+| AMC 8 | 2005 | [#14](../problems/amc8/2005.md#problem-14) | — |
+| AMC 8 | 2005 | [#16](../problems/amc8/2005.md#problem-16) | — |
+| AMC 8 | 2005 | [#17](../problems/amc8/2005.md#problem-17) | — |
+| AMC 8 | 2005 | [#22](../problems/amc8/2005.md#problem-22) | — |
+| AMC 8 | 2005 | [#25](../problems/amc8/2005.md#problem-25) | — |
+| AMC 8 | 2006 | [#1](../problems/amc8/2006.md#problem-1) | — |
+| AMC 8 | 2006 | [#2](../problems/amc8/2006.md#problem-2) | — |
+| AMC 8 | 2006 | [#3](../problems/amc8/2006.md#problem-3) | — |
+| AMC 8 | 2006 | [#4](../problems/amc8/2006.md#problem-4) | — |
+| AMC 8 | 2006 | [#7](../problems/amc8/2006.md#problem-7) | — |
+| AMC 8 | 2006 | [#8](../problems/amc8/2006.md#problem-8) | — |
+| AMC 8 | 2006 | [#9](../problems/amc8/2006.md#problem-9) | — |
+| AMC 8 | 2006 | [#12](../problems/amc8/2006.md#problem-12) | — |
+| AMC 8 | 2006 | [#13](../problems/amc8/2006.md#problem-13) | — |
+| AMC 8 | 2006 | [#14](../problems/amc8/2006.md#problem-14) | — |
+| AMC 8 | 2006 | [#15](../problems/amc8/2006.md#problem-15) | — |
+| AMC 8 | 2006 | [#16](../problems/amc8/2006.md#problem-16) | — |
+| AMC 8 | 2006 | [#20](../problems/amc8/2006.md#problem-20) | — |
+| AMC 8 | 2006 | [#21](../problems/amc8/2006.md#problem-21) | — |
+| AMC 8 | 2006 | [#22](../problems/amc8/2006.md#problem-22) | — |
+| AMC 8 | 2006 | [#24](../problems/amc8/2006.md#problem-24) | — |
+| AMC 8 | 2007 | [#1](../problems/amc8/2007.md#problem-1) | — |
+| AMC 8 | 2007 | [#2](../problems/amc8/2007.md#problem-2) | — |
+| AMC 8 | 2007 | [#5](../problems/amc8/2007.md#problem-5) | — |
+| AMC 8 | 2007 | [#6](../problems/amc8/2007.md#problem-6) | — |
+| AMC 8 | 2007 | [#7](../problems/amc8/2007.md#problem-7) | — |
+| AMC 8 | 2007 | [#9](../problems/amc8/2007.md#problem-9) | — |
+| AMC 8 | 2007 | [#10](../problems/amc8/2007.md#problem-10) | — |
+| AMC 8 | 2007 | [#13](../problems/amc8/2007.md#problem-13) | — |
+| AMC 8 | 2007 | [#15](../problems/amc8/2007.md#problem-15) | — |
+| AMC 8 | 2007 | [#17](../problems/amc8/2007.md#problem-17) | — |
+| AMC 8 | 2007 | [#18](../problems/amc8/2007.md#problem-18) | — |
+| AMC 8 | 2007 | [#20](../problems/amc8/2007.md#problem-20) | — |
+| AMC 8 | 2008 | [#1](../problems/amc8/2008.md#problem-1) | — |
+| AMC 8 | 2008 | [#2](../problems/amc8/2008.md#problem-2) | — |
+| AMC 8 | 2008 | [#3](../problems/amc8/2008.md#problem-3) | — |
+| AMC 8 | 2008 | [#5](../problems/amc8/2008.md#problem-5) | — |
+| AMC 8 | 2008 | [#7](../problems/amc8/2008.md#problem-7) | — |
+| AMC 8 | 2008 | [#8](../problems/amc8/2008.md#problem-8) | — |
+| AMC 8 | 2008 | [#9](../problems/amc8/2008.md#problem-9) | — |
+| AMC 8 | 2008 | [#10](../problems/amc8/2008.md#problem-10) | — |
+| AMC 8 | 2008 | [#11](../problems/amc8/2008.md#problem-11) | — |
+| AMC 8 | 2008 | [#12](../problems/amc8/2008.md#problem-12) | — |
+| AMC 8 | 2008 | [#13](../problems/amc8/2008.md#problem-13) | — |
+| AMC 8 | 2008 | [#14](../problems/amc8/2008.md#problem-14) | — |
+| AMC 8 | 2008 | [#15](../problems/amc8/2008.md#problem-15) | — |
+| AMC 8 | 2008 | [#20](../problems/amc8/2008.md#problem-20) | — |
+| AMC 8 | 2008 | [#22](../problems/amc8/2008.md#problem-22) | number-theory |
+| AMC 8 | 2009 | [#1](../problems/amc8/2009.md#problem-1) | — |
+| AMC 8 | 2009 | [#2](../problems/amc8/2009.md#problem-2) | — |
+| AMC 8 | 2009 | [#3](../problems/amc8/2009.md#problem-3) | — |
+| AMC 8 | 2009 | [#4](../problems/amc8/2009.md#problem-4) | — |
+| AMC 8 | 2009 | [#6](../problems/amc8/2009.md#problem-6) | — |
+| AMC 8 | 2009 | [#15](../problems/amc8/2009.md#problem-15) | — |
+| AMC 8 | 2009 | [#16](../problems/amc8/2009.md#problem-16) | — |
+| AMC 8 | 2009 | [#21](../problems/amc8/2009.md#problem-21) | — |
+| AMC 8 | 2009 | [#23](../problems/amc8/2009.md#problem-23) | — |
+| AMC 8 | 2009 | [#24](../problems/amc8/2009.md#problem-24) | — |
+| AMC 8 | 2010 | [#1](../problems/amc8/2010.md#problem-1) | — |
+| AMC 8 | 2010 | [#2](../problems/amc8/2010.md#problem-2) | — |
+| AMC 8 | 2010 | [#3](../problems/amc8/2010.md#problem-3) | — |
+| AMC 8 | 2010 | [#4](../problems/amc8/2010.md#problem-4) | — |
+| AMC 8 | 2010 | [#5](../problems/amc8/2010.md#problem-5) | — |
+| AMC 8 | 2010 | [#7](../problems/amc8/2010.md#problem-7) | — |
+| AMC 8 | 2010 | [#8](../problems/amc8/2010.md#problem-8) | — |
+| AMC 8 | 2010 | [#9](../problems/amc8/2010.md#problem-9) | — |
+| AMC 8 | 2010 | [#11](../problems/amc8/2010.md#problem-11) | — |
+| AMC 8 | 2010 | [#12](../problems/amc8/2010.md#problem-12) | — |
+| AMC 8 | 2010 | [#15](../problems/amc8/2010.md#problem-15) | — |
+| AMC 8 | 2010 | [#16](../problems/amc8/2010.md#problem-16) | — |
+| AMC 8 | 2010 | [#21](../problems/amc8/2010.md#problem-21) | — |
+| AMC 8 | 2010 | [#22](../problems/amc8/2010.md#problem-22) | — |
+| AMC 8 | 2010 | [#24](../problems/amc8/2010.md#problem-24) | — |
+| AMC 8 | 2011 | [#1](../problems/amc8/2011.md#problem-1) | — |
+| AMC 8 | 2011 | [#4](../problems/amc8/2011.md#problem-4) | — |
+| AMC 8 | 2011 | [#5](../problems/amc8/2011.md#problem-5) | — |
+| AMC 8 | 2011 | [#8](../problems/amc8/2011.md#problem-8) | — |
+| AMC 8 | 2011 | [#9](../problems/amc8/2011.md#problem-9) | — |
+| AMC 8 | 2011 | [#10](../problems/amc8/2011.md#problem-10) | — |
+| AMC 8 | 2011 | [#11](../problems/amc8/2011.md#problem-11) | — |
+| AMC 8 | 2011 | [#14](../problems/amc8/2011.md#problem-14) | — |
+| AMC 8 | 2011 | [#15](../problems/amc8/2011.md#problem-15) | — |
+| AMC 8 | 2012 | [#1](../problems/amc8/2012.md#problem-1) | — |
+| AMC 8 | 2012 | [#2](../problems/amc8/2012.md#problem-2) | — |
+| AMC 8 | 2012 | [#3](../problems/amc8/2012.md#problem-3) | — |
+| AMC 8 | 2012 | [#4](../problems/amc8/2012.md#problem-4) | — |
+| AMC 8 | 2012 | [#5](../problems/amc8/2012.md#problem-5) | — |
+| AMC 8 | 2012 | [#8](../problems/amc8/2012.md#problem-8) | — |
+| AMC 8 | 2012 | [#9](../problems/amc8/2012.md#problem-9) | — |
+| AMC 8 | 2012 | [#12](../problems/amc8/2012.md#problem-12) | — |
+| AMC 8 | 2012 | [#16](../problems/amc8/2012.md#problem-16) | — |
+| AMC 8 | 2012 | [#19](../problems/amc8/2012.md#problem-19) | — |
+| AMC 8 | 2012 | [#20](../problems/amc8/2012.md#problem-20) | — |
+| AMC 8 | 2012 | [#22](../problems/amc8/2012.md#problem-22) | — |
+| AMC 8 | 2013 | [#1](../problems/amc8/2013.md#problem-1) | — |
+| AMC 8 | 2013 | [#2](../problems/amc8/2013.md#problem-2) | — |
+| AMC 8 | 2013 | [#3](../problems/amc8/2013.md#problem-3) | — |
+| AMC 8 | 2013 | [#4](../problems/amc8/2013.md#problem-4) | — |
+| AMC 8 | 2013 | [#5](../problems/amc8/2013.md#problem-5) | — |
+| AMC 8 | 2013 | [#6](../problems/amc8/2013.md#problem-6) | — |
+| AMC 8 | 2013 | [#11](../problems/amc8/2013.md#problem-11) | — |
+| AMC 8 | 2013 | [#12](../problems/amc8/2013.md#problem-12) | — |
+| AMC 8 | 2013 | [#13](../problems/amc8/2013.md#problem-13) | — |
+| AMC 8 | 2013 | [#17](../problems/amc8/2013.md#problem-17) | — |
+| AMC 8 | 2013 | [#19](../problems/amc8/2013.md#problem-19) | — |
+| AMC 8 | 2013 | [#21](../problems/amc8/2013.md#problem-21) | — |
+| AMC 8 | 2014 | [#1](../problems/amc8/2014.md#problem-1) | — |
+| AMC 8 | 2014 | [#2](../problems/amc8/2014.md#problem-2) | — |
+| AMC 8 | 2014 | [#3](../problems/amc8/2014.md#problem-3) | — |
+| AMC 8 | 2014 | [#5](../problems/amc8/2014.md#problem-5) | — |
+| AMC 8 | 2014 | [#7](../problems/amc8/2014.md#problem-7) | — |
+| AMC 8 | 2014 | [#10](../problems/amc8/2014.md#problem-10) | — |
+| AMC 8 | 2014 | [#13](../problems/amc8/2014.md#problem-13) | — |
+| AMC 8 | 2014 | [#14](../problems/amc8/2014.md#problem-14) | — |
+| AMC 8 | 2014 | [#16](../problems/amc8/2014.md#problem-16) | — |
+| AMC 8 | 2014 | [#17](../problems/amc8/2014.md#problem-17) | — |
+| AMC 8 | 2014 | [#21](../problems/amc8/2014.md#problem-21) | — |
+| AMC 8 | 2014 | [#22](../problems/amc8/2014.md#problem-22) | — |
+| AMC 8 | 2014 | [#23](../problems/amc8/2014.md#problem-23) | — |
+| AMC 8 | 2014 | [#24](../problems/amc8/2014.md#problem-24) | — |
+| AMC 8 | 2015 | [#3](../problems/amc8/2015.md#problem-3) | — |
+| AMC 8 | 2015 | [#4](../problems/amc8/2015.md#problem-4) | — |
+| AMC 8 | 2015 | [#5](../problems/amc8/2015.md#problem-5) | — |
+| AMC 8 | 2015 | [#10](../problems/amc8/2015.md#problem-10) | — |
+| AMC 8 | 2015 | [#16](../problems/amc8/2015.md#problem-16) | — |
+| AMC 8 | 2015 | [#17](../problems/amc8/2015.md#problem-17) | — |
+| AMC 8 | 2015 | [#20](../problems/amc8/2015.md#problem-20) | — |
+| AMC 8 | 2015 | [#22](../problems/amc8/2015.md#problem-22) | — |
+| AMC 8 | 2015 | [#23](../problems/amc8/2015.md#problem-23) | — |
+| AMC 8 | 2016 | [#1](../problems/amc8/2016.md#problem-1) | — |
+| AMC 8 | 2016 | [#3](../problems/amc8/2016.md#problem-3) | — |
+| AMC 8 | 2016 | [#4](../problems/amc8/2016.md#problem-4) | — |
+| AMC 8 | 2016 | [#6](../problems/amc8/2016.md#problem-6) | — |
+| AMC 8 | 2016 | [#8](../problems/amc8/2016.md#problem-8) | — |
+| AMC 8 | 2016 | [#10](../problems/amc8/2016.md#problem-10) | — |
+| AMC 8 | 2016 | [#12](../problems/amc8/2016.md#problem-12) | — |
+| AMC 8 | 2016 | [#14](../problems/amc8/2016.md#problem-14) | — |
+| AMC 8 | 2016 | [#18](../problems/amc8/2016.md#problem-18) | — |
+| AMC 8 | 2016 | [#19](../problems/amc8/2016.md#problem-19) | — |
+| AMC 8 | 2016 | [#24](../problems/amc8/2016.md#problem-24) | — |
+| AMC 8 | 2016 | [#25](../problems/amc8/2016.md#problem-25) | — |
+| AMC 8 | 2017 | [#1](../problems/amc8/2017.md#problem-1) | — |
+| AMC 8 | 2017 | [#3](../problems/amc8/2017.md#problem-3) | — |
+| AMC 8 | 2017 | [#4](../problems/amc8/2017.md#problem-4) | — |
+| AMC 8 | 2017 | [#5](../problems/amc8/2017.md#problem-5) | — |
+| AMC 8 | 2017 | [#10](../problems/amc8/2017.md#problem-10) | — |
+| AMC 8 | 2017 | [#11](../problems/amc8/2017.md#problem-11) | — |
+| AMC 8 | 2017 | [#13](../problems/amc8/2017.md#problem-13) | — |
+| AMC 8 | 2017 | [#14](../problems/amc8/2017.md#problem-14) | — |
+| AMC 8 | 2017 | [#17](../problems/amc8/2017.md#problem-17) | — |
+| AMC 8 | 2017 | [#21](../problems/amc8/2017.md#problem-21) | — |
+| AMC 8 | 2018 | [#1](../problems/amc8/2018.md#problem-1) | — |
+| AMC 8 | 2018 | [#6](../problems/amc8/2018.md#problem-6) | — |
+| AMC 8 | 2018 | [#8](../problems/amc8/2018.md#problem-8) | — |
+| AMC 8 | 2018 | [#10](../problems/amc8/2018.md#problem-10) | — |
+| AMC 8 | 2018 | [#12](../problems/amc8/2018.md#problem-12) | — |
+| AMC 8 | 2018 | [#13](../problems/amc8/2018.md#problem-13) | — |
+| AMC 8 | 2018 | [#17](../problems/amc8/2018.md#problem-17) | — |
+| AMC 8 | 2018 | [#20](../problems/amc8/2018.md#problem-20) | — |
+| AMC 8 | 2018 | [#22](../problems/amc8/2018.md#problem-22) | — |
+| AMC 8 | 2018 | [#23](../problems/amc8/2018.md#problem-23) | — |
+| AMC 8 | 2019 | [#1](../problems/amc8/2019.md#problem-1) | — |
+| AMC 8 | 2019 | [#5](../problems/amc8/2019.md#problem-5) | — |
+| AMC 8 | 2019 | [#8](../problems/amc8/2019.md#problem-8) | — |
+| AMC 8 | 2019 | [#10](../problems/amc8/2019.md#problem-10) | — |
+| AMC 8 | 2019 | [#11](../problems/amc8/2019.md#problem-11) | — |
+| AMC 8 | 2019 | [#13](../problems/amc8/2019.md#problem-13) | — |
+| AMC 8 | 2020 | [#1](../problems/amc8/2020.md#problem-1) | — |
+| AMC 8 | 2020 | [#2](../problems/amc8/2020.md#problem-2) | — |
+| AMC 8 | 2020 | [#5](../problems/amc8/2020.md#problem-5) | — |
+| AMC 8 | 2020 | [#6](../problems/amc8/2020.md#problem-6) | — |
+| AMC 8 | 2020 | [#7](../problems/amc8/2020.md#problem-7) | — |
+| AMC 8 | 2020 | [#8](../problems/amc8/2020.md#problem-8) | — |
+| AMC 8 | 2020 | [#11](../problems/amc8/2020.md#problem-11) | — |
+| AMC 8 | 2020 | [#12](../problems/amc8/2020.md#problem-12) | — |
+| AMC 8 | 2020 | [#13](../problems/amc8/2020.md#problem-13) | — |
+| AMC 8 | 2020 | [#14](../problems/amc8/2020.md#problem-14) | — |
+| AMC 8 | 2020 | [#15](../problems/amc8/2020.md#problem-15) | — |
+| AMC 8 | 2020 | [#16](../problems/amc8/2020.md#problem-16) | — |
+| AMC 8 | 2020 | [#19](../problems/amc8/2020.md#problem-19) | — |
+| AMC 8 | 2020 | [#20](../problems/amc8/2020.md#problem-20) | — |
+| AMC 8 | 2020 | [#24](../problems/amc8/2020.md#problem-24) | — |
+| AMC 8 | 2022 | [#2](../problems/amc8/2022.md#problem-2) | — |
+| AMC 8 | 2022 | [#4](../problems/amc8/2022.md#problem-4) | — |
+| AMC 8 | 2022 | [#5](../problems/amc8/2022.md#problem-5) | — |
+| AMC 8 | 2022 | [#7](../problems/amc8/2022.md#problem-7) | — |
+| AMC 8 | 2022 | [#8](../problems/amc8/2022.md#problem-8) | — |
+| AMC 8 | 2022 | [#9](../problems/amc8/2022.md#problem-9) | — |
+| AMC 8 | 2022 | [#10](../problems/amc8/2022.md#problem-10) | — |
+| AMC 8 | 2022 | [#11](../problems/amc8/2022.md#problem-11) | — |
+| AMC 8 | 2022 | [#13](../problems/amc8/2022.md#problem-13) | — |
+| AMC 8 | 2022 | [#15](../problems/amc8/2022.md#problem-15) | — |
+| AMC 8 | 2022 | [#19](../problems/amc8/2022.md#problem-19) | — |
+| AMC 8 | 2022 | [#20](../problems/amc8/2022.md#problem-20) | geometry |
+| AMC 8 | 2022 | [#21](../problems/amc8/2022.md#problem-21) | — |
+| AMC 8 | 2022 | [#25](../problems/amc8/2022.md#problem-25) | — |
+| AMC 8 | 2023 | [#1](../problems/amc8/2023.md#problem-1) | — |
+| AMC 8 | 2023 | [#3](../problems/amc8/2023.md#problem-3) | — |
+| AMC 8 | 2023 | [#5](../problems/amc8/2023.md#problem-5) | — |
+| AMC 8 | 2023 | [#6](../problems/amc8/2023.md#problem-6) | — |
+| AMC 8 | 2023 | [#8](../problems/amc8/2023.md#problem-8) | — |
+| AMC 8 | 2023 | [#9](../problems/amc8/2023.md#problem-9) | — |
+| AMC 8 | 2023 | [#11](../problems/amc8/2023.md#problem-11) | — |
+| AMC 8 | 2023 | [#13](../problems/amc8/2023.md#problem-13) | — |
+| AMC 8 | 2023 | [#14](../problems/amc8/2023.md#problem-14) | — |
+| AMC 8 | 2023 | [#15](../problems/amc8/2023.md#problem-15) | — |
+| AMC 8 | 2023 | [#20](../problems/amc8/2023.md#problem-20) | — |
+| AMC 8 | 2023 | [#21](../problems/amc8/2023.md#problem-21) | — |
+| AMC 8 | 2024 | [#2](../problems/amc8/2024.md#problem-2) | — |
+| AMC 8 | 2024 | [#3](../problems/amc8/2024.md#problem-3) | — |
+| AMC 8 | 2024 | [#4](../problems/amc8/2024.md#problem-4) | — |
+| AMC 8 | 2024 | [#5](../problems/amc8/2024.md#problem-5) | — |
+| AMC 8 | 2024 | [#6](../problems/amc8/2024.md#problem-6) | — |
+| AMC 8 | 2024 | [#8](../problems/amc8/2024.md#problem-8) | — |
+| AMC 8 | 2024 | [#9](../problems/amc8/2024.md#problem-9) | — |
+| AMC 8 | 2024 | [#10](../problems/amc8/2024.md#problem-10) | — |
+| AMC 8 | 2024 | [#12](../problems/amc8/2024.md#problem-12) | — |
+| AMC 8 | 2024 | [#14](../problems/amc8/2024.md#problem-14) | — |
+| AMC 8 | 2024 | [#15](../problems/amc8/2024.md#problem-15) | — |
+| AMC 8 | 2024 | [#16](../problems/amc8/2024.md#problem-16) | — |
+| AMC 8 | 2024 | [#18](../problems/amc8/2024.md#problem-18) | geometry |
+| AMC 8 | 2024 | [#19](../problems/amc8/2024.md#problem-19) | — |
+| AMC 8 | 2024 | [#21](../problems/amc8/2024.md#problem-21) | — |
+| AMC 8 | 2024 | [#25](../problems/amc8/2024.md#problem-25) | — |
+| AMC 10 | 2000 | [#2](../problems/amc10/2000.md#problem-2) | — |
+| AMC 10 | 2000 | [#3](../problems/amc10/2000.md#problem-3) | — |
+| AMC 10 | 2000 | [#4](../problems/amc10/2000.md#problem-4) | — |
+| AMC 10 | 2000 | [#8](../problems/amc10/2000.md#problem-8) | — |
+| AMC 10 | 2000 | [#9](../problems/amc10/2000.md#problem-9) | — |
+| AMC 10 | 2000 | [#15](../problems/amc10/2000.md#problem-15) | — |
+| AMC 10 | 2000 | [#17](../problems/amc10/2000.md#problem-17) | — |
+| AMC 10 | 2000 | [#21](../problems/amc10/2000.md#problem-21) | — |
+| AMC 10 | 2000 | [#22](../problems/amc10/2000.md#problem-22) | number-theory |
+| AMC 10 | 2001 | [#1](../problems/amc10/2001.md#problem-1) | — |
+| AMC 10 | 2001 | [#2](../problems/amc10/2001.md#problem-2) | — |
+| AMC 10 | 2001 | [#3](../problems/amc10/2001.md#problem-3) | — |
+| AMC 10 | 2001 | [#5](../problems/amc10/2001.md#problem-5) | — |
+| AMC 10 | 2001 | [#6](../problems/amc10/2001.md#problem-6) | — |
+| AMC 10 | 2001 | [#7](../problems/amc10/2001.md#problem-7) | — |
+| AMC 10 | 2001 | [#9](../problems/amc10/2001.md#problem-9) | — |
+| AMC 10 | 2001 | [#10](../problems/amc10/2001.md#problem-10) | — |
+| AMC 10 | 2001 | [#16](../problems/amc10/2001.md#problem-16) | — |
+| AMC 10 A | 2002 | [#1](../problems/amc10/2002A.md#problem-1) | — |
+| AMC 10 A | 2002 | [#2](../problems/amc10/2002A.md#problem-2) | — |
+| AMC 10 A | 2002 | [#6](../problems/amc10/2002A.md#problem-6) | — |
+| AMC 10 A | 2002 | [#9](../problems/amc10/2002A.md#problem-9) | — |
+| AMC 10 A | 2002 | [#11](../problems/amc10/2002A.md#problem-11) | — |
+| AMC 10 A | 2002 | [#12](../problems/amc10/2002A.md#problem-12) | — |
+| AMC 10 A | 2002 | [#16](../problems/amc10/2002A.md#problem-16) | — |
+| AMC 10 A | 2002 | [#17](../problems/amc10/2002A.md#problem-17) | — |
+| AMC 10 A | 2002 | [#21](../problems/amc10/2002A.md#problem-21) | — |
+| AMC 10 A | 2002 | [#23](../problems/amc10/2002A.md#problem-23) | — |
+| AMC 10 B | 2002 | [#1](../problems/amc10/2002B.md#problem-1) | — |
+| AMC 10 B | 2002 | [#2](../problems/amc10/2002B.md#problem-2) | — |
+| AMC 10 B | 2002 | [#3](../problems/amc10/2002B.md#problem-3) | — |
+| AMC 10 B | 2002 | [#4](../problems/amc10/2002B.md#problem-4) | — |
+| AMC 10 B | 2002 | [#6](../problems/amc10/2002B.md#problem-6) | — |
+| AMC 10 B | 2002 | [#7](../problems/amc10/2002B.md#problem-7) | — |
+| AMC 10 B | 2002 | [#9](../problems/amc10/2002B.md#problem-9) | — |
+| AMC 10 B | 2002 | [#12](../problems/amc10/2002B.md#problem-12) | — |
+| AMC 10 B | 2002 | [#13](../problems/amc10/2002B.md#problem-13) | — |
+| AMC 10 B | 2002 | [#14](../problems/amc10/2002B.md#problem-14) | — |
+| AMC 10 B | 2002 | [#20](../problems/amc10/2002B.md#problem-20) | — |
+| AMC 10 B | 2002 | [#23](../problems/amc10/2002B.md#problem-23) | — |
+| AMC 10 B | 2002 | [#24](../problems/amc10/2002B.md#problem-24) | — |
+| AMC 10 B | 2002 | [#25](../problems/amc10/2002B.md#problem-25) | — |
+| AMC 10 A | 2003 | [#2](../problems/amc10/2003A.md#problem-2) | — |
+| AMC 10 A | 2003 | [#4](../problems/amc10/2003A.md#problem-4) | — |
+| AMC 10 A | 2003 | [#6](../problems/amc10/2003A.md#problem-6) | — |
+| AMC 10 A | 2003 | [#9](../problems/amc10/2003A.md#problem-9) | — |
+| AMC 10 A | 2003 | [#11](../problems/amc10/2003A.md#problem-11) | — |
+| AMC 10 A | 2003 | [#13](../problems/amc10/2003A.md#problem-13) | — |
+| AMC 10 A | 2003 | [#20](../problems/amc10/2003A.md#problem-20) | — |
+| AMC 10 A | 2003 | [#23](../problems/amc10/2003A.md#problem-23) | geometry, sequences-and-series |
+| AMC 10 A | 2003 | [#24](../problems/amc10/2003A.md#problem-24) | — |
+| AMC 10 B | 2003 | [#1](../problems/amc10/2003B.md#problem-1) | — |
+| AMC 10 B | 2003 | [#2](../problems/amc10/2003B.md#problem-2) | — |
+| AMC 10 B | 2003 | [#9](../problems/amc10/2003B.md#problem-9) | — |
+| AMC 10 B | 2003 | [#10](../problems/amc10/2003B.md#problem-10) | — |
+| AMC 10 B | 2003 | [#11](../problems/amc10/2003B.md#problem-11) | — |
+| AMC 10 B | 2003 | [#12](../problems/amc10/2003B.md#problem-12) | — |
+| AMC 10 B | 2003 | [#13](../problems/amc10/2003B.md#problem-13) | — |
+| AMC 10 B | 2003 | [#14](../problems/amc10/2003B.md#problem-14) | — |
+| AMC 10 B | 2003 | [#16](../problems/amc10/2003B.md#problem-16) | — |
+| AMC 10 B | 2003 | [#22](../problems/amc10/2003B.md#problem-22) | — |
+| AMC 10 A | 2004 | [#1](../problems/amc10/2004A.md#problem-1) | — |
+| AMC 10 A | 2004 | [#2](../problems/amc10/2004A.md#problem-2) | — |
+| AMC 10 A | 2004 | [#3](../problems/amc10/2004A.md#problem-3) | — |
+| AMC 10 A | 2004 | [#6](../problems/amc10/2004A.md#problem-6) | — |
+| AMC 10 A | 2004 | [#7](../problems/amc10/2004A.md#problem-7) | — |
+| AMC 10 A | 2004 | [#12](../problems/amc10/2004A.md#problem-12) | — |
+| AMC 10 A | 2004 | [#14](../problems/amc10/2004A.md#problem-14) | — |
+| AMC 10 A | 2004 | [#15](../problems/amc10/2004A.md#problem-15) | — |
+| AMC 10 A | 2004 | [#23](../problems/amc10/2004A.md#problem-23) | — |
+| AMC 10 A | 2004 | [#24](../problems/amc10/2004A.md#problem-24) | — |
+| AMC 10 B | 2004 | [#1](../problems/amc10/2004B.md#problem-1) | — |
+| AMC 10 B | 2004 | [#3](../problems/amc10/2004B.md#problem-3) | — |
+| AMC 10 B | 2004 | [#5](../problems/amc10/2004B.md#problem-5) | — |
+| AMC 10 B | 2004 | [#7](../problems/amc10/2004B.md#problem-7) | — |
+| AMC 10 B | 2004 | [#14](../problems/amc10/2004B.md#problem-14) | — |
+| AMC 10 B | 2004 | [#15](../problems/amc10/2004B.md#problem-15) | — |
+| AMC 10 A | 2005 | [#1](../problems/amc10/2005A.md#problem-1) | — |
+| AMC 10 A | 2005 | [#2](../problems/amc10/2005A.md#problem-2) | — |
+| AMC 10 A | 2005 | [#3](../problems/amc10/2005A.md#problem-3) | — |
+| AMC 10 A | 2005 | [#6](../problems/amc10/2005A.md#problem-6) | — |
+| AMC 10 A | 2005 | [#7](../problems/amc10/2005A.md#problem-7) | — |
+| AMC 10 A | 2005 | [#13](../problems/amc10/2005A.md#problem-13) | — |
+| AMC 10 A | 2005 | [#16](../problems/amc10/2005A.md#problem-16) | — |
+| AMC 10 A | 2005 | [#21](../problems/amc10/2005A.md#problem-21) | — |
+| AMC 10 B | 2005 | [#1](../problems/amc10/2005B.md#problem-1) | — |
+| AMC 10 B | 2005 | [#2](../problems/amc10/2005B.md#problem-2) | — |
+| AMC 10 B | 2005 | [#3](../problems/amc10/2005B.md#problem-3) | — |
+| AMC 10 B | 2005 | [#4](../problems/amc10/2005B.md#problem-4) | — |
+| AMC 10 B | 2005 | [#5](../problems/amc10/2005B.md#problem-5) | — |
+| AMC 10 B | 2005 | [#6](../problems/amc10/2005B.md#problem-6) | — |
+| AMC 10 B | 2005 | [#11](../problems/amc10/2005B.md#problem-11) | — |
+| AMC 10 B | 2005 | [#18](../problems/amc10/2005B.md#problem-18) | — |
+| AMC 10 B | 2005 | [#19](../problems/amc10/2005B.md#problem-19) | — |
+| AMC 10 B | 2005 | [#25](../problems/amc10/2005B.md#problem-25) | — |
+| AMC 10 A | 2006 | [#1](../problems/amc10/2006A.md#problem-1) | — |
+| AMC 10 A | 2006 | [#2](../problems/amc10/2006A.md#problem-2) | — |
+| AMC 10 A | 2006 | [#3](../problems/amc10/2006A.md#problem-3) | — |
+| AMC 10 A | 2006 | [#4](../problems/amc10/2006A.md#problem-4) | — |
+| AMC 10 A | 2006 | [#5](../problems/amc10/2006A.md#problem-5) | — |
+| AMC 10 A | 2006 | [#6](../problems/amc10/2006A.md#problem-6) | — |
+| AMC 10 A | 2006 | [#8](../problems/amc10/2006A.md#problem-8) | — |
+| AMC 10 B | 2006 | [#3](../problems/amc10/2006B.md#problem-3) | — |
+| AMC 10 B | 2006 | [#7](../problems/amc10/2006B.md#problem-7) | — |
+| AMC 10 B | 2006 | [#9](../problems/amc10/2006B.md#problem-9) | — |
+| AMC 10 B | 2006 | [#12](../problems/amc10/2006B.md#problem-12) | — |
+| AMC 10 B | 2006 | [#13](../problems/amc10/2006B.md#problem-13) | — |
+| AMC 10 A | 2007 | [#1](../problems/amc10/2007A.md#problem-1) | — |
+| AMC 10 A | 2007 | [#2](../problems/amc10/2007A.md#problem-2) | — |
+| AMC 10 A | 2007 | [#4](../problems/amc10/2007A.md#problem-4) | — |
+| AMC 10 A | 2007 | [#5](../problems/amc10/2007A.md#problem-5) | — |
+| AMC 10 A | 2007 | [#6](../problems/amc10/2007A.md#problem-6) | — |
+| AMC 10 A | 2007 | [#7](../problems/amc10/2007A.md#problem-7) | — |
+| AMC 10 A | 2007 | [#9](../problems/amc10/2007A.md#problem-9) | — |
+| AMC 10 A | 2007 | [#10](../problems/amc10/2007A.md#problem-10) | — |
+| AMC 10 A | 2007 | [#12](../problems/amc10/2007A.md#problem-12) | — |
+| AMC 10 A | 2007 | [#13](../problems/amc10/2007A.md#problem-13) | — |
+| AMC 10 A | 2007 | [#22](../problems/amc10/2007A.md#problem-22) | number-theory, sequences-and-series |
+| AMC 10 B | 2007 | [#1](../problems/amc10/2007B.md#problem-1) | — |
+| AMC 10 B | 2007 | [#2](../problems/amc10/2007B.md#problem-2) | — |
+| AMC 10 B | 2007 | [#3](../problems/amc10/2007B.md#problem-3) | — |
+| AMC 10 B | 2007 | [#6](../problems/amc10/2007B.md#problem-6) | — |
+| AMC 10 B | 2007 | [#8](../problems/amc10/2007B.md#problem-8) | — |
+| AMC 10 B | 2007 | [#9](../problems/amc10/2007B.md#problem-9) | — |
+| AMC 10 B | 2007 | [#12](../problems/amc10/2007B.md#problem-12) | — |
+| AMC 10 B | 2007 | [#14](../problems/amc10/2007B.md#problem-14) | — |
+| AMC 10 B | 2007 | [#16](../problems/amc10/2007B.md#problem-16) | — |
+| AMC 10 B | 2007 | [#22](../problems/amc10/2007B.md#problem-22) | — |
+| AMC 10 A | 2008 | [#1](../problems/amc10/2008A.md#problem-1) | — |
+| AMC 10 A | 2008 | [#4](../problems/amc10/2008A.md#problem-4) | — |
+| AMC 10 A | 2008 | [#5](../problems/amc10/2008A.md#problem-5) | — |
+| AMC 10 A | 2008 | [#6](../problems/amc10/2008A.md#problem-6) | — |
+| AMC 10 A | 2008 | [#8](../problems/amc10/2008A.md#problem-8) | — |
+| AMC 10 A | 2008 | [#11](../problems/amc10/2008A.md#problem-11) | — |
+| AMC 10 A | 2008 | [#12](../problems/amc10/2008A.md#problem-12) | — |
+| AMC 10 A | 2008 | [#13](../problems/amc10/2008A.md#problem-13) | — |
+| AMC 10 A | 2008 | [#15](../problems/amc10/2008A.md#problem-15) | — |
+| AMC 10 B | 2008 | [#1](../problems/amc10/2008B.md#problem-1) | — |
+| AMC 10 B | 2008 | [#2](../problems/amc10/2008B.md#problem-2) | — |
+| AMC 10 B | 2008 | [#3](../problems/amc10/2008B.md#problem-3) | — |
+| AMC 10 B | 2008 | [#4](../problems/amc10/2008B.md#problem-4) | — |
+| AMC 10 B | 2008 | [#5](../problems/amc10/2008B.md#problem-5) | — |
+| AMC 10 B | 2008 | [#6](../problems/amc10/2008B.md#problem-6) | — |
+| AMC 10 B | 2008 | [#12](../problems/amc10/2008B.md#problem-12) | — |
+| AMC 10 B | 2008 | [#18](../problems/amc10/2008B.md#problem-18) | — |
+| AMC 10 B | 2008 | [#21](../problems/amc10/2008B.md#problem-21) | — |
+| AMC 10 B | 2008 | [#25](../problems/amc10/2008B.md#problem-25) | — |
+| AMC 10 A | 2009 | [#1](../problems/amc10/2009A.md#problem-1) | — |
+| AMC 10 A | 2009 | [#2](../problems/amc10/2009A.md#problem-2) | — |
+| AMC 10 A | 2009 | [#3](../problems/amc10/2009A.md#problem-3) | — |
+| AMC 10 A | 2009 | [#4](../problems/amc10/2009A.md#problem-4) | — |
+| AMC 10 A | 2009 | [#7](../problems/amc10/2009A.md#problem-7) | — |
+| AMC 10 A | 2009 | [#8](../problems/amc10/2009A.md#problem-8) | — |
+| AMC 10 A | 2009 | [#13](../problems/amc10/2009A.md#problem-13) | — |
+| AMC 10 A | 2009 | [#16](../problems/amc10/2009A.md#problem-16) | — |
+| AMC 10 A | 2009 | [#20](../problems/amc10/2009A.md#problem-20) | — |
+| AMC 10 B | 2009 | [#1](../problems/amc10/2009B.md#problem-1) | — |
+| AMC 10 B | 2009 | [#3](../problems/amc10/2009B.md#problem-3) | — |
+| AMC 10 B | 2009 | [#5](../problems/amc10/2009B.md#problem-5) | — |
+| AMC 10 B | 2009 | [#6](../problems/amc10/2009B.md#problem-6) | — |
+| AMC 10 B | 2009 | [#7](../problems/amc10/2009B.md#problem-7) | — |
+| AMC 10 B | 2009 | [#8](../problems/amc10/2009B.md#problem-8) | — |
+| AMC 10 B | 2009 | [#14](../problems/amc10/2009B.md#problem-14) | — |
+| AMC 10 B | 2009 | [#15](../problems/amc10/2009B.md#problem-15) | — |
+| AMC 10 B | 2009 | [#19](../problems/amc10/2009B.md#problem-19) | — |
+| AMC 10 A | 2010 | [#1](../problems/amc10/2010A.md#problem-1) | — |
+| AMC 10 A | 2010 | [#2](../problems/amc10/2010A.md#problem-2) | — |
+| AMC 10 A | 2010 | [#3](../problems/amc10/2010A.md#problem-3) | — |
+| AMC 10 A | 2010 | [#4](../problems/amc10/2010A.md#problem-4) | — |
+| AMC 10 A | 2010 | [#5](../problems/amc10/2010A.md#problem-5) | — |
+| AMC 10 A | 2010 | [#6](../problems/amc10/2010A.md#problem-6) | — |
+| AMC 10 A | 2010 | [#7](../problems/amc10/2010A.md#problem-7) | — |
+| AMC 10 A | 2010 | [#8](../problems/amc10/2010A.md#problem-8) | — |
+| AMC 10 A | 2010 | [#9](../problems/amc10/2010A.md#problem-9) | — |
+| AMC 10 A | 2010 | [#10](../problems/amc10/2010A.md#problem-10) | — |
+| AMC 10 A | 2010 | [#11](../problems/amc10/2010A.md#problem-11) | — |
+| AMC 10 A | 2010 | [#13](../problems/amc10/2010A.md#problem-13) | — |
+| AMC 10 A | 2010 | [#20](../problems/amc10/2010A.md#problem-20) | geometry |
+| AMC 10 B | 2010 | [#1](../problems/amc10/2010B.md#problem-1) | — |
+| AMC 10 B | 2010 | [#2](../problems/amc10/2010B.md#problem-2) | — |
+| AMC 10 B | 2010 | [#4](../problems/amc10/2010B.md#problem-4) | — |
+| AMC 10 B | 2010 | [#9](../problems/amc10/2010B.md#problem-9) | — |
+| AMC 10 B | 2010 | [#10](../problems/amc10/2010B.md#problem-10) | — |
+| AMC 10 B | 2010 | [#11](../problems/amc10/2010B.md#problem-11) | — |
+| AMC 10 B | 2010 | [#12](../problems/amc10/2010B.md#problem-12) | — |
+| AMC 10 B | 2010 | [#15](../problems/amc10/2010B.md#problem-15) | — |
+| AMC 10 B | 2010 | [#25](../problems/amc10/2010B.md#problem-25) | number-theory |
+| AMC 10 A | 2011 | [#1](../problems/amc10/2011A.md#problem-1) | — |
+| AMC 10 A | 2011 | [#2](../problems/amc10/2011A.md#problem-2) | — |
+| AMC 10 A | 2011 | [#3](../problems/amc10/2011A.md#problem-3) | — |
+| AMC 10 A | 2011 | [#5](../problems/amc10/2011A.md#problem-5) | — |
+| AMC 10 A | 2011 | [#6](../problems/amc10/2011A.md#problem-6) | — |
+| AMC 10 A | 2011 | [#7](../problems/amc10/2011A.md#problem-7) | — |
+| AMC 10 A | 2011 | [#8](../problems/amc10/2011A.md#problem-8) | — |
+| AMC 10 A | 2011 | [#9](../problems/amc10/2011A.md#problem-9) | — |
+| AMC 10 A | 2011 | [#11](../problems/amc10/2011A.md#problem-11) | — |
+| AMC 10 A | 2011 | [#12](../problems/amc10/2011A.md#problem-12) | — |
+| AMC 10 A | 2011 | [#13](../problems/amc10/2011A.md#problem-13) | — |
+| AMC 10 A | 2011 | [#15](../problems/amc10/2011A.md#problem-15) | — |
+| AMC 10 A | 2011 | [#16](../problems/amc10/2011A.md#problem-16) | — |
+| AMC 10 A | 2011 | [#19](../problems/amc10/2011A.md#problem-19) | — |
+| AMC 10 A | 2011 | [#20](../problems/amc10/2011A.md#problem-20) | — |
+| AMC 10 A | 2011 | [#24](../problems/amc10/2011A.md#problem-24) | — |
+| AMC 10 B | 2011 | [#1](../problems/amc10/2011B.md#problem-1) | — |
+| AMC 10 B | 2011 | [#2](../problems/amc10/2011B.md#problem-2) | — |
+| AMC 10 B | 2011 | [#4](../problems/amc10/2011B.md#problem-4) | — |
+| AMC 10 B | 2011 | [#5](../problems/amc10/2011B.md#problem-5) | — |
+| AMC 10 B | 2011 | [#6](../problems/amc10/2011B.md#problem-6) | — |
+| AMC 10 B | 2011 | [#8](../problems/amc10/2011B.md#problem-8) | — |
+| AMC 10 B | 2011 | [#15](../problems/amc10/2011B.md#problem-15) | — |
+| AMC 10 B | 2011 | [#21](../problems/amc10/2011B.md#problem-21) | — |
+| AMC 10 A | 2012 | [#1](../problems/amc10/2012A.md#problem-1) | — |
+| AMC 10 A | 2012 | [#3](../problems/amc10/2012A.md#problem-3) | — |
+| AMC 10 A | 2012 | [#4](../problems/amc10/2012A.md#problem-4) | — |
+| AMC 10 A | 2012 | [#5](../problems/amc10/2012A.md#problem-5) | — |
+| AMC 10 A | 2012 | [#6](../problems/amc10/2012A.md#problem-6) | — |
+| AMC 10 A | 2012 | [#7](../problems/amc10/2012A.md#problem-7) | — |
+| AMC 10 A | 2012 | [#8](../problems/amc10/2012A.md#problem-8) | — |
+| AMC 10 A | 2012 | [#13](../problems/amc10/2012A.md#problem-13) | — |
+| AMC 10 A | 2012 | [#18](../problems/amc10/2012A.md#problem-18) | — |
+| AMC 10 A | 2012 | [#19](../problems/amc10/2012A.md#problem-19) | — |
+| AMC 10 B | 2012 | [#1](../problems/amc10/2012B.md#problem-1) | — |
+| AMC 10 B | 2012 | [#3](../problems/amc10/2012B.md#problem-3) | — |
+| AMC 10 B | 2012 | [#4](../problems/amc10/2012B.md#problem-4) | — |
+| AMC 10 B | 2012 | [#5](../problems/amc10/2012B.md#problem-5) | — |
+| AMC 10 B | 2012 | [#6](../problems/amc10/2012B.md#problem-6) | — |
+| AMC 10 B | 2012 | [#7](../problems/amc10/2012B.md#problem-7) | — |
+| AMC 10 B | 2012 | [#8](../problems/amc10/2012B.md#problem-8) | — |
+| AMC 10 B | 2012 | [#9](../problems/amc10/2012B.md#problem-9) | — |
+| AMC 10 B | 2012 | [#11](../problems/amc10/2012B.md#problem-11) | — |
+| AMC 10 B | 2012 | [#13](../problems/amc10/2012B.md#problem-13) | — |
+| AMC 10 B | 2012 | [#15](../problems/amc10/2012B.md#problem-15) | — |
+| AMC 10 B | 2012 | [#25](../problems/amc10/2012B.md#problem-25) | — |
+| AMC 10 A | 2013 | [#1](../problems/amc10/2013A.md#problem-1) | — |
+| AMC 10 A | 2013 | [#2](../problems/amc10/2013A.md#problem-2) | — |
+| AMC 10 A | 2013 | [#5](../problems/amc10/2013A.md#problem-5) | — |
+| AMC 10 A | 2013 | [#6](../problems/amc10/2013A.md#problem-6) | — |
+| AMC 10 A | 2013 | [#9](../problems/amc10/2013A.md#problem-9) | — |
+| AMC 10 A | 2013 | [#10](../problems/amc10/2013A.md#problem-10) | — |
+| AMC 10 A | 2013 | [#18](../problems/amc10/2013A.md#problem-18) | — |
+| AMC 10 A | 2013 | [#21](../problems/amc10/2013A.md#problem-21) | — |
+| AMC 10 B | 2013 | [#1](../problems/amc10/2013B.md#problem-1) | — |
+| AMC 10 B | 2013 | [#3](../problems/amc10/2013B.md#problem-3) | — |
+| AMC 10 B | 2013 | [#4](../problems/amc10/2013B.md#problem-4) | — |
+| AMC 10 B | 2013 | [#6](../problems/amc10/2013B.md#problem-6) | — |
+| AMC 10 B | 2013 | [#8](../problems/amc10/2013B.md#problem-8) | — |
+| AMC 10 B | 2013 | [#10](../problems/amc10/2013B.md#problem-10) | — |
+| AMC 10 B | 2013 | [#17](../problems/amc10/2013B.md#problem-17) | — |
+| AMC 10 A | 2014 | [#2](../problems/amc10/2014A.md#problem-2) | — |
+| AMC 10 A | 2014 | [#3](../problems/amc10/2014A.md#problem-3) | — |
+| AMC 10 A | 2014 | [#5](../problems/amc10/2014A.md#problem-5) | — |
+| AMC 10 A | 2014 | [#6](../problems/amc10/2014A.md#problem-6) | — |
+| AMC 10 A | 2014 | [#7](../problems/amc10/2014A.md#problem-7) | — |
+| AMC 10 A | 2014 | [#11](../problems/amc10/2014A.md#problem-11) | — |
+| AMC 10 A | 2014 | [#15](../problems/amc10/2014A.md#problem-15) | — |
+| AMC 10 A | 2014 | [#25](../problems/amc10/2014A.md#problem-25) | — |
+| AMC 10 B | 2014 | [#1](../problems/amc10/2014B.md#problem-1) | — |
+| AMC 10 B | 2014 | [#2](../problems/amc10/2014B.md#problem-2) | — |
+| AMC 10 B | 2014 | [#3](../problems/amc10/2014B.md#problem-3) | — |
+| AMC 10 B | 2014 | [#4](../problems/amc10/2014B.md#problem-4) | — |
+| AMC 10 B | 2014 | [#6](../problems/amc10/2014B.md#problem-6) | — |
+| AMC 10 B | 2014 | [#7](../problems/amc10/2014B.md#problem-7) | — |
+| AMC 10 B | 2014 | [#8](../problems/amc10/2014B.md#problem-8) | — |
+| AMC 10 B | 2014 | [#9](../problems/amc10/2014B.md#problem-9) | — |
+| AMC 10 B | 2014 | [#10](../problems/amc10/2014B.md#problem-10) | — |
+| AMC 10 B | 2014 | [#11](../problems/amc10/2014B.md#problem-11) | — |
+| AMC 10 B | 2014 | [#18](../problems/amc10/2014B.md#problem-18) | — |
+| AMC 10 B | 2014 | [#25](../problems/amc10/2014B.md#problem-25) | probability |
+| AMC 10 A | 2015 | [#1](../problems/amc10/2015A.md#problem-1) | — |
+| AMC 10 A | 2015 | [#2](../problems/amc10/2015A.md#problem-2) | geometry |
+| AMC 10 A | 2015 | [#3](../problems/amc10/2015A.md#problem-3) | — |
+| AMC 10 A | 2015 | [#4](../problems/amc10/2015A.md#problem-4) | — |
+| AMC 10 A | 2015 | [#5](../problems/amc10/2015A.md#problem-5) | — |
+| AMC 10 A | 2015 | [#6](../problems/amc10/2015A.md#problem-6) | — |
+| AMC 10 A | 2015 | [#8](../problems/amc10/2015A.md#problem-8) | — |
+| AMC 10 A | 2015 | [#11](../problems/amc10/2015A.md#problem-11) | — |
+| AMC 10 A | 2015 | [#12](../problems/amc10/2015A.md#problem-12) | — |
+| AMC 10 A | 2015 | [#13](../problems/amc10/2015A.md#problem-13) | — |
+| AMC 10 A | 2015 | [#24](../problems/amc10/2015A.md#problem-24) | — |
+| AMC 10 A | 2015 | [#25](../problems/amc10/2015A.md#problem-25) | — |
+| AMC 10 B | 2015 | [#1](../problems/amc10/2015B.md#problem-1) | — |
+| AMC 10 B | 2015 | [#2](../problems/amc10/2015B.md#problem-2) | — |
+| AMC 10 B | 2015 | [#3](../problems/amc10/2015B.md#problem-3) | — |
+| AMC 10 B | 2015 | [#4](../problems/amc10/2015B.md#problem-4) | — |
+| AMC 10 B | 2015 | [#5](../problems/amc10/2015B.md#problem-5) | — |
+| AMC 10 B | 2015 | [#6](../problems/amc10/2015B.md#problem-6) | — |
+| AMC 10 B | 2015 | [#7](../problems/amc10/2015B.md#problem-7) | — |
+| AMC 10 B | 2015 | [#8](../problems/amc10/2015B.md#problem-8) | — |
+| AMC 10 B | 2015 | [#13](../problems/amc10/2015B.md#problem-13) | geometry |
+| AMC 10 B | 2015 | [#15](../problems/amc10/2015B.md#problem-15) | — |
+| AMC 10 A | 2016 | [#2](../problems/amc10/2016A.md#problem-2) | — |
+| AMC 10 A | 2016 | [#3](../problems/amc10/2016A.md#problem-3) | — |
+| AMC 10 A | 2016 | [#6](../problems/amc10/2016A.md#problem-6) | — |
+| AMC 10 A | 2016 | [#7](../problems/amc10/2016A.md#problem-7) | — |
+| AMC 10 A | 2016 | [#8](../problems/amc10/2016A.md#problem-8) | — |
+| AMC 10 A | 2016 | [#17](../problems/amc10/2016A.md#problem-17) | probability |
+| AMC 10 A | 2016 | [#23](../problems/amc10/2016A.md#problem-23) | — |
+| AMC 10 B | 2016 | [#1](../problems/amc10/2016B.md#problem-1) | — |
+| AMC 10 B | 2016 | [#2](../problems/amc10/2016B.md#problem-2) | — |
+| AMC 10 B | 2016 | [#3](../problems/amc10/2016B.md#problem-3) | — |
+| AMC 10 B | 2016 | [#5](../problems/amc10/2016B.md#problem-5) | — |
+| AMC 10 B | 2016 | [#6](../problems/amc10/2016B.md#problem-6) | — |
+| AMC 10 B | 2016 | [#7](../problems/amc10/2016B.md#problem-7) | — |
+| AMC 10 B | 2016 | [#13](../problems/amc10/2016B.md#problem-13) | — |
+| AMC 10 A | 2017 | [#2](../problems/amc10/2017A.md#problem-2) | — |
+| AMC 10 A | 2017 | [#4](../problems/amc10/2017A.md#problem-4) | — |
+| AMC 10 A | 2017 | [#5](../problems/amc10/2017A.md#problem-5) | — |
+| AMC 10 A | 2017 | [#6](../problems/amc10/2017A.md#problem-6) | — |
+| AMC 10 A | 2017 | [#9](../problems/amc10/2017A.md#problem-9) | — |
+| AMC 10 A | 2017 | [#14](../problems/amc10/2017A.md#problem-14) | — |
+| AMC 10 B | 2017 | [#2](../problems/amc10/2017B.md#problem-2) | — |
+| AMC 10 B | 2017 | [#3](../problems/amc10/2017B.md#problem-3) | — |
+| AMC 10 B | 2017 | [#4](../problems/amc10/2017B.md#problem-4) | — |
+| AMC 10 B | 2017 | [#5](../problems/amc10/2017B.md#problem-5) | — |
+| AMC 10 B | 2017 | [#7](../problems/amc10/2017B.md#problem-7) | — |
+| AMC 10 B | 2017 | [#10](../problems/amc10/2017B.md#problem-10) | geometry |
+| AMC 10 B | 2017 | [#11](../problems/amc10/2017B.md#problem-11) | — |
+| AMC 10 B | 2017 | [#12](../problems/amc10/2017B.md#problem-12) | — |
+| AMC 10 A | 2018 | [#1](../problems/amc10/2018A.md#problem-1) | — |
+| AMC 10 A | 2018 | [#2](../problems/amc10/2018A.md#problem-2) | — |
+| AMC 10 A | 2018 | [#3](../problems/amc10/2018A.md#problem-3) | — |
+| AMC 10 A | 2018 | [#5](../problems/amc10/2018A.md#problem-5) | — |
+| AMC 10 A | 2018 | [#6](../problems/amc10/2018A.md#problem-6) | — |
+| AMC 10 A | 2018 | [#7](../problems/amc10/2018A.md#problem-7) | — |
+| AMC 10 A | 2018 | [#8](../problems/amc10/2018A.md#problem-8) | — |
+| AMC 10 B | 2018 | [#2](../problems/amc10/2018B.md#problem-2) | — |
+| AMC 10 B | 2018 | [#3](../problems/amc10/2018B.md#problem-3) | — |
+| AMC 10 B | 2018 | [#25](../problems/amc10/2018B.md#problem-25) | — |
+| AMC 10 A | 2019 | [#1](../problems/amc10/2019A.md#problem-1) | — |
+| AMC 10 A | 2019 | [#12](../problems/amc10/2019A.md#problem-12) | — |
+| AMC 10 A | 2019 | [#14](../problems/amc10/2019A.md#problem-14) | — |
+| AMC 10 B | 2019 | [#3](../problems/amc10/2019B.md#problem-3) | — |
+| AMC 10 B | 2019 | [#11](../problems/amc10/2019B.md#problem-11) | — |
+| AMC 10 A | 2020 | [#1](../problems/amc10/2020A.md#problem-1) | — |
+| AMC 10 A | 2020 | [#2](../problems/amc10/2020A.md#problem-2) | — |
+| AMC 10 A | 2020 | [#3](../problems/amc10/2020A.md#problem-3) | — |
+| AMC 10 A | 2020 | [#4](../problems/amc10/2020A.md#problem-4) | — |
+| AMC 10 A | 2020 | [#12](../problems/amc10/2020A.md#problem-12) | — |
+| AMC 10 B | 2020 | [#1](../problems/amc10/2020B.md#problem-1) | — |
+| AMC 10 B | 2020 | [#3](../problems/amc10/2020B.md#problem-3) | — |
+| AMC 10 B | 2020 | [#6](../problems/amc10/2020B.md#problem-6) | — |
+| AMC 10 B | 2020 | [#13](../problems/amc10/2020B.md#problem-13) | — |
+| AMC 10 B | 2020 | [#21](../problems/amc10/2020B.md#problem-21) | geometry |
+| AMC 10 A | 2021 | [#2](../problems/amc10/2021A.md#problem-2) | — |
+| AMC 10 A | 2021 | [#5](../problems/amc10/2021A.md#problem-5) | — |
+| AMC 10 A | 2021 | [#7](../problems/amc10/2021A.md#problem-7) | — |
+| AMC 10 A | 2021 | [#9](../problems/amc10/2021A.md#problem-9) | — |
+| AMC 10 B | 2021 | [#3](../problems/amc10/2021B.md#problem-3) | number-theory |
+| AMC 10 B | 2021 | [#4](../problems/amc10/2021B.md#problem-4) | — |
+| AMC 10 B | 2021 | [#5](../problems/amc10/2021B.md#problem-5) | — |
+| AMC 10 B | 2021 | [#6](../problems/amc10/2021B.md#problem-6) | — |
+| AMC 10 B | 2021 | [#17](../problems/amc10/2021B.md#problem-17) | — |
+| AMC 10 A | 2022 | [#2](../problems/amc10/2022A.md#problem-2) | — |
+| AMC 10 A | 2022 | [#3](../problems/amc10/2022A.md#problem-3) | — |
+| AMC 10 A | 2022 | [#4](../problems/amc10/2022A.md#problem-4) | — |
+| AMC 10 A | 2022 | [#6](../problems/amc10/2022A.md#problem-6) | — |
+| AMC 10 A | 2022 | [#12](../problems/amc10/2022A.md#problem-12) | — |
+| AMC 10 A | 2022 | [#17](../problems/amc10/2022A.md#problem-17) | — |
+| AMC 10 B | 2022 | [#1](../problems/amc10/2022B.md#problem-1) | — |
+| AMC 10 B | 2022 | [#10](../problems/amc10/2022B.md#problem-10) | — |
+| AMC 10 B | 2022 | [#11](../problems/amc10/2022B.md#problem-11) | — |
+| AMC 10 B | 2022 | [#12](../problems/amc10/2022B.md#problem-12) | probability |
+| AMC 10 B | 2022 | [#24](../problems/amc10/2022B.md#problem-24) | — |
+| AMC 10 A | 2023 | [#1](../problems/amc10/2023A.md#problem-1) | — |
+| AMC 10 A | 2023 | [#2](../problems/amc10/2023A.md#problem-2) | — |
+| AMC 10 A | 2023 | [#3](../problems/amc10/2023A.md#problem-3) | — |
+| AMC 10 A | 2023 | [#8](../problems/amc10/2023A.md#problem-8) | — |
+| AMC 10 A | 2023 | [#10](../problems/amc10/2023A.md#problem-10) | — |
+| AMC 10 A | 2023 | [#21](../problems/amc10/2023A.md#problem-21) | — |
+| AMC 10 B | 2023 | [#1](../problems/amc10/2023B.md#problem-1) | — |
+| AMC 10 B | 2023 | [#2](../problems/amc10/2023B.md#problem-2) | — |
+| AMC 10 B | 2023 | [#4](../problems/amc10/2023B.md#problem-4) | — |
+| AMC 10 B | 2023 | [#5](../problems/amc10/2023B.md#problem-5) | — |
+| AMC 10 B | 2023 | [#12](../problems/amc10/2023B.md#problem-12) | — |
+| AMC 10 | 2024 | [#1](../problems/amc10/2024.md#problem-1) | — |
+| AMC 10 | 2024 | [#2](../problems/amc10/2024.md#problem-2) | — |
+| AMC 10 | 2024 | [#3](../problems/amc10/2024.md#problem-3) | — |
+| AMC 10 | 2024 | [#4](../problems/amc10/2024.md#problem-4) | — |
+| AMC 10 | 2024 | [#5](../problems/amc10/2024.md#problem-5) | — |
+| AMC 10 | 2024 | [#6](../problems/amc10/2024.md#problem-6) | — |
+| AMC 10 | 2024 | [#7](../problems/amc10/2024.md#problem-7) | — |
+| AMC 10 | 2024 | [#8](../problems/amc10/2024.md#problem-8) | — |
+| AMC 10 | 2024 | [#9](../problems/amc10/2024.md#problem-9) | — |
+| AMC 10 | 2024 | [#10](../problems/amc10/2024.md#problem-10) | — |
+| AMC 10 | 2024 | [#11](../problems/amc10/2024.md#problem-11) | — |
+| AMC 10 | 2024 | [#12](../problems/amc10/2024.md#problem-12) | — |
+| AMC 10 | 2024 | [#13](../problems/amc10/2024.md#problem-13) | — |
+| AMC 10 | 2024 | [#14](../problems/amc10/2024.md#problem-14) | — |
+| AMC 10 | 2024 | [#16](../problems/amc10/2024.md#problem-16) | — |
+| AMC 10 | 2024 | [#17](../problems/amc10/2024.md#problem-17) | — |
+| AMC 10 | 2024 | [#18](../problems/amc10/2024.md#problem-18) | — |
+| AMC 10 | 2024 | [#19](../problems/amc10/2024.md#problem-19) | — |
+| AMC 10 | 2024 | [#20](../problems/amc10/2024.md#problem-20) | — |
+| AMC 10 | 2024 | [#21](../problems/amc10/2024.md#problem-21) | — |
+| AMC 10 | 2024 | [#22](../problems/amc10/2024.md#problem-22) | — |
+| AMC 10 | 2024 | [#23](../problems/amc10/2024.md#problem-23) | — |
+| AMC 10 | 2024 | [#24](../problems/amc10/2024.md#problem-24) | — |
+| AMC 10 | 2024 | [#25](../problems/amc10/2024.md#problem-25) | — |
+| AMC 10 A | 2024 | [#4](../problems/amc10/2024A.md#problem-4) | — |
+| AMC 10 A | 2024 | [#7](../problems/amc10/2024A.md#problem-7) | — |
+| AMC 10 A | 2024 | [#8](../problems/amc10/2024A.md#problem-8) | — |
+| AMC 10 A | 2024 | [#12](../problems/amc10/2024A.md#problem-12) | — |
+| AMC 10 A | 2024 | [#16](../problems/amc10/2024A.md#problem-16) | geometry |
+| AMC 10 A | 2024 | [#23](../problems/amc10/2024A.md#problem-23) | — |
+| AMC 10 B | 2024 | [#1](../problems/amc10/2024B.md#problem-1) | — |
+| AMC 10 B | 2024 | [#5](../problems/amc10/2024B.md#problem-5) | sequences-and-series |
+| AMC 10 B | 2024 | [#9](../problems/amc10/2024B.md#problem-9) | — |
+| AMC 10 B | 2024 | [#14](../problems/amc10/2024B.md#problem-14) | geometry, probability, trigonometry |
+| AMC 10 B | 2024 | [#19](../problems/amc10/2024B.md#problem-19) | — |
+| AMC 12 | 2000 | [#2](../problems/amc12/2000.md#problem-2) | — |
+| AMC 12 | 2000 | [#3](../problems/amc12/2000.md#problem-3) | — |
+| AMC 12 | 2000 | [#5](../problems/amc12/2000.md#problem-5) | — |
+| AMC 12 | 2000 | [#10](../problems/amc12/2000.md#problem-10) | — |
+| AMC 12 | 2000 | [#11](../problems/amc12/2000.md#problem-11) | — |
+| AMC 12 | 2000 | [#13](../problems/amc12/2000.md#problem-13) | number-theory |
+| AMC 12 | 2000 | [#16](../problems/amc12/2000.md#problem-16) | — |
+| AMC 12 | 2000 | [#20](../problems/amc12/2000.md#problem-20) | — |
+| AMC 12 | 2001 | [#1](../problems/amc12/2001.md#problem-1) | — |
+| AMC 12 | 2001 | [#2](../problems/amc12/2001.md#problem-2) | — |
+| AMC 12 | 2001 | [#3](../problems/amc12/2001.md#problem-3) | — |
+| AMC 12 | 2001 | [#4](../problems/amc12/2001.md#problem-4) | — |
+| AMC 12 | 2001 | [#5](../problems/amc12/2001.md#problem-5) | — |
+| AMC 12 | 2001 | [#9](../problems/amc12/2001.md#problem-9) | — |
+| AMC 12 | 2001 | [#13](../problems/amc12/2001.md#problem-13) | — |
+| AMC 12 | 2001 | [#22](../problems/amc12/2001.md#problem-22) | — |
+| AMC 12 A | 2002 | [#2](../problems/amc12/2002A.md#problem-2) | — |
+| AMC 12 A | 2002 | [#4](../problems/amc12/2002A.md#problem-4) | — |
+| AMC 12 A | 2002 | [#9](../problems/amc12/2002A.md#problem-9) | — |
+| AMC 12 A | 2002 | [#10](../problems/amc12/2002A.md#problem-10) | — |
+| AMC 12 A | 2002 | [#11](../problems/amc12/2002A.md#problem-11) | — |
+| AMC 12 A | 2002 | [#13](../problems/amc12/2002A.md#problem-13) | — |
+| AMC 12 A | 2002 | [#15](../problems/amc12/2002A.md#problem-15) | — |
+| AMC 12 A | 2002 | [#19](../problems/amc12/2002A.md#problem-19) | — |
+| AMC 12 A | 2002 | [#25](../problems/amc12/2002A.md#problem-25) | — |
+| AMC 12 B | 2002 | [#1](../problems/amc12/2002B.md#problem-1) | — |
+| AMC 12 B | 2002 | [#2](../problems/amc12/2002B.md#problem-2) | — |
+| AMC 12 B | 2002 | [#3](../problems/amc12/2002B.md#problem-3) | — |
+| AMC 12 B | 2002 | [#4](../problems/amc12/2002B.md#problem-4) | — |
+| AMC 12 B | 2002 | [#15](../problems/amc12/2002B.md#problem-15) | — |
+| AMC 12 B | 2002 | [#19](../problems/amc12/2002B.md#problem-19) | — |
+| AMC 12 A | 2003 | [#2](../problems/amc12/2003A.md#problem-2) | — |
+| AMC 12 A | 2003 | [#4](../problems/amc12/2003A.md#problem-4) | — |
+| AMC 12 A | 2003 | [#5](../problems/amc12/2003A.md#problem-5) | — |
+| AMC 12 A | 2003 | [#6](../problems/amc12/2003A.md#problem-6) | — |
+| AMC 12 A | 2003 | [#9](../problems/amc12/2003A.md#problem-9) | — |
+| AMC 12 A | 2003 | [#10](../problems/amc12/2003A.md#problem-10) | — |
+| AMC 12 A | 2003 | [#11](../problems/amc12/2003A.md#problem-11) | — |
+| AMC 12 A | 2003 | [#12](../problems/amc12/2003A.md#problem-12) | — |
+| AMC 12 A | 2003 | [#20](../problems/amc12/2003A.md#problem-20) | — |
+| AMC 12 B | 2003 | [#1](../problems/amc12/2003B.md#problem-1) | — |
+| AMC 12 B | 2003 | [#2](../problems/amc12/2003B.md#problem-2) | — |
+| AMC 12 B | 2003 | [#7](../problems/amc12/2003B.md#problem-7) | — |
+| AMC 12 B | 2003 | [#8](../problems/amc12/2003B.md#problem-8) | — |
+| AMC 12 B | 2003 | [#9](../problems/amc12/2003B.md#problem-9) | — |
+| AMC 12 B | 2003 | [#11](../problems/amc12/2003B.md#problem-11) | — |
+| AMC 12 B | 2003 | [#23](../problems/amc12/2003B.md#problem-23) | trigonometry |
+| AMC 12 B | 2003 | [#24](../problems/amc12/2003B.md#problem-24) | — |
+| AMC 12 A | 2004 | [#1](../problems/amc12/2004A.md#problem-1) | — |
+| AMC 12 A | 2004 | [#2](../problems/amc12/2004A.md#problem-2) | — |
+| AMC 12 A | 2004 | [#4](../problems/amc12/2004A.md#problem-4) | — |
+| AMC 12 A | 2004 | [#5](../problems/amc12/2004A.md#problem-5) | — |
+| AMC 12 A | 2004 | [#6](../problems/amc12/2004A.md#problem-6) | — |
+| AMC 12 A | 2004 | [#11](../problems/amc12/2004A.md#problem-11) | — |
+| AMC 12 A | 2004 | [#17](../problems/amc12/2004A.md#problem-17) | — |
+| AMC 12 A | 2004 | [#19](../problems/amc12/2004A.md#problem-19) | — |
+| AMC 12 A | 2004 | [#24](../problems/amc12/2004A.md#problem-24) | — |
+| AMC 12 B | 2004 | [#1](../problems/amc12/2004B.md#problem-1) | — |
+| AMC 12 B | 2004 | [#2](../problems/amc12/2004B.md#problem-2) | — |
+| AMC 12 B | 2004 | [#3](../problems/amc12/2004B.md#problem-3) | — |
+| AMC 12 B | 2004 | [#5](../problems/amc12/2004B.md#problem-5) | — |
+| AMC 12 B | 2004 | [#9](../problems/amc12/2004B.md#problem-9) | — |
+| AMC 12 B | 2004 | [#11](../problems/amc12/2004B.md#problem-11) | — |
+| AMC 12 B | 2004 | [#13](../problems/amc12/2004B.md#problem-13) | — |
+| AMC 12 A | 2005 | [#1](../problems/amc12/2005A.md#problem-1) | — |
+| AMC 12 A | 2005 | [#2](../problems/amc12/2005A.md#problem-2) | — |
+| AMC 12 A | 2005 | [#6](../problems/amc12/2005A.md#problem-6) | — |
+| AMC 12 A | 2005 | [#20](../problems/amc12/2005A.md#problem-20) | — |
+| AMC 12 A | 2005 | [#24](../problems/amc12/2005A.md#problem-24) | geometry |
+| AMC 12 B | 2005 | [#1](../problems/amc12/2005B.md#problem-1) | — |
+| AMC 12 B | 2005 | [#2](../problems/amc12/2005B.md#problem-2) | — |
+| AMC 12 B | 2005 | [#3](../problems/amc12/2005B.md#problem-3) | — |
+| AMC 12 B | 2005 | [#4](../problems/amc12/2005B.md#problem-4) | — |
+| AMC 12 B | 2005 | [#8](../problems/amc12/2005B.md#problem-8) | — |
+| AMC 12 B | 2005 | [#9](../problems/amc12/2005B.md#problem-9) | — |
+| AMC 12 B | 2005 | [#10](../problems/amc12/2005B.md#problem-10) | — |
+| AMC 12 B | 2005 | [#13](../problems/amc12/2005B.md#problem-13) | — |
+| AMC 12 A | 2006 | [#1](../problems/amc12/2006A.md#problem-1) | — |
+| AMC 12 A | 2006 | [#2](../problems/amc12/2006A.md#problem-2) | — |
+| AMC 12 A | 2006 | [#3](../problems/amc12/2006A.md#problem-3) | — |
+| AMC 12 A | 2006 | [#4](../problems/amc12/2006A.md#problem-4) | — |
+| AMC 12 A | 2006 | [#5](../problems/amc12/2006A.md#problem-5) | — |
+| AMC 12 A | 2006 | [#7](../problems/amc12/2006A.md#problem-7) | — |
+| AMC 12 A | 2006 | [#18](../problems/amc12/2006A.md#problem-18) | — |
+| AMC 12 A | 2006 | [#23](../problems/amc12/2006A.md#problem-23) | sequences-and-series |
+| AMC 12 B | 2006 | [#1](../problems/amc12/2006B.md#problem-1) | — |
+| AMC 12 B | 2006 | [#2](../problems/amc12/2006B.md#problem-2) | — |
+| AMC 12 B | 2006 | [#3](../problems/amc12/2006B.md#problem-3) | — |
+| AMC 12 B | 2006 | [#4](../problems/amc12/2006B.md#problem-4) | — |
+| AMC 12 B | 2006 | [#5](../problems/amc12/2006B.md#problem-5) | — |
+| AMC 12 B | 2006 | [#6](../problems/amc12/2006B.md#problem-6) | — |
+| AMC 12 B | 2006 | [#7](../problems/amc12/2006B.md#problem-7) | — |
+| AMC 12 B | 2006 | [#8](../problems/amc12/2006B.md#problem-8) | — |
+| AMC 12 B | 2006 | [#11](../problems/amc12/2006B.md#problem-11) | — |
+| AMC 12 B | 2006 | [#12](../problems/amc12/2006B.md#problem-12) | — |
+| AMC 12 B | 2006 | [#14](../problems/amc12/2006B.md#problem-14) | — |
+| AMC 12 B | 2006 | [#18](../problems/amc12/2006B.md#problem-18) | — |
+| AMC 12 A | 2007 | [#1](../problems/amc12/2007A.md#problem-1) | — |
+| AMC 12 A | 2007 | [#3](../problems/amc12/2007A.md#problem-3) | — |
+| AMC 12 A | 2007 | [#4](../problems/amc12/2007A.md#problem-4) | — |
+| AMC 12 A | 2007 | [#5](../problems/amc12/2007A.md#problem-5) | — |
+| AMC 12 A | 2007 | [#9](../problems/amc12/2007A.md#problem-9) | — |
+| AMC 12 A | 2007 | [#11](../problems/amc12/2007A.md#problem-11) | number-theory, sequences-and-series |
+| AMC 12 A | 2007 | [#15](../problems/amc12/2007A.md#problem-15) | — |
+| AMC 12 B | 2007 | [#1](../problems/amc12/2007B.md#problem-1) | — |
+| AMC 12 B | 2007 | [#2](../problems/amc12/2007B.md#problem-2) | — |
+| AMC 12 B | 2007 | [#4](../problems/amc12/2007B.md#problem-4) | — |
+| AMC 12 B | 2007 | [#5](../problems/amc12/2007B.md#problem-5) | — |
+| AMC 12 B | 2007 | [#8](../problems/amc12/2007B.md#problem-8) | — |
+| AMC 12 B | 2007 | [#9](../problems/amc12/2007B.md#problem-9) | — |
+| AMC 12 B | 2007 | [#10](../problems/amc12/2007B.md#problem-10) | — |
+| AMC 12 B | 2007 | [#12](../problems/amc12/2007B.md#problem-12) | — |
+| AMC 12 B | 2007 | [#18](../problems/amc12/2007B.md#problem-18) | number-theory |
+| AMC 12 A | 2008 | [#1](../problems/amc12/2008A.md#problem-1) | — |
+| AMC 12 A | 2008 | [#2](../problems/amc12/2008A.md#problem-2) | — |
+| AMC 12 A | 2008 | [#3](../problems/amc12/2008A.md#problem-3) | — |
+| AMC 12 A | 2008 | [#4](../problems/amc12/2008A.md#problem-4) | — |
+| AMC 12 A | 2008 | [#6](../problems/amc12/2008A.md#problem-6) | — |
+| AMC 12 A | 2008 | [#7](../problems/amc12/2008A.md#problem-7) | — |
+| AMC 12 A | 2008 | [#10](../problems/amc12/2008A.md#problem-10) | — |
+| AMC 12 A | 2008 | [#12](../problems/amc12/2008A.md#problem-12) | — |
+| AMC 12 A | 2008 | [#14](../problems/amc12/2008A.md#problem-14) | geometry |
+| AMC 12 B | 2008 | [#2](../problems/amc12/2008B.md#problem-2) | — |
+| AMC 12 B | 2008 | [#3](../problems/amc12/2008B.md#problem-3) | — |
+| AMC 12 B | 2008 | [#5](../problems/amc12/2008B.md#problem-5) | — |
+| AMC 12 B | 2008 | [#6](../problems/amc12/2008B.md#problem-6) | — |
+| AMC 12 B | 2008 | [#7](../problems/amc12/2008B.md#problem-7) | — |
+| AMC 12 B | 2008 | [#8](../problems/amc12/2008B.md#problem-8) | — |
+| AMC 12 B | 2008 | [#10](../problems/amc12/2008B.md#problem-10) | — |
+| AMC 12 B | 2008 | [#20](../problems/amc12/2008B.md#problem-20) | — |
+| AMC 12 A | 2009 | [#1](../problems/amc12/2009A.md#problem-1) | — |
+| AMC 12 A | 2009 | [#2](../problems/amc12/2009A.md#problem-2) | — |
+| AMC 12 A | 2009 | [#3](../problems/amc12/2009A.md#problem-3) | — |
+| AMC 12 A | 2009 | [#4](../problems/amc12/2009A.md#problem-4) | — |
+| AMC 12 A | 2009 | [#6](../problems/amc12/2009A.md#problem-6) | — |
+| AMC 12 A | 2009 | [#9](../problems/amc12/2009A.md#problem-9) | — |
+| AMC 12 A | 2009 | [#23](../problems/amc12/2009A.md#problem-23) | number-theory |
+| AMC 12 B | 2009 | [#1](../problems/amc12/2009B.md#problem-1) | — |
+| AMC 12 B | 2009 | [#2](../problems/amc12/2009B.md#problem-2) | — |
+| AMC 12 B | 2009 | [#3](../problems/amc12/2009B.md#problem-3) | — |
+| AMC 12 B | 2009 | [#5](../problems/amc12/2009B.md#problem-5) | — |
+| AMC 12 B | 2009 | [#6](../problems/amc12/2009B.md#problem-6) | — |
+| AMC 12 B | 2009 | [#7](../problems/amc12/2009B.md#problem-7) | — |
+| AMC 12 B | 2009 | [#8](../problems/amc12/2009B.md#problem-8) | — |
+| AMC 12 B | 2009 | [#10](../problems/amc12/2009B.md#problem-10) | — |
+| AMC 12 B | 2009 | [#11](../problems/amc12/2009B.md#problem-11) | — |
+| AMC 12 B | 2009 | [#15](../problems/amc12/2009B.md#problem-15) | geometry |
+| AMC 12 B | 2009 | [#24](../problems/amc12/2009B.md#problem-24) | geometry, trigonometry |
+| AMC 12 A | 2010 | [#1](../problems/amc12/2010A.md#problem-1) | — |
+| AMC 12 A | 2010 | [#2](../problems/amc12/2010A.md#problem-2) | — |
+| AMC 12 A | 2010 | [#4](../problems/amc12/2010A.md#problem-4) | — |
+| AMC 12 A | 2010 | [#5](../problems/amc12/2010A.md#problem-5) | — |
+| AMC 12 A | 2010 | [#6](../problems/amc12/2010A.md#problem-6) | — |
+| AMC 12 B | 2010 | [#1](../problems/amc12/2010B.md#problem-1) | — |
+| AMC 12 B | 2010 | [#2](../problems/amc12/2010B.md#problem-2) | — |
+| AMC 12 B | 2010 | [#5](../problems/amc12/2010B.md#problem-5) | — |
+| AMC 12 B | 2010 | [#6](../problems/amc12/2010B.md#problem-6) | — |
+| AMC 12 B | 2010 | [#7](../problems/amc12/2010B.md#problem-7) | — |
+| AMC 12 B | 2010 | [#21](../problems/amc12/2010B.md#problem-21) | number-theory |
+| AMC 12 A | 2011 | [#1](../problems/amc12/2011A.md#problem-1) | — |
+| AMC 12 A | 2011 | [#2](../problems/amc12/2011A.md#problem-2) | — |
+| AMC 12 A | 2011 | [#3](../problems/amc12/2011A.md#problem-3) | — |
+| AMC 12 A | 2011 | [#4](../problems/amc12/2011A.md#problem-4) | — |
+| AMC 12 A | 2011 | [#6](../problems/amc12/2011A.md#problem-6) | — |
+| AMC 12 A | 2011 | [#9](../problems/amc12/2011A.md#problem-9) | — |
+| AMC 12 A | 2011 | [#12](../problems/amc12/2011A.md#problem-12) | — |
+| AMC 12 A | 2011 | [#14](../problems/amc12/2011A.md#problem-14) | probability |
+| AMC 12 A | 2011 | [#18](../problems/amc12/2011A.md#problem-18) | — |
+| AMC 12 A | 2011 | [#20](../problems/amc12/2011A.md#problem-20) | — |
+| AMC 12 B | 2011 | [#2](../problems/amc12/2011B.md#problem-2) | — |
+| AMC 12 B | 2011 | [#3](../problems/amc12/2011B.md#problem-3) | — |
+| AMC 12 B | 2011 | [#7](../problems/amc12/2011B.md#problem-7) | — |
+| AMC 12 B | 2011 | [#13](../problems/amc12/2011B.md#problem-13) | — |
+| AMC 12 B | 2011 | [#15](../problems/amc12/2011B.md#problem-15) | — |
+| AMC 12 B | 2011 | [#19](../problems/amc12/2011B.md#problem-19) | — |
+| AMC 12 A | 2012 | [#1](../problems/amc12/2012A.md#problem-1) | — |
+| AMC 12 A | 2012 | [#2](../problems/amc12/2012A.md#problem-2) | — |
+| AMC 12 A | 2012 | [#4](../problems/amc12/2012A.md#problem-4) | — |
+| AMC 12 A | 2012 | [#5](../problems/amc12/2012A.md#problem-5) | — |
+| AMC 12 A | 2012 | [#6](../problems/amc12/2012A.md#problem-6) | — |
+| AMC 12 A | 2012 | [#8](../problems/amc12/2012A.md#problem-8) | — |
+| AMC 12 A | 2012 | [#13](../problems/amc12/2012A.md#problem-13) | — |
+| AMC 12 A | 2012 | [#14](../problems/amc12/2012A.md#problem-14) | — |
+| AMC 12 A | 2012 | [#20](../problems/amc12/2012A.md#problem-20) | — |
+| AMC 12 A | 2012 | [#23](../problems/amc12/2012A.md#problem-23) | geometry, probability |
+| AMC 12 A | 2012 | [#24](../problems/amc12/2012A.md#problem-24) | sequences-and-series |
+| AMC 12 A | 2012 | [#25](../problems/amc12/2012A.md#problem-25) | — |
+| AMC 12 B | 2012 | [#1](../problems/amc12/2012B.md#problem-1) | — |
+| AMC 12 B | 2012 | [#3](../problems/amc12/2012B.md#problem-3) | — |
+| AMC 12 B | 2012 | [#4](../problems/amc12/2012B.md#problem-4) | — |
+| AMC 12 B | 2012 | [#5](../problems/amc12/2012B.md#problem-5) | — |
+| AMC 12 B | 2012 | [#6](../problems/amc12/2012B.md#problem-6) | — |
+| AMC 12 B | 2012 | [#7](../problems/amc12/2012B.md#problem-7) | — |
+| AMC 12 B | 2012 | [#8](../problems/amc12/2012B.md#problem-8) | — |
+| AMC 12 B | 2012 | [#9](../problems/amc12/2012B.md#problem-9) | — |
+| AMC 12 B | 2012 | [#18](../problems/amc12/2012B.md#problem-18) | — |
+| AMC 12 B | 2012 | [#20](../problems/amc12/2012B.md#problem-20) | — |
+| AMC 12 B | 2012 | [#21](../problems/amc12/2012B.md#problem-21) | — |
+| AMC 12 B | 2012 | [#22](../problems/amc12/2012B.md#problem-22) | — |
+| AMC 12 B | 2012 | [#25](../problems/amc12/2012B.md#problem-25) | — |
+| AMC 12 A | 2013 | [#2](../problems/amc12/2013A.md#problem-2) | — |
+| AMC 12 A | 2013 | [#3](../problems/amc12/2013A.md#problem-3) | — |
+| AMC 12 A | 2013 | [#4](../problems/amc12/2013A.md#problem-4) | — |
+| AMC 12 A | 2013 | [#5](../problems/amc12/2013A.md#problem-5) | — |
+| AMC 12 A | 2013 | [#6](../problems/amc12/2013A.md#problem-6) | — |
+| AMC 12 A | 2013 | [#10](../problems/amc12/2013A.md#problem-10) | — |
+| AMC 12 A | 2013 | [#15](../problems/amc12/2013A.md#problem-15) | — |
+| AMC 12 A | 2013 | [#16](../problems/amc12/2013A.md#problem-16) | geometry |
+| AMC 12 A | 2013 | [#17](../problems/amc12/2013A.md#problem-17) | — |
+| AMC 12 A | 2013 | [#20](../problems/amc12/2013A.md#problem-20) | — |
+| AMC 12 B | 2013 | [#1](../problems/amc12/2013B.md#problem-1) | — |
+| AMC 12 B | 2013 | [#3](../problems/amc12/2013B.md#problem-3) | — |
+| AMC 12 B | 2013 | [#4](../problems/amc12/2013B.md#problem-4) | — |
+| AMC 12 B | 2013 | [#5](../problems/amc12/2013B.md#problem-5) | — |
+| AMC 12 B | 2013 | [#10](../problems/amc12/2013B.md#problem-10) | — |
+| AMC 12 B | 2013 | [#11](../problems/amc12/2013B.md#problem-11) | — |
+| AMC 12 B | 2013 | [#18](../problems/amc12/2013B.md#problem-18) | — |
+| AMC 12 B | 2013 | [#20](../problems/amc12/2013B.md#problem-20) | geometry, trigonometry |
+| AMC 12 A | 2014 | [#2](../problems/amc12/2014A.md#problem-2) | — |
+| AMC 12 A | 2014 | [#4](../problems/amc12/2014A.md#problem-4) | — |
+| AMC 12 A | 2014 | [#5](../problems/amc12/2014A.md#problem-5) | — |
+| AMC 12 A | 2014 | [#6](../problems/amc12/2014A.md#problem-6) | — |
+| AMC 12 A | 2014 | [#7](../problems/amc12/2014A.md#problem-7) | — |
+| AMC 12 A | 2014 | [#8](../problems/amc12/2014A.md#problem-8) | — |
+| AMC 12 A | 2014 | [#11](../problems/amc12/2014A.md#problem-11) | — |
+| AMC 12 A | 2014 | [#19](../problems/amc12/2014A.md#problem-19) | — |
+| AMC 12 A | 2014 | [#22](../problems/amc12/2014A.md#problem-22) | — |
+| AMC 12 B | 2014 | [#1](../problems/amc12/2014B.md#problem-1) | — |
+| AMC 12 B | 2014 | [#2](../problems/amc12/2014B.md#problem-2) | — |
+| AMC 12 B | 2014 | [#3](../problems/amc12/2014B.md#problem-3) | — |
+| AMC 12 B | 2014 | [#4](../problems/amc12/2014B.md#problem-4) | — |
+| AMC 12 B | 2014 | [#6](../problems/amc12/2014B.md#problem-6) | — |
+| AMC 12 B | 2014 | [#11](../problems/amc12/2014B.md#problem-11) | — |
+| AMC 12 B | 2014 | [#14](../problems/amc12/2014B.md#problem-14) | — |
+| AMC 12 B | 2014 | [#15](../problems/amc12/2014B.md#problem-15) | — |
+| AMC 12 B | 2014 | [#16](../problems/amc12/2014B.md#problem-16) | geometry |
+| AMC 12 B | 2014 | [#22](../problems/amc12/2014B.md#problem-22) | probability |
+| AMC 12 A | 2015 | [#1](../problems/amc12/2015A.md#problem-1) | — |
+| AMC 12 A | 2015 | [#3](../problems/amc12/2015A.md#problem-3) | — |
+| AMC 12 A | 2015 | [#4](../problems/amc12/2015A.md#problem-4) | — |
+| AMC 12 A | 2015 | [#5](../problems/amc12/2015A.md#problem-5) | — |
+| AMC 12 A | 2015 | [#6](../problems/amc12/2015A.md#problem-6) | — |
+| AMC 12 A | 2015 | [#8](../problems/amc12/2015A.md#problem-8) | — |
+| AMC 12 A | 2015 | [#13](../problems/amc12/2015A.md#problem-13) | — |
+| AMC 12 A | 2015 | [#19](../problems/amc12/2015A.md#problem-19) | — |
+| AMC 12 B | 2015 | [#1](../problems/amc12/2015B.md#problem-1) | — |
+| AMC 12 B | 2015 | [#2](../problems/amc12/2015B.md#problem-2) | — |
+| AMC 12 B | 2015 | [#3](../problems/amc12/2015B.md#problem-3) | — |
+| AMC 12 B | 2015 | [#4](../problems/amc12/2015B.md#problem-4) | — |
+| AMC 12 B | 2015 | [#5](../problems/amc12/2015B.md#problem-5) | — |
+| AMC 12 B | 2015 | [#6](../problems/amc12/2015B.md#problem-6) | — |
+| AMC 12 A | 2016 | [#2](../problems/amc12/2016A.md#problem-2) | — |
+| AMC 12 A | 2016 | [#4](../problems/amc12/2016A.md#problem-4) | — |
+| AMC 12 A | 2016 | [#7](../problems/amc12/2016A.md#problem-7) | — |
+| AMC 12 A | 2016 | [#9](../problems/amc12/2016A.md#problem-9) | — |
+| AMC 12 A | 2016 | [#11](../problems/amc12/2016A.md#problem-11) | — |
+| AMC 12 A | 2016 | [#12](../problems/amc12/2016A.md#problem-12) | — |
+| AMC 12 A | 2016 | [#13](../problems/amc12/2016A.md#problem-13) | probability |
+| AMC 12 A | 2016 | [#16](../problems/amc12/2016A.md#problem-16) | — |
+| AMC 12 A | 2016 | [#17](../problems/amc12/2016A.md#problem-17) | — |
+| AMC 12 A | 2016 | [#20](../problems/amc12/2016A.md#problem-20) | — |
+| AMC 12 B | 2016 | [#1](../problems/amc12/2016B.md#problem-1) | — |
+| AMC 12 B | 2016 | [#2](../problems/amc12/2016B.md#problem-2) | — |
+| AMC 12 B | 2016 | [#3](../problems/amc12/2016B.md#problem-3) | — |
+| AMC 12 B | 2016 | [#4](../problems/amc12/2016B.md#problem-4) | — |
+| AMC 12 B | 2016 | [#7](../problems/amc12/2016B.md#problem-7) | — |
+| AMC 12 B | 2016 | [#12](../problems/amc12/2016B.md#problem-12) | — |
+| AMC 12 B | 2016 | [#16](../problems/amc12/2016B.md#problem-16) | — |
+| AMC 12 B | 2016 | [#23](../problems/amc12/2016B.md#problem-23) | geometry |
+| AMC 12 A | 2017 | [#1](../problems/amc12/2017A.md#problem-1) | — |
+| AMC 12 A | 2017 | [#2](../problems/amc12/2017A.md#problem-2) | — |
+| AMC 12 A | 2017 | [#3](../problems/amc12/2017A.md#problem-3) | — |
+| AMC 12 A | 2017 | [#13](../problems/amc12/2017A.md#problem-13) | — |
+| AMC 12 A | 2017 | [#21](../problems/amc12/2017A.md#problem-21) | — |
+| AMC 12 A | 2017 | [#22](../problems/amc12/2017A.md#problem-22) | geometry, probability |
+| AMC 12 B | 2017 | [#1](../problems/amc12/2017B.md#problem-1) | — |
+| AMC 12 B | 2017 | [#2](../problems/amc12/2017B.md#problem-2) | — |
+| AMC 12 B | 2017 | [#3](../problems/amc12/2017B.md#problem-3) | — |
+| AMC 12 B | 2017 | [#4](../problems/amc12/2017B.md#problem-4) | — |
+| AMC 12 B | 2017 | [#5](../problems/amc12/2017B.md#problem-5) | — |
+| AMC 12 A | 2018 | [#1](../problems/amc12/2018A.md#problem-1) | — |
+| AMC 12 A | 2018 | [#4](../problems/amc12/2018A.md#problem-4) | — |
+| AMC 12 A | 2018 | [#5](../problems/amc12/2018A.md#problem-5) | — |
+| AMC 12 A | 2018 | [#6](../problems/amc12/2018A.md#problem-6) | — |
+| AMC 12 A | 2018 | [#7](../problems/amc12/2018A.md#problem-7) | — |
+| AMC 12 A | 2018 | [#21](../problems/amc12/2018A.md#problem-21) | geometry |
+| AMC 12 B | 2018 | [#2](../problems/amc12/2018B.md#problem-2) | — |
+| AMC 12 B | 2018 | [#3](../problems/amc12/2018B.md#problem-3) | — |
+| AMC 12 B | 2018 | [#6](../problems/amc12/2018B.md#problem-6) | — |
+| AMC 12 B | 2018 | [#24](../problems/amc12/2018B.md#problem-24) | — |
+| AMC 12 A | 2019 | [#2](../problems/amc12/2019A.md#problem-2) | — |
+| AMC 12 A | 2019 | [#7](../problems/amc12/2019A.md#problem-7) | — |
+| AMC 12 A | 2019 | [#8](../problems/amc12/2019A.md#problem-8) | — |
+| AMC 12 A | 2020 | [#3](../problems/amc12/2020A.md#problem-3) | — |
+| AMC 12 A | 2020 | [#6](../problems/amc12/2020A.md#problem-6) | — |
+| AMC 12 B | 2020 | [#3](../problems/amc12/2020B.md#problem-3) | — |
+| AMC 12 B | 2020 | [#18](../problems/amc12/2020B.md#problem-18) | geometry |
+| AMC 12 A | 2021 | [#1](../problems/amc12/2021A.md#problem-1) | — |
+| AMC 12 A | 2021 | [#4](../problems/amc12/2021A.md#problem-4) | — |
+| AMC 12 A | 2021 | [#7](../problems/amc12/2021A.md#problem-7) | — |
+| AMC 12 A | 2021 | [#11](../problems/amc12/2021A.md#problem-11) | geometry |
+| AMC 12 A | 2021 | [#21](../problems/amc12/2021A.md#problem-21) | geometry |
+| AMC 12 B | 2021 | [#2](../problems/amc12/2021B.md#problem-2) | — |
+| AMC 12 B | 2021 | [#3](../problems/amc12/2021B.md#problem-3) | — |
+| AMC 12 B | 2021 | [#4](../problems/amc12/2021B.md#problem-4) | — |
+| AMC 12 B | 2021 | [#17](../problems/amc12/2021B.md#problem-17) | geometry |
+| AMC 12 A | 2022 | [#2](../problems/amc12/2022A.md#problem-2) | — |
+| AMC 12 A | 2022 | [#9](../problems/amc12/2022A.md#problem-9) | — |
+| AMC 12 B | 2022 | [#1](../problems/amc12/2022B.md#problem-1) | — |
+| AMC 12 B | 2022 | [#7](../problems/amc12/2022B.md#problem-7) | — |
+| AMC 12 A | 2023 | [#1](../problems/amc12/2023A.md#problem-1) | — |
+| AMC 12 A | 2023 | [#2](../problems/amc12/2023A.md#problem-2) | — |
+| AMC 12 A | 2023 | [#3](../problems/amc12/2023A.md#problem-3) | — |
+| AMC 12 A | 2023 | [#8](../problems/amc12/2023A.md#problem-8) | — |
+| AMC 12 B | 2023 | [#1](../problems/amc12/2023B.md#problem-1) | — |
+| AMC 12 B | 2023 | [#2](../problems/amc12/2023B.md#problem-2) | — |
+| AMC 12 B | 2023 | [#4](../problems/amc12/2023B.md#problem-4) | — |
+| AMC 12 B | 2023 | [#6](../problems/amc12/2023B.md#problem-6) | — |
+| AMC 12 B | 2023 | [#8](../problems/amc12/2023B.md#problem-8) | — |
+| AMC 12 B | 2023 | [#18](../problems/amc12/2023B.md#problem-18) | — |
+| AMC 12 A | 2024 | [#3](../problems/amc12/2024A.md#problem-3) | — |
+| AMC 12 A | 2024 | [#5](../problems/amc12/2024A.md#problem-5) | — |
+| AMC 12 A | 2024 | [#6](../problems/amc12/2024A.md#problem-6) | — |
+| AMC 12 A | 2024 | [#8](../problems/amc12/2024A.md#problem-8) | trigonometry |
+| AMC 12 A | 2024 | [#13](../problems/amc12/2024A.md#problem-13) | trigonometry |
+| AMC 12 A | 2024 | [#17](../problems/amc12/2024A.md#problem-17) | — |
+| AMC 12 A | 2024 | [#20](../problems/amc12/2024A.md#problem-20) | geometry, probability, trigonometry |
+| AMC 12 B | 2024 | [#1](../problems/amc12/2024B.md#problem-1) | — |
+| AMC 12 B | 2024 | [#5](../problems/amc12/2024B.md#problem-5) | sequences-and-series |
+| AMC 12 B | 2024 | [#9](../problems/amc12/2024B.md#problem-9) | geometry, probability, trigonometry |
+| AMC 12 B | 2024 | [#13](../problems/amc12/2024B.md#problem-13) | — |
+| AMC 12 B | 2024 | [#19](../problems/amc12/2024B.md#problem-19) | — |
+| AMC 12 B | 2024 | [#24](../problems/amc12/2024B.md#problem-24) | — |
+| AIME | 1983 | [#2](../problems/aime/1983.md#problem-2) | — |
+| AIME | 1984 | [#4](../problems/aime/1984.md#problem-4) | — |
+| AIME | 1985 | [#1](../problems/aime/1985.md#problem-1) | — |
+| AIME | 1986 | [#1](../problems/aime/1986.md#problem-1) | — |
+| AIME | 1986 | [#4](../problems/aime/1986.md#problem-4) | — |
+| AIME | 1987 | [#1](../problems/aime/1987.md#problem-1) | — |
+| AIME | 1987 | [#8](../problems/aime/1987.md#problem-8) | — |
+| AIME | 1987 | [#10](../problems/aime/1987.md#problem-10) | — |
+| AIME | 1988 | [#1](../problems/aime/1988.md#problem-1) | — |
+| AIME | 1988 | [#2](../problems/aime/1988.md#problem-2) | — |
+| AIME | 1988 | [#4](../problems/aime/1988.md#problem-4) | — |
+| AIME | 1989 | [#13](../problems/aime/1989.md#problem-13) | — |
+| AIME | 1990 | [#4](../problems/aime/1990.md#problem-4) | — |
+| AIME | 1990 | [#6](../problems/aime/1990.md#problem-6) | — |
+| AIME | 1990 | [#8](../problems/aime/1990.md#problem-8) | — |
+| AIME | 1990 | [#13](../problems/aime/1990.md#problem-13) | — |
+| AIME | 1991 | [#7](../problems/aime/1991.md#problem-7) | — |
+| AIME | 1991 | [#15](../problems/aime/1991.md#problem-15) | geometry, sequences-and-series, trigonometry |
+| AIME | 1992 | [#3](../problems/aime/1992.md#problem-3) | — |
+| AIME | 1992 | [#10](../problems/aime/1992.md#problem-10) | geometry |
+| AIME | 1993 | [#3](../problems/aime/1993.md#problem-3) | — |
+| AIME | 1994 | [#7](../problems/aime/1994.md#problem-7) | geometry |
+| AIME | 1997 | [#5](../problems/aime/1997.md#problem-5) | — |
+| AIME | 1999 | [#5](../problems/aime/1999.md#problem-5) | — |
+| AIME I | 2000 | [#7](../problems/aime/2000I.md#problem-7) | — |
+| AIME II | 2000 | [#10](../problems/aime/2000II.md#problem-10) | geometry, number-theory, trigonometry |
+| AIME I | 2001 | [#2](../problems/aime/2001I.md#problem-2) | — |
+| AIME I | 2001 | [#9](../problems/aime/2001I.md#problem-9) | geometry, trigonometry |
+| AIME II | 2001 | [#8](../problems/aime/2001II.md#problem-8) | — |
+| AIME II | 2002 | [#5](../problems/aime/2002II.md#problem-5) | number-theory |
+| AIME I | 2003 | [#1](../problems/aime/2003I.md#problem-1) | — |
+| AIME I | 2003 | [#3](../problems/aime/2003I.md#problem-3) | — |
+| AIME I | 2003 | [#8](../problems/aime/2003I.md#problem-8) | — |
+| AIME II | 2003 | [#1](../problems/aime/2003II.md#problem-1) | — |
+| AIME II | 2003 | [#8](../problems/aime/2003II.md#problem-8) | sequences-and-series |
+| AIME II | 2003 | [#12](../problems/aime/2003II.md#problem-12) | — |
+| AIME I | 2004 | [#5](../problems/aime/2004I.md#problem-5) | — |
+| AIME I | 2004 | [#6](../problems/aime/2004I.md#problem-6) | — |
+| AIME II | 2004 | [#5](../problems/aime/2004II.md#problem-5) | — |
+| AIME II | 2004 | [#6](../problems/aime/2004II.md#problem-6) | number-theory |
+| AIME II | 2005 | [#1](../problems/aime/2005II.md#problem-1) | number-theory |
+| AIME I | 2006 | [#2](../problems/aime/2006I.md#problem-2) | — |
+| AIME I | 2006 | [#5](../problems/aime/2006I.md#problem-5) | geometry, number-theory |
+| AIME I | 2006 | [#10](../problems/aime/2006I.md#problem-10) | geometry, number-theory |
+| AIME I | 2007 | [#2](../problems/aime/2007I.md#problem-2) | — |
+| AIME I | 2007 | [#4](../problems/aime/2007I.md#problem-4) | — |
+| AIME II | 2007 | [#4](../problems/aime/2007II.md#problem-4) | — |
+| AIME I | 2008 | [#1](../problems/aime/2008I.md#problem-1) | — |
+| AIME I | 2008 | [#13](../problems/aime/2008I.md#problem-13) | — |
+| AIME II | 2008 | [#2](../problems/aime/2008II.md#problem-2) | — |
+| AIME I | 2009 | [#14](../problems/aime/2009I.md#problem-14) | — |
+| AIME II | 2009 | [#1](../problems/aime/2009II.md#problem-1) | — |
+| AIME II | 2009 | [#5](../problems/aime/2009II.md#problem-5) | — |
+| AIME II | 2009 | [#11](../problems/aime/2009II.md#problem-11) | — |
+| AIME I | 2010 | [#6](../problems/aime/2010I.md#problem-6) | geometry |
+| AIME I | 2010 | [#9](../problems/aime/2010I.md#problem-9) | geometry |
+| AIME I | 2010 | [#11](../problems/aime/2010I.md#problem-11) | geometry, number-theory |
+| AIME I | 2010 | [#12](../problems/aime/2010I.md#problem-12) | — |
+| AIME II | 2010 | [#2](../problems/aime/2010II.md#problem-2) | — |
+| AIME II | 2010 | [#6](../problems/aime/2010II.md#problem-6) | — |
+| AIME II | 2010 | [#13](../problems/aime/2010II.md#problem-13) | probability |
+| AIME II | 2010 | [#15](../problems/aime/2010II.md#problem-15) | — |
+| AIME I | 2011 | [#1](../problems/aime/2011I.md#problem-1) | — |
+| AIME I | 2011 | [#3](../problems/aime/2011I.md#problem-3) | geometry |
+| AIME I | 2011 | [#7](../problems/aime/2011I.md#problem-7) | — |
+| AIME I | 2011 | [#12](../problems/aime/2011I.md#problem-12) | probability |
+| AIME II | 2011 | [#1](../problems/aime/2011II.md#problem-1) | — |
+| AIME II | 2011 | [#2](../problems/aime/2011II.md#problem-2) | — |
+| AIME II | 2011 | [#4](../problems/aime/2011II.md#problem-4) | — |
+| AIME II | 2011 | [#6](../problems/aime/2011II.md#problem-6) | — |
+| AIME II | 2011 | [#9](../problems/aime/2011II.md#problem-9) | — |
+| AIME II | 2011 | [#10](../problems/aime/2011II.md#problem-10) | — |
+| AIME II | 2011 | [#12](../problems/aime/2011II.md#problem-12) | — |
+| AIME II | 2011 | [#14](../problems/aime/2011II.md#problem-14) | — |
+| AIME I | 2012 | [#4](../problems/aime/2012I.md#problem-4) | — |
+| AIME I | 2012 | [#5](../problems/aime/2012I.md#problem-5) | — |
+| AIME II | 2012 | [#1](../problems/aime/2012II.md#problem-1) | — |
+| AIME II | 2012 | [#2](../problems/aime/2012II.md#problem-2) | — |
+| AIME II | 2012 | [#3](../problems/aime/2012II.md#problem-3) | — |
+| AIME II | 2012 | [#4](../problems/aime/2012II.md#problem-4) | — |
+| AIME II | 2012 | [#5](../problems/aime/2012II.md#problem-5) | — |
+| AIME II | 2012 | [#6](../problems/aime/2012II.md#problem-6) | — |
+| AIME II | 2012 | [#7](../problems/aime/2012II.md#problem-7) | — |
+| AIME II | 2012 | [#8](../problems/aime/2012II.md#problem-8) | — |
+| AIME II | 2012 | [#9](../problems/aime/2012II.md#problem-9) | — |
+| AIME II | 2012 | [#10](../problems/aime/2012II.md#problem-10) | — |
+| AIME II | 2012 | [#11](../problems/aime/2012II.md#problem-11) | — |
+| AIME II | 2012 | [#12](../problems/aime/2012II.md#problem-12) | — |
+| AIME II | 2012 | [#13](../problems/aime/2012II.md#problem-13) | — |
+| AIME II | 2012 | [#14](../problems/aime/2012II.md#problem-14) | — |
+| AIME II | 2012 | [#15](../problems/aime/2012II.md#problem-15) | — |
+| AIME I | 2013 | [#1](../problems/aime/2013I.md#problem-1) | — |
+| AIME II | 2013 | [#1](../problems/aime/2013II.md#problem-1) | — |
+| AIME II | 2013 | [#2](../problems/aime/2013II.md#problem-2) | — |
+| AIME II | 2013 | [#3](../problems/aime/2013II.md#problem-3) | — |
+| AIME II | 2013 | [#6](../problems/aime/2013II.md#problem-6) | — |
+| AIME II | 2013 | [#7](../problems/aime/2013II.md#problem-7) | — |
+| AIME II | 2013 | [#8](../problems/aime/2013II.md#problem-8) | — |
+| AIME II | 2013 | [#9](../problems/aime/2013II.md#problem-9) | — |
+| AIME II | 2013 | [#11](../problems/aime/2013II.md#problem-11) | — |
+| AIME II | 2013 | [#12](../problems/aime/2013II.md#problem-12) | — |
+| AIME II | 2013 | [#13](../problems/aime/2013II.md#problem-13) | — |
+| AIME II | 2013 | [#14](../problems/aime/2013II.md#problem-14) | — |
+| AIME I | 2014 | [#1](../problems/aime/2014I.md#problem-1) | — |
+| AIME I | 2014 | [#2](../problems/aime/2014I.md#problem-2) | — |
+| AIME I | 2014 | [#3](../problems/aime/2014I.md#problem-3) | — |
+| AIME I | 2014 | [#4](../problems/aime/2014I.md#problem-4) | — |
+| AIME I | 2014 | [#5](../problems/aime/2014I.md#problem-5) | — |
+| AIME I | 2014 | [#6](../problems/aime/2014I.md#problem-6) | — |
+| AIME I | 2014 | [#7](../problems/aime/2014I.md#problem-7) | — |
+| AIME I | 2014 | [#8](../problems/aime/2014I.md#problem-8) | — |
+| AIME I | 2014 | [#9](../problems/aime/2014I.md#problem-9) | — |
+| AIME I | 2014 | [#10](../problems/aime/2014I.md#problem-10) | — |
+| AIME I | 2014 | [#11](../problems/aime/2014I.md#problem-11) | — |
+| AIME I | 2014 | [#12](../problems/aime/2014I.md#problem-12) | — |
+| AIME I | 2014 | [#13](../problems/aime/2014I.md#problem-13) | — |
+| AIME I | 2014 | [#14](../problems/aime/2014I.md#problem-14) | — |
+| AIME I | 2014 | [#15](../problems/aime/2014I.md#problem-15) | — |
+| AIME II | 2014 | [#1](../problems/aime/2014II.md#problem-1) | — |
+| AIME II | 2014 | [#11](../problems/aime/2014II.md#problem-11) | — |
+| AIME I | 2016 | [#1](../problems/aime/2016I.md#problem-1) | — |
+| AIME I | 2016 | [#2](../problems/aime/2016I.md#problem-2) | — |
+| AIME I | 2016 | [#3](../problems/aime/2016I.md#problem-3) | — |
+| AIME I | 2016 | [#5](../problems/aime/2016I.md#problem-5) | — |
+| AIME I | 2016 | [#8](../problems/aime/2016I.md#problem-8) | — |
+| AIME I | 2016 | [#9](../problems/aime/2016I.md#problem-9) | — |
+| AIME I | 2016 | [#11](../problems/aime/2016I.md#problem-11) | — |
+| AIME II | 2016 | [#6](../problems/aime/2016II.md#problem-6) | — |
+| AIME I | 2017 | [#1](../problems/aime/2017I.md#problem-1) | — |
+| AIME I | 2017 | [#2](../problems/aime/2017I.md#problem-2) | — |
+| AIME I | 2017 | [#3](../problems/aime/2017I.md#problem-3) | — |
+| AIME I | 2017 | [#5](../problems/aime/2017I.md#problem-5) | — |
+| AIME I | 2017 | [#6](../problems/aime/2017I.md#problem-6) | — |
+| AIME I | 2017 | [#7](../problems/aime/2017I.md#problem-7) | — |
+| AIME I | 2017 | [#8](../problems/aime/2017I.md#problem-8) | — |
+| AIME I | 2017 | [#9](../problems/aime/2017I.md#problem-9) | — |
+| AIME I | 2017 | [#10](../problems/aime/2017I.md#problem-10) | — |
+| AIME I | 2017 | [#11](../problems/aime/2017I.md#problem-11) | — |
+| AIME I | 2017 | [#12](../problems/aime/2017I.md#problem-12) | — |
+| AIME I | 2017 | [#13](../problems/aime/2017I.md#problem-13) | — |
+| AIME I | 2017 | [#14](../problems/aime/2017I.md#problem-14) | — |
+| AIME I | 2017 | [#15](../problems/aime/2017I.md#problem-15) | — |
+| AIME I | 2018 | [#1](../problems/aime/2018I.md#problem-1) | — |
+| AIME I | 2018 | [#4](../problems/aime/2018I.md#problem-4) | — |
+| AIME I | 2018 | [#5](../problems/aime/2018I.md#problem-5) | — |
+| AIME I | 2018 | [#15](../problems/aime/2018I.md#problem-15) | — |
+| AIME II | 2018 | [#1](../problems/aime/2018II.md#problem-1) | — |
+| AIME II | 2018 | [#7](../problems/aime/2018II.md#problem-7) | — |
+| AIME I | 2021 | [#8](../problems/aime/2021I.md#problem-8) | — |
+| AIME II | 2021 | [#1](../problems/aime/2021II.md#problem-1) | — |
+| AIME II | 2021 | [#7](../problems/aime/2021II.md#problem-7) | geometry |
+| AIME I | 2022 | [#1](../problems/aime/2022I.md#problem-1) | number-theory |
+| AIME II | 2022 | [#6](../problems/aime/2022II.md#problem-6) | — |
+| AIME II | 2022 | [#12](../problems/aime/2022II.md#problem-12) | — |
 | AIME I | 2023 | [#3](../problems/aime/2023I.md#problem-3) | — |
-| AIME I | 2023 | [#7](../problems/aime/2023I.md#problem-7) | — |
-| AIME I | 2023 | [#9](../problems/aime/2023I.md#problem-9) | — |
-| AIME I | 2023 | [#10](../problems/aime/2023I.md#problem-10) | — |
+| AIME I | 2024 | [#1](../problems/aime/2024I.md#problem-1) | — |
+| AIME II | 2024 | [#1](../problems/aime/2024II.md#problem-1) | — |
 
 <!-- AUTOGEN-END -->

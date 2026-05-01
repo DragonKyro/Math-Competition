@@ -8,6 +8,81 @@ Problems tagged `sequences-and-series`: arithmetic/geometric sequences, recursio
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AIME I | 2023 | [#14](../problems/aime/2023I.md#problem-14) | geometry, number-theory |
+| AMC 8 | 2009 | [#5](../problems/amc8/2009.md#problem-5) | — |
+| AMC 8 | 2012 | [#7](../problems/amc8/2012.md#problem-7) | — |
+| AMC 8 | 2016 | [#17](../problems/amc8/2016.md#problem-17) | — |
+| AMC 8 | 2020 | [#22](../problems/amc8/2020.md#problem-22) | — |
+| AMC 8 | 2022 | [#16](../problems/amc8/2022.md#problem-16) | — |
+| AMC 8 | 2022 | [#17](../problems/amc8/2022.md#problem-17) | — |
+| AMC 8 | 2023 | [#22](../problems/amc8/2023.md#problem-22) | — |
+| AMC 10 A | 2003 | [#23](../problems/amc10/2003A.md#problem-23) | algebra, geometry |
+| AMC 10 B | 2003 | [#3](../problems/amc10/2003B.md#problem-3) | — |
+| AMC 10 A | 2004 | [#8](../problems/amc10/2004A.md#problem-8) | — |
+| AMC 10 B | 2004 | [#10](../problems/amc10/2004B.md#problem-10) | — |
+| AMC 10 A | 2007 | [#22](../problems/amc10/2007A.md#problem-22) | algebra, number-theory |
+| AMC 10 B | 2008 | [#7](../problems/amc10/2008B.md#problem-7) | geometry |
+| AMC 10 B | 2008 | [#11](../problems/amc10/2008B.md#problem-11) | — |
+| AMC 10 B | 2008 | [#13](../problems/amc10/2008B.md#problem-13) | number-theory |
+| AMC 10 A | 2010 | [#25](../problems/amc10/2010A.md#problem-25) | number-theory |
+| AMC 10 A | 2011 | [#17](../problems/amc10/2011A.md#problem-17) | — |
+| AMC 10 B | 2011 | [#24](../problems/amc10/2011B.md#problem-24) | — |
+| AMC 10 A | 2012 | [#23](../problems/amc10/2012A.md#problem-23) | geometry |
+| AMC 10 B | 2012 | [#20](../problems/amc10/2012B.md#problem-20) | — |
+| AMC 10 B | 2013 | [#21](../problems/amc10/2013B.md#problem-21) | number-theory |
+| AMC 10 A | 2014 | [#21](../problems/amc10/2014A.md#problem-21) | — |
+| AMC 10 A | 2014 | [#24](../problems/amc10/2014A.md#problem-24) | — |
+| AMC 10 B | 2015 | [#24](../problems/amc10/2015B.md#problem-24) | geometry, number-theory |
+| AMC 10 A | 2018 | [#17](../problems/amc10/2018A.md#problem-17) | — |
+| AMC 10 A | 2019 | [#5](../problems/amc10/2019A.md#problem-5) | number-theory |
+| AMC 10 A | 2019 | [#9](../problems/amc10/2019A.md#problem-9) | number-theory |
+| AMC 10 B | 2019 | [#13](../problems/amc10/2019B.md#problem-13) | — |
+| AMC 10 B | 2021 | [#19](../problems/amc10/2021B.md#problem-19) | — |
+| AMC 10 B | 2022 | [#6](../problems/amc10/2022B.md#problem-6) | number-theory |
+| AMC 10 B | 2024 | [#5](../problems/amc10/2024B.md#problem-5) | algebra |
+| AMC 12 | 2001 | [#16](../problems/amc12/2001.md#problem-16) | combinatorics, probability |
+| AMC 12 | 2001 | [#25](../problems/amc12/2001.md#problem-25) | — |
+| AMC 12 B | 2002 | [#21](../problems/amc12/2002B.md#problem-21) | number-theory |
+| AMC 12 B | 2003 | [#19](../problems/amc12/2003B.md#problem-19) | probability |
+| AMC 12 A | 2004 | [#7](../problems/amc12/2004A.md#problem-7) | — |
+| AMC 12 A | 2004 | [#10](../problems/amc12/2004A.md#problem-10) | number-theory |
+| AMC 12 B | 2004 | [#8](../problems/amc12/2004B.md#problem-8) | — |
+| AMC 12 A | 2005 | [#5](../problems/amc12/2005A.md#problem-5) | — |
+| AMC 12 A | 2006 | [#23](../problems/amc12/2006A.md#problem-23) | algebra |
+| AMC 12 A | 2007 | [#11](../problems/amc12/2007A.md#problem-11) | algebra, number-theory |
+| AMC 12 A | 2008 | [#17](../problems/amc12/2008A.md#problem-17) | — |
+| AMC 12 B | 2008 | [#12](../problems/amc12/2008B.md#problem-12) | — |
+| AMC 12 A | 2011 | [#8](../problems/amc12/2011A.md#problem-8) | — |
+| AMC 12 A | 2012 | [#19](../problems/amc12/2012A.md#problem-19) | geometry |
+| AMC 12 A | 2012 | [#24](../problems/amc12/2012A.md#problem-24) | algebra |
+| AMC 12 B | 2012 | [#14](../problems/amc12/2012B.md#problem-14) | — |
+| AMC 12 A | 2013 | [#7](../problems/amc12/2013A.md#problem-7) | — |
+| AMC 12 B | 2013 | [#14](../problems/amc12/2013B.md#problem-14) | number-theory |
+| AMC 12 A | 2014 | [#23](../problems/amc12/2014A.md#problem-23) | number-theory |
+| AMC 12 B | 2016 | [#19](../problems/amc12/2016B.md#problem-19) | probability |
+| AMC 12 A | 2018 | [#12](../problems/amc12/2018A.md#problem-12) | — |
+| AMC 12 B | 2018 | [#9](../problems/amc12/2018B.md#problem-9) | — |
+| AMC 12 A | 2019 | [#4](../problems/amc12/2019A.md#problem-4) | number-theory |
+| AMC 12 B | 2019 | [#7](../problems/amc12/2019B.md#problem-7) | — |
+| AMC 12 B | 2020 | [#1](../problems/amc12/2020B.md#problem-1) | — |
+| AMC 12 A | 2021 | [#8](../problems/amc12/2021A.md#problem-8) | — |
+| AMC 12 B | 2021 | [#12](../problems/amc12/2021B.md#problem-12) | — |
+| AMC 12 B | 2022 | [#3](../problems/amc12/2022B.md#problem-3) | number-theory |
+| AMC 12 B | 2022 | [#17](../problems/amc12/2022B.md#problem-17) | number-theory |
+| AMC 12 B | 2024 | [#5](../problems/amc12/2024B.md#problem-5) | algebra |
+| AIME | 1990 | [#15](../problems/aime/1990.md#problem-15) | — |
+| AIME | 1991 | [#15](../problems/aime/1991.md#problem-15) | algebra, geometry, trigonometry |
+| AIME | 1995 | [#3](../problems/aime/1995.md#problem-3) | combinatorics, probability |
+| AIME | 1998 | [#4](../problems/aime/1998.md#problem-4) | combinatorics, probability |
+| AIME | 1998 | [#15](../problems/aime/1998.md#problem-15) | — |
+| AIME I | 2000 | [#10](../problems/aime/2000I.md#problem-10) | — |
+| AIME II | 2001 | [#1](../problems/aime/2001II.md#problem-1) | number-theory |
+| AIME I | 2002 | [#8](../problems/aime/2002I.md#problem-8) | number-theory |
+| AIME II | 2002 | [#4](../problems/aime/2002II.md#problem-4) | geometry, number-theory |
+| AIME II | 2003 | [#8](../problems/aime/2003II.md#problem-8) | algebra |
+| AIME II | 2004 | [#15](../problems/aime/2004II.md#problem-15) | geometry |
+| AIME I | 2005 | [#5](../problems/aime/2005I.md#problem-5) | combinatorics |
+| AIME I | 2007 | [#11](../problems/aime/2007I.md#problem-11) | geometry, number-theory |
+| AIME II | 2007 | [#1](../problems/aime/2007II.md#problem-1) | combinatorics |
+| AIME I | 2015 | [#1](../problems/aime/2015I.md#problem-1) | — |
 
 <!-- AUTOGEN-END -->

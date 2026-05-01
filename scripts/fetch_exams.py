@@ -33,11 +33,24 @@ REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
 PROBLEMS_DIR = REPO_ROOT / "problems"
 
 COMPETITIONS = {
-    "amc8":  {"problems": 25, "variants": [""],        "display": "AMC 8",  "page": "{y}_AMC_8",          "filename": "{y}.md"},
-    "amc10": {"problems": 25, "variants": ["A", "B"],  "display": "AMC 10", "page": "{y}_AMC_10{v}",      "filename": "{y}{v}.md"},
-    "amc12": {"problems": 25, "variants": ["A", "B"],  "display": "AMC 12", "page": "{y}_AMC_12{v}",      "filename": "{y}{v}.md"},
-    "aime":  {"problems": 15, "variants": ["I", "II"], "display": "AIME",   "page": "{y}_AIME_{v}",       "filename": "{y}{v}.md"},
+    "amc8":  {"problems": 25, "default_variants": [""],            "display": "AMC 8"},
+    "amc10": {"problems": 25, "default_variants": ["", "A", "B"],  "display": "AMC 10"},
+    "amc12": {"problems": 25, "default_variants": ["", "A", "B"],  "display": "AMC 12"},
+    "aime":  {"problems": 15, "default_variants": ["", "I", "II"], "display": "AIME"},
 }
+
+
+def page_base(competition: str, year: int, variant: str) -> str:
+    """Build the AoPS wiki page name root (before `_Problems/Problem_N`)."""
+    if competition == "amc8":
+        return f"{year}_AMC_8"
+    if competition == "amc10":
+        return f"{year}_AMC_10{variant}"
+    if competition == "amc12":
+        return f"{year}_AMC_12{variant}"
+    if competition == "aime":
+        return f"{year}_AIME_{variant}" if variant else f"{year}_AIME"
+    raise ValueError(competition)
 
 KNOWN_TOPIC_SLUGS = {
     "algebra",
@@ -199,26 +212,35 @@ def build_exam_md(title: str, problems: list[tuple[int, str, list[tuple[str, str
     return "\n".join(parts)
 
 
-def fetch_exam(competition: str, year: int, variant: str) -> tuple[str, list[tuple[int, str, list[tuple[str, str]], list[str]]]]:
+def fetch_exam(competition: str, year: int, variant: str):
+    """Fetch all problems for one exam. Returns (title, problems) or None if the exam is not on AoPS."""
     cfg = COMPETITIONS[competition]
+    base = page_base(competition, year, variant)
+
+    # Probe Problem 1 before committing to a full fetch
+    probe_wt = fetch_wikitext(f"{base}_Problems/Problem_1")
+    time.sleep(REQUEST_INTERVAL_SEC)
+    if not probe_wt:
+        return None
+
     problems: list[tuple[int, str, list[tuple[str, str]], list[str]]] = []
-    skipped = 0
-    for n in range(1, cfg["problems"] + 1):
-        page = cfg["page"].format(y=year, v=variant) + f"_Problems/Problem_{n}"
-        wt = fetch_wikitext(page)
+
+    probe_problem, probe_solutions = parse_problem_page(probe_wt)
+    if probe_problem:
+        problems.append((1, probe_problem, probe_solutions, guess_tags(probe_problem)))
+    else:
+        problems.append((1, "_(could not parse)_", [], ["algebra"]))
+
+    for n in range(2, cfg["problems"] + 1):
+        wt = fetch_wikitext(f"{base}_Problems/Problem_{n}")
         if not wt:
-            skipped += 1
             problems.append((n, "_(not available on AoPS)_", [], ["algebra"]))
-            time.sleep(REQUEST_INTERVAL_SEC)
-            continue
-        problem_text, solutions = parse_problem_page(wt)
-        if not problem_text:
-            skipped += 1
-            problems.append((n, "_(could not parse)_", [], ["algebra"]))
-            time.sleep(REQUEST_INTERVAL_SEC)
-            continue
-        tags = guess_tags(problem_text)
-        problems.append((n, problem_text, solutions, tags))
+        else:
+            problem_text, solutions = parse_problem_page(wt)
+            if not problem_text:
+                problems.append((n, "_(could not parse)_", [], ["algebra"]))
+            else:
+                problems.append((n, problem_text, solutions, guess_tags(problem_text)))
         time.sleep(REQUEST_INTERVAL_SEC)
 
     title = f"{year} {cfg['display']}"
@@ -227,20 +249,25 @@ def fetch_exam(competition: str, year: int, variant: str) -> tuple[str, list[tup
     return title, problems
 
 
-def write_exam(competition: str, year: int, variant: str, overwrite: bool) -> pathlib.Path | None:
-    cfg = COMPETITIONS[competition]
-    filename = cfg["filename"].format(y=year, v=variant)
+def write_exam(competition: str, year: int, variant: str, overwrite: bool) -> str:
+    """Returns one of: 'written', 'existed', 'missing'."""
+    filename = f"{year}{variant}.md"
     dest = PROBLEMS_DIR / competition / filename
     if dest.exists() and not overwrite:
-        print(f"[skip] {dest.relative_to(REPO_ROOT)} already exists — pass --overwrite to replace")
-        return None
+        print(f"[skip]    {dest.relative_to(REPO_ROOT)} already exists — pass --overwrite to replace")
+        return "existed"
 
-    print(f"[fetch] {competition} {year}{variant or ''} -> {dest.relative_to(REPO_ROOT)}")
-    title, problems = fetch_exam(competition, year, variant)
+    result = fetch_exam(competition, year, variant)
+    if result is None:
+        print(f"[missing] {competition} {year}{variant} — not found on AoPS, skipping")
+        return "missing"
+
+    title, problems = result
     md = build_exam_md(title, problems)
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(md, encoding="utf-8")
-    return dest
+    print(f"[write]   {dest.relative_to(REPO_ROOT)}")
+    return "written"
 
 
 def parse_years(spec: str) -> list[int]:
@@ -266,19 +293,15 @@ def main(argv: list[str]) -> int:
     args = parser.parse_args(argv)
 
     cfg = COMPETITIONS[args.competition]
-    variants = [v.strip() for v in args.variants.split(",")] if args.variants else cfg["variants"]
-    bad_variants = [v for v in variants if v not in cfg["variants"]]
-    if bad_variants:
-        parser.error(f"invalid variants for {args.competition}: {bad_variants}. allowed: {cfg['variants']}")
+    variants = [v.strip() for v in args.variants.split(",")] if args.variants else cfg["default_variants"]
 
     years = parse_years(args.years)
-    total = 0
+    counts = {"written": 0, "existed": 0, "missing": 0}
     for year in years:
         for variant in variants:
-            path = write_exam(args.competition, year, variant, args.overwrite)
-            if path:
-                total += 1
-    print(f"done. wrote {total} exam file(s).")
+            status = write_exam(args.competition, year, variant, args.overwrite)
+            counts[status] += 1
+    print(f"done. written={counts['written']} already-existed={counts['existed']} not-on-aops={counts['missing']}")
     return 0
 
 
