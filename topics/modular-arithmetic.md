@@ -50,7 +50,6 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 B | 2010 | [#21](../problems/amc10/2010B.md#problem-21) | divisibility-rules |
 | AMC 10 B | 2010 | [#22](../problems/amc10/2010B.md#problem-22) | stars-and-bars |
 | AMC 10 B | 2010 | [#24](../problems/amc10/2010B.md#problem-24) | arithmetic-series, casework, geometric-series |
-| AMC 10 B | 2011 | [#23](../problems/amc10/2011B.md#problem-23) | binomial-theorem, chinese-remainder-theorem, eulers-totient |
 | AMC 10 A | 2012 | [#16](../problems/amc10/2012A.md#problem-16) | lcm |
 | AMC 10 B | 2013 | [#21](../problems/amc10/2013B.md#problem-21) | fibonacci-like |
 | AMC 10 B | 2013 | [#25](../problems/amc10/2013B.md#problem-25) | base-conversion, chinese-remainder-theorem |

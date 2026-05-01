@@ -6,6 +6,7 @@ Problems tagged `lattice-points`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2011 | [#24](../problems/amc10/2011B.md#problem-24) | farey-sequence |
 | AMC 10 B | 2015 | [#12](../problems/amc10/2015B.md#problem-12) | circle |
 | AMC 10 A | 2017 | [#17](../problems/amc10/2017A.md#problem-17) | distance-formula |
 | AMC 10 A | 2017 | [#23](../problems/amc10/2017A.md#problem-23) | complementary-counting |

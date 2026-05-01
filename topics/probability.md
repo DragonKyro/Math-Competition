@@ -53,7 +53,6 @@ Problems tagged `probability`: discrete and continuous probability, expected val
 | AMC 10 B | 2009 | [#25](../problems/amc10/2009B.md#problem-25) | geometry |
 | AMC 10 A | 2010 | [#23](../problems/amc10/2010A.md#problem-23) | — |
 | AMC 10 A | 2011 | [#21](../problems/amc10/2011A.md#problem-21) | counterfeit-coins |
-| AMC 10 B | 2011 | [#20](../problems/amc10/2011B.md#problem-20) | geometry |
 | AMC 10 B | 2013 | [#12](../problems/amc10/2013B.md#problem-12) | combinations |
 | AMC 10 B | 2015 | [#11](../problems/amc10/2015B.md#problem-11) | enumeration |
 | AMC 10 B | 2015 | [#16](../problems/amc10/2015B.md#problem-16) | divisor-chains |

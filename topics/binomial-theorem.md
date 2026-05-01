@@ -8,7 +8,7 @@ Problems tagged `binomial-theorem`.
 |-------------|------|---------|-----------|
 | AMC 8 | 1999 | [#24](../problems/amc8/1999.md#problem-24) | fermats-little-theorem, modular-arithmetic |
 | AMC 10 A | 2007 | [#20](../problems/amc10/2007A.md#problem-20) | quadratic-formula, vietas-formulas |
-| AMC 10 B | 2011 | [#23](../problems/amc10/2011B.md#problem-23) | chinese-remainder-theorem, eulers-totient, modular-arithmetic |
+| AMC 10 B | 2011 | [#23](../problems/amc10/2011B.md#problem-23) | modular-exponentiation |
 | AMC 12 A | 2004 | [#25](../problems/amc12/2004A.md#problem-25) | geometric-series, telescoping-sums |
 | AMC 12 A | 2006 | [#24](../problems/amc12/2006A.md#problem-24) | casework, generating-functions, modular-arithmetic, parity, stars-and-bars |
 | AMC 12 A | 2021 | [#13](../problems/amc12/2021A.md#problem-13) | complex-numbers, de-moivres-theorem |

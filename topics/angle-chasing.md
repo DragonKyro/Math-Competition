@@ -13,7 +13,6 @@ Problems tagged `angle-chasing`.
 | AMC 10 A | 2007 | [#8](../problems/amc10/2007A.md#problem-8) | — |
 | AMC 10 B | 2008 | [#24](../problems/amc10/2008B.md#problem-24) | double-angle-identities, trig-identities |
 | AMC 10 A | 2010 | [#14](../problems/amc10/2010A.md#problem-14) | law-of-sines, similar-triangles |
-| AMC 10 B | 2011 | [#17](../problems/amc10/2011B.md#problem-17) | inscribed-angle-theorem |
 | AMC 10 B | 2019 | [#16](../problems/amc10/2019B.md#problem-16) | isosceles-triangles, ratio |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | coordinate-bash, diophantine-equations, pythagorean-theorem, similar-triangles |
 | AMC 12 | 2000 | [#21](../problems/amc12/2000.md#problem-21) | similar-triangles |

@@ -12,7 +12,6 @@ Problems tagged `law-of-cosines`.
 | AMC 10 A | 2008 | [#25](../problems/amc10/2008A.md#problem-25) | pythagorean-theorem, quadratic-formula |
 | AMC 10 A | 2010 | [#19](../problems/amc10/2010A.md#problem-19) | congruent-triangles, pythagorean-theorem, vietas-formulas |
 | AMC 10 B | 2010 | [#19](../problems/amc10/2010B.md#problem-19) | congruent-triangles, pythagorean-theorem |
-| AMC 10 B | 2011 | [#18](../problems/amc10/2011B.md#problem-18) | pythagorean-theorem |
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | inscribed-angle-theorem, triple-angle-formula |
 | AMC 10 B | 2017 | [#19](../problems/amc10/2017B.md#problem-19) | equilateral-triangle |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | double-angle-identities, law-of-sines, pythagorean-theorem, trig-identities |

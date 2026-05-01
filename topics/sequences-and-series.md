@@ -24,7 +24,6 @@ Problems tagged `sequences-and-series`: arithmetic/geometric sequences, recursio
 | AMC 10 B | 2008 | [#11](../problems/amc10/2008B.md#problem-11) | — |
 | AMC 10 B | 2008 | [#13](../problems/amc10/2008B.md#problem-13) | number-theory |
 | AMC 10 A | 2010 | [#25](../problems/amc10/2010A.md#problem-25) | number-theory |
-| AMC 10 B | 2011 | [#24](../problems/amc10/2011B.md#problem-24) | — |
 | AMC 12 | 2001 | [#16](../problems/amc12/2001.md#problem-16) | combinatorics, probability |
 | AMC 12 | 2001 | [#25](../problems/amc12/2001.md#problem-25) | — |
 | AMC 12 B | 2002 | [#21](../problems/amc12/2002B.md#problem-21) | number-theory |

@@ -51,7 +51,7 @@ Problems tagged `casework`.
 | AMC 10 B | 2010 | [#23](../problems/amc10/2010B.md#problem-23) | — |
 | AMC 10 B | 2010 | [#24](../problems/amc10/2010B.md#problem-24) | arithmetic-series, geometric-series, modular-arithmetic |
 | AMC 10 A | 2011 | [#22](../problems/amc10/2011A.md#problem-22) | pentagon-coloring |
-| AMC 10 B | 2011 | [#19](../problems/amc10/2011B.md#problem-19) | — |
+| AMC 10 B | 2011 | [#21](../problems/amc10/2011B.md#problem-21) | integer-differences |
 | AMC 10 A | 2012 | [#20](../problems/amc10/2012A.md#problem-20) | rotation |
 | AMC 10 B | 2012 | [#24](../problems/amc10/2012B.md#problem-24) | venn-diagram |
 | AMC 10 A | 2014 | [#4](../problems/amc10/2014A.md#problem-4) | permutations-with-constraints |

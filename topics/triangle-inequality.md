@@ -13,7 +13,6 @@ Problems tagged `triangle-inequality`.
 | AMC 10 B | 2006 | [#10](../problems/amc10/2006B.md#problem-10) | — |
 | AMC 10 A | 2009 | [#12](../problems/amc10/2009A.md#problem-12) | — |
 | AMC 10 A | 2010 | [#16](../problems/amc10/2010A.md#problem-16) | angle-bisector-theorem, factoring |
-| AMC 10 B | 2011 | [#25](../problems/amc10/2011B.md#problem-25) | power-of-a-point, recursion |
 | AMC 10 B | 2012 | [#21](../problems/amc10/2012B.md#problem-21) | 30-60-90 |
 | AMC 10 A | 2013 | [#23](../problems/amc10/2013A.md#problem-23) | power-of-a-point |
 | AMC 10 | 2024 | [#15](../problems/amc10/2024.md#problem-15) | diophantine-equations, pythagorean-theorem |

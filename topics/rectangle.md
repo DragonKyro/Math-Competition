@@ -6,6 +6,7 @@ Problems tagged `rectangle`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2011 | [#14](../problems/amc10/2011B.md#problem-14) | pythagorean-triple |
 | AMC 10 A | 2012 | [#2](../problems/amc10/2012A.md#problem-2) | square |
 | AMC 10 A | 2012 | [#21](../problems/amc10/2012A.md#problem-21) | 3d-geometry, midpoint |
 | AMC 10 B | 2012 | [#19](../problems/amc10/2012B.md#problem-19) | similar-triangles |

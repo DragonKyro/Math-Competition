@@ -6,6 +6,7 @@ Problems tagged `absolute-value`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2011 | [#19](../problems/amc10/2011B.md#problem-19) | extraneous-solutions |
 | AMC 10 B | 2016 | [#3](../problems/amc10/2016B.md#problem-3) | substitution |
 | AMC 10 A | 2018 | [#12](../problems/amc10/2018A.md#problem-12) | casework-system |
 | AMC 10 B | 2019 | [#9](../problems/amc10/2019B.md#problem-9) | floor-function, casework |

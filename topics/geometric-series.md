@@ -14,7 +14,7 @@ Problems tagged `geometric-series`.
 | AMC 10 A | 2009 | [#9](../problems/amc10/2009A.md#problem-9) | prime-factorization |
 | AMC 10 B | 2009 | [#21](../problems/amc10/2009B.md#problem-21) | modular-arithmetic |
 | AMC 10 B | 2010 | [#24](../problems/amc10/2010B.md#problem-24) | arithmetic-series, casework, modular-arithmetic |
-| AMC 10 B | 2011 | [#10](../problems/amc10/2011B.md#problem-10) | base-representations |
+| AMC 10 B | 2011 | [#10](../problems/amc10/2011B.md#problem-10) | — |
 | AMC 10 B | 2016 | [#16](../problems/amc10/2016B.md#problem-16) | optimization |
 | AMC 10 A | 2017 | [#18](../problems/amc10/2017A.md#problem-18) | self-similar-probability |
 | AMC 10 A | 2018 | [#25](../problems/amc10/2018A.md#problem-25) | repunits |
