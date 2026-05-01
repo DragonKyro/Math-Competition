@@ -71,12 +71,7 @@ Problems tagged `casework`.
 | AMC 10 A | 2015 | [#22](../problems/amc10/2015A.md#problem-22) | complementary-counting, recursion, stars-and-bars |
 | AMC 10 B | 2015 | [#21](../problems/amc10/2015B.md#problem-21) | modular-arithmetic |
 | AMC 10 B | 2015 | [#25](../problems/amc10/2015B.md#problem-25) | — |
-| AMC 10 B | 2016 | [#12](../problems/amc10/2016B.md#problem-12) | complementary-counting |
-| AMC 10 B | 2016 | [#14](../problems/amc10/2016B.md#problem-14) | floor-function |
-| AMC 10 B | 2016 | [#21](../problems/amc10/2016B.md#problem-21) | — |
-| AMC 10 B | 2016 | [#22](../problems/amc10/2016B.md#problem-22) | modular-arithmetic |
-| AMC 10 B | 2016 | [#24](../problems/amc10/2016B.md#problem-24) | arithmetic-series |
-| AMC 10 B | 2016 | [#25](../problems/amc10/2016B.md#problem-25) | eulers-totient, floor-function |
+| AMC 10 B | 2016 | [#14](../problems/amc10/2016B.md#problem-14) | lattice-squares |
 | AMC 10 A | 2017 | [#12](../problems/amc10/2017A.md#problem-12) | three-equal-rays |
 | AMC 10 A | 2017 | [#19](../problems/amc10/2017A.md#problem-19) | inclusion-exclusion |
 | AMC 10 A | 2017 | [#25](../problems/amc10/2017A.md#problem-25) | divisibility-rules, permutations |

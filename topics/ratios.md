@@ -7,6 +7,8 @@ Problems tagged `ratios`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 A | 2016 | [#3](../problems/amc10/2016A.md#problem-3) | word-problems |
+| AMC 10 B | 2016 | [#7](../problems/amc10/2016B.md#problem-7) | complementary-angles |
+| AMC 10 B | 2016 | [#13](../problems/amc10/2016B.md#problem-13) | systems-of-equations |
 | AMC 10 B | 2019 | [#11](../problems/amc10/2019B.md#problem-11) | jar-balance |
 
 <!-- AUTOGEN-END -->

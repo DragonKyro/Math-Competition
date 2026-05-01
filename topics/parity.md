@@ -7,7 +7,7 @@ Problems tagged `parity`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 A | 2016 | [#12](../problems/amc10/2016A.md#problem-12) | probability-without-replacement |
-| AMC 10 B | 2016 | [#18](../problems/amc10/2016B.md#problem-18) | arithmetic-series |
+| AMC 10 B | 2016 | [#12](../problems/amc10/2016B.md#problem-12) | complementary-counting |
 | AMC 10 A | 2020 | [#18](../problems/amc10/2020A.md#problem-18) | counting |
 | AMC 10 A | 2020 | [#23](../problems/amc10/2020A.md#problem-23) | composition-of-isometries |
 | AMC 10 B | 2022 | [#3](../problems/amc10/2022B.md#problem-3) | complementary-counting |

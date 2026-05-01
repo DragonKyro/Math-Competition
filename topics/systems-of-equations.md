@@ -6,6 +6,7 @@ Problems tagged `systems-of-equations`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2016 | [#13](../problems/amc10/2016B.md#problem-13) | ratios |
 | AMC 10 A | 2017 | [#14](../problems/amc10/2017A.md#problem-14) | linear-equations |
 
 <!-- AUTOGEN-END -->

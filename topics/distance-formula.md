@@ -6,6 +6,7 @@ Problems tagged `distance-formula`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2016 | [#20](../problems/amc10/2016B.md#problem-20) | dilation |
 | AMC 10 A | 2017 | [#17](../problems/amc10/2017A.md#problem-17) | lattice-points |
 | AMC 10 A | 2022 | [#23](../problems/amc10/2022A.md#problem-23) | coordinate-geometry |
 

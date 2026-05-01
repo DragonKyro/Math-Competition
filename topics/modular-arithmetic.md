@@ -59,9 +59,8 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 B | 2014 | [#17](../problems/amc10/2014B.md#problem-17) | factoring |
 | AMC 10 B | 2015 | [#10](../problems/amc10/2015B.md#problem-10) | — |
 | AMC 10 B | 2015 | [#21](../problems/amc10/2015B.md#problem-21) | casework |
-| AMC 10 B | 2016 | [#4](../problems/amc10/2016B.md#problem-4) | — |
-| AMC 10 B | 2016 | [#8](../problems/amc10/2016B.md#problem-8) | — |
-| AMC 10 B | 2016 | [#22](../problems/amc10/2016B.md#problem-22) | casework |
+| AMC 10 B | 2016 | [#4](../problems/amc10/2016B.md#problem-4) | calendar |
+| AMC 10 B | 2016 | [#8](../problems/amc10/2016B.md#problem-8) | last-two-digits |
 | AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | digit-sums |
 | AMC 10 B | 2017 | [#14](../problems/amc10/2017B.md#problem-14) | fermats-little-theorem |
 | AMC 10 B | 2018 | [#11](../problems/amc10/2018B.md#problem-11) | always-composite |
