@@ -208,9 +208,6 @@ Problems tagged `geometry`: triangles, circles, polygons, coordinate geometry, 3
 | AMC 10 A | 2010 | [#12](../problems/amc10/2010A.md#problem-12) | — |
 | AMC 10 A | 2010 | [#20](../problems/amc10/2010A.md#problem-20) | algebra |
 | AMC 10 A | 2010 | [#22](../problems/amc10/2010A.md#problem-22) | — |
-| AMC 10 A | 2011 | [#14](../problems/amc10/2011A.md#problem-14) | probability |
-| AMC 10 A | 2011 | [#18](../problems/amc10/2011A.md#problem-18) | — |
-| AMC 10 A | 2011 | [#25](../problems/amc10/2011A.md#problem-25) | number-theory |
 | AMC 10 B | 2011 | [#3](../problems/amc10/2011B.md#problem-3) | — |
 | AMC 10 B | 2011 | [#7](../problems/amc10/2011B.md#problem-7) | — |
 | AMC 10 B | 2011 | [#12](../problems/amc10/2011B.md#problem-12) | — |

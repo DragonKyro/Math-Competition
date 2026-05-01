@@ -20,7 +20,6 @@ Problems tagged `combinatorics`: counting, permutations, combinations, pigeonhol
 | AMC 10 | 2000 | [#13](../problems/amc10/2000.md#problem-13) | — |
 | AMC 10 A | 2006 | [#18](../problems/amc10/2006A.md#problem-18) | — |
 | AMC 10 B | 2007 | [#20](../problems/amc10/2007B.md#problem-20) | — |
-| AMC 10 A | 2011 | [#21](../problems/amc10/2011A.md#problem-21) | probability |
 | AMC 12 | 2001 | [#14](../problems/amc12/2001.md#problem-14) | geometry |
 | AMC 12 | 2001 | [#16](../problems/amc12/2001.md#problem-16) | probability, sequences-and-series |
 | AMC 12 A | 2004 | [#13](../problems/amc12/2004A.md#problem-13) | — |

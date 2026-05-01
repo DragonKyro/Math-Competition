@@ -9,7 +9,6 @@ Problems tagged `base-representations`.
 | AMC 8 | 2005 | [#24](../problems/amc8/2005.md#problem-24) | — |
 | AMC 8 | 2019 | [#21](../problems/amc8/2019.md#problem-21) | herons-formula, shoelace-theorem |
 | AMC 10 A | 2003 | [#16](../problems/amc10/2003A.md#problem-16) | modular-arithmetic |
-| AMC 10 A | 2011 | [#23](../problems/amc10/2011A.md#problem-23) | arithmetic-series, modular-arithmetic |
 | AMC 10 B | 2011 | [#10](../problems/amc10/2011B.md#problem-10) | geometric-series |
 | AMC 10 B | 2019 | [#12](../problems/amc10/2019B.md#problem-12) | digit-sum |
 | AMC 10 A | 2021 | [#11](../problems/amc10/2021A.md#problem-11) | modular-arithmetic |

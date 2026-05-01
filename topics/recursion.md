@@ -9,7 +9,6 @@ Problems tagged `recursion`.
 | AMC 8 | 2010 | [#25](../problems/amc8/2010.md#problem-25) | casework |
 | AMC 10 | 2000 | [#12](../problems/amc10/2000.md#problem-12) | arithmetic-series |
 | AMC 10 A | 2002 | [#3](../problems/amc10/2002A.md#problem-3) | — |
-| AMC 10 A | 2011 | [#22](../problems/amc10/2011A.md#problem-22) | casework, complementary-counting, expected-value |
 | AMC 10 B | 2011 | [#25](../problems/amc10/2011B.md#problem-25) | power-of-a-point, triangle-inequality |
 | AMC 10 B | 2018 | [#20](../problems/amc10/2018B.md#problem-20) | periodic-sequence |
 | AMC 10 B | 2019 | [#24](../problems/amc10/2019B.md#problem-24) | approximation, logarithms |

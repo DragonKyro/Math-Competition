@@ -507,16 +507,11 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 B | 2010 | [#12](../problems/amc10/2010B.md#problem-12) | — |
 | AMC 10 B | 2010 | [#15](../problems/amc10/2010B.md#problem-15) | — |
 | AMC 10 B | 2010 | [#25](../problems/amc10/2010B.md#problem-25) | number-theory |
-| AMC 10 A | 2011 | [#1](../problems/amc10/2011A.md#problem-1) | — |
-| AMC 10 A | 2011 | [#2](../problems/amc10/2011A.md#problem-2) | — |
-| AMC 10 A | 2011 | [#3](../problems/amc10/2011A.md#problem-3) | — |
-| AMC 10 A | 2011 | [#5](../problems/amc10/2011A.md#problem-5) | — |
 | AMC 10 A | 2011 | [#6](../problems/amc10/2011A.md#problem-6) | — |
 | AMC 10 A | 2011 | [#7](../problems/amc10/2011A.md#problem-7) | — |
 | AMC 10 A | 2011 | [#8](../problems/amc10/2011A.md#problem-8) | — |
 | AMC 10 A | 2011 | [#9](../problems/amc10/2011A.md#problem-9) | — |
 | AMC 10 A | 2011 | [#11](../problems/amc10/2011A.md#problem-11) | — |
-| AMC 10 A | 2011 | [#12](../problems/amc10/2011A.md#problem-12) | — |
 | AMC 10 A | 2011 | [#13](../problems/amc10/2011A.md#problem-13) | — |
 | AMC 10 A | 2011 | [#15](../problems/amc10/2011A.md#problem-15) | — |
 | AMC 10 A | 2011 | [#16](../problems/amc10/2011A.md#problem-16) | — |
