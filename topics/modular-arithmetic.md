@@ -54,7 +54,8 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 B | 2011 | [#23](../problems/amc10/2011B.md#problem-23) | binomial-theorem, chinese-remainder-theorem, eulers-totient |
 | AMC 10 A | 2012 | [#12](../problems/amc10/2012A.md#problem-12) | — |
 | AMC 10 A | 2012 | [#16](../problems/amc10/2012A.md#problem-16) | — |
-| AMC 10 B | 2013 | [#25](../problems/amc10/2013B.md#problem-25) | base-representations, casework, chinese-remainder-theorem |
+| AMC 10 B | 2013 | [#21](../problems/amc10/2013B.md#problem-21) | fibonacci-like |
+| AMC 10 B | 2013 | [#25](../problems/amc10/2013B.md#problem-25) | base-conversion, chinese-remainder-theorem |
 | AMC 10 B | 2016 | [#4](../problems/amc10/2016B.md#problem-4) | calendar |
 | AMC 10 B | 2016 | [#8](../problems/amc10/2016B.md#problem-8) | last-two-digits |
 | AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | digit-sums |

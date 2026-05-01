@@ -6,6 +6,7 @@ Problems tagged `invariants`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2013 | [#17](../problems/amc10/2013B.md#problem-17) | token-exchange |
 | AMC 10 B | 2024 | [#16](../problems/amc10/2024B.md#problem-16) | monovariant, parity |
 
 <!-- AUTOGEN-END -->

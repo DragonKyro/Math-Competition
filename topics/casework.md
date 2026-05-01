@@ -55,10 +55,6 @@ Problems tagged `casework`.
 | AMC 10 A | 2012 | [#20](../problems/amc10/2012A.md#problem-20) | inclusion-exclusion, rotation |
 | AMC 10 B | 2012 | [#22](../problems/amc10/2012B.md#problem-22) | binomial-theorem, induction, recursion |
 | AMC 10 B | 2012 | [#24](../problems/amc10/2012B.md#problem-24) | — |
-| AMC 10 B | 2013 | [#12](../problems/amc10/2013B.md#problem-12) | — |
-| AMC 10 B | 2013 | [#18](../problems/amc10/2013B.md#problem-18) | stars-and-bars |
-| AMC 10 B | 2013 | [#24](../problems/amc10/2013B.md#problem-24) | factoring, prime-factorization |
-| AMC 10 B | 2013 | [#25](../problems/amc10/2013B.md#problem-25) | base-representations, chinese-remainder-theorem, modular-arithmetic |
 | AMC 10 A | 2014 | [#4](../problems/amc10/2014A.md#problem-4) | permutations-with-constraints |
 | AMC 10 A | 2014 | [#17](../problems/amc10/2014A.md#problem-17) | dice-probability |
 | AMC 10 B | 2014 | [#16](../problems/amc10/2014B.md#problem-16) | dice-probability |

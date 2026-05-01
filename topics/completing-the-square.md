@@ -6,6 +6,7 @@ Problems tagged `completing-the-square`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2013 | [#11](../problems/amc10/2013B.md#problem-11) | — |
 | AMC 10 B | 2020 | [#9](../problems/amc10/2020B.md#problem-9) | integer-solutions |
 
 <!-- AUTOGEN-END -->

@@ -6,6 +6,7 @@ Problems tagged `triangular-numbers`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2013 | [#13](../problems/amc10/2013B.md#problem-13) | counting |
 | AMC 10 A | 2014 | [#24](../problems/amc10/2014A.md#problem-24) | skip-sequence |
 | AMC 10 A | 2016 | [#9](../problems/amc10/2016A.md#problem-9) | — |
 | AMC 10 A | 2023 | [#16](../problems/amc10/2023A.md#problem-16) | system-of-constraints |

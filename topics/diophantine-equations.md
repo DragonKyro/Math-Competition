@@ -19,8 +19,6 @@ Problems tagged `diophantine-equations`.
 | AMC 10 B | 2008 | [#8](../problems/amc10/2008B.md#problem-8) | euclidean-algorithm |
 | AMC 10 B | 2009 | [#10](../problems/amc10/2009B.md#problem-10) | pythagorean-theorem |
 | AMC 10 B | 2011 | [#14](../problems/amc10/2011B.md#problem-14) | pythagorean-theorem |
-| AMC 10 B | 2013 | [#16](../problems/amc10/2013B.md#problem-16) | herons-formula, mass-point-geometry, pythagorean-theorem |
-| AMC 10 B | 2013 | [#23](../problems/amc10/2013B.md#problem-23) | coordinate-bash, law-of-cosines, power-of-a-point, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AMC 10 A | 2016 | [#14](../problems/amc10/2016A.md#problem-14) | counting-solutions |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, coordinate-bash, pythagorean-theorem, similar-triangles |
 | AMC 10 | 2024 | [#15](../problems/amc10/2024.md#problem-15) | pythagorean-theorem, triangle-inequality |

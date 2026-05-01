@@ -6,6 +6,7 @@ Problems tagged `30-60-90-triangle`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2013 | [#7](../problems/amc10/2013B.md#problem-7) | hexagon-inscribed |
 | AMC 10 A | 2014 | [#22](../problems/amc10/2014A.md#problem-22) | rectangle, tan-15 |
 | AMC 10 B | 2014 | [#15](../problems/amc10/2014B.md#problem-15) | angle-trisection |
 | AMC 10 A | 2015 | [#19](../problems/amc10/2015A.md#problem-19) | 45-45-90-triangle, angle-trisector |

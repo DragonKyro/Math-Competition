@@ -11,7 +11,7 @@ Problems tagged `chinese-remainder-theorem`.
 | AMC 8 | 2018 | [#21](../problems/amc8/2018.md#problem-21) | modular-arithmetic |
 | AMC 10 A | 2010 | [#24](../problems/amc10/2010A.md#problem-24) | eulers-totient, factoring, floor-function, modular-arithmetic |
 | AMC 10 B | 2011 | [#23](../problems/amc10/2011B.md#problem-23) | binomial-theorem, eulers-totient, modular-arithmetic |
-| AMC 10 B | 2013 | [#25](../problems/amc10/2013B.md#problem-25) | base-representations, casework, modular-arithmetic |
+| AMC 10 B | 2013 | [#25](../problems/amc10/2013B.md#problem-25) | base-conversion, modular-arithmetic |
 | AMC 12 A | 2010 | [#23](../problems/amc12/2010A.md#problem-23) | eulers-totient, factoring, floor-function, modular-arithmetic |
 | AMC 12 B | 2010 | [#9](../problems/amc12/2010B.md#problem-9) | floor-function, logarithms, modular-arithmetic |
 | AMC 12 B | 2013 | [#23](../problems/amc12/2013B.md#problem-23) | base-representations, casework, modular-arithmetic |

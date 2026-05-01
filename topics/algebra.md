@@ -554,13 +554,6 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 B | 2012 | [#15](../problems/amc10/2012B.md#problem-15) | — |
 | AMC 10 B | 2012 | [#25](../problems/amc10/2012B.md#problem-25) | — |
 | AMC 10 A | 2013 | [#18](../problems/amc10/2013A.md#problem-18) | — |
-| AMC 10 B | 2013 | [#1](../problems/amc10/2013B.md#problem-1) | — |
-| AMC 10 B | 2013 | [#3](../problems/amc10/2013B.md#problem-3) | — |
-| AMC 10 B | 2013 | [#4](../problems/amc10/2013B.md#problem-4) | — |
-| AMC 10 B | 2013 | [#6](../problems/amc10/2013B.md#problem-6) | — |
-| AMC 10 B | 2013 | [#8](../problems/amc10/2013B.md#problem-8) | — |
-| AMC 10 B | 2013 | [#10](../problems/amc10/2013B.md#problem-10) | — |
-| AMC 10 B | 2013 | [#17](../problems/amc10/2013B.md#problem-17) | — |
 | AMC 10 B | 2014 | [#9](../problems/amc10/2014B.md#problem-9) | — |
 | AMC 10 A | 2015 | [#11](../problems/amc10/2015A.md#problem-11) | — |
 | AMC 10 A | 2015 | [#13](../problems/amc10/2015A.md#problem-13) | — |

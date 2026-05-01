@@ -7,7 +7,6 @@ Problems tagged `ptolemys-theorem`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 B | 2004 | [#24](../problems/amc10/2004B.md#problem-24) | angle-bisector-theorem, circumradius, similar-triangles |
-| AMC 10 B | 2013 | [#23](../problems/amc10/2013B.md#problem-23) | coordinate-bash, diophantine-equations, law-of-cosines, power-of-a-point, pythagorean-theorem, similar-triangles |
 | AMC 12 A | 2012 | [#16](../problems/amc12/2012A.md#problem-16) | circumradius, herons-formula, law-of-cosines, law-of-sines, pythagorean-theorem, similar-triangles, triangle-inequality |
 | AMC 12 B | 2013 | [#19](../problems/amc12/2013B.md#problem-19) | coordinate-bash, diophantine-equations, law-of-cosines, power-of-a-point, pythagorean-theorem, similar-triangles |
 | AMC 12 B | 2014 | [#24](../problems/amc12/2014B.md#problem-24) | law-of-cosines |

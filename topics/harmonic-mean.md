@@ -6,6 +6,7 @@ Problems tagged `harmonic-mean`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2013 | [#8](../problems/amc10/2013B.md#problem-8) | rate |
 | AMC 10 B | 2017 | [#7](../problems/amc10/2017B.md#problem-7) | rate-time |
 
 <!-- AUTOGEN-END -->

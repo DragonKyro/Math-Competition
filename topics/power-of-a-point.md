@@ -12,7 +12,6 @@ Problems tagged `power-of-a-point`.
 | AMC 10 A | 2009 | [#10](../problems/amc10/2009A.md#problem-10) | pythagorean-theorem, trig-identities |
 | AMC 10 B | 2011 | [#25](../problems/amc10/2011B.md#problem-25) | recursion, triangle-inequality |
 | AMC 10 A | 2013 | [#23](../problems/amc10/2013A.md#problem-23) | triangle-inequality |
-| AMC 10 B | 2013 | [#23](../problems/amc10/2013B.md#problem-23) | coordinate-bash, diophantine-equations, law-of-cosines, ptolemys-theorem, pythagorean-theorem, similar-triangles |
 | AMC 10 B | 2019 | [#23](../problems/amc10/2019B.md#problem-23) | tangent-lines, circle-area |
 | AMC 12 A | 2005 | [#15](../problems/amc12/2005A.md#problem-15) | mass-point-geometry, pythagorean-theorem, rotation, shoelace-theorem |
 | AMC 12 A | 2006 | [#17](../problems/amc12/2006A.md#problem-17) | law-of-cosines, pythagorean-theorem, similar-triangles |

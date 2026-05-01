@@ -9,7 +9,6 @@ Problems tagged `mass-point-geometry`.
 | AMC 8 | 2019 | [#24](../problems/amc8/2019.md#problem-24) | factoring, menelauss-theorem, similar-triangles |
 | AMC 10 B | 2004 | [#20](../problems/amc10/2004B.md#problem-20) | menelauss-theorem |
 | AMC 10 B | 2006 | [#23](../problems/amc10/2006B.md#problem-23) | — |
-| AMC 10 B | 2013 | [#16](../problems/amc10/2013B.md#problem-16) | diophantine-equations, herons-formula, pythagorean-theorem |
 | AMC 12 A | 2005 | [#15](../problems/amc12/2005A.md#problem-15) | power-of-a-point, pythagorean-theorem, rotation, shoelace-theorem |
 | AMC 12 A | 2011 | [#13](../problems/amc12/2011A.md#problem-13) | angle-bisector-theorem, herons-formula, inradius, menelauss-theorem |
 | AMC 12 A | 2012 | [#18](../problems/amc12/2012A.md#problem-18) | herons-formula, inradius, power-of-a-point, pythagorean-theorem, stewarts-theorem |

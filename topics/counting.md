@@ -6,6 +6,7 @@ Problems tagged `counting`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2013 | [#13](../problems/amc10/2013B.md#problem-13) | triangular-numbers |
 | AMC 10 A | 2018 | [#18](../problems/amc10/2018A.md#problem-18) | balanced-ternary |
 | AMC 10 A | 2019 | [#14](../problems/amc10/2019A.md#problem-14) | line-arrangements |
 | AMC 10 A | 2020 | [#6](../problems/amc10/2020A.md#problem-6) | digit-constraints |

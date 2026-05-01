@@ -6,6 +6,7 @@ Problems tagged `fibonacci-like`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2013 | [#21](../problems/amc10/2013B.md#problem-21) | modular-arithmetic |
 | AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | recursion, binary-strings |
 
 <!-- AUTOGEN-END -->
