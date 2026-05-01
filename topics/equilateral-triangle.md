@@ -6,6 +6,7 @@ Problems tagged `equilateral-triangle`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2010 | [#14](../problems/amc10/2010A.md#problem-14) | similar-triangles, 30-60-90 |
 | AMC 10 B | 2010 | [#19](../problems/amc10/2010B.md#problem-19) | chord |
 | AMC 10 B | 2013 | [#15](../problems/amc10/2013B.md#problem-15) | hexagon-area |
 | AMC 10 A | 2014 | [#23](../problems/amc10/2014A.md#problem-23) | paper-folding |

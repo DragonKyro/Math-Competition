@@ -19,8 +19,8 @@ Problems tagged `vietas-formulas`.
 | AMC 10 A | 2007 | [#20](../problems/amc10/2007A.md#problem-20) | binomial-theorem, quadratic-formula |
 | AMC 10 A | 2008 | [#18](../problems/amc10/2008A.md#problem-18) | congruent-triangles, inradius, pythagorean-theorem |
 | AMC 10 B | 2008 | [#9](../problems/amc10/2008B.md#problem-9) | quadratic-formula |
-| AMC 10 A | 2010 | [#19](../problems/amc10/2010A.md#problem-19) | congruent-triangles, law-of-cosines, pythagorean-theorem |
-| AMC 10 A | 2010 | [#21](../problems/amc10/2010A.md#problem-21) | prime-factorization |
+| AMC 10 A | 2010 | [#19](../problems/amc10/2010A.md#problem-19) | equiangular-hexagon, law-of-cosines |
+| AMC 10 A | 2010 | [#21](../problems/amc10/2010A.md#problem-21) | polynomial-factoring |
 | AMC 10 A | 2015 | [#23](../problems/amc10/2015A.md#problem-23) | simons-favorite-factoring, integer-roots |
 | AMC 10 B | 2015 | [#14](../problems/amc10/2015B.md#problem-14) | quadratic-roots |
 | AMC 10 A | 2019 | [#24](../problems/amc10/2019A.md#problem-24) | partial-fractions |

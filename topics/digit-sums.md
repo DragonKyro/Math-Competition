@@ -6,6 +6,7 @@ Problems tagged `digit-sums`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2010 | [#9](../problems/amc10/2010A.md#problem-9) | palindromes |
 | AMC 10 B | 2013 | [#18](../problems/amc10/2013B.md#problem-18) | stars-and-bars |
 | AMC 10 A | 2014 | [#20](../problems/amc10/2014A.md#problem-20) | multiplication-pattern |
 | AMC 10 A | 2017 | [#20](../problems/amc10/2017A.md#problem-20) | modular-arithmetic |

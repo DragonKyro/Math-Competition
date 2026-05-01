@@ -9,7 +9,7 @@ Problems tagged `angle-bisector-theorem`.
 | AMC 10 B | 2004 | [#22](../problems/amc10/2004B.md#problem-22) | circumradius, coordinate-bash, diophantine-equations, inradius, pythagorean-theorem |
 | AMC 10 B | 2004 | [#24](../problems/amc10/2004B.md#problem-24) | circumradius, ptolemys-theorem, similar-triangles |
 | AMC 10 B | 2009 | [#20](../problems/amc10/2009B.md#problem-20) | congruent-triangles, double-angle-identities, pythagorean-theorem |
-| AMC 10 A | 2010 | [#16](../problems/amc10/2010A.md#problem-16) | factoring, triangle-inequality |
+| AMC 10 A | 2010 | [#16](../problems/amc10/2010A.md#problem-16) | triangle-inequality |
 | AMC 10 A | 2018 | [#24](../problems/amc10/2018A.md#problem-24) | area-ratio |
 | AMC 10 A | 2022 | [#13](../problems/amc10/2022A.md#problem-13) | similar-triangles, parallelogram |
 | AMC 12 | 2000 | [#17](../problems/amc12/2000.md#problem-17) | law-of-sines |

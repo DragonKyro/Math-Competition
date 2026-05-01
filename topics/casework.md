@@ -46,7 +46,6 @@ Problems tagged `casework`.
 | AMC 10 B | 2008 | [#16](../problems/amc10/2008B.md#problem-16) | complementary-counting |
 | AMC 10 B | 2008 | [#20](../problems/amc10/2008B.md#problem-20) | — |
 | AMC 10 A | 2009 | [#24](../problems/amc10/2009A.md#problem-24) | complementary-probability |
-| AMC 10 A | 2010 | [#15](../problems/amc10/2010A.md#problem-15) | — |
 | AMC 10 B | 2010 | [#13](../problems/amc10/2010B.md#problem-13) | nested-absolute-value |
 | AMC 10 B | 2010 | [#24](../problems/amc10/2010B.md#problem-24) | geometric-sequence, arithmetic-sequence |
 | AMC 10 A | 2011 | [#22](../problems/amc10/2011A.md#problem-22) | pentagon-coloring |

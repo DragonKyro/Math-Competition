@@ -25,7 +25,6 @@ Problems tagged `prime-factorization`.
 | AMC 10 A | 2007 | [#17](../problems/amc10/2007A.md#problem-17) | — |
 | AMC 10 A | 2009 | [#9](../problems/amc10/2009A.md#problem-9) | geometric-series |
 | AMC 10 A | 2009 | [#25](../problems/amc10/2009A.md#problem-25) | divisibility-rules, factoring, modular-arithmetic |
-| AMC 10 A | 2010 | [#21](../problems/amc10/2010A.md#problem-21) | vietas-formulas |
 | AMC 10 A | 2011 | [#10](../problems/amc10/2011A.md#problem-10) | word-problem |
 | AMC 10 B | 2013 | [#9](../problems/amc10/2013B.md#problem-9) | relatively-prime |
 | AMC 10 B | 2013 | [#20](../problems/amc10/2013B.md#problem-20) | factorials |

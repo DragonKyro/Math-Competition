@@ -6,6 +6,7 @@ Problems tagged `symmetry`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2010 | [#18](../problems/amc10/2010A.md#problem-18) | probability |
 | AMC 10 B | 2017 | [#18](../problems/amc10/2017B.md#problem-18) | burnsides-lemma |
 | AMC 10 A | 2018 | [#20](../problems/amc10/2018A.md#problem-20) | grid-coloring |
 | AMC 10 A | 2020 | [#13](../problems/amc10/2020A.md#problem-13) | random-walk, probability |

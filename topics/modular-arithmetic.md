@@ -43,7 +43,6 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 A | 2009 | [#5](../problems/amc10/2009A.md#problem-5) | — |
 | AMC 10 A | 2009 | [#25](../problems/amc10/2009A.md#problem-25) | divisibility-rules, factoring, prime-factorization |
 | AMC 10 B | 2009 | [#21](../problems/amc10/2009B.md#problem-21) | geometric-series |
-| AMC 10 A | 2010 | [#24](../problems/amc10/2010A.md#problem-24) | chinese-remainder-theorem, eulers-totient, factoring, floor-function |
 | AMC 10 B | 2010 | [#18](../problems/amc10/2010B.md#problem-18) | divisibility |
 | AMC 10 A | 2012 | [#16](../problems/amc10/2012A.md#problem-16) | lcm |
 | AMC 10 B | 2013 | [#21](../problems/amc10/2013B.md#problem-21) | fibonacci-like |

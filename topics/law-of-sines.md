@@ -7,7 +7,6 @@ Problems tagged `law-of-sines`.
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
 | AMC 10 B | 2007 | [#11](../problems/amc10/2007B.md#problem-11) | double-angle-identities, herons-formula, law-of-cosines, power-of-a-point, pythagorean-theorem |
-| AMC 10 A | 2010 | [#14](../problems/amc10/2010A.md#problem-14) | angle-chasing, similar-triangles |
 | AMC 10 A | 2023 | [#13](../problems/amc10/2023A.md#problem-13) | maximize-opposite-side |
 | AMC 12 | 2000 | [#17](../problems/amc12/2000.md#problem-17) | angle-bisector-theorem |
 | AMC 12 | 2001 | [#24](../problems/amc12/2001.md#problem-24) | double-angle-identities, law-of-cosines, pythagorean-theorem, trig-identities |

@@ -6,6 +6,7 @@ Problems tagged `3d-geometry`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2010 | [#17](../problems/amc10/2010A.md#problem-17) | inclusion-exclusion |
 | AMC 10 A | 2012 | [#21](../problems/amc10/2012A.md#problem-21) | midpoint, rectangle |
 | AMC 10 B | 2012 | [#23](../problems/amc10/2012B.md#problem-23) | tetrahedron-cut |
 | AMC 10 A | 2013 | [#22](../problems/amc10/2013A.md#problem-22) | pythagorean-theorem |

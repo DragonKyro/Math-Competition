@@ -16,7 +16,7 @@ Problems tagged `inclusion-exclusion`.
 | AMC 10 | 2001 | [#25](../problems/amc10/2001.md#problem-25) | floor-function |
 | AMC 10 B | 2004 | [#21](../problems/amc10/2004B.md#problem-21) | modular-arithmetic |
 | AMC 10 B | 2004 | [#23](../problems/amc10/2004B.md#problem-23) | — |
-| AMC 10 A | 2010 | [#17](../problems/amc10/2010A.md#problem-17) | — |
+| AMC 10 A | 2010 | [#17](../problems/amc10/2010A.md#problem-17) | 3d-geometry |
 | AMC 10 B | 2010 | [#22](../problems/amc10/2010B.md#problem-22) | counting-distributions |
 | AMC 10 A | 2013 | [#17](../problems/amc10/2013A.md#problem-17) | lcm |
 | AMC 10 A | 2017 | [#19](../problems/amc10/2017A.md#problem-19) | casework |
