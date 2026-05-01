@@ -13,7 +13,6 @@ Problems tagged `coordinate-bash`.
 | AMC 10 B | 2004 | [#22](../problems/amc10/2004B.md#problem-22) | angle-bisector-theorem, circumradius, diophantine-equations, inradius, pythagorean-theorem |
 | AMC 10 A | 2009 | [#17](../problems/amc10/2009A.md#problem-17) | pythagorean-theorem |
 | AMC 10 B | 2009 | [#18](../problems/amc10/2009B.md#problem-18) | pythagorean-theorem, shoelace-theorem |
-| AMC 10 B | 2012 | [#19](../problems/amc10/2012B.md#problem-19) | shoelace-theorem |
 | AMC 10 A | 2016 | [#19](../problems/amc10/2016A.md#problem-19) | similar-triangles |
 | AMC 10 B | 2016 | [#19](../problems/amc10/2016B.md#problem-19) | line-intersection |
 | AMC 10 B | 2022 | [#16](../problems/amc10/2022B.md#problem-16) | angle-chasing, diophantine-equations, pythagorean-theorem, similar-triangles |

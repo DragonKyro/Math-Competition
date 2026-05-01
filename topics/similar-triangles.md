@@ -26,6 +26,7 @@ Problems tagged `similar-triangles`.
 | AMC 10 A | 2010 | [#14](../problems/amc10/2010A.md#problem-14) | angle-chasing, law-of-sines |
 | AMC 10 B | 2011 | [#9](../problems/amc10/2011B.md#problem-9) | — |
 | AMC 10 A | 2012 | [#11](../problems/amc10/2012A.md#problem-11) | tangent-circles |
+| AMC 10 B | 2012 | [#19](../problems/amc10/2012B.md#problem-19) | rectangle |
 | AMC 10 A | 2014 | [#19](../problems/amc10/2014A.md#problem-19) | 3d-diagonals |
 | AMC 10 A | 2016 | [#19](../problems/amc10/2016A.md#problem-19) | coordinate-bash |
 | AMC 10 B | 2016 | [#23](../problems/amc10/2016B.md#problem-23) | hexagon-dissection |

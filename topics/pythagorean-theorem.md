@@ -85,8 +85,7 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 B | 2011 | [#14](../problems/amc10/2011B.md#problem-14) | diophantine-equations |
 | AMC 10 B | 2011 | [#18](../problems/amc10/2011B.md#problem-18) | law-of-cosines |
 | AMC 10 B | 2011 | [#22](../problems/amc10/2011B.md#problem-22) | — |
-| AMC 10 B | 2012 | [#12](../problems/amc10/2012B.md#problem-12) | — |
-| AMC 10 B | 2012 | [#17](../problems/amc10/2012B.md#problem-17) | — |
+| AMC 10 B | 2012 | [#12](../problems/amc10/2012B.md#problem-12) | right-triangle |
 | AMC 10 A | 2013 | [#22](../problems/amc10/2013A.md#problem-22) | 3d-geometry |
 | AMC 10 B | 2014 | [#21](../problems/amc10/2014B.md#problem-21) | trapezoid |
 | AMC 10 B | 2014 | [#22](../problems/amc10/2014B.md#problem-22) | tangent-circles |

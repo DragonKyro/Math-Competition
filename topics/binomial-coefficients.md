@@ -6,6 +6,7 @@ Problems tagged `binomial-coefficients`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2012 | [#22](../problems/amc10/2012B.md#problem-22) | ordering-sequences |
 | AMC 10 B | 2024 | [#12](../problems/amc10/2024B.md#problem-12) | antichain |
 | AIME I | 2023 | [#1](../problems/aime/2023I.md#problem-1) | probability, casework |
 | AIME I | 2023 | [#3](../problems/aime/2023I.md#problem-3) | counting |

@@ -11,7 +11,6 @@ Problems tagged `recursion`.
 | AMC 10 A | 2002 | [#3](../problems/amc10/2002A.md#problem-3) | — |
 | AMC 10 A | 2011 | [#22](../problems/amc10/2011A.md#problem-22) | casework, complementary-counting, expected-value |
 | AMC 10 B | 2011 | [#25](../problems/amc10/2011B.md#problem-25) | power-of-a-point, triangle-inequality |
-| AMC 10 B | 2012 | [#22](../problems/amc10/2012B.md#problem-22) | binomial-theorem, casework, induction |
 | AMC 10 B | 2018 | [#20](../problems/amc10/2018B.md#problem-20) | periodic-sequence |
 | AMC 10 B | 2019 | [#24](../problems/amc10/2019B.md#problem-24) | approximation, logarithms |
 | AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | binary-strings, fibonacci-like |
