@@ -14,7 +14,6 @@ Problems tagged `herons-formula`.
 | AMC 8 | 2019 | [#21](../problems/amc8/2019.md#problem-21) | base-representations, shoelace-theorem |
 | AMC 10 A | 2002 | [#13](../problems/amc10/2002A.md#problem-13) | diophantine-equations, pythagorean-theorem |
 | AMC 10 B | 2007 | [#11](../problems/amc10/2007B.md#problem-11) | double-angle-identities, law-of-cosines, law-of-sines, power-of-a-point, pythagorean-theorem |
-| AMC 10 B | 2010 | [#7](../problems/amc10/2010B.md#problem-7) | — |
 | AMC 12 | 2000 | [#19](../problems/amc12/2000.md#problem-19) | angle-bisector-theorem |
 | AMC 12 A | 2002 | [#23](../problems/amc12/2002A.md#problem-23) | angle-bisector-theorem, double-angle-identities, law-of-cosines, law-of-sines, stewarts-theorem |
 | AMC 12 B | 2008 | [#25](../problems/amc12/2008B.md#problem-25) | angle-chasing, factoring, pythagorean-theorem |

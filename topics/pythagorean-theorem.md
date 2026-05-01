@@ -80,8 +80,6 @@ Problems tagged `pythagorean-theorem`.
 | AMC 10 B | 2009 | [#20](../problems/amc10/2009B.md#problem-20) | angle-bisector-theorem, congruent-triangles, double-angle-identities |
 | AMC 10 B | 2009 | [#22](../problems/amc10/2009B.md#problem-22) | — |
 | AMC 10 A | 2010 | [#19](../problems/amc10/2010A.md#problem-19) | congruent-triangles, law-of-cosines, vietas-formulas |
-| AMC 10 B | 2010 | [#16](../problems/amc10/2010B.md#problem-16) | — |
-| AMC 10 B | 2010 | [#19](../problems/amc10/2010B.md#problem-19) | congruent-triangles, law-of-cosines |
 | AMC 10 B | 2012 | [#12](../problems/amc10/2012B.md#problem-12) | right-triangle |
 | AMC 10 A | 2013 | [#22](../problems/amc10/2013A.md#problem-22) | 3d-geometry |
 | AMC 10 B | 2014 | [#21](../problems/amc10/2014B.md#problem-21) | trapezoid |

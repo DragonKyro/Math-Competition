@@ -21,7 +21,6 @@ Problems tagged `congruent-triangles`.
 | AMC 10 B | 2009 | [#16](../problems/amc10/2009B.md#problem-16) | — |
 | AMC 10 B | 2009 | [#20](../problems/amc10/2009B.md#problem-20) | angle-bisector-theorem, double-angle-identities, pythagorean-theorem |
 | AMC 10 A | 2010 | [#19](../problems/amc10/2010A.md#problem-19) | law-of-cosines, pythagorean-theorem, vietas-formulas |
-| AMC 10 B | 2010 | [#19](../problems/amc10/2010B.md#problem-19) | law-of-cosines, pythagorean-theorem |
 | AMC 12 B | 2004 | [#14](../problems/amc12/2004B.md#problem-14) | — |
 | AMC 12 A | 2009 | [#11](../problems/amc12/2009A.md#problem-11) | — |
 | AMC 12 A | 2010 | [#17](../problems/amc12/2010A.md#problem-17) | law-of-cosines, pythagorean-theorem, vietas-formulas |

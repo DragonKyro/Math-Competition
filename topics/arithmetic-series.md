@@ -26,7 +26,6 @@ Problems tagged `arithmetic-series`.
 | AMC 10 A | 2006 | [#9](../problems/amc10/2006A.md#problem-9) | casework |
 | AMC 10 A | 2006 | [#14](../problems/amc10/2006A.md#problem-14) | — |
 | AMC 10 A | 2006 | [#19](../problems/amc10/2006A.md#problem-19) | stars-and-bars |
-| AMC 10 B | 2010 | [#24](../problems/amc10/2010B.md#problem-24) | casework, geometric-series, modular-arithmetic |
 | AMC 10 A | 2011 | [#4](../problems/amc10/2011A.md#problem-4) | differences |
 | AMC 10 A | 2019 | [#23](../problems/amc10/2019A.md#problem-23) | round-robin-counting |
 | AMC 10 A | 2020 | [#7](../problems/amc10/2020A.md#problem-7) | magic-square |

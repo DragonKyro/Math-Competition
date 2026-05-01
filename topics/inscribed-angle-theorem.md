@@ -9,7 +9,6 @@ Problems tagged `inscribed-angle-theorem`.
 | AMC 8 | 2014 | [#15](../problems/amc8/2014.md#problem-15) | — |
 | AMC 10 A | 2005 | [#23](../problems/amc10/2005A.md#problem-23) | power-of-a-point, pythagorean-theorem |
 | AMC 10 B | 2007 | [#4](../problems/amc10/2007B.md#problem-4) | — |
-| AMC 10 B | 2010 | [#6](../problems/amc10/2010B.md#problem-6) | — |
 | AMC 10 A | 2016 | [#24](../problems/amc10/2016A.md#problem-24) | law-of-cosines, triple-angle-formula |
 | AMC 12 | 2001 | [#17](../problems/amc12/2001.md#problem-17) | pythagorean-theorem |
 | AMC 12 A | 2007 | [#8](../problems/amc12/2007A.md#problem-8) | — |

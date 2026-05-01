@@ -47,9 +47,8 @@ Problems tagged `casework`.
 | AMC 10 B | 2008 | [#20](../problems/amc10/2008B.md#problem-20) | — |
 | AMC 10 A | 2009 | [#24](../problems/amc10/2009A.md#problem-24) | complementary-probability |
 | AMC 10 A | 2010 | [#15](../problems/amc10/2010A.md#problem-15) | — |
-| AMC 10 B | 2010 | [#13](../problems/amc10/2010B.md#problem-13) | — |
-| AMC 10 B | 2010 | [#23](../problems/amc10/2010B.md#problem-23) | — |
-| AMC 10 B | 2010 | [#24](../problems/amc10/2010B.md#problem-24) | arithmetic-series, geometric-series, modular-arithmetic |
+| AMC 10 B | 2010 | [#13](../problems/amc10/2010B.md#problem-13) | nested-absolute-value |
+| AMC 10 B | 2010 | [#24](../problems/amc10/2010B.md#problem-24) | geometric-sequence, arithmetic-sequence |
 | AMC 10 A | 2011 | [#22](../problems/amc10/2011A.md#problem-22) | pentagon-coloring |
 | AMC 10 B | 2011 | [#21](../problems/amc10/2011B.md#problem-21) | integer-differences |
 | AMC 10 A | 2012 | [#20](../problems/amc10/2012A.md#problem-20) | rotation |

@@ -6,6 +6,7 @@ Problems tagged `counting`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2010 | [#5](../problems/amc10/2010B.md#problem-5) | calendar |
 | AMC 10 A | 2012 | [#14](../problems/amc10/2012A.md#problem-14) | checkerboard |
 | AMC 10 B | 2013 | [#13](../problems/amc10/2013B.md#problem-13) | triangular-numbers |
 | AMC 10 A | 2018 | [#18](../problems/amc10/2018A.md#problem-18) | balanced-ternary |

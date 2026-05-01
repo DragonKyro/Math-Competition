@@ -6,6 +6,8 @@ Problems tagged `divisibility`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 B | 2010 | [#18](../problems/amc10/2010B.md#problem-18) | modular-arithmetic |
+| AMC 10 B | 2010 | [#21](../problems/amc10/2010B.md#problem-21) | palindromes |
 | AMC 10 B | 2017 | [#23](../problems/amc10/2017B.md#problem-23) | crt, digit-sums |
 | AMC 10 B | 2017 | [#25](../problems/amc10/2017B.md#problem-25) | distinct-scores, modular-system |
 | AMC 10 A | 2018 | [#17](../problems/amc10/2018A.md#problem-17) | set-selection |

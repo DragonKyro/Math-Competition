@@ -12,7 +12,6 @@ Problems tagged `inradius`.
 | AMC 10 A | 2008 | [#16](../problems/amc10/2008A.md#problem-16) | — |
 | AMC 10 A | 2008 | [#18](../problems/amc10/2008A.md#problem-18) | congruent-triangles, pythagorean-theorem, vietas-formulas |
 | AMC 10 A | 2009 | [#6](../problems/amc10/2009A.md#problem-6) | — |
-| AMC 10 B | 2010 | [#20](../problems/amc10/2010B.md#problem-20) | — |
 | AMC 10 B | 2017 | [#21](../problems/amc10/2017B.md#problem-21) | median-triangle |
 | AMC 12 B | 2004 | [#19](../problems/amc12/2004B.md#problem-19) | pythagorean-theorem |
 | AMC 12 A | 2008 | [#13](../problems/amc12/2008A.md#problem-13) | — |
