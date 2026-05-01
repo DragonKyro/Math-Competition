@@ -103,14 +103,8 @@ Problems tagged `casework`.
 | AMC 10 B | 2019 | [#9](../problems/amc10/2019B.md#problem-9) | floor-function |
 | AMC 10 B | 2019 | [#22](../problems/amc10/2019B.md#problem-22) | state-diagram |
 | AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | diophantine-equations, modular-arithmetic, path-counting, recursion |
-| AMC 10 A | 2020 | [#5](../problems/amc10/2020A.md#problem-5) | vietas-formulas |
-| AMC 10 A | 2020 | [#13](../problems/amc10/2020A.md#problem-13) | — |
-| AMC 10 A | 2020 | [#17](../problems/amc10/2020A.md#problem-17) | arithmetic-series |
-| AMC 10 A | 2020 | [#18](../problems/amc10/2020A.md#problem-18) | complementary-counting, inclusion-exclusion |
-| AMC 10 A | 2020 | [#19](../problems/amc10/2020A.md#problem-19) | — |
-| AMC 10 A | 2020 | [#22](../problems/amc10/2020A.md#problem-22) | floor-function, prime-factorization |
-| AMC 10 A | 2020 | [#23](../problems/amc10/2020A.md#problem-23) | modular-arithmetic, reflection, rotation |
-| AMC 10 A | 2020 | [#25](../problems/amc10/2020A.md#problem-25) | stars-and-bars |
+| AMC 10 A | 2020 | [#5](../problems/amc10/2020A.md#problem-5) | absolute-value, quadratic |
+| AMC 10 A | 2020 | [#25](../problems/amc10/2020A.md#problem-25) | optimal-strategy, probability |
 | AMC 10 B | 2020 | [#8](../problems/amc10/2020B.md#problem-8) | inscribed-angle-theorem, pythagorean-theorem |
 | AMC 10 B | 2020 | [#9](../problems/amc10/2020B.md#problem-9) | factoring, quadratic-formula |
 | AMC 10 B | 2020 | [#17](../problems/amc10/2020B.md#problem-17) | — |

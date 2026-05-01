@@ -653,10 +653,6 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 A | 2019 | [#14](../problems/amc10/2019A.md#problem-14) | — |
 | AMC 10 B | 2019 | [#3](../problems/amc10/2019B.md#problem-3) | — |
 | AMC 10 B | 2019 | [#11](../problems/amc10/2019B.md#problem-11) | — |
-| AMC 10 A | 2020 | [#1](../problems/amc10/2020A.md#problem-1) | — |
-| AMC 10 A | 2020 | [#2](../problems/amc10/2020A.md#problem-2) | — |
-| AMC 10 A | 2020 | [#3](../problems/amc10/2020A.md#problem-3) | — |
-| AMC 10 A | 2020 | [#4](../problems/amc10/2020A.md#problem-4) | — |
 | AMC 10 A | 2020 | [#12](../problems/amc10/2020A.md#problem-12) | — |
 | AMC 10 B | 2020 | [#1](../problems/amc10/2020B.md#problem-1) | — |
 | AMC 10 B | 2020 | [#3](../problems/amc10/2020B.md#problem-3) | — |

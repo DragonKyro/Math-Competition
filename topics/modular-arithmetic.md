@@ -77,8 +77,6 @@ Problems tagged `modular-arithmetic`.
 | AMC 10 B | 2019 | [#14](../problems/amc10/2019B.md#problem-14) | divisibility-rules, prime-factorization |
 | AMC 10 B | 2019 | [#19](../problems/amc10/2019B.md#problem-19) | prime-factorization |
 | AMC 10 B | 2019 | [#25](../problems/amc10/2019B.md#problem-25) | casework, diophantine-equations, path-counting, recursion |
-| AMC 10 A | 2020 | [#23](../problems/amc10/2020A.md#problem-23) | casework, reflection, rotation |
-| AMC 10 A | 2020 | [#24](../problems/amc10/2020A.md#problem-24) | chinese-remainder-theorem, diophantine-equations, euclidean-algorithm |
 | AMC 10 B | 2020 | [#12](../problems/amc10/2020B.md#problem-12) | floor-function |
 | AMC 10 B | 2020 | [#15](../problems/amc10/2020B.md#problem-15) | — |
 | AMC 10 B | 2020 | [#19](../problems/amc10/2020B.md#problem-19) | chinese-remainder-theorem, divisibility-rules |

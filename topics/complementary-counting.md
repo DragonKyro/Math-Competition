@@ -37,7 +37,6 @@ Problems tagged `complementary-counting`.
 | AMC 10 B | 2017 | [#9](../problems/amc10/2017B.md#problem-9) | casework |
 | AMC 10 B | 2017 | [#16](../problems/amc10/2017B.md#problem-16) | — |
 | AMC 10 B | 2018 | [#5](../problems/amc10/2018B.md#problem-5) | — |
-| AMC 10 A | 2020 | [#18](../problems/amc10/2020A.md#problem-18) | casework, inclusion-exclusion |
 | AMC 10 B | 2022 | [#3](../problems/amc10/2022B.md#problem-3) | parity |
 | AMC 10 B | 2022 | [#18](../problems/amc10/2022B.md#problem-18) | casework |
 | AMC 12 B | 2002 | [#16](../problems/amc12/2002B.md#problem-16) | inclusion-exclusion |

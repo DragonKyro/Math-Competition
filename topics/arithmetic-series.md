@@ -43,9 +43,8 @@ Problems tagged `arithmetic-series`.
 | AMC 10 A | 2019 | [#15](../problems/amc10/2019A.md#problem-15) | recursion |
 | AMC 10 A | 2019 | [#23](../problems/amc10/2019A.md#problem-23) | modular-arithmetic |
 | AMC 10 B | 2019 | [#4](../problems/amc10/2019B.md#problem-4) | — |
-| AMC 10 A | 2020 | [#7](../problems/amc10/2020A.md#problem-7) | — |
-| AMC 10 A | 2020 | [#8](../problems/amc10/2020A.md#problem-8) | — |
-| AMC 10 A | 2020 | [#17](../problems/amc10/2020A.md#problem-17) | casework |
+| AMC 10 A | 2020 | [#7](../problems/amc10/2020A.md#problem-7) | magic-square |
+| AMC 10 A | 2020 | [#8](../problems/amc10/2020A.md#problem-8) | grouping |
 | AMC 10 A | 2021 | [#4](../problems/amc10/2021A.md#problem-4) | — |
 | AMC 10 A | 2021 | [#22](../problems/amc10/2021A.md#problem-22) | divisibility, diophantine-equation |
 | AMC 10 A | 2023 | [#15](../problems/amc10/2023A.md#problem-15) | difference-of-squares |

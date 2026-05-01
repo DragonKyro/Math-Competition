@@ -25,8 +25,7 @@ Problems tagged `quadratic-formula`.
 | AMC 10 B | 2018 | [#17](../problems/amc10/2018B.md#problem-17) | pythagorean-theorem |
 | AMC 10 B | 2019 | [#6](../problems/amc10/2019B.md#problem-6) | factoring, prime-factorization |
 | AMC 10 B | 2019 | [#10](../problems/amc10/2019B.md#problem-10) | herons-formula, pythagorean-theorem, rotation |
-| AMC 10 A | 2020 | [#14](../problems/amc10/2020A.md#problem-14) | binomial-theorem, vietas-formulas |
-| AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | angle-bisector-theorem, angle-chasing, law-of-cosines, law-of-sines, power-of-a-point, pythagorean-theorem, similar-triangles |
+| AMC 10 A | 2020 | [#20](../problems/amc10/2020A.md#problem-20) | right-triangle, similar-triangles |
 | AMC 10 B | 2020 | [#9](../problems/amc10/2020B.md#problem-9) | casework, factoring |
 | AMC 10 B | 2020 | [#24](../problems/amc10/2020B.md#problem-24) | floor-function, modular-arithmetic |
 | AMC 10 B | 2021 | [#13](../problems/amc10/2021B.md#problem-13) | base-conversion |

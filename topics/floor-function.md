@@ -28,7 +28,7 @@ Problems tagged `floor-function`.
 | AMC 10 B | 2018 | [#14](../problems/amc10/2018B.md#problem-14) | — |
 | AMC 10 A | 2019 | [#25](../problems/amc10/2019A.md#problem-25) | legendres-formula, wilsons-theorem |
 | AMC 10 B | 2019 | [#9](../problems/amc10/2019B.md#problem-9) | casework |
-| AMC 10 A | 2020 | [#22](../problems/amc10/2020A.md#problem-22) | casework, prime-factorization |
+| AMC 10 A | 2020 | [#22](../problems/amc10/2020A.md#problem-22) | divisors |
 | AMC 10 B | 2020 | [#12](../problems/amc10/2020B.md#problem-12) | modular-arithmetic |
 | AMC 10 B | 2020 | [#24](../problems/amc10/2020B.md#problem-24) | modular-arithmetic, quadratic-formula |
 | AMC 10 B | 2021 | [#25](../problems/amc10/2021B.md#problem-25) | lattice-points, stern-brocot |

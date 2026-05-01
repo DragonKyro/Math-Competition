@@ -43,8 +43,7 @@ Problems tagged `prime-factorization`.
 | AMC 10 B | 2019 | [#6](../problems/amc10/2019B.md#problem-6) | factoring, quadratic-formula |
 | AMC 10 B | 2019 | [#14](../problems/amc10/2019B.md#problem-14) | divisibility-rules, modular-arithmetic |
 | AMC 10 B | 2019 | [#19](../problems/amc10/2019B.md#problem-19) | modular-arithmetic |
-| AMC 10 A | 2020 | [#15](../problems/amc10/2020A.md#problem-15) | — |
-| AMC 10 A | 2020 | [#22](../problems/amc10/2020A.md#problem-22) | casework, floor-function |
+| AMC 10 A | 2020 | [#15](../problems/amc10/2020A.md#problem-15) | perfect-square-divisors |
 | AMC 10 A | 2021 | [#18](../problems/amc10/2021A.md#problem-18) | functional-equation |
 | AMC 10 B | 2021 | [#12](../problems/amc10/2021B.md#problem-12) | sum-of-divisors |
 | AMC 10 A | 2022 | [#7](../problems/amc10/2022A.md#problem-7) | lcm-gcd |

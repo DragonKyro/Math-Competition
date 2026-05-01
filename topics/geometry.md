@@ -272,9 +272,6 @@ Problems tagged `geometry`: triangles, circles, polygons, coordinate geometry, 3
 | AMC 10 A | 2019 | [#10](../problems/amc10/2019A.md#problem-10) | number-theory |
 | AMC 10 B | 2019 | [#1](../problems/amc10/2019B.md#problem-1) | — |
 | AMC 10 B | 2019 | [#5](../problems/amc10/2019B.md#problem-5) | — |
-| AMC 10 A | 2020 | [#10](../problems/amc10/2020A.md#problem-10) | — |
-| AMC 10 A | 2020 | [#11](../problems/amc10/2020A.md#problem-11) | number-theory |
-| AMC 10 A | 2020 | [#16](../problems/amc10/2020A.md#problem-16) | probability |
 | AMC 10 B | 2020 | [#2](../problems/amc10/2020B.md#problem-2) | — |
 | AMC 10 B | 2020 | [#14](../problems/amc10/2020B.md#problem-14) | — |
 | AMC 10 B | 2020 | [#20](../problems/amc10/2020B.md#problem-20) | — |

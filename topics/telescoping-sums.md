@@ -8,7 +8,6 @@ Problems tagged `telescoping-sums`.
 |-------------|------|---------|-----------|
 | AMC 8 | 2018 | [#2](../problems/amc8/2018.md#problem-2) | — |
 | AMC 8 | 2019 | [#17](../problems/amc8/2019.md#problem-17) | — |
-| AMC 10 A | 2020 | [#21](../problems/amc10/2020A.md#problem-21) | — |
 | AMC 12 A | 2004 | [#25](../problems/amc12/2004A.md#problem-25) | binomial-theorem, geometric-series |
 | AMC 12 B | 2016 | [#21](../problems/amc12/2016B.md#problem-21) | recursion, similar-triangles |
 | AMC 12 B | 2016 | [#25](../problems/amc12/2016B.md#problem-25) | fermats-little-theorem, logarithms, modular-arithmetic, recursion |

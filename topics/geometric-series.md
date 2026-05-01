@@ -23,6 +23,7 @@ Problems tagged `geometric-series`.
 | AMC 10 B | 2019 | [#17](../problems/amc10/2019B.md#problem-17) | factoring |
 | AMC 10 B | 2019 | [#21](../problems/amc10/2019B.md#problem-21) | — |
 | AMC 10 B | 2019 | [#24](../problems/amc10/2019B.md#problem-24) | factoring, induction, recursion |
+| AMC 10 A | 2020 | [#21](../problems/amc10/2020A.md#problem-21) | binary-representation |
 | AMC 10 B | 2022 | [#12](../problems/amc10/2022B.md#problem-12) | complement-probability |
 | AMC 12 B | 2002 | [#9](../problems/amc12/2002B.md#problem-9) | arithmetic-series |
 | AMC 12 B | 2003 | [#6](../problems/amc12/2003B.md#problem-6) | — |
