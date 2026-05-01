@@ -66,9 +66,7 @@ Problems tagged `casework`.
 | AMC 10 A | 2014 | [#4](../problems/amc10/2014A.md#problem-4) | complementary-counting |
 | AMC 10 A | 2014 | [#17](../problems/amc10/2014A.md#problem-17) | — |
 | AMC 10 B | 2014 | [#24](../problems/amc10/2014B.md#problem-24) | — |
-| AMC 10 A | 2015 | [#10](../problems/amc10/2015A.md#problem-10) | — |
-| AMC 10 A | 2015 | [#18](../problems/amc10/2015A.md#problem-18) | base-representations |
-| AMC 10 A | 2015 | [#22](../problems/amc10/2015A.md#problem-22) | complementary-counting, recursion, stars-and-bars |
+| AMC 10 A | 2015 | [#22](../problems/amc10/2015A.md#problem-22) | circular-arrangements |
 | AMC 10 B | 2015 | [#21](../problems/amc10/2015B.md#problem-21) | modular-arithmetic |
 | AMC 10 B | 2015 | [#25](../problems/amc10/2015B.md#problem-25) | — |
 | AMC 10 B | 2016 | [#14](../problems/amc10/2016B.md#problem-14) | lattice-squares |

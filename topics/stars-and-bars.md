@@ -14,7 +14,6 @@ Problems tagged `stars-and-bars`.
 | AMC 10 A | 2008 | [#23](../problems/amc10/2008A.md#problem-23) | — |
 | AMC 10 B | 2010 | [#22](../problems/amc10/2010B.md#problem-22) | modular-arithmetic |
 | AMC 10 B | 2013 | [#18](../problems/amc10/2013B.md#problem-18) | casework |
-| AMC 10 A | 2015 | [#22](../problems/amc10/2015A.md#problem-22) | casework, complementary-counting, recursion |
 | AMC 10 A | 2016 | [#20](../problems/amc10/2016A.md#problem-20) | polynomial-expansion |
 | AMC 10 A | 2018 | [#4](../problems/amc10/2018A.md#problem-4) | nonadjacent-placement |
 | AMC 10 A | 2018 | [#11](../problems/amc10/2018A.md#problem-11) | dice-sum |

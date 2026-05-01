@@ -6,7 +6,6 @@ Problems tagged `polynomial-division`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
-| AMC 10 A | 2015 | [#16](../problems/amc10/2015A.md#problem-16) | factoring, vietas-formulas |
 | AMC 10 A | 2017 | [#24](../problems/amc10/2017A.md#problem-24) | matching-coefficients |
 | AMC 10 B | 2020 | [#22](../problems/amc10/2020B.md#problem-22) | sophie-germain-identity |
 | AMC 10 B | 2022 | [#21](../problems/amc10/2022B.md#problem-21) | chinese-remainder-theorem-polynomials |

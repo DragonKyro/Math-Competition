@@ -6,6 +6,7 @@ Problems tagged `equilateral-triangle`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2015 | [#17](../problems/amc10/2015A.md#problem-17) | coordinate-geometry |
 | AMC 10 B | 2017 | [#19](../problems/amc10/2017B.md#problem-19) | law-of-cosines |
 | AMC 10 B | 2017 | [#24](../problems/amc10/2017B.md#problem-24) | hyperbola, centroid |
 | AMC 10 A | 2019 | [#16](../problems/amc10/2019A.md#problem-16) | circle-packing |

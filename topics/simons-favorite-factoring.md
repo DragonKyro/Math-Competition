@@ -10,7 +10,9 @@ Problems tagged `simons-favorite-factoring`.
 | AMC 10 A | 2002 | [#4](../problems/amc10/2002A.md#problem-4) | — |
 | AMC 10 B | 2002 | [#16](../problems/amc10/2002B.md#problem-16) | — |
 | AMC 10 B | 2008 | [#23](../problems/amc10/2008B.md#problem-23) | — |
-| AMC 10 A | 2015 | [#23](../problems/amc10/2015A.md#problem-23) | vietas-formulas |
+| AMC 10 A | 2015 | [#15](../problems/amc10/2015A.md#problem-15) | coprime-solutions |
+| AMC 10 A | 2015 | [#20](../problems/amc10/2015A.md#problem-20) | rectangle-area-perimeter |
+| AMC 10 A | 2015 | [#23](../problems/amc10/2015A.md#problem-23) | vietas-formulas, integer-roots |
 | AMC 10 B | 2018 | [#23](../problems/amc10/2018B.md#problem-23) | gcd-lcm |
 | AMC 10 B | 2021 | [#11](../problems/amc10/2021B.md#problem-11) | — |
 | AMC 10 B | 2023 | [#14](../problems/amc10/2023B.md#problem-14) | consecutive-integers-not-square |

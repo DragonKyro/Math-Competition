@@ -30,7 +30,6 @@ Problems tagged `complementary-counting`.
 | AMC 10 B | 2011 | [#13](../problems/amc10/2011B.md#problem-13) | — |
 | AMC 10 A | 2013 | [#7](../problems/amc10/2013A.md#problem-7) | casework |
 | AMC 10 A | 2014 | [#4](../problems/amc10/2014A.md#problem-4) | casework |
-| AMC 10 A | 2015 | [#22](../problems/amc10/2015A.md#problem-22) | casework, recursion, stars-and-bars |
 | AMC 10 B | 2016 | [#12](../problems/amc10/2016B.md#problem-12) | parity |
 | AMC 10 B | 2016 | [#22](../problems/amc10/2016B.md#problem-22) | tournament-counting |
 | AMC 10 A | 2017 | [#23](../problems/amc10/2017A.md#problem-23) | lattice-points |

@@ -12,7 +12,6 @@ Problems tagged `base-representations`.
 | AMC 10 A | 2011 | [#23](../problems/amc10/2011A.md#problem-23) | arithmetic-series, modular-arithmetic |
 | AMC 10 B | 2011 | [#10](../problems/amc10/2011B.md#problem-10) | geometric-series |
 | AMC 10 B | 2013 | [#25](../problems/amc10/2013B.md#problem-25) | casework, chinese-remainder-theorem, modular-arithmetic |
-| AMC 10 A | 2015 | [#18](../problems/amc10/2015A.md#problem-18) | casework |
 | AMC 10 B | 2019 | [#12](../problems/amc10/2019B.md#problem-12) | digit-sum |
 | AMC 10 A | 2021 | [#11](../problems/amc10/2021A.md#problem-11) | modular-arithmetic |
 | AMC 10 A | 2024 | [#18](../problems/amc10/2024A.md#problem-18) | modular-arithmetic, casework |

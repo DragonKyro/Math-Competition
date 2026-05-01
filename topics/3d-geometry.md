@@ -6,6 +6,7 @@ Problems tagged `3d-geometry`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2015 | [#21](../problems/amc10/2015A.md#problem-21) | tetrahedron |
 | AIME I | 2023 | [#13](../problems/aime/2023I.md#problem-13) | pythagorean-theorem, tetrahedron-volume |
 
 <!-- AUTOGEN-END -->

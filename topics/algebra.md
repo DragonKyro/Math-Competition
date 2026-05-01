@@ -588,15 +588,7 @@ Problems tagged `algebra`: equations, inequalities, polynomials, functions, syst
 | AMC 10 B | 2014 | [#11](../problems/amc10/2014B.md#problem-11) | — |
 | AMC 10 B | 2014 | [#18](../problems/amc10/2014B.md#problem-18) | — |
 | AMC 10 B | 2014 | [#25](../problems/amc10/2014B.md#problem-25) | probability |
-| AMC 10 A | 2015 | [#1](../problems/amc10/2015A.md#problem-1) | — |
-| AMC 10 A | 2015 | [#2](../problems/amc10/2015A.md#problem-2) | geometry |
-| AMC 10 A | 2015 | [#3](../problems/amc10/2015A.md#problem-3) | — |
-| AMC 10 A | 2015 | [#4](../problems/amc10/2015A.md#problem-4) | — |
-| AMC 10 A | 2015 | [#5](../problems/amc10/2015A.md#problem-5) | — |
-| AMC 10 A | 2015 | [#6](../problems/amc10/2015A.md#problem-6) | — |
-| AMC 10 A | 2015 | [#8](../problems/amc10/2015A.md#problem-8) | — |
 | AMC 10 A | 2015 | [#11](../problems/amc10/2015A.md#problem-11) | — |
-| AMC 10 A | 2015 | [#12](../problems/amc10/2015A.md#problem-12) | — |
 | AMC 10 A | 2015 | [#13](../problems/amc10/2015A.md#problem-13) | — |
 | AMC 10 A | 2015 | [#24](../problems/amc10/2015A.md#problem-24) | — |
 | AMC 10 A | 2015 | [#25](../problems/amc10/2015A.md#problem-25) | — |

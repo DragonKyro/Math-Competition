@@ -6,6 +6,7 @@ Problems tagged `coordinate-geometry`.
 
 | Competition | Year | Problem | Subtopics |
 |-------------|------|---------|-----------|
+| AMC 10 A | 2015 | [#17](../problems/amc10/2015A.md#problem-17) | equilateral-triangle |
 | AMC 10 A | 2016 | [#11](../problems/amc10/2016A.md#problem-11) | shoelace-theorem |
 | AMC 10 A | 2016 | [#16](../problems/amc10/2016A.md#problem-16) | transformations |
 | AMC 10 A | 2016 | [#21](../problems/amc10/2016A.md#problem-21) | tangent-circles, shoelace-theorem |
